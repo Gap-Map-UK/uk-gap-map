@@ -5,7 +5,6 @@ import AttemptsProvider from "@/components/AttemptsProvider";
 import NavLinks from "@/components/NavLinks";
 import TakeWizard from "@/components/TakeWizard";
 import Toast from "@/components/Toast";
-import { REPO } from "@/lib/attempts";
 import "./globals.css";
 
 const sans = Space_Grotesk({ subsets: ["latin"], weight: ["500", "600", "700"], variable: "--font-sans", display: "swap" });
@@ -49,7 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 · modelled on gap-map.org
               </span>
               <span className="right">
-                <a href={REPO} rel="noopener noreferrer" target="_blank">
+                <a href="https://github.com/Gap-Map-UK" rel="noopener noreferrer" target="_blank">
                   github
                 </a>
                 <a href="/data/gaps.json">gaps.json</a>
