@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import Link from "next/link";
 import { Space_Grotesk, IBM_Plex_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import AttemptsProvider from "@/components/AttemptsProvider";
 import NavLinks from "@/components/NavLinks";
 import TakeWizard from "@/components/TakeWizard";
@@ -65,6 +66,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <TakeWizard />
           <Toast />
         </AttemptsProvider>
+        <Analytics />
       </body>
     </html>
   );
