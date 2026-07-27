@@ -3,7 +3,7 @@ import { gaps } from "@/lib/data";
 
 export const metadata = { title: "Act · UK Gap Map" };
 
-const REPO = "https://github.com/IP3-Studio/uk-gap-map";
+const REPO = "https://github.com/Gap-Map-UK/uk-gap-map";
 // Contact currently routes through the public repository; swap for an email/form when one exists.
 const mail = (_subject: string) => REPO;
 

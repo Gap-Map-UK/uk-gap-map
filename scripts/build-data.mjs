@@ -373,7 +373,7 @@ const graph = {
   meta: {
     title: "UK Gap Map graph export",
     source: SITE,
-    repo: "https://github.com/IP3-Studio/uk-gap-map",
+    repo: "https://github.com/Gap-Map-UK/uk-gap-map",
     generatedAt: now.toISOString().slice(0, 10),
     note: "Gap statuses are frozen at generation time; the live record is data/attempts.json in the repo. Node types: outcome, domain, gap. Edge types: in-domain, also-in, see-also, blocks (gap blocks outcome). Method kin: Discourse Graphs (discoursegraphs.com) and DSV's Outcomes Graph.",
     counts: { nodes: nodes.length, edges: edges.length },

@@ -28,7 +28,7 @@ export default function ThreadPanel({ slug }: { slug: string }) {
       return;
     }
     const author = slugifyTeam(name) === "anon" ? "guest" : slugifyTeam(name);
-    const issueBody = `Reply to ${refOf(gap.number)} ${gap.title} (https://uk-gap-map.vercel.app/gaps/${gap.slug}/)\n\n**${author}:** ${body}\n`;
+    const issueBody = `Reply to ${refOf(gap.number)} ${gap.title} (https://www.gapmap.uk/gaps/${gap.slug}/)\n\n**${author}:** ${body}\n`;
     const url = `${REPO}/issues/new?labels=thread&title=${encodeURIComponent(`thread: ${refOf(gap.number)} · ${author}`)}&body=${encodeURIComponent(issueBody)}`;
     window.open(url, "_blank", "noopener");
     setText("");

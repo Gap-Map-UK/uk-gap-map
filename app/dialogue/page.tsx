@@ -3,7 +3,7 @@ import { COUNTERPARTIES, gaps } from "@/lib/data";
 
 export const metadata = { title: "Dialogue · UK Gap Map" };
 
-const REPO = "https://github.com/IP3-Studio/uk-gap-map";
+const REPO = "https://github.com/Gap-Map-UK/uk-gap-map";
 
 const briefs = gaps.filter((g) => g.permission === "build-together" && g.dialogue);
 const groups = Object.keys(COUNTERPARTIES)
