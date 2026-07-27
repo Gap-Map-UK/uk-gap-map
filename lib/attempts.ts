@@ -5,8 +5,8 @@ import type { Gap } from "@/lib/data";
 // committed, the site builds from it, and the client re-fetches the raw GitHub
 // copy so merged claims appear without waiting for a redeploy.
 export const RAW_ATTEMPTS_URL =
-  "https://raw.githubusercontent.com/IP3-Studio/uk-gap-map/main/data/attempts.json";
-export const REPO = "https://github.com/IP3-Studio/uk-gap-map";
+  "https://raw.githubusercontent.com/Gap-Map-UK/uk-gap-map/main/data/attempts.json";
+export const REPO = "https://github.com/Gap-Map-UK/uk-gap-map";
 
 export type AttemptUpdate = { date: string; kind: "update" | "ship"; body: string };
 
@@ -127,7 +127,7 @@ export const slugifyTeam = (t: string) =>
 export const claimIssueUrl = (gap: Gap, f: { team: string; link: string; plan: string; milestone: string }) => {
   const handle = slugifyTeam(f.team);
   const body = [
-    `**Gap:** ${refOf(gap.number)} ${gap.title} (https://uk-gap-map.vercel.app/gaps/${gap.slug}/)`,
+    `**Gap:** ${refOf(gap.number)} ${gap.title} (https://www.gapmap.uk/gaps/${gap.slug}/)`,
     `**Handle:** ${handle}`,
     f.link.trim() ? `**Link:** ${f.link.trim()}` : null,
     "",
@@ -144,4 +144,4 @@ export const claimIssueUrl = (gap: Gap, f: { team: string; link: string; plan: s
 };
 
 export const replyIssueUrl = (gap: Gap) =>
-  `${REPO}/issues/new?labels=thread&title=${encodeURIComponent(`thread: ${refOf(gap.number)} ${gap.title.slice(0, 60)}`)}&body=${encodeURIComponent(`Replying to ${refOf(gap.number)} (https://uk-gap-map.vercel.app/gaps/${gap.slug}/):\n\n`)}`;
+  `${REPO}/issues/new?labels=thread&title=${encodeURIComponent(`thread: ${refOf(gap.number)} ${gap.title.slice(0, 60)}`)}&body=${encodeURIComponent(`Replying to ${refOf(gap.number)} (https://www.gapmap.uk/gaps/${gap.slug}/):\n\n`)}`;

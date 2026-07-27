@@ -153,7 +153,7 @@ export default function AboutPage() {
           gap-map.org
         </a>
         . Get involved, propose a gap or correct an entry on{" "}
-        <a href="https://github.com/IP3-Studio/uk-gap-map" rel="noopener noreferrer" target="_blank">
+        <a href="https://github.com/Gap-Map-UK/uk-gap-map" rel="noopener noreferrer" target="_blank">
           GitHub
         </a>
         .

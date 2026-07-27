@@ -1,20 +1,27 @@
-# Deploying to Vercel (private)
+# Deploying to Vercel
 
 The site is a **native Next.js app at the repository root** — `package.json`, `next.config.mjs`
 and the `app/` directory are all at the top level, so Vercel auto-detects Next.js with **zero
 configuration**. Every page is static (`generateStaticParams`, no server-side code), so Vercel
 statically optimises the whole site. Deployed via Vercel's GitHub integration off
-`IP3-Studio/uk-gap-map`, kept **private** with Vercel Authentication.
+`Gap-Map-UK/uk-gap-map`, live at https://www.gapmap.uk.
+
+## After the July 2026 org transfer
+
+The repo moved from `IP3-Studio/uk-gap-map` to `Gap-Map-UK/uk-gap-map` (GitHub redirects the old
+URLs). Vercel's Git connection does **not** follow transfers by itself: install the Vercel GitHub
+app on the **Gap-Map-UK** org, then in the Vercel project **Settings → Git** confirm the connected
+repository is `Gap-Map-UK/uk-gap-map` (disconnect and reconnect if it still shows IP3-Studio).
+Domains, DNS and build settings are unaffected.
 
 ## Fresh import (recommended — nothing to configure)
 
 Because the app is at the repo root, a new import needs **no Root Directory, no Framework Preset,
 no Output Directory** — everything auto-detects.
 
-1. Log into Vercel as a member of the **IP3 Studio Vercel team** (create the team first if there
-   isn't one — team membership is what "login-gated private" checks against). If Vercel can't see
-   the repo, install/authorise the Vercel GitHub app on the **IP3-Studio** org.
-2. **Add New → Project → Import** `IP3-Studio/uk-gap-map`.
+1. If Vercel can't see the repo, install/authorise the Vercel GitHub app on the **Gap-Map-UK**
+   org.
+2. **Add New → Project → Import** `Gap-Map-UK/uk-gap-map`.
 3. Leave **everything default** — Root Directory blank (`./`), Framework preset **Next.js** (auto),
    build command `npm run build` (auto). No environment variables. **Deploy.**
 
