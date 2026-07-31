@@ -1384,5 +1384,11 @@
   "permission": "build-now",
   "data_ready": true,
   "note": "Instrument: a public explainer built from ONS and OBR series; no permission was required, and the fill proves it."
+ },
+ {
+  "number": 232,
+  "permission": "build-now",
+  "data_ready": false,
+  "note": "Instrument: an open-source Polis deployment plus published methodology; a pilot needs no permission, and representative waves need funding rather than approval."
  }
 ]

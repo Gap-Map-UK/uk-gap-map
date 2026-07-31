@@ -311,5 +311,19 @@
    "https://obr.uk/",
    "https://commonslibrary.parliament.uk/research-briefings/sn05745/"
   ]
+ },
+ {
+  "domain": "civic-society",
+  "added": "2026-07-31",
+  "gap_type": "institutional",
+  "horizon": "mid (2-7y)",
+  "title": "No national public consensus observatory: where Britain agrees goes unmeasured",
+  "description": "An independent institution and open dataset that continuously measures where the public agrees, disagrees and is uncertain on national and local questions, publishing consensus maps, strength of agreement and movement over time under a transparent methodology. The nearest instruments run on other cadences or stopped: the British Social Attitudes survey has tracked attitudes annually since 1983 on an academic release cycle, and the Polis method that maps consensus at scale was piloted here by Demos and the Open Rights Group in 2020, found supermajority agreement on items national debate treats as contested, and did not continue. Suggested by a public contributor through the map's suggest form.",
+  "why_it_matters": "Between elections, claims about what the public wants go unchecked, and the loudest positions stand in for the quiet middle. Councils and campaigners decide blind: no shared, open picture shows where agreement already exists, so consensus that could anchor local action stays invisible. The 2020 pilot found 90 per cent agreement on verifying facts used in political campaigns, which suggests the missing instrument would change what looks possible.",
+  "what_would_fill_it": "A standing observatory publishing an openly licensed consensus dataset: structured questions on national and local issues, representative sampling where a question warrants it, Polis-class consensus mapping between waves, methodology and raw data in the open, and archives that persist. A credible pilot could run this year on existing open-source tooling; the institutional form matters less than the cadence and the openness.",
+  "sources": [
+   "https://natcen.ac.uk/british-social-attitudes",
+   "https://www.openrightsgroup.org/publications/democratic-innovations-polis-and-the-political-process/"
+  ]
  }
 ]

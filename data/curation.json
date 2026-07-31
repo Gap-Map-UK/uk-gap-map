@@ -2699,6 +2699,17 @@
     "n": 2,
     "w": 2
    }
+  },
+  {
+   "number": 232,
+   "rank": 2,
+   "note": "Real and neglected, and the 2020 pilot proved the method before stopping; tractable with open tooling, but no live date makes this year different from next.",
+   "sub": {
+    "i": 2,
+    "t": 3,
+    "n": 3,
+    "w": 0
+   }
   }
  ],
  "capabilityTime": [

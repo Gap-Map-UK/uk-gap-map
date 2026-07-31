@@ -7201,5 +7201,33 @@
   "summary": "Official debt and interest figures were always published, but scattered across statistical releases written for specialists. An evergreen, plain-English hub on where the UK stands and what servicing the debt costs did not exist until the Logos UK debt campaign built one in June 2026.",
   "rank": 3,
   "rankNote": "Filled in June 2026 by the campaign; what remains ranked is the evergreen obligation, keeping the hub current as every release moves the figures."
+ },
+ {
+  "number": 232,
+  "slug": "no-national-public-consensus-observatory-where-britain-agrees-goes-unm",
+  "title": "No national public consensus observatory: where Britain agrees goes unmeasured",
+  "domain": "civic-society",
+  "type": "institutional",
+  "horizon": "mid",
+  "description": "An independent institution and open dataset that continuously measures where the public agrees, disagrees and is uncertain on national and local questions, publishing consensus maps, strength of agreement and movement over time under a transparent methodology. The nearest instruments run on other cadences or stopped: the British Social Attitudes survey has tracked attitudes annually since 1983 on an academic release cycle, and the Polis method that maps consensus at scale was piloted here by Demos and the Open Rights Group in 2020, found supermajority agreement on items national debate treats as contested, and did not continue. Suggested by a public contributor through the map's suggest form.",
+  "why": "Between elections, claims about what the public wants go unchecked, and the loudest positions stand in for the quiet middle. Councils and campaigners decide blind: no shared, open picture shows where agreement already exists, so consensus that could anchor local action stays invisible. The 2020 pilot found 90 per cent agreement on verifying facts used in political campaigns, which suggests the missing instrument would change what looks possible.",
+  "fill": "A standing observatory publishing an openly licensed consensus dataset: structured questions on national and local issues, representative sampling where a question warrants it, Polis-class consensus mapping between waves, methodology and raw data in the open, and archives that persist. A credible pilot could run this year on existing open-source tooling; the institutional form matters less than the cadence and the openness.",
+  "sources": [
+   "https://natcen.ac.uk/british-social-attitudes",
+   "https://www.openrightsgroup.org/publications/democratic-innovations-polis-and-the-political-process/"
+  ],
+  "status": "candidate",
+  "provenance": {
+   "added": "2026-07-31",
+   "lastVerified": "2026-07-31",
+   "reviewBy": "2027-01-07"
+  },
+  "permission": "build-now",
+  "dataReady": false,
+  "permissionNote": "Instrument: an open-source Polis deployment plus published methodology; a pilot needs no permission, and representative waves need funding rather than approval.",
+  "tagline": "Nobody measures where Britain already agrees.",
+  "summary": "Annual attitude surveys and one-off pilots have shown the method works, and then stopped. A continuous, openly licensed picture of public agreement and disagreement, at national and local level, does not exist.",
+  "rank": 2,
+  "rankNote": "Real and neglected, and the 2020 pilot proved the method before stopping; tractable with open tooling, but no live date makes this year different from next."
  }
 ]

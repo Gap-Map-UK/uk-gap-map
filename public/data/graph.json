@@ -3,11 +3,11 @@
   "title": "UK Gap Map graph export",
   "source": "https://www.gapmap.uk",
   "repo": "https://github.com/Gap-Map-UK/uk-gap-map",
-  "generatedAt": "2026-07-27",
+  "generatedAt": "2026-07-31",
   "note": "Gap statuses are frozen at generation time; the live record is data/attempts.json in the repo. Node types: outcome, domain, gap. Edge types: in-domain, also-in, see-also, blocks (gap blocks outcome). Method kin: Discourse Graphs (discoursegraphs.com) and DSV's Outcomes Graph.",
   "counts": {
-   "nodes": 233,
-   "edges": 490
+   "nodes": 234,
+   "edges": 492
   }
  },
  "nodes": [
@@ -103,7 +103,7 @@
    "id": "domain:civic-society",
    "type": "domain",
    "label": "Civic action and revitalisation of civil society",
-   "gapCount": 20,
+   "gapCount": 21,
    "url": "https://www.gapmap.uk/domains/civic-society/"
   },
   {
@@ -2691,6 +2691,18 @@
    "gapType": "knowledge",
    "status": "shipped",
    "url": "https://www.gapmap.uk/gaps/no-accessible-knowledge-hub-on-uk-government-debt-and-the-cost-of-serv/"
+  },
+  {
+   "id": "gap:232",
+   "type": "gap",
+   "label": "No national public consensus observatory: where Britain agrees goes unmeasured",
+   "number": 232,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-national-public-consensus-observatory-where-britain-agrees-goes-unm/"
   }
  ],
  "edges": [
@@ -4115,6 +4127,11 @@
    "type": "in-domain"
   },
   {
+   "source": "gap:232",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
    "source": "gap:1",
    "target": "outcome:own-your-town",
    "type": "blocks"
@@ -4276,6 +4293,11 @@
   },
   {
    "source": "gap:229",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:232",
    "target": "outcome:own-your-town",
    "type": "blocks"
   },
