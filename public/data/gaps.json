@@ -6,9 +6,9 @@
   "domain": "civic-society",
   "type": "funding",
   "horizon": "short",
-  "description": "The English Devolution and Community Empowerment Act 2026 gives communities first refusal on assets of community value, but the Community Ownership Fund closed in December 2024 (£135m to 409 projects; £15m unspent) and government explicitly declined to replace it. Partial coverage: the Community Wealth Fund (£175m, but restricted to ~doubly-disadvantaged neighbourhoods and not asset-purchase-focused), community shares (typical raises too small for market-value purchases), Architectural Heritage Fund loans, and Plunkett/Locality advice. None provides ready capital within the statutory moratorium window, so the new right risks being unusable precisely where assets matter most.",
-  "why": "A statutory right without purchase capital is dead letter: communities must raise market value within a fixed moratorium. Plunkett reports the funding vacuum is already stopping groups saving local businesses, and deprived areas, least able to crowdfund, lose assets first, deepening the social-infrastructure divide the Act was meant to close.",
-  "fill": "A permanent Community Asset Acquisition Fund (grants + patient loans + community-shares match, able to underwrite bids within the moratorium period), capitalised at £50–100m/year from dormant assets, Pride in Place capital allocations or a National Lottery partnership; delivered through community foundations with Plunkett/Locality wraparound support.",
+  "description": "The English Devolution and Community Empowerment Act 2026 gives communities first refusal on registered assets of community value. The fund that used to pay for such purchases, the Community Ownership Fund, closed in December 2024 after granting £135m to 409 projects with £15m unspent, and the government declined to replace it. Some partial cover exists. The £175m Community Wealth Fund reaches only the most disadvantaged neighbourhoods and does not focus on asset purchase. Community share raises rarely get near market value for a building. The Architectural Heritage Fund lends, but against heritage properties only, and Plunkett and Locality offer advice rather than capital. None of it provides ready money inside the statutory moratorium window.",
+  "why": "The moratorium clock is fixed in the Act, and a group has to raise full market value before it runs out. Plunkett reports that the funding vacuum is already stopping groups from saving local businesses. Deprived areas raise money slowest, so they lose their assets first.",
+  "fill": "A permanent Community Asset Acquisition Fund. It would make grants and patient loans, and it would match community share raises. Underwriting would let a group commit within the moratorium period and settle once the raise completes. Capital of £50–100m a year could come from dormant assets, with Pride in Place allocations or a National Lottery partnership as alternatives. Community foundations could deliver it, with Plunkett and Locality supporting each purchase.",
   "sources": [
    "https://www.legislation.gov.uk/ukpga/2026/23/contents/enacted",
    "https://www.theyworkforyou.com/wms/?id=2025-01-06.hcws353.h",
@@ -26,8 +26,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: National Lottery Community Fund or dormant-assets distributor; Power to Change-style endowment needs no legislation, community foundations deliver.",
-  "tagline": "Communities won first refusal on local assets. The fund to buy them closed in 2024.",
-  "summary": "A new law gives communities first refusal when a local pub, shop or hall comes up for sale, but the government shut its only asset-purchase fund and declined to replace it. Groups must now raise market value against a ticking clock. A permanent acquisition fund, built from dormant assets, would make the right real.",
+  "tagline": "Communities' first refusal on local assets; fund closed in 2024",
+  "summary": "The English Devolution and Community Empowerment Act 2026 gives communities first refusal when a pub, shop or hall comes up for sale. The Community Ownership Fund closed in December 2024 and the government has said it will not be replaced, so a group that wants to buy must raise market value within the statutory moratorium. A permanent acquisition fund would let any community use the right it already has.",
   "dialogue": {
    "counterparty": "funders-and-foundations",
    "ask": "Build with us a permanent acquisition fund (grants, long-term loans and match funding for community shares) that can back a bid within the statutory moratorium window.",
