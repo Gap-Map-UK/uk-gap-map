@@ -3,7 +3,7 @@
   "title": "UK Gap Map graph export",
   "source": "https://www.gapmap.uk",
   "repo": "https://github.com/Gap-Map-UK/uk-gap-map",
-  "generatedAt": "2026-08-03",
+  "generatedAt": "2026-08-04",
   "note": "Gap statuses are frozen at generation time; the live record is data/attempts.json in the repo. Node types: outcome, domain, gap. Edge types: in-domain, also-in, see-also, blocks (gap blocks outcome). Method kin: Discourse Graphs (discoursegraphs.com) and DSV's Outcomes Graph.",
   "counts": {
    "nodes": 234,
