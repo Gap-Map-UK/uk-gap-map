@@ -62,8 +62,8 @@
   },
   {
    "number": 215,
-   "tagline": "When a broke council drops the library, the community improvises, or watches it die.",
-   "summary": "Councils in financial distress are cutting libraries, parks and youth services to the legal minimum, and there is no prepared route for communities to take a service on. Every handover reinvents the same legal, insurance and staffing tangle. A tested playbook and a rapid advice service could turn austerity's vacuums into accountable local institutions."
+   "tagline": "Councils dropping services; no prepared community handover",
+   "summary": "Councils in financial distress are cutting libraries, parks and youth services to the legal minimum, and no prepared route exists for communities to take a service on. Every handover reinvents the same legal, insurance and staffing tangle. A tested playbook and a rapid advice service would let communities take services on with those pieces already solved."
   },
   {
    "number": 221,
@@ -537,8 +537,8 @@
   },
   {
    "number": 104,
-   "tagline": "Home-educated teens can sit GCSEs only if an exam centre does them a favour.",
-   "summary": "The state is registering home-educated children without guaranteeing anything back: even exam access depends on goodwill places at approved centres, at up to £250 per subject. Poorer families are hit hardest. A duty on councils to secure exam places at cost would be the service half of the new settlement."
+   "tagline": "Home-educated teens registered by the state; exam access on goodwill",
+   "summary": "The state is registering home-educated children without guaranteeing anything back. Even exam access depends on goodwill places at approved centres, at up to £250 per subject, and poorer families are hit hardest. A duty on councils to secure exam places at cost would be the service half of the new settlement."
   },
   {
    "number": 105,
@@ -612,8 +612,8 @@
   },
   {
    "number": 117,
-   "tagline": "Proving you're over 18 shouldn't mean handing over your passport.",
-   "summary": "Identity checks are spreading across British life (age, work, services), and each one currently means uploading real documents to a private company. The cryptography to prove a single fact without revealing anything else already exists. Nobody has built the open, certified standard that would let every UK service use it."
+   "tagline": "Identity checks spreading; no open way to prove one fact",
+   "summary": "Identity checks are spreading across British life, covering age, work and services, and each one currently means uploading real documents to a private company. The cryptography for proving a single fact without revealing anything else already exists. Nobody has built the open, certified standard that would let every UK service use it."
   },
   {
    "number": 118,
@@ -637,8 +637,8 @@
   },
   {
    "number": 120,
-   "tagline": "Europe has an organisation that sues over data rights for a living. Britain doesn't.",
-   "summary": "Data rights only bite when someone files the complaints, chases the tribunal and appeals the brush-offs: the machine the Austrian group noyb runs across Europe. No British organisation is staffed to do it. Lawyers plus technologists at £1–2m a year would close the gap."
+   "tagline": "Data rights on paper; nobody staffed to litigate them",
+   "summary": "Data rights bite when someone files the complaints, chases the tribunal and appeals the brush-offs, which is the machine the Austrian group noyb runs across Europe. No British organisation is staffed to do the same. Lawyers and technologists at £1–2m a year would close the gap."
   },
   {
    "number": 121,
@@ -647,8 +647,8 @@
   },
   {
    "number": 122,
-   "tagline": "Age checks turned ID uploads into honeypots. One breach spilled 70,000 of them.",
-   "summary": "The rules for online age checks measure whether they work, not whether they protect you, so millions of people now upload passports and selfies to third parties. Europe has published a blueprint for proving your age without handing over your identity. Britain could mandate the same and fund an open version anyone can use."
+   "tagline": "ID uploads as age checks; one breach spilled 70,000",
+   "summary": "The rules for online age checks measure whether they work rather than whether they protect you, so millions of people now upload passports and selfies to third parties. Europe has published a blueprint for proving age without revealing identity. Britain could mandate the same and fund an open version anyone can use."
   },
   {
    "number": 123,
@@ -662,8 +662,8 @@
   },
   {
    "number": 125,
-   "tagline": "The NHS data opt-out doesn't cover the biggest NHS data platform.",
-   "summary": "Patients who opted out of NHS data sharing are still in the Palantir-built platform now covering most hospital trusts, and none of them can see who has accessed their record. Britain has collapsed two national health-data schemes this way already. A real opt-out plus a usage report in the NHS App would break the cycle."
+   "tagline": "The NHS opt-out skips the biggest NHS data platform",
+   "summary": "Patients who opted out of NHS data sharing are still in the Palantir-built platform now covering most hospital trusts, and none of them can see who has accessed their record. Britain has collapsed two national health-data schemes this way already. A real opt-out and a usage report in the NHS App would break the pattern."
   },
   {
    "number": 126,
@@ -717,8 +717,8 @@
   },
   {
    "number": 135,
-   "tagline": "The data centres are in Britain. The off switch is in Washington.",
-   "summary": "Britain's AI build-out runs on roughly £31bn of American capital, and the computers stay under US corporate and export-control jurisdiction wherever they physically sit. No contract or statute guarantees UK access if Washington ever rations it. Step-in rights and a public compute reserve would anchor the strategy in law rather than goodwill."
+   "tagline": "£31bn of US-controlled compute; access rests on goodwill",
+   "summary": "Britain's AI build-out runs on roughly £31bn of American capital, and the computers stay under US corporate and export-control jurisdiction wherever they sit. No contract or statute guarantees UK access if Washington rations it. Step-in rights and a public compute reserve would anchor the strategy in law."
   },
   {
    "number": 136,
@@ -767,8 +767,8 @@
   },
   {
    "number": 144,
-   "tagline": "One small pooled fund signed up 746,000 voters. Imagine it at ten times the size.",
-   "summary": "Britain's democracy work (voter registration, election integrity, civic information) leans on a handful of family trusts, and one funder's retreat can collapse a whole field. The UK's pooled democracy fund proved the model, credited with helping register some 746,000 voters. The same fund at £20m a year, locked in for the long term, is the obvious build."
+   "tagline": "One pooled fund registered 746,000 voters; it disburses single-digit millions",
+   "summary": "Britain's democracy work runs on a handful of family trusts, and one funder's retreat can collapse a whole field. The UK's pooled democracy fund proved the model and is credited with helping register some 746,000 voters. The same fund at £20m a year, committed for the long term, is the obvious build."
   },
   {
    "number": 145,
@@ -832,8 +832,8 @@
   },
   {
    "number": 157,
-   "tagline": "Ministers want to double the co-op economy. The law behind it is a century old.",
-   "summary": "Parts of the law governing co-operatives have gone unreviewed for over a century, making community ownership of housing, energy and platforms needlessly hard. The Law Commission has modernisation ready in 2026, but its reports routinely die awaiting a parliamentary slot. A fast-track commitment to legislate, plus a proper mutuals registrar, would finish the job."
+   "tagline": "Doubling the co-op economy; on century-old law",
+   "summary": "Parts of the law governing co-operatives have gone unreviewed for over a century, which makes community ownership of housing, energy and platforms needlessly hard. The Law Commission has modernisation ready in 2026, and its reports routinely die awaiting a parliamentary slot. A fast-track commitment to legislate, with a proper mutuals registrar, would finish the job."
   },
   {
    "number": 158,
@@ -902,8 +902,8 @@
   },
   {
    "number": 171,
-   "tagline": "Britain keeps building health-data infrastructure, then letting the funding lapse.",
-   "summary": "Researchers analyse NHS data inside secure environments built by a £175m programme whose funding has run out, and the new national data service has no statutory footing. The body that legally owns the collections is being dissolved. Without a long-term settlement, Britain repeats its pattern: build health-data infrastructure, then abandon it."
+   "tagline": "Secure data environments built; funding already lapsed",
+   "summary": "Researchers analyse NHS data inside secure environments built by a £175m programme whose funding has run out, and the new national data service has no statutory footing. The body that legally owns the collections is being dissolved. A long-term settlement would stop the build-then-abandon pattern repeating."
   },
   {
    "number": 172,
@@ -917,8 +917,8 @@
   },
   {
    "number": 174,
-   "tagline": "A million children a year get referred for mental health care. No maximum wait exists.",
-   "summary": "Children's mental health services handle over a million referrals a year with no enforceable waiting-time standard. Waits vary up to seventeen-fold from place to place, and deterioration during the queue shunts children into crisis care. NHS clinicians drew up a four-week standard years ago; mandating it and publishing the data needs no new law."
+   "tagline": "A million CAMHS referrals a year; no maximum wait",
+   "summary": "Children's mental health services handle over a million referrals a year with no enforceable waiting-time standard, and waits vary up to seventeen-fold between places. Deterioration in the queue shunts children into crisis care. NHS clinicians drew up a four-week standard years ago; mandating it and publishing the data needs no new law."
   },
   {
    "number": 175,
@@ -927,8 +927,8 @@
   },
   {
    "number": 176,
-   "tagline": "New liberty safeguards became law in 2019. Nobody ever switched them on.",
-   "summary": "Around 124,000 people wait in a backlog for legal authorisation of their confinement. The replacement system Parliament approved in 2019 has never been switched on, and a Supreme Court ruling has just redefined the underlying legal test. That opens a rare window to redesign the framework properly, and to fund clearing the queue."
+   "tagline": "Liberty safeguards legislated 2019; never commenced",
+   "summary": "Around 124,000 people wait in a backlog for legal authorisation of their confinement. The replacement system Parliament approved in 2019 has never been switched on, and a Supreme Court ruling has just redefined the underlying legal test. That opens a rare window to redesign the framework and fund clearing the queue."
   },
   {
    "number": 177,
@@ -1002,8 +1002,8 @@
   },
   {
    "number": 190,
-   "tagline": "Years of council accounts will simply never be audited. Nobody plans to go back.",
-   "summary": "To clear the audit backlog, England let auditors give up: nearly half of local bodies had their accounts disclaimed at the latest deadline, and no one plans to re-audit those years. Fraud or misstatement from that period may simply never surface. A funded recovery programme would re-verify the riskiest balance sheets."
+   "tagline": "Council accounts mass-disclaimed; no plan to re-audit",
+   "summary": "To clear the audit backlog, England let auditors give up. Nearly half of local bodies had their accounts disclaimed at the latest deadline, no one plans to re-audit those years, and fraud or misstatement from that period may never surface. A funded recovery programme would re-verify the riskiest balance sheets."
   },
   {
    "number": 191,
@@ -1027,8 +1027,8 @@
   },
   {
    "number": 195,
-   "tagline": "One in six council finance jobs is vacant, just as the accounts crisis needs them most.",
-   "summary": "Councils cannot produce trustworthy accounts without accountants, yet 16% of finance posts stand vacant and apprenticeship rules have choked the main qualification route. The sector's workforce plan is voluntary and unfunded. A national programme (bursaries, fast-tracks, shared specialists for small councils) would rebuild the pipeline."
+   "tagline": "One in six council finance posts vacant; the pipeline unfunded",
+   "summary": "Councils cannot produce trustworthy accounts without accountants, and 16 per cent of finance posts stand vacant while apprenticeship rules choke the main qualification route. The sector's workforce plan is voluntary and unfunded. A national programme of bursaries, fast-tracks and shared specialists would rebuild the pipeline."
   },
   {
    "number": 196,
@@ -1037,8 +1037,8 @@
   },
   {
    "number": 197,
-   "tagline": "Dozens of councils must merge their IT at once. No fund, no platform, no standards body.",
-   "summary": "Reorganisation forces dozens of abolished districts to merge finance systems and data into new unitary councils, among the largest forced IT consolidations ever attempted in the UK public sector, with no dedicated fund and no shared standards. Birmingham's Oracle failure shows how badly one such project can go. Shared open-source components would stop every council solving it alone."
+   "tagline": "Dozens of council IT mergers at once; the digital fund is closed",
+   "summary": "Reorganisation forces dozens of abolished districts to merge finance systems and data into new unitary councils, one of the largest forced IT consolidations attempted in the UK public sector, with no dedicated fund and no shared standards. Birmingham's Oracle failure shows how badly one such project can go. Shared open-source components would stop every council solving it alone."
   },
   {
    "number": 198,
