@@ -307,9 +307,9 @@
   "domain": "civic-society",
   "type": "tooling",
   "horizon": "short",
-  "description": "Monthly formal volunteering has fallen from 27% (2013/14) to 17% (2024/25); youth movements ration participation for lack of adults (Scouts received 5,000+ unanswered joining enquiries in 2024; waiting lists persist). The National Citizen Service closed in March 2025 (ending the only national civic service programme and unrenewed funding for ~250 youth organisations), and the National Youth Strategy (late 2025) funds facilities (£85m+, Better Youth Spaces) but offers no universal service/volunteering pathway. The sector-led Vision for Volunteering has no delivery funding. Practical friction persists: no portable vetting/DBS passport, no recognised volunteering credential, weak employer-supported volunteering incentives. Royal Voluntary Service, NCVO and volunteer centres cover fragments only.",
-  "why": "Volunteering is the entry drug of civic life; its decade-long decline among working-age adults feeds every other gap in this map. The state just dismantled its only youth civic-service institution without replacement, while demand (waiting lists, first-time volunteers in KYN areas) shows supply, not appetite, is the binding constraint.",
-  "fill": "A national volunteering passport: shared vetting and digital credential standard letting volunteers move between organisations without repeat checks; funded employer-supported volunteering incentives; and a voluntary civic service year for 16–24s with accreditation and bursaries, delivered through existing youth organisations rather than a new quango.",
+  "description": "Monthly formal volunteering has fallen from 27 per cent in 2013-14 to 17 per cent in 2024-25, and youth movements ration participation for lack of adults; the Scouts logged more than 5,000 unanswered joining enquiries in 2024 and waiting lists persist. The National Citizen Service closed in March 2025, ending the only national civic service programme and unrenewing funding for around 250 youth organisations. The National Youth Strategy of late 2025 funds facilities through the £85m-plus Better Youth Spaces programme and offers no universal service or volunteering pathway. The sector-led Vision for Volunteering has no delivery funding. Practical friction persists too: vetting checks repeat with every organisation, no recognised volunteering credential exists, and employer-supported volunteering has weak incentives. Royal Voluntary Service, NCVO and volunteer centres cover fragments.",
+  "why": "Volunteering is the entry point to civic life, and its decade-long decline among working-age adults feeds every other gap on this map. The state dismantled its only youth civic-service institution without replacement. The waiting lists show that supply, and the friction around it, is the binding constraint rather than appetite.",
+  "fill": "A national volunteering passport: a shared vetting and digital credential standard that lets volunteers move between organisations without repeat checks. Funded incentives for employer-supported volunteering sit alongside it, and a voluntary civic service year for 16 to 24-year-olds with accreditation and bursaries, delivered through existing youth organisations rather than a new quango.",
   "sources": [
    "https://www.gov.uk/government/statistics/community-life-survey-202425-annual-publication/community-life-survey-202425-volunteering-and-charitable-giving",
    "https://www.scouts.org.uk/volunteers/growing-scouts/get-more-young-people-involved/waiting-lists/",
@@ -325,8 +325,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: DBS/Home Office for vetting portability plus a DCMS-class funder for service-year bursaries.",
-  "tagline": "Volunteering has fallen by a third. Demand isn't the problem; the pipeline is.",
-  "summary": "Volunteering is the entry point to civic life and it has declined for a decade, while the National Citizen Service closed without a successor and youth movements ration places for lack of adults. A volunteering passport (one vetting check, valid everywhere) plus a voluntary civic year for young people could rebuild the pipeline.",
+  "tagline": "Volunteering down a third in a decade; the national service closed",
+  "summary": "Volunteering is the entry point to civic life and it has declined for a decade. The National Citizen Service closed without a successor, and youth movements ration places for lack of adults. A volunteering passport, one vetting check valid everywhere, and a voluntary civic year for young people would rebuild the pipeline.",
   "dialogue": {
    "counterparty": "government-bodies",
    "ask": "Pilot a volunteering passport with us (one enhanced check, portable between organisations) and co-design a voluntary civic year delivered through existing youth organisations.",
@@ -343,7 +343,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "A decade-long volunteering decline underpins every other civic gap, and the state closed its only youth civic-service programme without replacement; the fix is achievable but faces no single closing deadline."
+  "rankNote": "A decade-long volunteering decline underpins the other civic gaps and the state closed its only youth civic-service programme without replacement; the fix is achievable and faces no single closing deadline."
  },
  {
   "number": 10,
@@ -621,9 +621,9 @@
   "domain": "open-source-public-goods",
   "type": "policy",
   "horizon": "mid",
-  "description": "The Postcode Address File (32.1m delivery addresses) went private with Royal Mail in 2013; in 2025 Royal Mail successfully defended its database rights in court, and anyone needing address data pays layered licence fees under complex IP restrictions. Partial substitutes are inadequate: ONS Postcode Directory gives postcode centroids not addresses; Ordnance Survey opened UPRNs (identifiers) in 2020 but not the addresses themselves; OpenStreetMap coverage is incomplete. The ODI-incubated Open Addresses project died in 2015 for lack of legal access. The Centre for Public Data's Open Address File UK campaign and a House of Lords proposal have put the issue back on the agenda, including a request that Ofcom review PAF licensing.",
-  "why": "Address lookup is a tax on every delivery firm, emergency service, council and startup in the country. Nations with open address files (Denmark, France, Netherlands) documented net economic gains; the UK re-buys its own geography millions of times over.",
-  "fill": "Government acquisition or mandated open licensing of PAF (Ofcom review of PAF terms as the first step), or an openly licensed national address register built from councils' AddressBase source data and published through the National Data Library.",
+  "description": "The Postcode Address File and its 32.1 million delivery addresses went private with Royal Mail in 2013, and in 2025 Royal Mail successfully defended its database rights in court. Anyone needing address data pays layered licence fees under complex IP restrictions. The partial substitutes fall short. The ONS Postcode Directory gives postcode centroids rather than addresses, Ordnance Survey opened UPRN identifiers in 2020 without the addresses themselves, and OpenStreetMap coverage is incomplete. The ODI-incubated Open Addresses project died in 2015 for lack of legal access. The Centre for Public Data's Open Address File UK campaign and a House of Lords proposal have put the issue back on the agenda, including a request that Ofcom review PAF licensing.",
+  "why": "Address lookup works as a tax on every delivery firm, emergency service, council and startup in the country. Denmark, France and the Netherlands opened their address files and documented net economic gains. The UK re-buys its own geography millions of times over.",
+  "fill": "Government acquisition or mandated open licensing of the PAF, with an Ofcom review of its terms as the first step. The alternative is an openly licensed national address register built from councils' AddressBase source data and published through the National Data Library.",
   "sources": [
    "https://www.centreforpublicdata.org/postal-address-data",
    "https://www.twobirds.com/en/insights/2025/uk/addressing-database-rights-royal-mail-successfully-protects-rights-in-its-postcode-address-file",
@@ -638,10 +638,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Ofcom PAF review, government acquisition, or National Data Library register; AddressBase licensing blocks outside builds.",
-  "tagline": "Royal Mail owns the country's address list. Everyone else rents their own geography back.",
+  "tagline": "The national address list is private; everyone rents it back",
   "summary": "The national address file went private with Royal Mail, so every delivery firm, emergency service and council pays layered licence fees to look up the country's own geography. Denmark, France and the Netherlands opened theirs and counted the economic gains. Britain could buy the file back or build an open register from councils' source data.",
   "rank": 3,
-  "rankNote": "National drag on every delivery firm and emergency service is high, but Royal Mail's 2025 court win and licensing lock make acquisition or mandated opening a slow, contested lift."
+  "rankNote": "The drag on every delivery firm and emergency service is large, and Royal Mail's 2025 court win makes acquisition or mandated opening a slow, contested lift."
  },
  {
   "number": 17,
@@ -889,9 +889,9 @@
   "domain": "open-source-public-goods",
   "type": "coordination",
   "horizon": "mid",
-  "description": "The EU Cyber Resilience Act creates obligations for manufacturers and a novel 'open-source software steward' category, phasing in through 2026-27; UK-based foundations, SMEs and maintainers whose software reaches the EU market must comply regardless of Brexit. The UK's own Cyber Security and Resilience Bill (report stage June 2026) focuses on NIS-regulated sectors and makes no equivalent provision for open source stewardship, and DSIT's Software Security Code of Practice (2025) is voluntary and generic. EU communities get guidance through OSS foundations' CRA workstreams (Linux Foundation Europe, Eclipse), but there is no UK-facing help, and small UK maintainers are least equipped to interpret extraterritorial product law.",
-  "why": "The UK hosts Europe's largest open source contributor base; if CRA compliance is left to individuals, projects will geofence the EU, relocate governance, or abandon maintenance, eroding exactly the sovereign capability other gaps aim to build.",
-  "fill": "A DSIT/NCSC CRA-readiness programme: plain-English guidance for UK maintainers and stewards, small tooling grants for compliance artefacts (SBOMs, security attestations), and a UK 'steward' concept in future secondary legislation to keep UK-EU interoperability.",
+  "description": "The EU Cyber Resilience Act creates obligations for manufacturers and a novel open-source-software-steward category, phasing in through 2026-27. UK-based foundations, SMEs and maintainers whose software reaches the EU market must comply regardless of Brexit. The UK's own Cyber Security and Resilience Bill, at report stage in June 2026, focuses on NIS-regulated sectors and makes no equivalent provision for open source stewardship, and DSIT's Software Security Code of Practice from 2025 is voluntary and generic. EU communities get guidance through the Linux Foundation Europe and Eclipse CRA workstreams. No UK-facing help exists, and small UK maintainers are the people least equipped to interpret extraterritorial product law.",
+  "why": "The UK hosts Europe's largest open source contributor base. If CRA compliance is left to individuals, projects will geofence the EU, relocate governance, or abandon maintenance, and each of those erodes the sovereign capability other gaps on this map aim to build.",
+  "fill": "A DSIT and NCSC CRA-readiness programme: plain-English guidance for UK maintainers and stewards, small tooling grants for compliance artefacts like SBOMs and security attestations, and a UK steward concept in future secondary legislation to keep UK-EU interoperability.",
   "sources": [
    "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act",
    "https://bills.parliament.uk/bills/4035",
@@ -906,10 +906,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: plain-English CRA guidance plus philanthropic tooling grants; statutory UK steward concept is the later end-state.",
-  "tagline": "New EU cyber rules bind UK open source maintainers. Nobody here helps them comply.",
-  "summary": "Europe's Cyber Resilience Act imposes security obligations on anyone whose software reaches the EU market; Brexit does not exempt British maintainers, and the UK hosts Europe's largest contributor base. Left alone, projects may wall off Europe or quit maintaining altogether. Plain-English guidance and small compliance grants would keep British code on the continent.",
+  "tagline": "EU cyber rules reach UK maintainers; no UK help exists",
+  "summary": "Europe's Cyber Resilience Act imposes security obligations on anyone whose software reaches the EU market, and Brexit does not exempt British maintainers. The UK hosts Europe's largest contributor base. Left alone, projects may wall off Europe or stop maintaining, and plain-English guidance with small compliance grants would keep British code on the continent.",
   "rank": 3,
-  "rankNote": "CRA obligations phase in through 2026-27 with no UK-facing help, so leaving compliance to individual maintainers risks EU geofencing or relocation during a live legislative window."
+  "rankNote": "CRA obligations phase in through 2026-27 with no UK-facing help, so compliance left to individual maintainers risks geofencing or relocation during a live legislative window."
  },
  {
   "number": 25,
@@ -1029,9 +1029,9 @@
   "domain": "youth-mobilisation",
   "type": "policy",
   "horizon": "short",
-  "description": "Youth services rest on the weak s.507B Education Act 1996 duty ('so far as reasonably practicable'), making them discretionary in practice: spending fell ~73-76% in real terms since 2010-11, councils spent just £419m in 2024-25 (the biggest annual cut in almost a decade, per YMCA), and one in seven areas has no youth service. The National Youth Strategy commits ~£500m but only promises to *review* the statutory duty, and its headline funds (£350m Better Youth Spaces) are capital-heavy: buildings without a guaranteed revenue stream for the workers inside them.",
-  "why": "As long as youth services remain legally optional, they will be first cut whenever SEND, social care and homelessness pressures bite, the exact dynamic that destroyed £1.3bn of provision. Capital investment without statutory revenue protection risks a repeat: refurbished centres that councils cannot afford to staff.",
-  "fill": "A strengthened statutory duty with published sufficiency standards (as urged by NYA and UK Youth in strategy responses), plus a multi-year ring-fenced revenue grant to councils, the concrete legislative output the strategy's 'review' should be held to.",
+  "description": "Youth services rest on the weak section 507B duty in the Education Act 1996, which asks councils to act so far as reasonably practicable and makes provision discretionary in practice. Spending fell roughly 73 to 76 per cent in real terms since 2010-11, councils spent £419m in 2024-25, the biggest annual cut in almost a decade according to YMCA, and one area in seven has no youth service at all. The National Youth Strategy commits around £500m and only promises to review the statutory duty. Its headline funds, £350m for Better Youth Spaces, are capital-heavy: buildings without a guaranteed revenue stream for the workers inside them.",
+  "why": "Legally optional services are cut first whenever SEND, social care and homelessness pressures bite, and that dynamic destroyed £1.3bn of provision. Capital investment without statutory revenue protection points to a repeat: refurbished centres that councils cannot afford to staff.",
+  "fill": "A strengthened statutory duty with published sufficiency standards, as NYA and UK Youth urged in their strategy responses, and a multi-year ring-fenced revenue grant to councils. The strategy's review of the duty should be held to that concrete output.",
   "sources": [
    "https://www.cypnow.co.uk/content/news/government-commits-to-review-council-youth-work-duty-in-500mn-national-strategy",
    "https://ymca.org.uk/local-authority-funding-for-youth-services-sees-biggest-annual-cut-in-almost-a-decade-new-ymca-analysis-reveals/",
@@ -1049,8 +1049,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: strengthened statutory duty with sufficiency standards plus ring-fenced multi-year revenue grant.",
-  "tagline": "Youth services are legally optional. Spending fell by three-quarters; the law let it.",
-  "summary": "The law behind youth services asks councils to act only 'so far as reasonably practicable', which in practice means optional. Spending has fallen by roughly three-quarters in real terms, and new capital money will refurbish centres councils cannot afford to staff. A strengthened duty and ring-fenced revenue funding would put workers back inside the buildings.",
+  "tagline": "Youth services legally optional; spending down three-quarters",
+  "summary": "The law behind youth services asks councils to act only so far as reasonably practicable, which in practice means optional. Spending has fallen by roughly three-quarters in real terms, and the new capital money will refurbish centres councils cannot afford to staff. A strengthened duty and ring-fenced revenue funding would put workers back inside the buildings.",
   "facets": [
    "policy-gaps"
   ],
@@ -1065,7 +1065,7 @@
   ],
   "curationNote": "the same amended s.507B duty with sufficiency standards and ring-fenced revenue funding; the folded entry carries the Wales comparison and bill vehicle.",
   "rank": 3,
-  "rankNote": "Spending fell three-quarters since 2010 because the duty is discretionary, and the strategy's capital-heavy funds only 'review' the statutory floor, risking refurbished centres councils cannot staff."
+  "rankNote": "Spending fell three-quarters because the duty is discretionary, and the strategy's capital-heavy funds only promise to review the statutory floor."
  },
  {
   "number": 29,
@@ -1146,9 +1146,9 @@
   "domain": "youth-mobilisation",
   "type": "funding",
   "horizon": "mid",
-  "description": "The Centre for Social Justice's Lost Boys work documents male NEET numbers up 40% since the pandemic (vs 7% for women), suicide as the leading cause of death for young men 15-19, and a drift towards online influencers and right-populist politics; John Smith Centre polling confirms young men are markedly more right-leaning and distrustful than young women. Yet no UK funder runs a dedicated programme for young men's civic participation (contrast Rosa and the Tampon Tax legacy funds for women and girls), youth engagement programming demonstrably under-recruits young men, and government activity is limited to school-level role-model initiatives.",
-  "why": "Young men are the fastest-growing disengagement cohort and the group most exposed to online radicalisation pipelines. Leaving their civic attachment to Andrew Tate-adjacent ecosystems is a democratic security risk, not just a welfare issue, and no institution currently owns the problem.",
-  "fill": "A pooled multi-funder programme for young men's civic participation (mentoring, male youth worker recruitment, offline third spaces, sport-plus-civics models) with a commissioned What Works evidence strand at Youth Futures Foundation or a new centre.",
+  "description": "The Centre for Social Justice's Lost Boys work documents male NEET numbers up 40 per cent since the pandemic against 7 per cent for women, suicide as the leading cause of death for young men aged 15 to 19, and a drift towards online influencers and right-populist politics. John Smith Centre polling confirms young men are markedly more right-leaning and distrustful than young women. No UK funder runs a dedicated programme for young men's civic participation; Rosa and the Tampon Tax legacy funds exist for women and girls, and there is no counterpart. Youth engagement programming demonstrably under-recruits young men, and government activity stops at school-level role-model initiatives.",
+  "why": "Young men are the fastest-growing disengagement cohort and the group most exposed to online radicalisation pipelines. Their civic attachment is currently being formed by influencer ecosystems nobody accountable runs. No institution owns the problem.",
+  "fill": "A pooled multi-funder programme for young men's civic participation: mentoring, male youth worker recruitment, offline third spaces and sport-plus-civics models, with a commissioned What Works evidence strand at Youth Futures Foundation or a new centre.",
   "sources": [
    "https://www.centreforsocialjustice.org.uk/library/lost-boys",
    "https://www.johnsmithcentre.com/uk-youth-poll-2026/",
@@ -1163,10 +1163,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: pooled multi-funder programme with commissioned What Works evidence strand at Youth Futures Foundation.",
-  "tagline": "Young men are drifting out of civic life. No funder owns the problem.",
-  "summary": "Young men not in education or work are up sharply since the pandemic, their politics is drifting towards online influencers, and suicide is the leading cause of death for older teenage boys. Yet no UK funder runs a dedicated programme for young men's civic participation. Mentoring, male youth workers and offline third spaces all wait for a backer.",
+  "tagline": "Young men drifting from civic life; no funder owns it",
+  "summary": "Young men not in education or work are up sharply since the pandemic, their politics is drifting towards online influencers, and suicide is the leading cause of death for older teenage boys. No UK funder runs a dedicated programme for young men's civic participation. Mentoring, male youth workers and offline third spaces all wait for a backer.",
   "rank": 3,
-  "rankNote": "The fastest-growing disengagement cohort drifts toward online radicalisation with no funder owning the problem, so a pooled programme is high-value and ready even without a dated trigger."
+  "rankNote": "The fastest-growing disengagement cohort drifts towards online radicalisation with no funder owning the problem, so a pooled programme is high-value and ready without a dated trigger."
  },
  {
   "number": 32,
@@ -1212,9 +1212,9 @@
   "domain": "youth-mobilisation",
   "type": "knowledge",
   "horizon": "short",
-  "description": "There is no regular official measure of youth civic participation (the Community Life Survey covers 16+ adults in England only, with small youth samples) and no national register of youth provision: the sector relies on YMCA's reconstruction of council s.251 returns, ad hoc NYA audits, and the one-off 'State of the Nation' report accompanying the National Youth Strategy. Government could not say, when planning Young Futures Hubs, where existing provision actually is; academic evidence rests on charity-funded polls (John Smith Centre) with no guaranteed continuation.",
-  "why": "You cannot manage what you don't measure: the strategy's 2035 targets (500,000 more young people with a trusted adult; halving the participation gap) currently have no official baseline instrument, and every funding debate re-litigates contested numbers.",
-  "fill": "An ONS/DCMS annual youth participation and provision statistical series (including 11-15s) plus an open, machine-readable national youth-provision dataset maintained as part of National Youth Strategy delivery: a cheap, high-leverage commission.",
+  "description": "No regular official measure of youth civic participation exists; the Community Life Survey covers adults 16 and over in England with small youth samples, and no national register of youth provision exists either. The sector relies on YMCA's reconstruction of council section 251 returns, ad hoc NYA audits, and the one-off State of the Nation report that accompanied the National Youth Strategy. Government could not say, when planning Young Futures Hubs, where existing provision actually was. Academic evidence rests on charity-funded polls with no guaranteed continuation.",
+  "why": "The strategy's 2035 targets, half a million more young people with a trusted adult and a halved participation gap, currently have no official baseline instrument. Every funding debate re-litigates contested numbers instead.",
+  "fill": "An ONS and DCMS annual youth participation and provision statistical series including 11 to 15-year-olds, and an open, machine-readable national youth-provision dataset maintained as part of strategy delivery. The commission is cheap and high-leverage.",
   "sources": [
    "https://ymca.org.uk/beyond-the-brink/",
    "https://questions-statements.parliament.uk/written-statements/detail/2025-12-10/hlws1148",
@@ -1229,8 +1229,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: ONS/DCMS commission; council provision data FOI-able for a shadow dataset meanwhile.",
-  "tagline": "Government planned fifty youth hubs without knowing where existing services were.",
-  "summary": "There is no official count of youth services and no regular measure of youth civic participation; the sector reconstructs numbers from council returns and charity polls. The strategy's 2035 targets have no baseline to be judged against. An annual official series plus an open dataset of provision would be cheap and settle the arguments.",
+  "tagline": "No official count of youth services; targets with no baseline",
+  "summary": "There is no official count of youth services and no regular measure of youth civic participation, so the sector reconstructs numbers from council returns and charity polls. The strategy's 2035 targets have no baseline to be judged against. An annual official series and an open dataset of provision would be cheap and would settle the arguments.",
   "dialogue": {
    "counterparty": "government-bodies",
    "ask": "Commission an annual official measure of youth civic participation, including eleven-to-fifteen-year-olds, and publish an open national dataset of youth provision alongside it.",
@@ -1239,7 +1239,7 @@
    "firstStep": "A 90-day joint exercise merging our shadow dataset with departmental returns for one region, published in an open format, with coverage assessed together before any decision on a national series."
   },
   "rank": 3,
-  "rankNote": "No official baseline exists for the strategy's 2035 targets and the sector relies on charity polls, making an ONS commission cheap, high-leverage and unowned though not acutely time-pressured."
+  "rankNote": "No official baseline exists for the strategy's 2035 targets and the sector relies on charity polls; an ONS commission is cheap, high-leverage and unowned."
  },
  {
   "number": 34,
@@ -1248,9 +1248,9 @@
   "domain": "youth-mobilisation",
   "type": "tooling",
   "horizon": "short",
-  "description": "61.5% of young people get political information mainly from social media, and their participation is largely expressive (73% signed a petition or advocated online in the past year, per John Smith Centre 2026), but the UK has no at-scale nonpartisan registration-and-turnout operation equivalent to US youth GOTV infrastructure. My Life My Say, Shout Out UK and the Electoral Commission's Welcome to Your Vote Week are the closest offerings but are small, grant-cycle-dependent and school-focused, leaving out the ~1m NEET young people and college leavers hardest to reach. Party youth wings (Young Labour ~30,000; relaunched Young Conservatives; Students4Reform) mobilise narrow slices and deepen the partisan gender divide.",
-  "why": "The first general election with 16-year-old voters (by 2029) is a one-shot habit-formation event for two entire cohorts. Online-native engagement without turnout infrastructure converts to cynicism, and the current vacuum is being filled fastest by partisan influencer ecosystems.",
-  "fill": "An independently governed, transparently funded youth voter mobilisation platform (registration drives, creator partnerships, relational turnout tools, colleges and workplaces as venues), built now by a philanthropic pooled fund with strict nonpartisanship rules.",
+  "description": "61.5 per cent of young people get political information mainly from social media, and participation is largely expressive: 73 per cent signed a petition or advocated online in the past year, per the John Smith Centre in 2026. The UK has no at-scale nonpartisan registration-and-turnout operation of the kind US youth turnout infrastructure provides. My Life My Say, Shout Out UK and the Electoral Commission's Welcome to Your Vote Week come closest, and they are small, grant-cycle-dependent and school-focused, which leaves out around a million NEET young people and college leavers who are hardest to reach. Party youth wings mobilise narrow slices and deepen the partisan gender divide.",
+  "why": "The first general election with 16-year-old voters, due by 2029, is a one-shot habit-formation event for two entire cohorts. Online-native engagement without turnout infrastructure converts to cynicism, and partisan influencer ecosystems are filling the vacuum fastest.",
+  "fill": "An independently governed, transparently funded youth voter mobilisation platform: registration drives, creator partnerships, relational turnout tools, and colleges and workplaces as venues, built now by a philanthropic pooled fund under strict nonpartisanship rules.",
   "sources": [
    "https://www.johnsmithcentre.com/uk-youth-poll-2026/",
    "https://www.electoralcommission.org.uk/resources/resources-educators/welcome-your-vote-week",
@@ -1266,8 +1266,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: pooled-fund-backed nonpartisan platform running registration drives, creator partnerships and relational turnout tools.",
-  "tagline": "A generation votes for the first time by 2029. Nobody is building the turnout machine.",
-  "summary": "Young people's politics is expressive (petitions, posts), but the UK has no at-scale nonpartisan operation to turn that into registration and turnout, and the groups doing the work are small and grant-dependent. The vacuum is filling with partisan influencer ecosystems. An independently governed mobilisation platform, funded now, could reach the young people hardest to find.",
+  "tagline": "First votes-at-16 election by 2029; no turnout infrastructure",
+  "summary": "Young people's politics is expressive, running through petitions and posts, and the UK has no at-scale nonpartisan operation turning that into registration and turnout. The groups doing the work are small and grant-dependent, and the vacuum is filling with partisan influencer ecosystems. An independently governed mobilisation platform, funded now, could reach the young people hardest to find.",
   "seeAlso": [
    {
     "number": 26,
@@ -1277,7 +1277,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "Two entire cohorts face a one-shot habit-forming first election with only small grant-dependent providers, while partisan influencer ecosystems fill the turnout vacuum fastest and must be countered now."
+  "rankNote": "Two cohorts face a one-shot habit-forming first election served only by small grant-dependent providers, and the turnout vacuum is filling with partisan ecosystems now."
  },
  {
   "number": 35,
@@ -1383,9 +1383,9 @@
   "domain": "education-ai",
   "type": "policy",
   "horizon": "short",
-  "description": "JCQ's 'AI Use in Assessments' guidance rests on teachers authenticating coursework and students keeping screenshots of AI prompts; this is unenforceable at scale, leaving NEA-heavy GCSE/A-level subjects exposed. Ofqual's on-screen consultation (Dec 2025) caps innovation at two small-entry specifications per exam board, delivery ~2030; boards' earlier digital plans (AQA, Pearson, OCR) were already delayed in 2024. No regulatory sandbox lets boards trial fundamentally different assessment models (secure digital, adaptive, oral) with live cohorts, and no fund pays for redesign during Curriculum and Assessment Review implementation.",
-  "why": "Qualification integrity is the currency of the school system. If coursework becomes unverifiable before 2030, the default response is retreat to terminal handwritten exams, narrowing what is assessed exactly when the review is trying to broaden it.",
-  "fill": "An Ofqual regulatory sandbox granting time-limited waivers for pilot qualifications, paired with a DfE/exam-board co-funded Assessment R&D Fund to redesign NEA in exposed subjects for first teaching alongside the 2028 curriculum.",
+  "description": "JCQ's guidance on AI use in assessments rests on teachers authenticating coursework and students keeping screenshots of their AI prompts, which is unenforceable at scale and leaves coursework-heavy GCSE and A-level subjects exposed. Ofqual's on-screen consultation from December 2025 caps innovation at two small-entry specifications per exam board with delivery around 2030, and the boards' earlier digital plans were already delayed in 2024. No regulatory sandbox lets boards trial fundamentally different assessment models with live cohorts, whether secure digital, adaptive or oral, and no fund pays for redesign during Curriculum and Assessment Review implementation.",
+  "why": "Qualification integrity is the currency of the school system. Coursework that becomes unverifiable before 2030 pushes the system back towards terminal handwritten exams, which narrows what is assessed at the moment the review is trying to broaden it.",
+  "fill": "An Ofqual regulatory sandbox granting time-limited waivers for pilot qualifications, paired with a DfE and exam-board co-funded assessment R&D fund to redesign coursework in exposed subjects for first teaching alongside the 2028 curriculum.",
   "sources": [
    "https://www.jcq.org.uk/exams-office/malpractice/artificial-intelligence/",
    "https://www.gov.uk/government/consultations/regulating-on-screen-assessment/regulating-on-screen-assessment",
@@ -1401,8 +1401,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: Ofqual (sandbox waivers) plus exam boards co-funding NEA redesign; no new law needed for pilots.",
-  "tagline": "Coursework rules assume pupils screenshot their AI prompts. Exams need a rethink.",
-  "summary": "Exam boards' anti-cheating rules rest on teachers vouching for coursework, which cannot be enforced at scale. On-screen exams will not arrive until around 2030, so the default response is retreat to handwritten finals, narrowing assessment just as reform tries to broaden it. A regulatory sandbox and a redesign fund could get there faster.",
+  "tagline": "Coursework unverifiable in the AI era; on-screen exams due 2030",
+  "summary": "Exam boards' anti-cheating rules rest on teachers vouching for coursework, which cannot be enforced at scale. On-screen exams arrive around 2030, so the default response is retreat to handwritten finals, narrowing assessment just as reform tries to broaden it. A regulatory sandbox and a redesign fund could get there faster.",
   "dialogue": {
    "counterparty": "regulators",
    "ask": "Open a regulatory sandbox granting time-limited waivers so exam boards can trial redesigned assessments (secure digital, adaptive and oral) with live cohorts well before 2030.",
@@ -1411,7 +1411,7 @@
    "firstStep": "A one-year shadow pilot in one exposed subject: twenty volunteer schools run a redesigned assessment alongside the real one, no grades affected, with integrity and workload evidence reviewed jointly."
   },
   "rank": 3,
-  "rankNote": "Coursework integrity across NEA-heavy GCSEs is already unverifiable, yet Ofqual caps pilots and no fund pays for redesign before the 2028 curriculum and 2030 delivery."
+  "rankNote": "Coursework integrity across exposed GCSEs is already unverifiable, Ofqual caps pilots, and no fund pays for redesign before the 2028 curriculum and 2030 delivery."
  },
  {
   "number": 39,
@@ -1420,9 +1420,9 @@
   "domain": "education-ai",
   "type": "coordination",
   "horizon": "short",
-  "description": "HEPI's 2026 survey: 94% of students use generative AI in assessed work, 12% submit AI-generated text directly (up from 3% in 2024), and 22% admit AI-assisted cheating. QAA publishes guidance but is membership-funded in England with no regulatory force; Jisc's National Centre for AI runs a one-year assessment pilot (2025–26); the OfS has no funding stream for redesign. So 140+ financially distressed providers each reinvent assessment alone, mid-redundancy. There is no shared assessment bank, no pooled capacity for scaled vivas or interactive assessment, and no common verification standard for degrees.",
-  "why": "Degree credibility is a national export (international students) and the signal underpinning the graduate labour market. Institution-by-institution improvisation under financial distress risks divergent standards and quiet grade-integrity erosion the sector cannot afford.",
-  "fill": "An OfS/DfE-funded Assessment Transformation Programme: institutional redesign grants, shared toolkits and assessment banks, pooled viva/interactive-assessment capacity, scaling Jisc's pilot and QAA guidance into funded delivery.",
+  "description": "HEPI's 2026 survey found 94 per cent of students using generative AI in assessed work, 12 per cent submitting AI-generated text directly, up from 3 per cent in 2024, and 22 per cent admitting AI-assisted cheating. QAA publishes guidance and is membership-funded in England with no regulatory force. Jisc's National Centre for AI runs a one-year assessment pilot through 2025-26, and the OfS has no funding stream for redesign. More than 140 financially distressed providers each reinvent assessment alone, mid-redundancy. There is no shared assessment bank, pooled viva capacity has not been built, and degrees have no common verification standard.",
+  "why": "Degree credibility is a national export and the signal underpinning the graduate labour market. Improvisation institution by institution, under financial distress, produces divergent standards and quiet grade-integrity erosion the sector cannot afford.",
+  "fill": "An OfS and DfE-funded assessment transformation programme: institutional redesign grants, shared toolkits and assessment banks, and pooled capacity for vivas and interactive assessment, scaling Jisc's pilot and QAA guidance into funded delivery.",
   "sources": [
    "https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/",
    "https://www.qaa.ac.uk/sector-resources/academic-integrity",
@@ -1437,8 +1437,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: Jisc/QAA plus volunteer universities pooling assessment banks and viva capacity; OfS/DfE funding is the scaled end-state.",
-  "tagline": "94% of students use AI in assessed work. Every university copes alone.",
-  "summary": "British degrees are a national export, and the marking beneath them is quietly eroding: one student in eight now submits AI-generated text. Cash-strapped universities are each improvising their own response mid-redundancy. A funded national programme could pool redesigned assessments, shared oral-exam capacity and a common standard for verifying degrees.",
+  "tagline": "94% of students use AI in assessed work; each university copes alone",
+  "summary": "British degrees are a national export, and the marking beneath them is eroding: one student in eight now submits AI-generated text. Cash-strapped universities improvise their own responses mid-redundancy. A funded national programme could pool redesigned assessments, shared oral-exam capacity and a common standard for verifying degrees.",
   "dialogue": {
    "counterparty": "unions-and-membership-bodies",
    "ask": "Turn the one-year national assessment pilot into a standing shared programme: pooled assessment banks, shared oral-exam capacity and a common standard for verifying degrees, built with volunteer universities.",
@@ -1447,7 +1447,7 @@
    "firstStep": "A one-semester pilot: five member universities pool redesigned assessments in two high-risk disciplines through the existing pilot's infrastructure, with uptake and integrity results shared across the membership."
   },
   "rank": 3,
-  "rankNote": "94% of students now use generative AI in assessed work while 140-plus financially distressed providers each improvise alone, with no OfS funding stream or shared standard."
+  "rankNote": "94 per cent of students use generative AI in assessed work while 140-plus distressed providers improvise alone, with no OfS funding stream or shared standard."
  },
  {
   "number": 40,
@@ -1521,9 +1521,9 @@
   "domain": "education-ai",
   "type": "funding",
   "horizon": "mid",
-  "description": "The NTP subsidy ended in 2024. DfE's January 2026 AI tutoring announcement funds tool development (co-created with teachers, trials from autumn 2026, tools by end-2027, aimed at up to 450,000 FSM-eligible pupils in years 9–11), but there is no recurrent delivery funding stream attached, and DfE concedes current evidence for AI tutoring is 'limited'. EEF evidence shows human tutoring yields ~5 months' progress; charities like Action Tutoring and companies like Third Space Learning are running blended human+AI pilots without a national commissioning route.",
-  "why": "The attainment gap widened post-pandemic and tutoring is the best-evidenced remedy. Building tools without a funded entitlement repeats the edtech pattern: products exist, disadvantaged pupils, whose schools cannot buy delivery, do not benefit, and the 450,000-pupil ambition remains a press release.",
-  "fill": "A pupil-premium-linked tutoring entitlement for disadvantaged KS3/4 pupils, commissioning blended human+AI tutoring only from validated providers, with an EEF-run stepped-wedge evaluation as it scales.",
+  "description": "The National Tutoring Programme subsidy ended in 2024. DfE's January 2026 AI tutoring announcement funds tool development, co-created with teachers, with trials from autumn 2026 and tools by the end of 2027, aimed at up to 450,000 FSM-eligible pupils in years 9 to 11. No recurrent delivery funding stream is attached, and DfE concedes the current evidence for AI tutoring is limited. EEF evidence shows human tutoring yields about five months' progress. Charities like Action Tutoring and companies like Third Space Learning run blended human-and-AI pilots without a national commissioning route.",
+  "why": "The attainment gap widened after the pandemic and tutoring is the best-evidenced remedy. Tools without a funded entitlement leave disadvantaged pupils out, because their schools cannot buy delivery, and the 450,000-pupil ambition stays on paper.",
+  "fill": "A pupil-premium-linked tutoring entitlement for disadvantaged key stage 3 and 4 pupils, commissioning blended human-and-AI tutoring only from validated providers, with an EEF-run stepped-wedge evaluation as it scales.",
   "sources": [
    "https://www.gov.uk/government/news/450000-disadvantaged-pupils-could-benefit-from-ai-tutoring-tools",
    "https://www.tes.com/magazine/news/general/limited-evidence-ai-tutoring-tools-government-admits",
@@ -1538,10 +1538,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: pupil-premium-linked statutory tutoring entitlement with national commissioning and recurrent DfE funding.",
-  "tagline": "AI tutoring for 450,000 poorer pupils is promised. The lesson money isn't.",
-  "summary": "Tutoring is the best-evidenced remedy for the attainment gap, worth about five months' extra progress. But the national subsidy ended in 2024, and the government's new AI tutoring push funds tool-building, not lessons. A tutoring entitlement tied to pupil premium would put blended human-and-AI tutoring in front of the pupils who need it.",
+  "tagline": "AI tutoring promised for 450,000 pupils; no lesson funding",
+  "summary": "Tutoring is the best-evidenced remedy for the attainment gap, worth about five months' extra progress. The national subsidy ended in 2024, and the government's new AI tutoring push funds tool-building rather than lessons. A tutoring entitlement tied to pupil premium would put blended human-and-AI tutoring in front of the pupils who need it.",
   "rank": 3,
-  "rankNote": "The attainment gap widened post-pandemic and tutoring is best-evidenced, yet the NTP subsidy ended in 2024 and tool development carries no recurrent delivery funding for disadvantaged pupils."
+  "rankNote": "The attainment gap widened after the pandemic and tutoring is best-evidenced, and the subsidy ended in 2024 with tool development carrying no recurrent delivery funding."
  },
  {
   "number": 44,
@@ -1550,9 +1550,9 @@
   "domain": "education-ai",
   "type": "funding",
   "horizon": "mid",
-  "description": "The Lifelong Learning Entitlement (January 2027, repeatedly delayed) is loans-only, restricted at launch to modules of level 4–6 courses aligned to priority sectors. The Growth and Skills Levy (April 2026) is employer-controlled, with tightened fund expiry (12 months) and level 7 restrictions; the Adult Skills Fund is squeezed; Skills Bootcamps are short and supply-led. IPPR (up to 8m jobs exposed) proposes a worker-support levy and portable training accounts; nothing has been adopted. A displaced 45-year-old administrator is offered debt, not a funded pathway.",
-  "why": "AI displacement concentrates on clerical, administrative and entry-professional roles held disproportionately by women and older workers who will not take on student debt. Without a grant instrument, displacement converts directly into economic inactivity (the UK's existing weakness) rather than redeployment.",
-  "fill": "A targeted retraining grant or individual learning account for workers in high-AI-exposure occupations: grant-funded modular credits usable across FE/HE/bootcamps, co-financed by a levy strand, piloted in 2–3 mayoral combined authorities.",
+  "description": "The Lifelong Learning Entitlement, arriving January 2027 after repeated delays, is loans-only and restricted at launch to modules of level 4 to 6 courses aligned to priority sectors. The Growth and Skills Levy from April 2026 is employer-controlled, with fund expiry tightened to twelve months and level 7 restrictions. The Adult Skills Fund is squeezed, and Skills Bootcamps are short and supply-led. IPPR, which puts exposure at up to eight million jobs, proposes a worker-support levy and portable training accounts, and nothing has been adopted. A displaced 45-year-old administrator is offered debt rather than a funded pathway.",
+  "why": "AI displacement concentrates on clerical, administrative and entry-professional roles held disproportionately by women and older workers who will not take on student debt. Without a grant instrument, displacement converts into economic inactivity, already the UK's weakness, rather than redeployment.",
+  "fill": "A targeted retraining grant or individual learning account for workers in high-exposure occupations: grant-funded modular credits usable across further education, higher education and bootcamps, co-financed by a levy strand and piloted in two or three mayoral combined authorities.",
   "sources": [
    "https://www.gov.uk/government/publications/lifelong-learning-entitlement-lle-overview/lifelong-learning-entitlement-overview",
    "https://www.ippr.org/media-office/up-to-8-million-uk-jobs-at-risk-from-ai-unless-government-acts-finds-ippr",
@@ -1567,7 +1567,7 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: 2-3 mayoral combined authorities piloting grant accounts from devolved adult skills budgets; levy strand needs statute later.",
-  "tagline": "Mid-career and displaced by AI? The state's offer is a loan.",
+  "tagline": "Eight million jobs AI-exposed; retraining offered as debt",
   "summary": "Up to eight million UK jobs are exposed to AI, concentrated in clerical and administrative roles held disproportionately by women and older workers, people unlikely to borrow for retraining. Everything on offer is a loan, an employer-controlled levy or a short bootcamp. Grant-funded retraining accounts, piloted through mayoral authorities, would turn displacement into redeployment.",
   "dialogue": {
    "counterparty": "councils",
@@ -1585,7 +1585,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "Up to eight million jobs are exposed and displaced clerical workers, disproportionately women and older, are offered only loans, but no grant instrument has been designed or adopted."
+  "rankNote": "Up to eight million jobs are exposed and displaced clerical workers are offered only loans, and no grant instrument has been designed or adopted."
  },
  {
   "number": 45,
@@ -1660,9 +1660,9 @@
   "domain": "education-ai",
   "type": "policy",
   "horizon": "mid",
-  "description": "The government's Curriculum and Assessment Review response only commits to 'explore' a new 16–18 data science and AI qualification; the broadened computing GCSE arrives in 2028. On the vocational side, Skills England has produced an AI foundation skills benchmark, one Level 4 AI and Automation practitioner apprenticeship and AI leadership units, but standards refresh cycles are slow post-IfATE-absorption, and there is no accredited AI/data pathway at levels 2–3 where displacement risk concentrates. No awarding body has been commissioned, funded or given a date.",
-  "why": "Cohorts leaving school between now and 2030 (roughly four million young people) will enter the most AI-disrupted entry-level market in decades with no recognised AI or data qualification available to most of them. 'Exploration' without commissioning is how qualifications quietly die.",
-  "fill": "A funded, dated commission: awarding bodies develop the 16–18 data science and AI qualification for first teaching 2028, plus a Skills England rapid-refresh unit updating level 2–3 digital and administrative occupational standards on an annual cycle.",
+  "description": "The government's Curriculum and Assessment Review response commits only to explore a new 16-18 data science and AI qualification, and the broadened computing GCSE arrives in 2028. On the vocational side, Skills England has produced an AI foundation skills benchmark, one level 4 AI and automation practitioner apprenticeship and AI leadership units. Standards refresh cycles run slow after the IfATE absorption, and no accredited AI or data pathway exists at levels 2 and 3, where displacement risk concentrates. No awarding body has been commissioned, funded or given a date.",
+  "why": "Roughly four million young people leave school between now and 2030 into the most AI-disrupted entry-level market in decades, and most have no recognised AI or data qualification available to them. Exploration without commissioning is how qualifications quietly die.",
+  "fill": "A funded, dated commission: awarding bodies develop the 16-18 data science and AI qualification for first teaching in 2028, and a Skills England rapid-refresh unit updates level 2 and 3 digital and administrative occupational standards on an annual cycle.",
   "sources": [
    "https://www.bcs.org/articles-opinion-and-research/reformed-school-curriculum-will-feature-ai-media-literacy-and-a-new-computing-gcse/",
    "https://www.techuk.org/resource/what-does-the-curriculum-and-assessment-review-mean-for-technology-and-computing-education.html",
@@ -1677,10 +1677,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: DfE/Ofqual funded, dated commission to awarding bodies for 2028 first teaching.",
-  "tagline": "Ministers will 'explore' an AI qualification for sixth-formers. Four million can't wait.",
-  "summary": "The government commits only to 'explore' a data science and AI qualification for sixth-formers, and nothing accredited exists at the levels where displacement bites hardest. Exploration without a commissioned awarding body and a date is how qualifications quietly die. A funded commission aimed at first teaching in 2028 would fix that.",
+  "tagline": "AI qualifications for 16-19s; still at the 'explore' stage",
+  "summary": "The government commits only to explore a data science and AI qualification for sixth-formers, and nothing accredited exists at the levels where displacement bites hardest. Exploration without a commissioned awarding body and a date is how qualifications quietly die. A funded commission aimed at first teaching in 2028 would fix it.",
   "rank": 3,
-  "rankNote": "Four million young people reach the most AI-disrupted entry market by 2030 with no recognised qualification, while government only commits to explore and commissions no awarding body."
+  "rankNote": "Four million young people reach the most AI-disrupted entry market by 2030 with no recognised qualification, and government commissions no awarding body."
  },
  {
   "number": 48,
@@ -1783,9 +1783,9 @@
   "domain": "growth-stagnation",
   "type": "policy",
   "horizon": "short",
-  "description": "UK industrial electricity prices are among the highest in the developed world: roughly 50% above France/Germany and up to four times US levels. From April 2027 the British Industrial Competitiveness Scheme exempts ~7,000–10,000 manufacturers from Renewables Obligation, Feed-in Tariff and Capacity Market levies (bills cut up to 25%). But SMEs, commercial users, data centres and households keep carrying legacy levy costs, penalising exactly the electrification growth depends on. No statute schedules rebalancing these costs to general taxation or gas.",
-  "why": "Energy cost is the top stated business concern and a first-order cause of industrial decline and datacentre offshoring. BICS is a carve-out, not a fix: it entrenches a two-tier price and leaves the electrification penalty for the rest of the economy untouched.",
-  "fill": "A statutory levy-rebalancing schedule moving legacy renewables costs (RO/FiT) to the Exchequer or onto gas over a fixed timetable, extending BICS-scale relief economy-wide, a fundable Treasury/DESNZ legislative project with published fiscal costings.",
+  "description": "UK industrial electricity prices sit among the highest in the developed world, roughly 50 per cent above France and Germany and up to four times US levels. From April 2027 the British Industrial Competitiveness Scheme exempts roughly 7,000 to 10,000 manufacturers from Renewables Obligation, Feed-in Tariff and Capacity Market levies, cutting bills up to 25 per cent. SMEs, commercial users, data centres and households keep carrying the legacy levy costs, which penalises exactly the electrification growth depends on. No statute schedules rebalancing these costs to general taxation or to gas.",
+  "why": "Energy cost is the top stated business concern and a first-order cause of industrial decline and datacentre offshoring. BICS is a carve-out that entrenches a two-tier price, and the electrification penalty for the rest of the economy stays untouched.",
+  "fill": "A statutory levy-rebalancing schedule moving legacy renewables costs to the Exchequer or onto gas over a fixed timetable, extending BICS-scale relief economy-wide. It is a fundable Treasury and DESNZ legislative project with published fiscal costings.",
   "sources": [
    "https://www.gov.uk/government/news/government-cuts-electricity-bill-for-10000-manufacturers-in-boost-for-uk-competitiveness",
    "https://www.gov.uk/government/news/powering-britains-future-electricity-bills-to-be-slashed-for-over-7000-businesses-in-major-industry-shake-up"
@@ -1799,10 +1799,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statute scheduling RO/FiT levy transfer to Exchequer or gas over fixed timetable.",
-  "tagline": "Electricity carries the levies. Gas doesn't. And Britain needs to electrify.",
-  "summary": "British industry pays some of the highest electricity prices in the developed world, partly because old renewables subsidies still sit on power bills. A new scheme rescues about 7,000 manufacturers and leaves everyone else (small firms, data centres, households) paying the penalty. No law schedules moving those costs off electricity for good.",
+  "tagline": "Legacy levies sit on electricity; no law moves them off",
+  "summary": "British industry pays some of the highest electricity prices in the developed world, partly because old renewables subsidies still sit on power bills. A new scheme rescues about 7,000 manufacturers and leaves everyone else, from small firms to data centres to households, paying the penalty. No law schedules moving those costs off electricity for good.",
   "rank": 3,
-  "rankNote": "Sky-high industrial power drives offshoring, yet BICS only shields large manufacturers from April 2027, leaving SMEs, data centres and households on legacy levies with no legislated rebalancing timetable."
+  "rankNote": "High industrial power prices drive offshoring, BICS shields only large manufacturers from April 2027, and no legislated rebalancing timetable exists for anyone else."
  },
  {
   "number": 52,
@@ -2090,9 +2090,9 @@
   "domain": "debt",
   "type": "policy",
   "horizon": "short",
-  "description": "Government and councils are consistently found to be the harshest creditors. The Council Tax (Administration and Enforcement) Regulations 1992 make a full year's bill payable after one missed instalment; councils passed 1.69m debts to bailiffs in 2024/25 (up 14%); half of Money Advice Trust clients with council tax arrears went without food to pay. DWP recovers overpayments by automatic benefit deductions; the NAO found 81% of DWP overpayment debt over 180 days old. The Cabinet Office Fairness Group and Debt Fairness Charter are voluntary; the June 2025 council tax consultation response is still pending; the Enforcement Conduct Board remains non-statutory despite the MoJ's 2025 consultation (only fee reforms took effect May 2026).",
-  "why": "Public-sector collection practices would be illegal for FCA-regulated lenders. Aggressive state collection deepens hardship, drives people to illegal lenders, and undermines the government's credibility in demanding fairness from private creditors, while recovering less overall than affordability-based collection.",
-  "fill": "A package: amend the 1992 council tax regulations (graduated escalation, affordability checks before bailiff referral); statutory licensing of enforcement agents by the Enforcement Conduct Board; binding cross-government debt management standards with an independent adjudicator covering HMRC, DWP and councils.",
+  "description": "Government and councils are consistently found to be the harshest creditors. The Council Tax (Administration and Enforcement) Regulations 1992 make a full year's bill payable after one missed instalment. Councils passed 1.69 million debts to bailiffs in 2024-25, up 14 per cent, and half of Money Advice Trust clients with council tax arrears went without food to pay. DWP recovers overpayments by automatic benefit deductions, and the NAO found 81 per cent of DWP overpayment debt over 180 days old. The Cabinet Office Fairness Group and the Debt Fairness Charter are voluntary. The June 2025 council tax consultation response is still pending, and the Enforcement Conduct Board remains non-statutory despite the MoJ's 2025 consultation; only fee reforms took effect in May 2026.",
+  "why": "Public-sector collection practices would be illegal for FCA-regulated lenders. Aggressive state collection deepens hardship, pushes people towards illegal lenders, and undermines government credibility when it demands fairness from private creditors. Affordability-based collection also recovers more.",
+  "fill": "A package: amend the 1992 council tax regulations to require graduated escalation and affordability checks before bailiff referral, put enforcement-agent licensing on a statutory footing under the Enforcement Conduct Board, and bind HMRC, DWP and councils to cross-government debt management standards with an independent adjudicator.",
   "sources": [
    "https://www.moneysavingexpert.com/news/2025/05/council-tax-debt-collection/",
    "https://moneyadvicetrust.org/latest-news/half-of-debt-clients-with-council-tax-arrears-going-without-food-to-meet-councils-demands-for-payments/",
@@ -2108,10 +2108,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: amended 1992 council tax regulations plus statutory Enforcement Conduct Board licensing and binding cross-government standards.",
-  "tagline": "Miss one council tax instalment and the whole year falls due. That rule is from 1992.",
+  "tagline": "One missed instalment; the whole year's council tax falls due",
   "summary": "The state is routinely Britain's harshest creditor, with practices that would be illegal for a regulated lender. Councils passed 1.69 million debts to bailiffs in a single year, and debt advisers report clients going without food to pay. Binding collection standards, affordability checks and statutory bailiff regulation would fix what voluntary charters have not.",
   "rank": 3,
-  "rankNote": "The state collects more harshly than a regulated lender could, 1.69 million debts went to bailiffs, clients skip food to pay, and a council-tax consultation response is pending now."
+  "rankNote": "The state collects more harshly than a regulated lender could, 1.69 million debts went to bailiffs, and the council-tax consultation response is pending now."
  },
  {
   "number": 63,
@@ -2120,9 +2120,9 @@
   "domain": "debt",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The OBR identifies fiscal risks (its 2025 report projects debt at 274% of GDP by 2071 baseline) but is statutorily barred from recommending policy and publishes no crisis playbooks. Treasury and Bank contingency planning is internal, unpublished and, as the 2022 LDI episode showed, can be caught out. IFS, NIESR, the Resolution Foundation and the Lords Economic Affairs Committee produce commentary and inquiries, but nobody runs the sovereign equivalent of a bank stress test: publicly war-gamed scenarios (gilt buyers' strike, failed auction, ratings cascade, inflation shock hitting the ~25% index-linked stock) with pre-agreed response options. Goldman Sachs and other private analysts fill some of this space, with obvious conflicts.",
-  "why": "The UK borrows ~£300bn gross a year into a market where term premia are double historic norms and the marginal buyer is a leveraged hedge fund. Crisis options are best designed before a crisis; the 2022 experience showed improvisation costs billions and nearly broke the pension system.",
-  "fill": "A standing, independent fiscal-crisis simulation programme: periodic published 'sovereign stress scenarios' with response playbooks, run by a consortium of ex-officials and institutes (IFS/NIESR model) or a purpose-built unit. Foundation-fundable at £1-3m/year; a natural extension of an existing institute.",
+  "description": "The OBR identifies fiscal risks, projecting debt at 274 per cent of GDP by 2071 on its 2025 baseline, and is statutorily barred from recommending policy; it publishes no crisis playbooks. Treasury and Bank contingency planning is internal and unpublished, and the 2022 LDI episode showed it can be caught out. IFS, NIESR, the Resolution Foundation and the Lords Economic Affairs Committee produce commentary and inquiries. Nobody runs the sovereign equivalent of a bank stress test: publicly war-gamed scenarios covering a gilt buyers' strike, a failed auction, a ratings cascade, or an inflation shock hitting the roughly 25 per cent index-linked stock, with pre-agreed response options. Goldman Sachs and other private analysts fill some of the space, with obvious conflicts.",
+  "why": "The UK borrows around £300bn gross a year into a market where term premia run at double historic norms and the marginal buyer is a leveraged hedge fund. Crisis options are best designed before the crisis. The 2022 experience showed improvisation costs billions, and it nearly broke the pension system.",
+  "fill": "A standing, independent fiscal-crisis simulation programme publishing periodic sovereign stress scenarios with response playbooks, run by a consortium of former officials and institutes or a purpose-built unit. Foundations could fund it at £1-3m a year as a natural extension of an existing institute.",
   "sources": [
    "https://obr.uk/frs/fiscal-risks-and-sustainability-july-2025/",
    "https://lordslibrary.parliament.uk/national-debt-its-time-for-tough-decisions-house-of-lords-economic-affairs-committee-report/",
@@ -2138,10 +2138,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: published sovereign stress scenario with response playbook, run by institute consortium; foundation-fundable at £1-3m/year.",
-  "tagline": "Every big bank is stress-tested. The public finances never are.",
-  "summary": "The 2022 pensions near-meltdown showed what improvising in a gilt crisis costs. Nobody publicly war-games a failed auction or a buyers' strike: the fiscal watchdog is barred from recommending policy, and official contingency planning stays secret. A standing independent stress-test programme is foundation-fundable at a few million pounds a year.",
+  "tagline": "Banks are stress-tested; the public finances never are",
+  "summary": "The 2022 pensions near-meltdown showed what improvising in a gilt crisis costs. Nobody publicly war-games a failed auction or a buyers' strike; the fiscal watchdog is barred from recommending policy, and official contingency planning stays secret. A standing independent stress-test programme is foundation-fundable at a few million pounds a year.",
   "rank": 3,
-  "rankNote": "No one publicly war-games a gilt crisis after 2022 nearly broke pensions; the watchdog is barred from advising and a buildable programme is cheap but wholly unfunded."
+  "rankNote": "Nobody publicly war-games a gilt crisis after 2022 nearly broke pensions, the watchdog is barred from advising, and a buildable programme sits wholly unfunded."
  },
  {
   "number": 64,
@@ -2269,9 +2269,9 @@
   "domain": "debt",
   "type": "funding",
   "horizon": "mid",
-  "description": "The No Interest Loan Scheme pilot lent £10m across 13,175 loans to people declined elsewhere, with strong repayment; lending ceased in August 2025 and the PwC evaluation is due by end-2026, with no committed successor funding. Fair4All Finance, the CDFI sector and credit unions (now backed by a £30m dormant-assets Credit Union Transformation Fund) remain tiny relative to the vacuum left by the exit of regulated high-cost lenders, which Fair4All's research links directly to 3m people using illegal lenders. Everything rests on the finite Dormant Assets Scheme; there is no statutory affordable-credit funding stream despite the 2025 Financial Inclusion Strategy.",
-  "why": "WPI Economics estimates £6.4bn/year of economic value from closing the financial-inclusion gap. When legal affordable credit is absent, demand doesn't disappear; it migrates to loan sharks at effective APRs in the thousands, compounding arrears, ill-health and state costs.",
-  "fill": "A permanent national NILS and CDFI/credit-union growth capital facility with a statutory funding base of expanded dormant assets plus a matched contribution from banks (mirroring the US Community Reinvestment Act logic), scaling from the evaluated 2026 pilot results.",
+  "description": "The No Interest Loan Scheme pilot lent £10m across 13,175 loans to people declined elsewhere, with strong repayment. Lending ceased in August 2025, the PwC evaluation is due by the end of 2026, and no successor funding is committed. Fair4All Finance, the CDFI sector and credit unions, now backed by a £30m dormant-assets Credit Union Transformation Fund, remain tiny relative to the vacuum left by the exit of regulated high-cost lenders, which Fair4All's research links directly to three million people using illegal lenders. Everything rests on the finite Dormant Assets Scheme, and the 2025 Financial Inclusion Strategy created no statutory affordable-credit funding stream.",
+  "why": "WPI Economics estimates £6.4bn a year of economic value from closing the financial-inclusion gap. Where legal affordable credit is absent, demand migrates to loan sharks at effective APRs in the thousands, and the arrears, ill-health and state costs compound from there.",
+  "fill": "A permanent national no-interest-loan and community-lender growth facility with a statutory funding base: expanded dormant assets plus a matched contribution from banks, on the logic of the US Community Reinvestment Act, scaling from the evaluated 2026 pilot results.",
   "sources": [
    "https://fair4allfinance.org.uk/our-strategy/no-interest-loan-scheme/",
    "https://fair4allfinance.org.uk/no-interest-loan-scheme-hits-10m-lending-milestone/",
@@ -2287,10 +2287,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statute expanding dormant assets and mandating matched bank contributions (CRA-style) for permanent NILS/CDFI facility.",
-  "tagline": "13,000 loans went to people the banks turned away. Then the money ran out.",
-  "summary": "When regulated high-cost lenders quit the market, demand migrated to loan sharks; research links the vacuum to three million people using illegal lenders. The pilot alternative repaid well but stopped lending, and everything left rests on finite dormant-assets money. A permanent funding base for no-interest loans, credit unions and community lenders is the fix.",
+  "tagline": "13,175 loans to people banks refused; lending stopped in 2025",
+  "summary": "When regulated high-cost lenders quit the market, demand migrated to loan sharks, and research links the vacuum to three million people using illegal lenders. The pilot alternative repaid well and stopped lending anyway, and everything left rests on finite dormant-assets money. A permanent funding base for no-interest loans, credit unions and community lenders is the fix.",
   "rank": 3,
-  "rankNote": "When high-cost lenders exited, three million turned to loan sharks; the no-interest pilot repaid well but stopped, and its 2026 evaluation lands with no successor funding secured."
+  "rankNote": "Three million people turned to loan sharks after high-cost lenders exited, the no-interest pilot repaid well and stopped, and its 2026 evaluation lands with no successor funding secured."
  },
  {
   "number": 69,

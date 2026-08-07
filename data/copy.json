@@ -42,8 +42,8 @@
   },
   {
    "number": 9,
-   "tagline": "Volunteering has fallen by a third. Demand isn't the problem; the pipeline is.",
-   "summary": "Volunteering is the entry point to civic life and it has declined for a decade, while the National Citizen Service closed without a successor and youth movements ration places for lack of adults. A volunteering passport (one vetting check, valid everywhere) plus a voluntary civic year for young people could rebuild the pipeline."
+   "tagline": "Volunteering down a third in a decade; the national service closed",
+   "summary": "Volunteering is the entry point to civic life and it has declined for a decade. The National Citizen Service closed without a successor, and youth movements ration places for lack of adults. A volunteering passport, one vetting check valid everywhere, and a voluntary civic year for young people would rebuild the pipeline."
   },
   {
    "number": 10,
@@ -87,7 +87,7 @@
   },
   {
    "number": 16,
-   "tagline": "Royal Mail owns the country's address list. Everyone else rents their own geography back.",
+   "tagline": "The national address list is private; everyone rents it back",
    "summary": "The national address file went private with Royal Mail, so every delivery firm, emergency service and council pays layered licence fees to look up the country's own geography. Denmark, France and the Netherlands opened theirs and counted the economic gains. Britain could buy the file back or build an open register from councils' source data."
   },
   {
@@ -127,8 +127,8 @@
   },
   {
    "number": 24,
-   "tagline": "New EU cyber rules bind UK open source maintainers. Nobody here helps them comply.",
-   "summary": "Europe's Cyber Resilience Act imposes security obligations on anyone whose software reaches the EU market; Brexit does not exempt British maintainers, and the UK hosts Europe's largest contributor base. Left alone, projects may wall off Europe or quit maintaining altogether. Plain-English guidance and small compliance grants would keep British code on the continent."
+   "tagline": "EU cyber rules reach UK maintainers; no UK help exists",
+   "summary": "Europe's Cyber Resilience Act imposes security obligations on anyone whose software reaches the EU market, and Brexit does not exempt British maintainers. The UK hosts Europe's largest contributor base. Left alone, projects may wall off Europe or stop maintaining, and plain-English guidance with small compliance grants would keep British code on the continent."
   },
   {
    "number": 25,
@@ -147,8 +147,8 @@
   },
   {
    "number": 28,
-   "tagline": "Youth services are legally optional. Spending fell by three-quarters; the law let it.",
-   "summary": "The law behind youth services asks councils to act only 'so far as reasonably practicable', which in practice means optional. Spending has fallen by roughly three-quarters in real terms, and new capital money will refurbish centres councils cannot afford to staff. A strengthened duty and ring-fenced revenue funding would put workers back inside the buildings."
+   "tagline": "Youth services legally optional; spending down three-quarters",
+   "summary": "The law behind youth services asks councils to act only so far as reasonably practicable, which in practice means optional. Spending has fallen by roughly three-quarters in real terms, and the new capital money will refurbish centres councils cannot afford to staff. A strengthened duty and ring-fenced revenue funding would put workers back inside the buildings."
   },
   {
    "number": 29,
@@ -162,8 +162,8 @@
   },
   {
    "number": 31,
-   "tagline": "Young men are drifting out of civic life. No funder owns the problem.",
-   "summary": "Young men not in education or work are up sharply since the pandemic, their politics is drifting towards online influencers, and suicide is the leading cause of death for older teenage boys. Yet no UK funder runs a dedicated programme for young men's civic participation. Mentoring, male youth workers and offline third spaces all wait for a backer."
+   "tagline": "Young men drifting from civic life; no funder owns it",
+   "summary": "Young men not in education or work are up sharply since the pandemic, their politics is drifting towards online influencers, and suicide is the leading cause of death for older teenage boys. No UK funder runs a dedicated programme for young men's civic participation. Mentoring, male youth workers and offline third spaces all wait for a backer."
   },
   {
    "number": 32,
@@ -172,13 +172,13 @@
   },
   {
    "number": 33,
-   "tagline": "Government planned fifty youth hubs without knowing where existing services were.",
-   "summary": "There is no official count of youth services and no regular measure of youth civic participation; the sector reconstructs numbers from council returns and charity polls. The strategy's 2035 targets have no baseline to be judged against. An annual official series plus an open dataset of provision would be cheap and settle the arguments."
+   "tagline": "No official count of youth services; targets with no baseline",
+   "summary": "There is no official count of youth services and no regular measure of youth civic participation, so the sector reconstructs numbers from council returns and charity polls. The strategy's 2035 targets have no baseline to be judged against. An annual official series and an open dataset of provision would be cheap and would settle the arguments."
   },
   {
    "number": 34,
-   "tagline": "A generation votes for the first time by 2029. Nobody is building the turnout machine.",
-   "summary": "Young people's politics is expressive (petitions, posts), but the UK has no at-scale nonpartisan operation to turn that into registration and turnout, and the groups doing the work are small and grant-dependent. The vacuum is filling with partisan influencer ecosystems. An independently governed mobilisation platform, funded now, could reach the young people hardest to find."
+   "tagline": "First votes-at-16 election by 2029; no turnout infrastructure",
+   "summary": "Young people's politics is expressive, running through petitions and posts, and the UK has no at-scale nonpartisan operation turning that into registration and turnout. The groups doing the work are small and grant-dependent, and the vacuum is filling with partisan influencer ecosystems. An independently governed mobilisation platform, funded now, could reach the young people hardest to find."
   },
   {
    "number": 35,
@@ -197,13 +197,13 @@
   },
   {
    "number": 38,
-   "tagline": "Coursework rules assume pupils screenshot their AI prompts. Exams need a rethink.",
-   "summary": "Exam boards' anti-cheating rules rest on teachers vouching for coursework, which cannot be enforced at scale. On-screen exams will not arrive until around 2030, so the default response is retreat to handwritten finals, narrowing assessment just as reform tries to broaden it. A regulatory sandbox and a redesign fund could get there faster."
+   "tagline": "Coursework unverifiable in the AI era; on-screen exams due 2030",
+   "summary": "Exam boards' anti-cheating rules rest on teachers vouching for coursework, which cannot be enforced at scale. On-screen exams arrive around 2030, so the default response is retreat to handwritten finals, narrowing assessment just as reform tries to broaden it. A regulatory sandbox and a redesign fund could get there faster."
   },
   {
    "number": 39,
-   "tagline": "94% of students use AI in assessed work. Every university copes alone.",
-   "summary": "British degrees are a national export, and the marking beneath them is quietly eroding: one student in eight now submits AI-generated text. Cash-strapped universities are each improvising their own response mid-redundancy. A funded national programme could pool redesigned assessments, shared oral-exam capacity and a common standard for verifying degrees."
+   "tagline": "94% of students use AI in assessed work; each university copes alone",
+   "summary": "British degrees are a national export, and the marking beneath them is eroding: one student in eight now submits AI-generated text. Cash-strapped universities improvise their own responses mid-redundancy. A funded national programme could pool redesigned assessments, shared oral-exam capacity and a common standard for verifying degrees."
   },
   {
    "number": 40,
@@ -217,8 +217,8 @@
   },
   {
    "number": 42,
-   "tagline": "AI tutoring for 450,000 poorer pupils is promised. The lesson money isn't.",
-   "summary": "Tutoring is the best-evidenced remedy for the attainment gap, worth about five months' extra progress. But the national subsidy ended in 2024, and the government's new AI tutoring push funds tool-building, not lessons. A tutoring entitlement tied to pupil premium would put blended human-and-AI tutoring in front of the pupils who need it."
+   "tagline": "AI tutoring promised for 450,000 pupils; no lesson funding",
+   "summary": "Tutoring is the best-evidenced remedy for the attainment gap, worth about five months' extra progress. The national subsidy ended in 2024, and the government's new AI tutoring push funds tool-building rather than lessons. A tutoring entitlement tied to pupil premium would put blended human-and-AI tutoring in front of the pupils who need it."
   },
   {
    "number": 43,
@@ -227,7 +227,7 @@
   },
   {
    "number": 44,
-   "tagline": "Mid-career and displaced by AI? The state's offer is a loan.",
+   "tagline": "Eight million jobs AI-exposed; retraining offered as debt",
    "summary": "Up to eight million UK jobs are exposed to AI, concentrated in clerical and administrative roles held disproportionately by women and older workers, people unlikely to borrow for retraining. Everything on offer is a loan, an employer-controlled levy or a short bootcamp. Grant-funded retraining accounts, piloted through mayoral authorities, would turn displacement into redeployment."
   },
   {
@@ -242,8 +242,8 @@
   },
   {
    "number": 47,
-   "tagline": "Ministers will 'explore' an AI qualification for sixth-formers. Four million can't wait.",
-   "summary": "The government commits only to 'explore' a data science and AI qualification for sixth-formers, and nothing accredited exists at the levels where displacement bites hardest. Exploration without a commissioned awarding body and a date is how qualifications quietly die. A funded commission aimed at first teaching in 2028 would fix that."
+   "tagline": "AI qualifications for 16-19s; still at the 'explore' stage",
+   "summary": "The government commits only to explore a data science and AI qualification for sixth-formers, and nothing accredited exists at the levels where displacement bites hardest. Exploration without a commissioned awarding body and a date is how qualifications quietly die. A funded commission aimed at first teaching in 2028 would fix it."
   },
   {
    "number": 48,
@@ -262,8 +262,8 @@
   },
   {
    "number": 51,
-   "tagline": "Electricity carries the levies. Gas doesn't. And Britain needs to electrify.",
-   "summary": "British industry pays some of the highest electricity prices in the developed world, partly because old renewables subsidies still sit on power bills. A new scheme rescues about 7,000 manufacturers and leaves everyone else (small firms, data centres, households) paying the penalty. No law schedules moving those costs off electricity for good."
+   "tagline": "Legacy levies sit on electricity; no law moves them off",
+   "summary": "British industry pays some of the highest electricity prices in the developed world, partly because old renewables subsidies still sit on power bills. A new scheme rescues about 7,000 manufacturers and leaves everyone else, from small firms to data centres to households, paying the penalty. No law schedules moving those costs off electricity for good."
   },
   {
    "number": 52,
@@ -317,13 +317,13 @@
   },
   {
    "number": 62,
-   "tagline": "Miss one council tax instalment and the whole year falls due. That rule is from 1992.",
+   "tagline": "One missed instalment; the whole year's council tax falls due",
    "summary": "The state is routinely Britain's harshest creditor, with practices that would be illegal for a regulated lender. Councils passed 1.69 million debts to bailiffs in a single year, and debt advisers report clients going without food to pay. Binding collection standards, affordability checks and statutory bailiff regulation would fix what voluntary charters have not."
   },
   {
    "number": 63,
-   "tagline": "Every big bank is stress-tested. The public finances never are.",
-   "summary": "The 2022 pensions near-meltdown showed what improvising in a gilt crisis costs. Nobody publicly war-games a failed auction or a buyers' strike: the fiscal watchdog is barred from recommending policy, and official contingency planning stays secret. A standing independent stress-test programme is foundation-fundable at a few million pounds a year."
+   "tagline": "Banks are stress-tested; the public finances never are",
+   "summary": "The 2022 pensions near-meltdown showed what improvising in a gilt crisis costs. Nobody publicly war-games a failed auction or a buyers' strike; the fiscal watchdog is barred from recommending policy, and official contingency planning stays secret. A standing independent stress-test programme is foundation-fundable at a few million pounds a year."
   },
   {
    "number": 64,
@@ -347,8 +347,8 @@
   },
   {
    "number": 68,
-   "tagline": "13,000 loans went to people the banks turned away. Then the money ran out.",
-   "summary": "When regulated high-cost lenders quit the market, demand migrated to loan sharks; research links the vacuum to three million people using illegal lenders. The pilot alternative repaid well but stopped lending, and everything left rests on finite dormant-assets money. A permanent funding base for no-interest loans, credit unions and community lenders is the fix."
+   "tagline": "13,175 loans to people banks refused; lending stopped in 2025",
+   "summary": "When regulated high-cost lenders quit the market, demand migrated to loan sharks, and research links the vacuum to three million people using illegal lenders. The pilot alternative repaid well and stopped lending anyway, and everything left rests on finite dormant-assets money. A permanent funding base for no-interest loans, credit unions and community lenders is the fix."
   },
   {
    "number": 69,
