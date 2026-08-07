@@ -12,8 +12,8 @@
   },
   {
    "number": 3,
-   "tagline": "4.4 million people live in a news desert. The reporters left before the money arrived.",
-   "summary": "Local journalism has thinned to little or nothing in 37 council districts, mostly poorer and more diverse places. Those same places are about to receive billions in neighbourhood money, with nobody watching how it is spent. An independent news fund, financed by a levy on the platforms, could put reporters back on the patch."
+   "tagline": "4.4 million people in news deserts; no at-scale news fund",
+   "summary": "Local journalism has thinned to little or nothing in 37 council districts, most of them poorer and more diverse than average. Billions in neighbourhood money is about to land in those same places, and nobody local reports on how it gets spent. An independent news fund financed by a platform levy could put reporters back on the patch."
   },
   {
    "number": 4,
@@ -27,8 +27,8 @@
   },
   {
    "number": 6,
-   "tagline": "Hundreds of resident boards are about to spend millions. Who teaches them how?",
-   "summary": "Resident boards in 379 deprived neighbourhoods are about to start spending serious regeneration money, just as the organisations that trained community leaders wind down. Inexperienced boards are the likeliest failure point of a £5bn programme. A national academy for neighbourhood leadership could inherit the training that made Big Local work."
+   "tagline": "Resident boards spending millions; their training institution winds down",
+   "summary": "Resident boards in 379 deprived neighbourhoods start spending serious regeneration money this year, and the organisations that trained community leaders are winding down at the same time. Inexperienced boards are the likeliest failure point of a £5bn programme. A national academy for neighbourhood leadership could inherit the methods that made Big Local work."
   },
   {
    "number": 7,
@@ -72,8 +72,8 @@
   },
   {
    "number": 13,
-   "tagline": "Germany pays the maintainers of critical code. Britain free-rides.",
-   "summary": "Government systems run on open source code kept alive by unpaid volunteers; one flawed logging component put the NHS at risk. Germany has funded the upkeep of more than sixty critical pieces of software, while Britain has no equivalent. A costed blueprint for a modest UK fund already exists and waits for an owner."
+   "tagline": "Germany funds critical-code maintainers; Britain has no equivalent",
+   "summary": "Government systems run on open source code kept alive by unpaid volunteers, and one flawed logging component put the NHS at risk. Germany has funded the upkeep of more than sixty critical components since 2022. A costed blueprint for a modest UK fund exists and waits for an owner."
   },
   {
    "number": 14,
@@ -112,8 +112,8 @@
   },
   {
    "number": 21,
-   "tagline": "The NHS ran national Covid research on open code. Then it went closed by default.",
-   "summary": "NHS England quietly deleted its open source policy and now keeps its code closed by default, even as hospital record systems lock in proprietary vendors across more than 200 trusts. Openness gave the NHS scrutiny, reuse and bargaining power; Covid-era research proved it. A reinstated policy with a named owner would win that back."
+   "tagline": "NHS code went closed by default; the open source policy was deleted",
+   "summary": "NHS England deleted its open source policy pages and now keeps its code closed by default, while hospital record systems lock more than 200 trusts into proprietary vendors. Covid-era research ran on open NHS code and proved what openness buys the service in scrutiny and reuse, along with bargaining power against vendors. A reinstated policy with a named owner would win that back."
   },
   {
    "number": 22,
@@ -122,8 +122,8 @@
   },
   {
    "number": 23,
-   "tagline": "'Consider open source' has been the rule since 2012. Nobody ever checked the homework.",
-   "summary": "Procurement rules have told officials to consider open source for over a decade, but nothing requires them to record the comparison or score openness, so proprietary contracts roll over by default. That habit shapes over £20bn of public technology spending. An auditable procurement note plus training for buyers would finally give the policy teeth."
+   "tagline": "'Consider open source' since 2012; compliance never audited",
+   "summary": "Procurement rules have told officials to consider open source for over a decade. Nothing requires them to record the comparison or score openness, so proprietary contracts roll over by default across more than £20bn of public technology spending. An auditable procurement note and training for buyers would give the policy force."
   },
   {
    "number": 24,
@@ -137,8 +137,8 @@
   },
   {
    "number": 26,
-   "tagline": "1.6 million teenagers get the vote before their schools know how to prepare them.",
-   "summary": "Votes at sixteen is coming, but a fifth of secondary schools teach no citizenship and the strengthened curriculum arrives after the first cohort votes. First elections form lifelong habits; a botched debut would entrench class-based turnout gaps from the start. A guaranteed democracy induction and mock election in every school would meet the moment."
+   "tagline": "1.6 million first-time voters; the curriculum arrives after they vote",
+   "summary": "Votes at sixteen is legislating now. A fifth of secondary schools teach no citizenship, and the strengthened curriculum arrives after the first cohort votes. First elections form lifelong habits, so a guaranteed democracy induction and a mock election in every school would prepare the first cohort in time."
   },
   {
    "number": 27,
@@ -192,8 +192,8 @@
   },
   {
    "number": 37,
-   "tagline": "Schools are buying AI tools for children on the vendors' word alone.",
-   "summary": "Government safety rules for classroom AI are voluntary self-assessment: no register, no audit, no enforcement. Rigorous trials take years while products ship in months. A permanent certification body, pairing a safety kitemark with rapid efficacy ratings and public money conditional on passing, would give schools a signal they can trust."
+   "tagline": "Classroom AI vetted by vendor self-assessment alone",
+   "summary": "Government safety rules for classroom AI rest on voluntary self-assessment, with no public register and no enforcement. Rigorous trials take years while products ship in months. A permanent certification body pairing a safety kitemark with rapid efficacy ratings, and public money conditional on passing, would give schools a signal they can trust."
   },
   {
    "number": 38,
@@ -207,8 +207,8 @@
   },
   {
    "number": 40,
-   "tagline": "The AI curriculum lands in 2028. Teacher training for it has no budget.",
-   "summary": "England's revised curriculum will teach AI awareness from primary school, but the 460,000 teachers expected to deliver it get optional online modules and no funded training time. Untrained teachers sank the computing reforms of 2014. A national training entitlement with cover costs paid would stop history repeating."
+   "tagline": "AI curriculum lands 2028; teacher training has no budget",
+   "summary": "England's revised curriculum will teach AI awareness from primary school. The 460,000 teachers expected to deliver it currently get optional online modules, with no funded training time. Untrained teachers sank the 2014 computing reforms, and a national training entitlement with cover costs paid would stop the repeat."
   },
   {
    "number": 41,
@@ -272,8 +272,8 @@
   },
   {
    "number": 53,
-   "tagline": "Britain is dismantling the research data it needs to diagnose its own stagnation.",
-   "summary": "The flagship platform for linking government microdata was red-rated, closed to researchers, then defunded. Its ageing predecessor limps on, and economists still cannot connect firm-level tax, trade and ownership records, the raw material of productivity diagnosis. A funded successor with statutory service standards would put evidence back underneath the growth debate."
+   "tagline": "Growth diagnosis needs linked microdata; the platform lost its budget",
+   "summary": "The flagship platform for linking government microdata was red-rated, closed to researchers and then defunded, and its ageing predecessor limps on. Economists still cannot connect firm-level tax, trade and ownership records, the raw material of productivity diagnosis. A funded successor with statutory service standards would put evidence back under the growth debate."
   },
   {
    "number": 54,
@@ -297,8 +297,8 @@
   },
   {
    "number": 58,
-   "tagline": "Post-war new towns ran on 60-year loans. Today's get annual grants instead.",
-   "summary": "Seven sites are shortlisted and the development-corporation powers exist, but no funding matches the model's timescale: new towns repay over decades through rising land values. Annualised grants cannot carry that. A long-dated Treasury lending facility and a land-assembly war chest would let the corporations actually build, as Milton Keynes once did."
+   "tagline": "Seven new towns shortlisted; no patient capital behind them",
+   "summary": "Seven sites are shortlisted and the development-corporation powers exist. The funding does not match the model: new towns repay over decades through rising land values, and annualised grants cannot carry that. A long-dated Treasury lending facility and a land-assembly war chest would let the corporations build, the way Milton Keynes once did."
   },
   {
    "number": 59,
@@ -307,8 +307,8 @@
   },
   {
    "number": 60,
-   "tagline": "A debt repayment lifeline became law in 2018. Eight years on, it is still switched off.",
-   "summary": "Breathing Space gives people in problem debt a 60-day pause, then protections vanish and enforcement resumes. Its legislated companion, a statutory plan letting people repay affordably with interest frozen and bailiffs held off, has never been commenced, and no start date exists. Millions who could repay if protected sit in the gap between a pause and bankruptcy."
+   "tagline": "Legislated in 2018; never switched on",
+   "summary": "Breathing Space gives people in problem debt a 60-day pause, and when it ends the protections vanish and enforcement resumes. The legislated companion, a statutory plan for repaying affordably with interest frozen and bailiffs held off, has never been commenced, and no start date exists. Millions who could repay if protected sit between a two-month pause and bankruptcy."
   },
   {
    "number": 61,
@@ -337,8 +337,8 @@
   },
   {
    "number": 66,
-   "tagline": "Councils owe a record £154.6bn. The accounts are late and auditors won't sign them.",
-   "summary": "Fourteen councils have gone effectively bankrupt, and each collapse arrived as a surprise negotiated behind closed doors. The watchdog that monitored council performance was abolished, and 41% of recent accounts were so unreliable auditors disclaimed them. A quarterly open dataset of debt, reserves and interest costs (a council fiscal watch) could be prototyped now."
+   "tagline": "£154.6bn of council debt; 41% of accounts unsigned",
+   "summary": "Fourteen councils have gone effectively bankrupt, each collapse arriving as a surprise negotiated behind closed doors. The watchdog that monitored council performance was abolished, and 41 per cent of recent accounts were so unreliable that auditors disclaimed them. A quarterly open dataset of debt, reserves and interest costs could be prototyped now."
   },
   {
    "number": 67,
@@ -362,8 +362,8 @@
   },
   {
    "number": 71,
-   "tagline": "Nine rewrites of the fiscal rules, all by announcement. Markets have noticed.",
-   "summary": "Markets partly price UK debt on the risk that the rules will move whenever they bind, and history justifies the suspicion. Thin headroom against the current rule now drives rolling tax-speculation cycles that damage investment. Requiring consultation before rule changes, plus a codified minimum buffer, is a package a policy unit could draft this year."
+   "tagline": "Nine fiscal-rule rewrites since 2010; all by announcement",
+   "summary": "Markets partly price UK debt on the risk that the rules will move whenever they bind, and nine rewrites since 2010 justify the suspicion. Thin headroom against the current rule drives rolling tax-speculation cycles that damage investment. Requiring consultation before rule changes, with a codified minimum buffer, is a package a policy unit could draft this year."
   },
   {
    "number": 218,
@@ -372,8 +372,8 @@
   },
   {
    "number": 72,
-   "tagline": "Facial recognition is rolling out nationwide before Parliament has written it a law.",
-   "summary": "Police forces already scan faces in the street, and the first fixed cameras are live in Croydon, with no dedicated law and no single regulator. An independent review called the oversight patchy and ineffectual. A Biometrics Act could set authorisation rules and a public register before national rollout hardens the habit."
+   "tagline": "Live facial recognition rolling out; no dedicated law",
+   "summary": "Police forces already scan faces in the street and the first fixed cameras are live in Croydon, without a dedicated statute or a single regulator. An independent review called the oversight patchy and ineffectual. A Biometrics Act could set authorisation rules and a public register before national rollout hardens the habit."
   },
   {
    "number": 73,
@@ -412,8 +412,8 @@
   },
   {
    "number": 80,
-   "tagline": "The NHS can leave Palantir in February 2027. Nobody has built anywhere to go.",
-   "summary": "The Palantir-built NHS data platform, a £330m contract, reaches its break clause early next year, and a Commons committee has urged moving to a homegrown replacement. But no funded alternative exists, so lock-in wins by default. Patients cannot even opt out."
+   "tagline": "Palantir break clause February 2027; no alternative built",
+   "summary": "The Palantir-built NHS data platform, a £330m contract, reaches its break clause early next year, and a Commons committee has urged moving to a homegrown replacement. No funded alternative exists, which makes the default outcome indefinite lock-in, and the national data opt-out does not apply to the platform."
   },
   {
    "number": 81,
@@ -452,8 +452,8 @@
   },
   {
    "number": 88,
-   "tagline": "A single donor can still give a British political party an unlimited sum. Legally.",
-   "summary": "The new elections bill raises fines and adds donor checks, yet caps nothing: a donor may still give any amount. Company donations are tested on revenue rather than UK profit, so shell firms can still pass foreign money through. Amendments could close both loopholes."
+   "tagline": "Party donations uncapped; the shell-company route open",
+   "summary": "The new elections bill raises fines and adds donor checks, and it caps nothing: a donor may still give any amount. Company donations are tested on revenue rather than UK profit, so shell firms can pass foreign money through. Amendments could close both."
   },
   {
    "number": 89,
@@ -472,8 +472,8 @@
   },
   {
    "number": 92,
-   "tagline": "Freedom of information requests hit a record high. The watchdog's budget fell 41%.",
-   "summary": "Freedom of information exposed the VIP-lane contracts and the Cabinet Office unit vetting requests. Yet the regulator's budget for enforcing it has been cut 41% in real terms, and ministers are now exploring making requests easier to refuse. Funding it directly from Parliament, and extending it to outsourced public services, would rescue the public's main audit tool."
+   "tagline": "Record FOI requests; enforcement budget down 41%",
+   "summary": "Freedom of information surfaced the VIP-lane contracts and the Cabinet Office unit vetting requests. The regulator's budget for enforcing it has fallen 41 per cent in real terms, and ministers are exploring making requests easier to refuse. Funding it directly from Parliament and extending it to outsourced public services would restore the public's main audit tool."
   },
   {
    "number": 93,

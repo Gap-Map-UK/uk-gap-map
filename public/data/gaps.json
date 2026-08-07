@@ -87,9 +87,9 @@
   "domain": "civic-society",
   "type": "funding",
   "horizon": "short",
-  "description": "PINF's December 2025 Local News Report finds 4.4m people in news deserts (37 districts: 27 with no outlet, 10 with limited coverage), concentrated in deprived and diverse areas. The BBC-funded Local Democracy Reporting Service (~165 reporters, ~£8m/year) has no guaranteed future amid £500m BBC cuts and Charter review; DCMS's Amplify plan offers only £6m in 2026/27 plus up to £6m in 2027/28. PINF's own Local News Fund is philanthropic and small; Google's estimated £2.2bn UK news-derived revenue is uncaptured. Charitable status for journalism remains legally awkward, deterring foundation funding.",
-  "why": "Local news is the accountability layer for the entire devolution agenda: new strategic authorities, mayors and neighbourhood boards will spend billions with fewer reporters watching. Evidence links news provision to local service performance and civic participation; deserts map onto exactly the deprived areas receiving Pride in Place money.",
-  "fill": "An independently governed Local News Fund/endowment at £30–50m per year, financed by a platform levy or negotiated platform contributions plus philanthropy; LDRS protected and expanded in the BBC Charter settlement (extending reporters to courts and NHS bodies); and Law Commission/Charity Commission clarification making public-interest journalism a charitable purpose.",
+  "description": "PINF's December 2025 Local News Report counts 4.4 million people living in news deserts across 37 districts, 27 with no outlet at all and 10 with limited coverage, concentrated in deprived and diverse areas. The BBC-funded Local Democracy Reporting Service runs about 165 reporters on roughly £8m a year and has no guaranteed future amid £500m of BBC cuts and Charter review. DCMS's Amplify plan offers £6m in 2026-27 and up to £6m the year after. PINF's own Local News Fund is philanthropic and small. Google's estimated £2.2bn of UK news-derived revenue goes uncaptured, and charitable status for journalism remains legally awkward enough to deter foundation funding.",
+  "why": "Local news is the accountability layer for the devolution agenda. New strategic authorities, mayors and neighbourhood boards will spend billions with fewer reporters watching. The evidence links news provision to local service performance and civic participation, and the deserts map onto the deprived areas receiving Pride in Place money.",
+  "fill": "An independently governed Local News Fund at £30–50m a year, financed by a platform levy or negotiated platform contributions with philanthropy alongside. The Local Democracy Reporting Service would be protected and expanded in the BBC Charter settlement, extending reporters to courts and NHS bodies. Clarification from the Law Commission or Charity Commission would make public-interest journalism a charitable purpose.",
   "sources": [
    "https://www.publicinterestnews.org.uk/content/files/2025/12/PINF-Local-News-Report-2025--8-December-.pdf",
    "https://www.holdthefrontpage.co.uk/2026/news/save-local-democracy-reporting-service-new-bbc-d-g-urged/",
@@ -108,8 +108,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: platform levy legislation plus BBC Charter LDRS settlement; philanthropy-plus-platform-contributions fund possible earlier but not at-scale.",
-  "tagline": "4.4 million people live in a news desert. The reporters left before the money arrived.",
-  "summary": "Local journalism has thinned to little or nothing in 37 council districts, mostly poorer and more diverse places. Those same places are about to receive billions in neighbourhood money, with nobody watching how it is spent. An independent news fund, financed by a levy on the platforms, could put reporters back on the patch.",
+  "tagline": "4.4 million people in news deserts; no at-scale news fund",
+  "summary": "Local journalism has thinned to little or nothing in 37 council districts, most of them poorer and more diverse than average. Billions in neighbourhood money is about to land in those same places, and nobody local reports on how it gets spent. An independent news fund financed by a platform levy could put reporters back on the patch.",
   "facets": [
    "funding-gaps"
   ],
@@ -132,7 +132,7 @@
    }
   ],
   "rank": 4,
-  "rankNote": "Local accountability collapses as devolution scales up; the live BBC Charter review now decides the reporting service's fate, and no independent at-scale financing fills the news deserts."
+  "rankNote": "Devolution scales up while the reporting layer thins, the live BBC Charter review decides the reporting service's fate, and no at-scale independent financing exists for the deserts."
  },
  {
   "number": 4,
@@ -223,9 +223,9 @@
   "domain": "civic-society",
   "type": "institutional",
   "horizon": "short",
-  "description": "From April 2026, ~379 Pride in Place neighbourhood boards begin spending up to £20m each, and the 2026 Act obliges councils to establish neighbourhood governance arrangements, but the infrastructure that trained resident leaders is disappearing. Local Trust (whose Community Leadership Academy supported leaders across 150 Big Local areas and helped mobilise 6,000+ first-time volunteers) winds down in 2026; the government's community organiser training programmes ended years ago; Community Organisers Ltd's academy is small; Locality supports organisations rather than resident boards. JRF has already flagged capacity gaps as the programme's key risk. No body is charged with training, peer networks, or governance support for thousands of new resident decision-makers.",
-  "why": "Big Local's core lesson is that resident-led funding works only with long-term capacity support and conflict-resolution help. Without a successor institution, Pride in Place boards in the most deprived neighbourhoods, many with no governance experience, are the likeliest point of failure for a £5bn, ten-year programme.",
-  "fill": "A National Neighbourhood Academy: a 10-year funded institution (MHCLG + National Lottery + foundations) providing training, accreditation, peer networks and troubleshooting for resident board members and neighbourhood committees, explicitly inheriting Local Trust's Community Leadership Academy methods and Big Local evidence base.",
+  "description": "From April 2026, around 379 Pride in Place neighbourhood boards begin spending up to £20m each, and the 2026 Act obliges councils to establish neighbourhood governance arrangements. The infrastructure that trained resident leaders is disappearing at the same moment. Local Trust, whose Community Leadership Academy supported leaders across 150 Big Local areas and helped mobilise more than 6,000 first-time volunteers, winds down in 2026. The government's community organiser training programmes ended years ago. Community Organisers Ltd runs a small academy, and Locality supports organisations rather than resident boards. JRF has flagged capacity as the programme's key risk, and no body is charged with training, peer networks or governance support for thousands of new resident decision-makers.",
+  "why": "Big Local's core lesson is that resident-led funding works when long-term capacity support and conflict-resolution help sit behind it. Pride in Place boards in the most deprived neighbourhoods often have no governance experience at all. They are the likeliest point of failure for a £5bn, ten-year programme.",
+  "fill": "A National Neighbourhood Academy, funded for ten years by MHCLG with the National Lottery and foundations. It would provide training, accreditation, peer networks and troubleshooting for resident board members and neighbourhood committees, inheriting Local Trust's Community Leadership Academy methods and the Big Local evidence base.",
   "sources": [
    "https://localtrust.org.uk/big-local-programme-closing-faqs/",
    "https://www.jrf.org.uk/neighbourhoods-and-communities/pride-in-place-funding-gaps-and-capacity-challenges",
@@ -241,10 +241,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: foundation-funded academy cohort inheriting Local Trust's Community Leadership Academy curriculum and Big Local evidence base.",
-  "tagline": "Hundreds of resident boards are about to spend millions. Who teaches them how?",
-  "summary": "Resident boards in 379 deprived neighbourhoods are about to start spending serious regeneration money, just as the organisations that trained community leaders wind down. Inexperienced boards are the likeliest failure point of a £5bn programme. A national academy for neighbourhood leadership could inherit the training that made Big Local work.",
+  "tagline": "Resident boards spending millions; their training institution winds down",
+  "summary": "Resident boards in 379 deprived neighbourhoods start spending serious regeneration money this year, and the organisations that trained community leaders are winding down at the same time. Inexperienced boards are the likeliest failure point of a £5bn programme. A national academy for neighbourhood leadership could inherit the methods that made Big Local work.",
   "rank": 4,
-  "rankNote": "Some 379 boards already spend up to £20m each while the institution that trained resident leaders winds down this year, leaving a £5bn programme's likeliest failure point unsupported."
+  "rankNote": "Boards begin spending up to £20m each this year while the institution that trained resident leaders winds down, leaving a £5bn programme's likeliest failure point unsupported."
  },
  {
   "number": 8,
@@ -477,9 +477,9 @@
   "domain": "open-source-public-goods",
   "type": "funding",
   "horizon": "short",
-  "description": "Germany's Sovereign Tech Fund (Sovereign Tech Agency) has invested over €24.6m in 60+ critical open source components since 2022, and a €350m EU-level fund is proposed; the UK, whose software stacks are 90%+ OSS-dependent (Log4j hit the NHS), has no equivalent. Partial coverage: SSI's £4.8m Research Software Maintenance Fund covers research software only; OpenSSF's Alpha-Omega is US corporate philanthropy not UK-directed; corporate sponsorship is ad hoc. A costed blueprint exists in the UK Day One proposal (Milton, Osborne, Pickering, 2024) for a £12.5m/year UKRI-administered fund (£7.5m maintenance, £5m innovation), and OpenUK's October 2025 recommendations to UKRI include a sovereign tech fund. Nothing has been announced as of mid-2026; the £500m Sovereign AI Fund is an equity venture fund, not commons maintenance.",
-  "why": "The UK state and economy free-ride on unpaid maintainers of components they cannot function without. One funded UK maintainer per critical dependency is cheap insurance against the next Log4j; Germany has proven the delivery model works at €15-20m/year.",
-  "fill": "A 'UK Sovereign Tech Fund' inside DSIT or UKRI at £10-15m/year, issuing service contracts (not grants) to maintainers of dependencies critical to government and CNI, with a rapid security-response arm; adopt the Sovereign Tech Agency's published operating model and the UK Day One costing.",
+  "description": "Germany's Sovereign Tech Fund has invested over €24.6m in more than 60 critical open source components since 2022, and a €350m EU-level fund is proposed. UK software stacks are more than 90 per cent dependent on open source, and Log4j reached the NHS. Partial cover exists. The Software Sustainability Institute's £4.8m Research Software Maintenance Fund covers research software only, OpenSSF's Alpha-Omega is US corporate philanthropy with no UK direction, and corporate sponsorship stays ad hoc. A costed blueprint sits in the UK Day One proposal from 2024: a £12.5m-a-year UKRI-administered fund, £7.5m for maintenance and £5m for innovation. OpenUK's October 2025 recommendations to UKRI include a sovereign tech fund. Nothing has been announced as of mid-2026, and the £500m Sovereign AI Fund is an equity venture fund rather than commons maintenance.",
+  "why": "The state and the economy free-ride on unpaid maintainers of components they cannot function without. One funded UK maintainer per critical dependency is cheap insurance against the next Log4j, and Germany has run the delivery model at €15-20m a year since 2022.",
+  "fill": "A UK Sovereign Tech Fund inside DSIT or UKRI at £10-15m a year. It would issue service contracts rather than grants to maintainers of dependencies critical to government and national infrastructure, with a rapid security-response arm. The Sovereign Tech Agency's operating model is published, and the UK Day One costing is done.",
   "sources": [
    "https://www.sovereign.tech/programs/fund",
    "https://britishprogress.org/uk-day-one/a-uk-open-source-fund-to-support-software-innovati",
@@ -500,8 +500,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: DSIT/UKRI budget line issuing maintainer service contracts.",
-  "tagline": "Germany pays the maintainers of critical code. Britain free-rides.",
-  "summary": "Government systems run on open source code kept alive by unpaid volunteers; one flawed logging component put the NHS at risk. Germany has funded the upkeep of more than sixty critical pieces of software, while Britain has no equivalent. A costed blueprint for a modest UK fund already exists and waits for an owner.",
+  "tagline": "Germany funds critical-code maintainers; Britain has no equivalent",
+  "summary": "Government systems run on open source code kept alive by unpaid volunteers, and one flawed logging component put the NHS at risk. Germany has funded the upkeep of more than sixty critical components since 2022. A costed blueprint for a modest UK fund exists and waits for an owner.",
   "alsoDomains": [
    "portable-sovereignty"
   ],
@@ -548,7 +548,7 @@
    }
   ],
   "rank": 4,
-  "rankNote": "A fully costed, Germany-proven delivery model sits unfunded while national infrastructure free-rides on unpaid maintainers, and OpenUK's 2025 UKRI recommendations open a live decision moment."
+  "rankNote": "A fully costed, Germany-proven model sits unfunded while national infrastructure free-rides on unpaid maintainers, and OpenUK's 2025 recommendations to UKRI opened a live decision moment."
  },
  {
   "number": 14,
@@ -774,9 +774,9 @@
   "domain": "open-source-public-goods",
   "type": "institutional",
   "horizon": "mid",
-  "description": "NHS England's open source policies lapsed when NHSX was merged away in 2021; the policy pages were quietly deleted in December 2025, and in May 2026 NHSE adopted a default-closed posture on its source code citing AI-related security risks, drawing an open letter (74 signatories, May 2026) asking it to keep code open. Meanwhile the EPR rollout (95% of trusts by March 2026) locks in proprietary vendors with no open-code or open-API conditions. Partial coverage: the Apperta Foundation (clinician-led CIC, steward of OpenEyes) is small and industry-supported; OpenSAFELY/OpenPrescribing are funded by Wellcome (£17m over seven years) and grants: philanthropy substituting for an NHS core responsibility.",
-  "why": "Health tech is where UK open source once led (OpenSAFELY ran national COVID research on open code) and where lock-in costs most. A closed-by-default NHS forfeits scrutiny, reuse across 200+ trusts, and negotiating power against EPR vendors.",
-  "fill": "A reinstated NHS open source policy with a named accountable owner; open-code and open-API conditions in EPR and framework procurements; and a modest NHS stewardship fund maintaining clinically critical open software, contracted through bodies like Apperta or the Bennett Institute.",
+  "description": "NHS England's open source policies lapsed when NHSX was merged away in 2021, and the policy pages were quietly deleted in December 2025. In May 2026 NHSE adopted a default-closed posture on its source code, citing AI-related security risks, and drew an open letter with 74 signatories asking it to keep code open. The electronic patient record rollout reached 95 per cent of trusts by March 2026 and locks in proprietary vendors with no open-code or open-API conditions. The Apperta Foundation, a clinician-led CIC that stewards OpenEyes, is small and industry-supported. OpenSAFELY and OpenPrescribing run on £17m of Wellcome funding over seven years, philanthropy substituting for a core NHS responsibility.",
+  "why": "Health technology is where UK open source once led, and where lock-in costs most. OpenSAFELY ran national Covid research on open code. A closed-by-default NHS gives up scrutiny of its own systems and reuse across more than 200 trusts, and it hands negotiating power to the record-system vendors.",
+  "fill": "A reinstated NHS open source policy with a named accountable owner. Open-code and open-API conditions would go into record-system and framework procurements, and a modest stewardship fund would maintain clinically critical open software, contracted through bodies like Apperta or the Bennett Institute.",
   "sources": [
    "https://www.digitalhealth.net/2025/12/nhs-england-quietly-removes-open-source-policy-web-pages/",
    "https://www.digitalhealth.net/2026/05/nhse-to-move-away-from-open-source-over-ai-security-concerns/",
@@ -791,8 +791,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: NHS England/DHSC; pilot possible with one volunteer ICB or trust adopting open-code procurement conditions.",
-  "tagline": "The NHS ran national Covid research on open code. Then it went closed by default.",
-  "summary": "NHS England quietly deleted its open source policy and now keeps its code closed by default, even as hospital record systems lock in proprietary vendors across more than 200 trusts. Openness gave the NHS scrutiny, reuse and bargaining power; Covid-era research proved it. A reinstated policy with a named owner would win that back.",
+  "tagline": "NHS code went closed by default; the open source policy was deleted",
+  "summary": "NHS England deleted its open source policy pages and now keeps its code closed by default, while hospital record systems lock more than 200 trusts into proprietary vendors. Covid-era research ran on open NHS code and proved what openness buys the service in scrutiny and reuse, along with bargaining power against vendors. A reinstated policy with a named owner would win that back.",
   "dialogue": {
    "counterparty": "nhs-and-care",
    "ask": "Work with one volunteer trust or care board to trial open-code and open-API procurement conditions, as the first step to reinstating a national open source policy.",
@@ -801,7 +801,7 @@
    "firstStep": "One trust or care board applies open-code conditions to a single non-critical procurement over six months, with the security case documented and reviewed jointly before anyone talks about national policy."
   },
   "rank": 4,
-  "rankNote": "EPR lock-in completes this year while NHS England just went default-closed and deleted its policy, so the window to keep clinically critical code open is closing now."
+  "rankNote": "Record-system lock-in completes this year just as NHS England went default-closed and deleted its policy, so the window for keeping clinically critical code open is closing now."
  },
  {
   "number": 22,
@@ -860,9 +860,9 @@
   "domain": "open-source-public-goods",
   "type": "policy",
   "horizon": "short",
-  "description": "The Technology Code of Practice ('be open and use open source') and the Digital, Data and Technology Playbook have required consideration of open source since 2012, but there is no evaluation weighting, no requirement to record the comparison, and no reporting on compliance. The Procurement Act 2023 and G-Cloud 15 (the first 'open framework') modernised process without any open source provisions. OpenUK's UKRI-commissioned recommendations (October 2025) identify the fixes: expand the procurement definition of open source beyond licence to include documentation, contributor support and community development, and train procurement officers to assess it. Result today: proprietary renewals roll over by default, and OSS SMEs (e.g. the 23 LocalGov Drupal vendors) get no credit for openness or exit-cost savings.",
-  "why": "Procurement is where open source policy dies. Without recorded comparisons and openness weighting, fourteen years of 'consider open source' has produced almost no measurable shift in the £20bn+ the public sector spends on technology.",
-  "fill": "A Procurement Policy Note under the Procurement Act 2023 making open source consideration auditable (recorded total-cost-of-ownership comparison including exit costs, an openness criterion in evaluation), plus commercial-function training, implementing OpenUK's recommendations to UKRI.",
+  "description": "The Technology Code of Practice and the Digital, Data and Technology Playbook have required consideration of open source since 2012. Nothing weights openness in evaluation, officials never have to record the comparison, and compliance goes unreported. The Procurement Act 2023 and G-Cloud 15 modernised process without adding open source provisions. OpenUK's UKRI-commissioned recommendations from October 2025 identify the fixes: widen the procurement definition of open source beyond licence to include documentation, contributor support and community development, and train procurement officers to assess it. Today proprietary renewals roll over by default, and open source SMEs like the 23 LocalGov Drupal vendors get no credit for openness or for the exit costs they save.",
+  "why": "Procurement is where open source policy dies. Fourteen years of guidance produced almost no measurable shift in the £20bn-plus the public sector spends on technology, because nobody records the comparison and nobody checks.",
+  "fill": "A Procurement Policy Note under the Procurement Act 2023 making the open source comparison auditable: a recorded total-cost-of-ownership assessment including exit costs, and an openness criterion in evaluation. Training for the commercial function would implement OpenUK's recommendations to UKRI.",
   "sources": [
    "https://openuk.uk/theuksfutureleadershipinopensource/",
    "https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/uk-government-prescribes-open-source-public-procurement",
@@ -877,10 +877,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Procurement Policy Note under the Procurement Act 2023 (Cabinet Office).",
-  "tagline": "'Consider open source' has been the rule since 2012. Nobody ever checked the homework.",
-  "summary": "Procurement rules have told officials to consider open source for over a decade, but nothing requires them to record the comparison or score openness, so proprietary contracts roll over by default. That habit shapes over £20bn of public technology spending. An auditable procurement note plus training for buyers would finally give the policy teeth.",
+  "tagline": "'Consider open source' since 2012; compliance never audited",
+  "summary": "Procurement rules have told officials to consider open source for over a decade. Nothing requires them to record the comparison or score openness, so proprietary contracts roll over by default across more than £20bn of public technology spending. An auditable procurement note and training for buyers would give the policy force.",
   "rank": 4,
-  "rankNote": "An off-the-shelf Procurement Policy Note could make openness auditable across £20bn+ of spend as the Procurement Act beds in, yet fourteen years of guidance has shifted almost nothing."
+  "rankNote": "An off-the-shelf Procurement Policy Note could make openness auditable across £20bn-plus of spend as the Procurement Act beds in, and fourteen years of guidance alone has shifted almost nothing."
  },
  {
   "number": 24,
@@ -955,9 +955,9 @@
   "domain": "youth-mobilisation",
   "type": "policy",
   "horizon": "short",
-  "description": "Votes at 16 is legislating now, but the education system is not ready: roughly a fifth of secondary schools provide no citizenship education, GCSE Citizenship entries have fallen to ~21,000, 84% of state school teachers say the curriculum does not prepare pupils to vote, and the strengthened citizenship curriculum from the 2025 Curriculum and Assessment Review is only published in 2027, likely after the first cohort of 16-year-old voters is enfranchised. The Electoral Commission's seven new democratic education programmes (with The Politics Project, ACT, Shout Out UK, Young Citizens) are valuable but small pilots, not universal coverage.",
-  "why": "First elections are habit-forming: those who vote in their first eligible election are significantly more likely to vote for life. A botched first cycle of votes at 16 (low turnout, uneven school preparation) would hand opponents evidence against the reform and entrench class-based turnout gaps from age 16.",
-  "fill": "A DfE/Electoral Commission co-funded national First Vote entitlement before the next general election: guaranteed democracy induction and mock elections in every school and college, teacher CPD at scale, delivered through a consortium of the existing providers rather than new pilots.",
+  "description": "Votes at 16 is legislating now and the education system is not ready. Roughly a fifth of secondary schools provide no citizenship education, GCSE Citizenship entries have fallen to about 21,000, and 84 per cent of state school teachers say the curriculum does not prepare pupils to vote. The strengthened citizenship curriculum from the 2025 Curriculum and Assessment Review is published only in 2027, likely after the first cohort of 16-year-old voters is enfranchised. The Electoral Commission's seven new democratic education programmes, run with The Politics Project, ACT, Shout Out UK and Young Citizens, are small pilots rather than universal coverage.",
+  "why": "People who vote in their first eligible election are markedly more likely to vote for life. A low-turnout, unevenly prepared first cycle would hand opponents evidence against the reform and set class-based turnout gaps from age 16.",
+  "fill": "A national First Vote entitlement co-funded by DfE and the Electoral Commission before the next general election: a guaranteed democracy induction and mock election in every school and college, with teacher CPD at scale, delivered through a consortium of the existing providers rather than new pilots.",
   "sources": [
    "https://schoolsweek.co.uk/vote-at-16-are-schools-prepared-for-politics-in-the-classroom/",
    "https://www.electoralcommission.org.uk/media-centre/changes-curriculum-opportunity-transform-democratic-education-schools",
@@ -973,8 +973,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: DfE and Electoral Commission co-funding; existing providers deliver through schools and colleges.",
-  "tagline": "1.6 million teenagers get the vote before their schools know how to prepare them.",
-  "summary": "Votes at sixteen is coming, but a fifth of secondary schools teach no citizenship and the strengthened curriculum arrives after the first cohort votes. First elections form lifelong habits; a botched debut would entrench class-based turnout gaps from the start. A guaranteed democracy induction and mock election in every school would meet the moment.",
+  "tagline": "1.6 million first-time voters; the curriculum arrives after they vote",
+  "summary": "Votes at sixteen is legislating now. A fifth of secondary schools teach no citizenship, and the strengthened curriculum arrives after the first cohort votes. First elections form lifelong habits, so a guaranteed democracy induction and a mock election in every school would prepare the first cohort in time.",
   "dialogue": {
    "counterparty": "electoral-bodies",
    "ask": "Scale your seven democratic education pilots into a guaranteed first-vote induction, with a mock election, in every school and college before the next general election.",
@@ -991,7 +991,7 @@
    }
   ],
   "rank": 4,
-  "rankNote": "Enfranchisement is legislating now but a fifth of schools teach no citizenship and the strengthened curriculum lands only in 2027, risking a botched habit-forming first cycle."
+  "rankNote": "Enfranchisement is legislating now, a fifth of schools teach no citizenship, and the strengthened curriculum lands only in 2027, after the habit-forming first cycle."
  },
  {
   "number": 27,
@@ -1353,9 +1353,9 @@
   "domain": "education-ai",
   "type": "institutional",
   "horizon": "short",
-  "description": "DfE's Generative AI product safety expectations (2025, updated 2026) are voluntary self-assessment: no public register of compliant products, no audit, no enforcement. The EdTech Evidence Board pilot (Chartered College of Teaching, ~£800k DfE contract ending April 2026) reviews supplier-submitted evidence but is time-limited and voluntary; BESA's LendED lists supplier self-declared claims; EEF trials are rigorous but take 2–3 years per product (Aila's NFER evaluation reports autumn 2026, two years after launch). Nothing tells a school, at market speed, whether an AI product used with children is safe and effective.",
-  "why": "Schools are procuring AI tools now, individually, with no trustworthy signal. Product cycles are measured in months; the evidence system in years. Without certification, the DfE safety expectations are dead letter, and public money flows to unvalidated products used directly with children.",
-  "fill": "Make the EdTech Evidence Board permanent and statutorily backed: an EdTech Assurance Body combining certification against the DfE safety expectations (with independent audit and a public register) and rapid-cycle efficacy ratings, with DfE-funded procurement conditional on certification.",
+  "description": "DfE's generative AI product safety expectations, published 2025 and updated 2026, are voluntary self-assessment, with no public register of compliant products and no audit or enforcement behind them. The EdTech Evidence Board pilot at the Chartered College of Teaching, a roughly £800k DfE contract, ended in April 2026 and reviewed supplier-submitted evidence on a voluntary basis. BESA's LendED lists supplier self-declared claims. EEF trials are rigorous and take two to three years per product; Aila's NFER evaluation reports in autumn 2026, two years after launch. Nothing tells a school at market speed whether an AI product used with children is safe and effective.",
+  "why": "Schools are buying AI tools now, one procurement at a time, with no trustworthy signal to buy against. Product cycles run in months and the evidence system runs in years. Public money flows to unvalidated products used directly with children.",
+  "fill": "Make the EdTech Evidence Board permanent and statutory: an assurance body certifying against the DfE safety expectations, with independent audit and a public register, and publishing rapid-cycle efficacy ratings. DfE-funded procurement would be conditional on certification.",
   "sources": [
    "https://www.gov.uk/government/publications/generative-ai-product-safety-expectations/generative-ai-product-safety-expectations",
    "https://chartered.college/edtech-evidence-board-project/",
@@ -1371,10 +1371,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statute making EdTech Assurance Body permanent, with DfE procurement conditionality and audited public register.",
-  "tagline": "Schools are buying AI tools for children on the vendors' word alone.",
-  "summary": "Government safety rules for classroom AI are voluntary self-assessment: no register, no audit, no enforcement. Rigorous trials take years while products ship in months. A permanent certification body, pairing a safety kitemark with rapid efficacy ratings and public money conditional on passing, would give schools a signal they can trust.",
+  "tagline": "Classroom AI vetted by vendor self-assessment alone",
+  "summary": "Government safety rules for classroom AI rest on voluntary self-assessment, with no public register and no enforcement. Rigorous trials take years while products ship in months. A permanent certification body pairing a safety kitemark with rapid efficacy ratings, and public money conditional on passing, would give schools a signal they can trust.",
   "rank": 4,
-  "rankNote": "Schools buy AI tools for children at market speed while the only evidence pilot's DfE funding lapsed in April 2026, leaving safety expectations unenforced and unregistered."
+  "rankNote": "Schools buy AI tools for children at market speed, the only evidence pilot lost its DfE funding in April 2026, and the safety expectations remain unenforced and unregistered."
  },
  {
   "number": 38,
@@ -1456,9 +1456,9 @@
   "domain": "education-ai",
   "type": "funding",
   "horizon": "short",
-  "description": "The reformed curriculum (AI awareness from KS2, new computing GCSE, BCS drafting, consultation summer 2026) starts teaching in September 2028. In the interim, DfE support materials (June 2025, updated May 2026, with Chiltern Learning Trust and Chartered College) are optional online modules; TechYouth (£24m within DSIT's £187m TechFirst) funds pupil-facing resources, not teacher training; NCCE's funded CPD covers computing specialists only; Raspberry Pi Foundation's Experience AI is free but voluntary and patchy. No funded entitlement, cover funding or bursary exists for the ~460,000-strong workforce to learn to teach with and about AI.",
-  "why": "Curriculum reform fails at the workforce layer: 2028 content taught by untrained teachers reproduces the computing-curriculum problem of 2014. Meanwhile pupils' actual AI use is shaped for three years by whatever schools improvise, deepening disadvantage gaps between well-resourced trusts and the rest.",
-  "fill": "Extend the NCCE model into a National Centre for AI in Teaching: a funded CPD entitlement (cover costs plus subject-specific pathways) for all teachers, sequenced to 2028 curriculum implementation and written into ITT core content.",
+  "description": "The reformed curriculum teaches AI awareness from key stage 2 with a new computing GCSE drafted by BCS, consultation this summer, and first teaching in September 2028. Interim support is thin. DfE's materials with the Chiltern Learning Trust and the Chartered College are optional online modules. TechYouth, £24m inside DSIT's £187m TechFirst, funds pupil-facing resources rather than teacher training. NCCE's funded CPD covers computing specialists only, and Raspberry Pi Foundation's Experience AI is free, voluntary and patchy. No funded entitlement, cover funding or bursary exists for a workforce of around 460,000 to learn to teach with and about AI.",
+  "why": "Curriculum reform fails at the workforce layer, and 2028 content taught by untrained teachers reruns the 2014 computing problem. In the three interim years, pupils' AI use is shaped by whatever schools improvise, and the gap between well-resourced trusts and the rest widens.",
+  "fill": "Extend the NCCE model into a National Centre for AI in Teaching: a funded CPD entitlement covering cover costs and subject-specific pathways for all teachers, sequenced to 2028 implementation and written into initial teacher training core content.",
   "sources": [
    "https://www.bcs.org/articles-opinion-and-research/new-computing-curriculum-will-teach-ai-awareness-and-digital-literacy/",
    "https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education/generative-artificial-intelligence-ai-in-education",
@@ -1473,10 +1473,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: DfE-funded national CPD entitlement with cover costs, written into ITT core content framework.",
-  "tagline": "The AI curriculum lands in 2028. Teacher training for it has no budget.",
-  "summary": "England's revised curriculum will teach AI awareness from primary school, but the 460,000 teachers expected to deliver it get optional online modules and no funded training time. Untrained teachers sank the computing reforms of 2014. A national training entitlement with cover costs paid would stop history repeating.",
+  "tagline": "AI curriculum lands 2028; teacher training has no budget",
+  "summary": "England's revised curriculum will teach AI awareness from primary school. The 460,000 teachers expected to deliver it currently get optional online modules, with no funded training time. Untrained teachers sank the 2014 computing reforms, and a national training entitlement with cover costs paid would stop the repeat.",
   "rank": 4,
-  "rankNote": "A 460,000-strong workforce must teach 2028 AI content with only optional modules today; the consultation is live this summer and three interim years shape pupils unequally."
+  "rankNote": "A 460,000-strong workforce faces 2028 content with only optional modules today, the consultation is live this summer, and three interim years shape pupils unequally."
  },
  {
   "number": 41,
@@ -1839,9 +1839,9 @@
   "domain": "growth-stagnation",
   "type": "tooling",
   "horizon": "short",
-  "description": "The ONS Integrated Data Service, the intended cross-government platform for linked microdata, was red-rated in March 2025, stopped accepting external research applications in July 2025, and lost its £53m/yr budget from March 2026 at the Spending Review. The legacy Secure Research Service continues 'indefinitely' but is the ageing system IDS was meant to replace. Researchers still cannot readily link firm-level tax, trade and ownership data (the raw material of productivity diagnosis). ADR UK partially covers administrative data but not the business-data linkage problem.",
-  "why": "Every competing diagnosis of the productivity slowdown depends on linked firm-level microdata. The UK is dismantling its data platform mid-crisis, leaving policy running on downgraded OBR aggregates rather than evidence about which firms, sectors and places are stuck.",
-  "fill": "A funded successor secure-access platform with statutory service standards (accreditation turnaround times, uptime) prioritising linked HMRC–Companies House–ONS business microdata, governed jointly with the research community.",
+  "description": "The ONS Integrated Data Service, intended as the cross-government platform for linked microdata, was red-rated in March 2025, stopped accepting external research applications in July 2025, and lost its £53m annual budget from March 2026 at the Spending Review. The legacy Secure Research Service continues indefinitely, and it is the ageing system the IDS was meant to replace. Researchers still cannot readily link firm-level tax, trade and ownership data. ADR UK covers administrative data in part and does not solve the business-data linkage problem.",
+  "why": "Every competing diagnosis of the productivity slowdown depends on linked firm-level microdata. The platform is being dismantled mid-crisis, which leaves policy running on downgraded OBR aggregates rather than evidence about which firms, sectors and places are stuck.",
+  "fill": "A funded successor secure-access platform with statutory service standards for accreditation turnaround and uptime, prioritising linked HMRC, Companies House and ONS business microdata, governed jointly with the research community.",
   "sources": [
    "https://www.theregister.com/2025/10/03/ons_data_sharing_mess/",
    "https://integrateddataservice.gov.uk/news/important-update-on-integrated-data-service",
@@ -1856,10 +1856,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Spending Review funding for successor platform plus statutory service standards; HMRC data access is government-gated.",
-  "tagline": "Britain is dismantling the research data it needs to diagnose its own stagnation.",
-  "summary": "The flagship platform for linking government microdata was red-rated, closed to researchers, then defunded. Its ageing predecessor limps on, and economists still cannot connect firm-level tax, trade and ownership records, the raw material of productivity diagnosis. A funded successor with statutory service standards would put evidence back underneath the growth debate.",
+  "tagline": "Growth diagnosis needs linked microdata; the platform lost its budget",
+  "summary": "The flagship platform for linking government microdata was red-rated, closed to researchers and then defunded, and its ageing predecessor limps on. Economists still cannot connect firm-level tax, trade and ownership records, the raw material of productivity diagnosis. A funded successor with statutory service standards would put evidence back under the growth debate.",
   "rank": 4,
-  "rankNote": "The linked-microdata platform for diagnosing productivity lost its £53m budget in March 2026 and stopped taking applications, so dismantling is happening now, making preservation urgent this year."
+  "rankNote": "The linked-microdata platform lost its £53m budget in March 2026 and stopped taking applications, so preservation is a this-year problem."
  },
  {
   "number": 54,
@@ -1975,9 +1975,9 @@
   "domain": "growth-stagnation",
   "type": "institutional",
   "horizon": "long",
-  "description": "The New Towns Taskforce (Sept 2025) named 12 sites; government shortlisted seven in March 2026 (consultation closed May 2026, decisions expected late summer 2026), with Tempsford, Crews Hill and Leeds South Bank as priority sites. The preferred vehicle is a statutory development corporation with planning powers, and the Planning and Infrastructure Act 2025 strengthened CPO and development corporation powers. What does not yet exist: multi-decade capitalisation. Post-war new towns ran on ~60-year Treasury loans and land bought near existing-use value; today's corporations have no equivalent funding instrument. Homes England grant programmes are annualised and far too small.",
-  "why": "New towns only pay back over 30–60 years through land value uplift. Without a long-dated lending facility and land-assembly war chest, the seven sites will stall at masterplan stage or be diluted into ordinary developer-led schemes, forfeiting the model's fiscal self-financing logic.",
-  "fill": "Capitalised statutory development corporations: a Treasury long-dated lending facility (or National Wealth Fund mandate), land assembly funded at near-existing-use value using reformed CPO powers, and uplift-capture governance modelled on Milton Keynes.",
+  "description": "The New Towns Taskforce named twelve sites in September 2025 and government shortlisted seven in March 2026, with Tempsford, Crews Hill and Leeds South Bank as priorities; consultation closed in May 2026 and decisions are expected late summer. The preferred vehicle is a statutory development corporation with planning powers, strengthened by the Planning and Infrastructure Act 2025. Multi-decade capitalisation does not yet exist. Post-war new towns ran on Treasury loans of around 60 years and land bought near existing-use value. Today's corporations have no equivalent instrument, and Homes England's grant programmes are annualised and far too small.",
+  "why": "New towns pay back over 30 to 60 years through land value uplift. Without a long-dated lending facility and funded land assembly, the seven sites stall at masterplan stage or dilute into ordinary developer-led schemes, and the model's self-financing logic is forfeit.",
+  "fill": "Capitalised statutory development corporations. A Treasury long-dated lending facility or a National Wealth Fund mandate would provide the patient capital, land assembly would be funded near existing-use value using the reformed CPO powers, and uplift-capture governance would follow the Milton Keynes model.",
   "sources": [
    "https://assets.publishing.service.gov.uk/media/68d694b79cb44667f7a1cee7/New_Towns_Taskforce_Final_Report.pdf",
    "https://www.gov.uk/government/consultations/new-towns-draft-programme/new-towns-draft-programme",
@@ -1992,10 +1992,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Treasury long-dated lending facility or National Wealth Fund mandate capitalising statutory development corporations.",
-  "tagline": "Post-war new towns ran on 60-year loans. Today's get annual grants instead.",
-  "summary": "Seven sites are shortlisted and the development-corporation powers exist, but no funding matches the model's timescale: new towns repay over decades through rising land values. Annualised grants cannot carry that. A long-dated Treasury lending facility and a land-assembly war chest would let the corporations actually build, as Milton Keynes once did.",
+  "tagline": "Seven new towns shortlisted; no patient capital behind them",
+  "summary": "Seven sites are shortlisted and the development-corporation powers exist. The funding does not match the model: new towns repay over decades through rising land values, and annualised grants cannot carry that. A long-dated Treasury lending facility and a land-assembly war chest would let the corporations build, the way Milton Keynes once did.",
   "rank": 4,
-  "rankNote": "Seven new-town sites reach decisions this summer 2026, yet no multi-decade Treasury lending facility exists, so without patient capital now they stall at masterplan or dilute into ordinary schemes."
+  "rankNote": "Site decisions land late summer 2026 and no multi-decade lending facility exists, so the corporations stall or dilute without patient capital now."
  },
  {
   "number": 59,
@@ -2033,9 +2033,9 @@
   "domain": "debt",
   "type": "policy",
   "horizon": "short",
-  "description": "The Financial Guidance and Claims Act 2018 created a two-part Debt Respite Scheme. Part one, Breathing Space (a 60-day moratorium), has run since May 2021. Part two, the Statutory Debt Repayment Plan (letting people in problem debt repay over a manageable period with interest, charges and enforcement frozen) has never been commenced, and as of mid-2026 the government has set no implementation date, parking it behind a wider personal insolvency review. Voluntary debt management plans from StepChange/PayPlan partially cover the need but carry no legal protection from creditors; DROs, IVAs and bankruptcy serve people whose debts must be written off, not the millions who could repay if protected.",
-  "why": "Four million people live in negative budgets. After 60 days of Breathing Space, protections evaporate and creditors can resume enforcement, undoing recoveries. The missing middle between a two-month moratorium and formal insolvency is exactly where most problem debt sits, and the legal instrument already exists on the statute book.",
-  "fill": "Commence the SDRP regulations (or legislate a successor within the personal insolvency review with a statutory deadline), with funding for the debt-advice gateway that administers plans and a creditor-compliance mechanism.",
+  "description": "The Financial Guidance and Claims Act 2018 created a two-part Debt Respite Scheme. Breathing Space, the 60-day moratorium, has run since May 2021. The Statutory Debt Repayment Plan, which would let people in problem debt repay over a manageable period with interest, charges and enforcement frozen, has never been commenced, and as of mid-2026 no implementation date exists; the plan is parked behind a wider personal insolvency review. Voluntary debt management plans from StepChange and PayPlan carry no legal protection from creditors. DROs, IVAs and bankruptcy serve people whose debts must be written off rather than the millions who could repay if protected.",
+  "why": "Four million people live in negative budgets. After 60 days of Breathing Space the protections evaporate and creditors can resume enforcement, undoing recoveries in progress. Most problem debt sits in the space between a two-month moratorium and formal insolvency, and the legal instrument for that space is already on the statute book.",
+  "fill": "Commence the SDRP regulations, or legislate a successor within the personal insolvency review with a statutory deadline. Fund the debt-advice gateway that administers plans, and give the scheme a creditor-compliance mechanism.",
   "sources": [
    "https://commonslibrary.parliament.uk/research-briefings/cbp-9256/",
    "https://moneyadvicetrust.org/blog/todays-breathing-space-launch-is-a-major-milestone-in-the-mission-to-provide-safe-routes-of-debt/"
@@ -2049,10 +2049,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: commencement of SDRP regulations under Financial Guidance and Claims Act 2018, or successor statute.",
-  "tagline": "A debt repayment lifeline became law in 2018. Eight years on, it is still switched off.",
-  "summary": "Breathing Space gives people in problem debt a 60-day pause, then protections vanish and enforcement resumes. Its legislated companion, a statutory plan letting people repay affordably with interest frozen and bailiffs held off, has never been commenced, and no start date exists. Millions who could repay if protected sit in the gap between a pause and bankruptcy.",
+  "tagline": "Legislated in 2018; never switched on",
+  "summary": "Breathing Space gives people in problem debt a 60-day pause, and when it ends the protections vanish and enforcement resumes. The legislated companion, a statutory plan for repaying affordably with interest frozen and bailiffs held off, has never been commenced, and no start date exists. Millions who could repay if protected sit between a two-month pause and bankruptcy.",
   "rank": 4,
-  "rankNote": "The plan is already law with interest and enforcement frozen; four million negative-budget households wait for commencement while a live personal-insolvency review keeps it parked."
+  "rankNote": "The plan is already law with interest and enforcement frozen on paper, four million negative-budget households wait, and a live insolvency review keeps commencement parked."
  },
  {
   "number": 61,
@@ -2208,9 +2208,9 @@
   "domain": "debt",
   "type": "tooling",
   "horizon": "short",
-  "description": "Oflog was abolished in December 2024; the new Local Audit Office (English Devolution and Community Empowerment Act, April 2026) fixes audit-market plumbing but has no continuous financial-resilience monitoring mandate. Meanwhile the underlying data has collapsed: 41% of council accounts received disclaimed opinions in the latest backstop round, 22 councils missed the March 2026 deadline, and the Whole of Government Accounts is qualified partly as a result. CIPFA's resilience index is annual, lagged and voluntary. Section 114 declarations and Exceptional Financial Support awards (30 councils, 2025-26) arrive as surprises negotiated behind closed doors, with local debt at a record £154.6bn.",
-  "why": "Fourteen councils have gone effectively bankrupt; residents, lenders and MHCLG all lack a timely, comparable view of which are next. Markets price sovereign risk daily; a £154.6bn municipal debt stock is monitored via two-year-old disclaimed accounts.",
-  "fill": "A statutory early-warning function (in the Local Audit Office or independent) publishing an open, machine-readable quarterly dataset of council debt, reserves, interest costs and EFS: a 'council fiscal watch' that a civic-tech team could prototype now from PWLB and DLUHC returns.",
+  "description": "Oflog was abolished in December 2024. The new Local Audit Office created by the English Devolution and Community Empowerment Act in April 2026 fixes audit-market plumbing and carries no continuous financial-resilience monitoring mandate. The underlying data has collapsed: 41 per cent of council accounts received disclaimed opinions in the latest backstop round, 22 councils missed the March 2026 deadline, and the Whole of Government Accounts is qualified partly as a result. CIPFA's resilience index is annual, lagged and voluntary. Section 114 declarations and Exceptional Financial Support awards, 30 councils' worth in 2025-26, arrive as surprises negotiated behind closed doors, with local debt at a record £154.6bn.",
+  "why": "Fourteen councils have gone effectively bankrupt, and residents, lenders and MHCLG all lack a timely, comparable view of which are next. Markets price sovereign risk daily. A £154.6bn municipal debt stock is monitored through two-year-old disclaimed accounts.",
+  "fill": "A statutory early-warning function, in the Local Audit Office or independent of it, publishing an open, machine-readable quarterly dataset of council debt, reserves, interest costs and support awards. A civic-tech team could prototype it now from PWLB and DLUHC returns.",
   "sources": [
    "https://en.wikipedia.org/wiki/Oflog",
    "https://bills.parliament.uk/bills/4002",
@@ -2230,8 +2230,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: open quarterly council fiscal watch from PWLB and MHCLG returns; statutory early-warning function is end-state.",
-  "tagline": "Councils owe a record £154.6bn. The accounts are late and auditors won't sign them.",
-  "summary": "Fourteen councils have gone effectively bankrupt, and each collapse arrived as a surprise negotiated behind closed doors. The watchdog that monitored council performance was abolished, and 41% of recent accounts were so unreliable auditors disclaimed them. A quarterly open dataset of debt, reserves and interest costs (a council fiscal watch) could be prototyped now.",
+  "tagline": "£154.6bn of council debt; 41% of accounts unsigned",
+  "summary": "Fourteen councils have gone effectively bankrupt, each collapse arriving as a surprise negotiated behind closed doors. The watchdog that monitored council performance was abolished, and 41 per cent of recent accounts were so unreliable that auditors disclaimed them. A quarterly open dataset of debt, reserves and interest costs could be prototyped now.",
   "alsoDomains": [
    "local-state-capacity"
   ],
@@ -2260,7 +2260,7 @@
    }
   ],
   "rank": 4,
-  "rankNote": "Fourteen councils have failed unseen, the monitoring watchdog was abolished, 41% of accounts are unsigned, and an open quarterly dataset could be prototyped now from existing returns."
+  "rankNote": "Fourteen councils have failed unseen, the monitoring watchdog was abolished, 41 per cent of accounts are unsigned, and the dataset could be prototyped now from existing returns."
  },
  {
   "number": 68,
@@ -2358,9 +2358,9 @@
   "domain": "debt",
   "type": "policy",
   "horizon": "short",
-  "description": "The UK's fiscal rules have been rewritten roughly nine times since 2010, each time by government announcement without consultation. The Lords Economic Affairs Committee's April 2026 report 'Fortifying the fiscal framework' found this churn, plus wafer-thin 'headroom' treated as a target, has made the framework 'frail' and the OBR a lightning rod. The IFS has proposed replacing the pass-fail rule with a graded traffic-light assessment; the Lords recommend codified larger buffers and rule changes only after formal consultation outside election periods. The 2025 move to a single annual OBR assessment addressed symptom, not cause. Nothing currently obliges any government to follow due process when moving the goalposts.",
-  "why": "Credibility is the cheapest form of debt reduction: elevated term premia partly price the risk that rules will be redefined when binding. Forecast noise around a £10bn headroom margin currently drives tax speculation cycles that damage investment and policymaking quality.",
-  "fill": "Amend the Charter for Budget Responsibility to require public consultation and independent review before rule changes, codify a minimum buffer norm, and adopt a graded (traffic-light) compliance assessment: a drafted, ready-made legislative package a policy unit could produce this year.",
+  "description": "The fiscal rules have been rewritten roughly nine times since 2010, each time by government announcement without consultation. The Lords Economic Affairs Committee's April 2026 report found the churn, plus wafer-thin headroom treated as a target, has made the framework frail and turned the OBR into a lightning rod. The IFS proposes replacing the pass-fail rule with a graded traffic-light assessment, and the Lords recommend codified larger buffers with rule changes made only after formal consultation outside election periods. The 2025 move to a single annual OBR assessment addressed a symptom. Nothing obliges any government to follow due process when moving the goalposts.",
+  "why": "Credibility is the cheapest form of debt reduction, and elevated term premia partly price the risk that rules get redefined when they bind. Forecast noise around a £10bn headroom margin drives tax speculation cycles that damage investment and the quality of policymaking.",
+  "fill": "Amend the Charter for Budget Responsibility to require public consultation and independent review before rule changes, codify a minimum buffer norm, and adopt a graded compliance assessment. The package is drafted in outline and a policy unit could produce it this year.",
   "sources": [
    "https://committees.parliament.uk/committee/175/economic-affairs-committee/news/213342/fortifying-the-fiscal-framework-report-published/",
    "https://ifs.org.uk/publications/fiscal-rules-fiscal-traffic-lights-rethinking-uk-fiscal-framework",
@@ -2375,10 +2375,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Charter for Budget Responsibility amendment; a policy unit can draft the package, only government can enact due process.",
-  "tagline": "Nine rewrites of the fiscal rules, all by announcement. Markets have noticed.",
-  "summary": "Markets partly price UK debt on the risk that the rules will move whenever they bind, and history justifies the suspicion. Thin headroom against the current rule now drives rolling tax-speculation cycles that damage investment. Requiring consultation before rule changes, plus a codified minimum buffer, is a package a policy unit could draft this year.",
+  "tagline": "Nine fiscal-rule rewrites since 2010; all by announcement",
+  "summary": "Markets partly price UK debt on the risk that the rules will move whenever they bind, and nine rewrites since 2010 justify the suspicion. Thin headroom against the current rule drives rolling tax-speculation cycles that damage investment. Requiring consultation before rule changes, with a codified minimum buffer, is a package a policy unit could draft this year.",
   "rank": 4,
-  "rankNote": "Markets partly price debt on the risk rules move when they bind; a ready-to-draft package could mandate consultation and a codified buffer, but no dated trigger forces it."
+  "rankNote": "Markets partly price debt on the risk rules move when they bind, the package is ready to draft, and no dated trigger forces it."
  },
  {
   "number": 72,
@@ -2387,9 +2387,9 @@
   "domain": "surveillance",
   "type": "policy",
   "horizon": "short",
-  "description": "Police LFR runs on common-law powers, UK GDPR/DPA 2018 and a Surveillance Camera Code unrevised since 2021, while deployment races ahead: 13 of 43 forces use LFR, 40 new vans were announced in January 2026 and the first fixed cameras went live in Croydon in October 2025. The Home Office consultation on a new legal framework closed 12 February 2026 with no bill yet introduced. Partial coverage: the ICO (data protection only), the BSCC (part-time, advisory, post vacant Aug 2024–Nov 2025), and case law (Bridges 2020). The Ryder Review (2022) found this oversight 'patchy and ineffectual'. Private-sector LFR (Facewatch in Sainsbury's, Sports Direct, Spar and others, with misidentification lawsuits pending) sits outside any bespoke regime after the ICO closed its Facewatch inspection without action.",
-  "why": "The UK is deploying biometric mass-identification at national scale under a legal framework courts already found deficient once. Without statutory authorisation rules, misidentifications, demographic bias and private watchlist abuses accumulate faster than case-by-case litigation can correct, and public trust erodes.",
-  "fill": "A Biometrics Act: independent or judicial pre-authorisation for LFR deployments, a statutory public deployment register with published accuracy and demographic-differential statistics, due-process rules for watchlists including private operators, and a consolidated statutory regulator (an empowered BSCC or new Biometrics Commission), turning the closed Feb 2026 consultation into legislation civil society can hold to Ryder Review standards.",
+  "description": "Police live facial recognition runs on common-law powers, UK GDPR and a Surveillance Camera Code unrevised since 2021, while deployment races ahead. Thirteen of 43 forces use it, forty new vans were announced in January 2026, and the first fixed cameras went live in Croydon in October 2025. The Home Office consultation on a new legal framework closed on 12 February 2026 with no bill yet introduced. The ICO covers data protection only, the part-time advisory commissioner post sat vacant from August 2024 to November 2025, and the Bridges case set the only real precedent in 2020. The Ryder Review found the oversight patchy and ineffectual in 2022. Private-sector deployments, Facewatch in Sainsbury's, Sports Direct and Spar among others, sit outside any bespoke regime, with misidentification lawsuits pending and the ICO having closed its Facewatch inspection without action.",
+  "why": "Biometric mass-identification is deploying at national scale under a legal framework courts have already found deficient once. Misidentifications, demographic bias and private watchlist abuses accumulate faster than case-by-case litigation can correct them, and public trust erodes as they do.",
+  "fill": "A Biometrics Act: independent or judicial pre-authorisation for deployments, a statutory public register with published accuracy and demographic-differential statistics, due-process rules for watchlists including private operators, and a consolidated statutory regulator. The closed February 2026 consultation gives civil society a vehicle to hold to Ryder Review standards.",
   "sources": [
    "https://www.gov.uk/government/consultations/legal-framework-for-using-facial-recognition-in-law-enforcement",
    "https://post.parliament.uk/facial-recognition-technology-in-policing/",
@@ -2407,8 +2407,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: a Biometrics Act with statutory regulator and deployment register, turning the closed Feb 2026 consultation into primary legislation.",
-  "tagline": "Facial recognition is rolling out nationwide before Parliament has written it a law.",
-  "summary": "Police forces already scan faces in the street, and the first fixed cameras are live in Croydon, with no dedicated law and no single regulator. An independent review called the oversight patchy and ineffectual. A Biometrics Act could set authorisation rules and a public register before national rollout hardens the habit.",
+  "tagline": "Live facial recognition rolling out; no dedicated law",
+  "summary": "Police forces already scan faces in the street and the first fixed cameras are live in Croydon, without a dedicated statute or a single regulator. An independent review called the oversight patchy and ineffectual. A Biometrics Act could set authorisation rules and a public register before national rollout hardens the habit.",
   "facets": [
    "policy-gaps"
   ],
@@ -2423,7 +2423,7 @@
   ],
   "curationNote": "the same Biometrics Act converting the Home Office consultation into statutory authorisation, a deployment register and a single regulator.",
   "rank": 4,
-  "rankNote": "The Feb 2026 Home Office consultation closed with no bill while thirteen forces, forty new vans and live Croydon cameras race ahead under a framework courts already found deficient."
+  "rankNote": "The consultation closed in February 2026 with no bill while thirteen forces, forty new vans and live Croydon cameras run ahead under a framework courts already found deficient."
  },
  {
   "number": 73,
@@ -2656,9 +2656,9 @@
   "domain": "surveillance",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The Palantir-built FDP (£330m contract) reaches a break clause in February 2027; the Commons Science, Innovation and Technology Committee recommended using it and moving to an in-house or UK-owned replacement. But no funded alternative capability exists, making exit non-credible and lock-in the default. Adoption is contested from within: 168 of 214 trusts signed up, but major trusts (Leeds, Manchester, East Kent, Hampshire, Wigan) declined, saying FDP is no better than existing systems. Patients cannot opt out: the national data opt-out does not apply to FDP. medConfidential, Foxglove, the No Palantir campaign and openDemocracy contest the deal but cannot build the alternative; OpenSAFELY proved a UK trusted-research architecture is feasible but covers research, not operations.",
-  "why": "The default outcome is indefinite dependence of NHS operational data infrastructure on a single US surveillance-technology vendor, decided by procurement momentum rather than deliberate choice. The decision window closes in 2026-27; after renewal, switching costs become prohibitive.",
-  "fill": "A funded programme to stand up in-house or UK-consortium data-platform capability on open standards before the contract decision (NHS England engineering plus OpenSAFELY-style architecture), an independently published exit-feasibility assessment, and statutory clarification of patient opt-out rights over national platforms.",
+  "description": "The Palantir-built Federated Data Platform, a £330m contract, reaches a break clause in February 2027, and the Commons Science, Innovation and Technology Committee recommended using it to move to an in-house or UK-owned replacement. No funded alternative capability exists, so exit is not credible and lock-in is the default. Adoption is contested from within: 168 of 214 trusts signed up, and major trusts including Leeds, Manchester, East Kent, Hampshire and Wigan declined, saying the platform is no better than their existing systems. The national data opt-out does not apply to it. medConfidential, Foxglove, the No Palantir campaign and openDemocracy contest the deal and cannot build the alternative. OpenSAFELY proved a UK trusted-research architecture is feasible for research rather than operations.",
+  "why": "The default outcome is indefinite dependence of NHS operational data infrastructure on a single US surveillance-technology vendor, decided by procurement momentum rather than deliberate choice. The decision window closes in 2026-27. After renewal, switching costs become prohibitive.",
+  "fill": "A funded programme to stand up in-house or UK-consortium data-platform capability on open standards before the contract decision, combining NHS England engineering with OpenSAFELY-style architecture. An independently published exit-feasibility assessment and statutory clarification of patient opt-out rights over national platforms complete it.",
   "sources": [
    "https://www.theregister.com/databases/2026/06/13/nhs-patients-cant-opt-out-of-palantirs-data-platform-but-their-hospital-can/5254766",
    "https://hansard.parliament.uk/commons/2026-04-16/debates/2FDCA71C-D0C1-4738-BEE8-A4BDA311DB99/NHSFederatedDataPlatform",
@@ -2674,8 +2674,8 @@
   "permission": "build-together",
   "dataReady": false,
   "permissionNote": "Counterparty: NHS England or willing non-FDP trusts for an OpenSAFELY-style operational pilot and exit-feasibility assessment before February 2027.",
-  "tagline": "The NHS can leave Palantir in February 2027. Nobody has built anywhere to go.",
-  "summary": "The Palantir-built NHS data platform, a £330m contract, reaches its break clause early next year, and a Commons committee has urged moving to a homegrown replacement. But no funded alternative exists, so lock-in wins by default. Patients cannot even opt out.",
+  "tagline": "Palantir break clause February 2027; no alternative built",
+  "summary": "The Palantir-built NHS data platform, a £330m contract, reaches its break clause early next year, and a Commons committee has urged moving to a homegrown replacement. No funded alternative exists, which makes the default outcome indefinite lock-in, and the national data opt-out does not apply to the platform.",
   "dialogue": {
    "counterparty": "nhs-and-care",
    "ask": "Commission an independent assessment of what leaving the Palantir platform would take, before the February 2027 break clause forecloses the choice.",
@@ -2684,7 +2684,7 @@
    "firstStep": "A 90-day exit-feasibility assessment, independently published, alongside one willing trust scoping an open-standards pilot for a single operational workflow; neither commits anyone to leaving."
   },
   "rank": 4,
-  "rankNote": "The February 2027 break clause forces a now-or-lock-in choice on NHS data sovereignty, but no funded UK alternative exists to make exit from the single US vendor credible."
+  "rankNote": "The February 2027 break clause forces the choice between exit and lock-in, and no funded UK alternative exists to make exit credible."
  },
  {
   "number": 81,
@@ -2915,9 +2915,9 @@
   "domain": "corruption-integrity",
   "type": "policy",
   "horizon": "short",
-  "description": "The Representation of the People Bill (introduced 12 February 2026) raises the Electoral Commission's maximum fine from £20,000 to £500,000, introduces 'Know Your Donor' checks, tightens unincorporated-association rules, and, via Rycroft Review amendments, caps overseas-elector donations at £100,000 and imposes a crypto-donation moratorium. Spotlight on Corruption's analysis identifies what remains: no cap on donation size; a company-donation test based on revenue rather than taxed UK profit (so shell companies with pass-through revenue can still donate); UAs required to register only above a high threshold rather than at £500; a crypto moratorium rather than a ban; and no new criminal-enforcement measures despite police and CPS routinely deprioritising electoral finance crime.",
-  "why": "A single donor can still legally give unlimited sums, and foreign money can still arrive via UK-registered companies that make no UK profit, or via unincorporated associations that need not check their own funders. As spending escalates, the integrity of UK elections rests on the narrowest loophole left open.",
-  "fill": "Amendments or a successor bill: annual donation caps, a taxed-UK-profits test for corporate donations, registration for all UAs donating over £500, a permanent crypto ban, updated section 54A source rules, and a dedicated electoral-crime investigation capability to close the criminal enforcement gap.",
+  "description": "The Representation of the People Bill, introduced on 12 February 2026, raises the Electoral Commission's maximum fine from £20,000 to £500,000, introduces Know Your Donor checks, tightens unincorporated-association rules, caps overseas-elector donations at £100,000 through the Rycroft Review amendments, and imposes a moratorium on crypto donations. Spotlight on Corruption's analysis sets out what remains. Donation size has no cap. The company-donation test rests on revenue rather than taxed UK profit, so shell companies with pass-through revenue can still donate. Unincorporated associations register only above a high threshold rather than at £500. The crypto measure is a moratorium rather than a ban, and no new criminal-enforcement measures arrived even though police and the CPS routinely deprioritise electoral finance crime.",
+  "why": "A single donor can still legally give unlimited sums. Foreign money retains two routes: UK-registered companies that make no UK profit, and unincorporated associations that never check their own funders. As campaign spending escalates, election integrity rests on the narrowest loophole left open.",
+  "fill": "Amendments or a successor bill: annual donation caps, a taxed-UK-profits test for corporate donations, registration for unincorporated associations donating over £500, a permanent crypto ban, updated section 54A source rules, and a dedicated electoral-crime investigation capability.",
   "sources": [
    "https://www.spotlightcorruption.org/new-representation-of-the-people-bill/",
    "https://lordslibrary.parliament.uk/reforming-the-law-on-donations-to-political-parties/",
@@ -2933,10 +2933,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: party-finance amendments or successor bill (donation caps, source-of-funds tests, electoral-crime investigation capability).",
-  "tagline": "A single donor can still give a British political party an unlimited sum. Legally.",
-  "summary": "The new elections bill raises fines and adds donor checks, yet caps nothing: a donor may still give any amount. Company donations are tested on revenue rather than UK profit, so shell firms can still pass foreign money through. Amendments could close both loopholes.",
+  "tagline": "Party donations uncapped; the shell-company route open",
+  "summary": "The new elections bill raises fines and adds donor checks, and it caps nothing: a donor may still give any amount. Company donations are tested on revenue rather than UK profit, so shell firms can pass foreign money through. Amendments could close both.",
   "rank": 4,
-  "rankNote": "A live party-finance bill leaves donation size uncapped and foreign money routable through profitless UK shells; amendments are ready and the passage window is open now."
+  "rankNote": "A live party-finance bill leaves donation size uncapped and foreign money routable through profitless UK shells, and the amendment window is open now."
  },
  {
   "number": 89,
@@ -3050,9 +3050,9 @@
   "domain": "corruption-integrity",
   "type": "policy",
   "horizon": "short",
-  "description": "Monitored bodies received 94,526 FOI requests in 2025 (a record, up 14%) while the ICO's FOI budget has been cut 41% in real terms over a decade as its caseload rose 46%; FOI enforcement is funded via a sponsoring department rather than Parliament. In March 2026, ministers discussed lowering the section 12 cost ceiling, making refusal easier, not access better. mySociety's report warns FOI risks 'sliding into obsolescence'; the Act still does not cover private contractors delivering public services, and ministerial use of WhatsApp and ephemeral messaging continues to evade records duties. openDemocracy exposed the Cabinet Office 'Clearing House' vetting requests; the Campaign for FOI and mySociety campaign but cannot fix funding or scope.",
-  "why": "FOI is the corruption-detection infrastructure every other actor depends on: VIP-lane contracts, Clearing House vetting and lobbying scandals were all surfaced through it. A regulator that cannot enforce timeliness, plus a shrinking cost ceiling, quietly deletes the public's primary audit tool.",
-  "fill": "Direct parliamentary funding for FOI regulation (or a separately funded Information Commission FOI arm), statutory extension of FOI to outsourced public services, an enforceable duty to preserve official communications including ephemeral messaging, and abandonment of section 12 cost-ceiling reductions.",
+  "description": "Monitored bodies received 94,526 FOI requests in 2025, a record and up 14 per cent, while the ICO's FOI budget fell 41 per cent in real terms over a decade as its caseload rose 46 per cent. FOI enforcement is funded through a sponsoring department rather than Parliament. In March 2026 ministers discussed lowering the section 12 cost ceiling, which makes refusal easier rather than access better. mySociety warns FOI risks sliding into obsolescence. The Act does not cover private contractors delivering public services, and ministerial use of WhatsApp and ephemeral messaging continues to evade records duties. openDemocracy exposed the Cabinet Office Clearing House vetting requests, and the Campaign for FOI and mySociety can campaign without being able to fix funding or scope.",
+  "why": "FOI is the corruption-detection infrastructure every other actor depends on: the VIP-lane contracts, the Clearing House and successive lobbying scandals all surfaced through it. A regulator that cannot enforce timeliness, combined with a shrinking cost ceiling, deletes the public's primary audit tool quietly.",
+  "fill": "Direct parliamentary funding for FOI regulation, or a separately funded FOI arm of the Information Commission. Statutory extension to outsourced public services, an enforceable duty to preserve official communications including ephemeral messaging, and abandonment of the section 12 reductions complete the repair.",
   "sources": [
    "https://www.opendemocracy.net/en/freedom-of-information/freedom-of-information-in-danger-of-sliding-into-obsolescence-new-report-finds/",
    "https://thecritic.co.uk/in-defence-of-the-freedom-of-information-act/",
@@ -3067,10 +3067,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: direct parliamentary funding for FOI regulation plus statutory extension to outsourced public services.",
-  "tagline": "Freedom of information requests hit a record high. The watchdog's budget fell 41%.",
-  "summary": "Freedom of information exposed the VIP-lane contracts and the Cabinet Office unit vetting requests. Yet the regulator's budget for enforcing it has been cut 41% in real terms, and ministers are now exploring making requests easier to refuse. Funding it directly from Parliament, and extending it to outsourced public services, would rescue the public's main audit tool.",
+  "tagline": "Record FOI requests; enforcement budget down 41%",
+  "summary": "Freedom of information surfaced the VIP-lane contracts and the Cabinet Office unit vetting requests. The regulator's budget for enforcing it has fallen 41 per cent in real terms, and ministers are exploring making requests easier to refuse. Funding it directly from Parliament and extending it to outsourced public services would restore the public's main audit tool.",
   "rank": 4,
-  "rankNote": "Ministers are actively moving to narrow the Act this year while its regulator's budget is cut 41%; the public's primary corruption-detection tool erodes with only NGOs defending it."
+  "rankNote": "Ministers are moving to narrow the Act this year while its regulator's budget falls 41 per cent, and only NGOs currently defend the public's main corruption-detection tool."
  },
  {
   "number": 93,
