@@ -357,8 +357,8 @@
   },
   {
    "number": 70,
-   "tagline": "Who manages the state's £1.4tn in pension promises? Strictly speaking, no one.",
-   "summary": "The only consolidated picture of what the state owes (unfunded pensions, nuclear clean-up, the student loan book) arrives more than a year late and with a qualified audit. The models valuing those liabilities cannot be independently checked. A clear Treasury mandate, a faster publication deadline and open valuation models would make hundred-billion-pound decisions contestable."
+   "tagline": "£1.4tn of state liabilities; nobody owns the balance sheet",
+   "summary": "The only consolidated picture of what the state owes, unfunded pensions, nuclear clean-up and the student loan book, arrives more than a year late and with a qualified audit. The models valuing those liabilities cannot be independently checked. A clear Treasury mandate, a faster publication deadline and open valuation models would make hundred-billion-pound decisions contestable."
   },
   {
    "number": 71,
@@ -377,8 +377,8 @@
   },
   {
    "number": 73,
-   "tagline": "The order telling Apple to break iCloud encryption stayed secret until someone leaked it.",
-   "summary": "Government can order companies to weaken encryption for millions of users, and the orders are secret; even Parliament's intelligence committee is not told. The Apple case surfaced only through leaks. Other countries publish annual statistics on comparable orders, and Britain could do the same with notification duties attached."
+   "tagline": "Encryption-breaking orders; secret even from Parliament",
+   "summary": "Government can order companies to weaken encryption for millions of users, and the orders are secret; Parliament's intelligence committee is not told. The Apple case surfaced only through leaks. Other countries publish annual statistics on comparable orders, and Britain could do the same with notification duties attached."
   },
   {
    "number": 74,
@@ -397,8 +397,8 @@
   },
   {
    "number": 77,
-   "tagline": "Britain's entire digital rights sector runs on less than £15m a year.",
-   "summary": "The charities scrutinising state surveillance depend on a handful of mostly foreign foundations; when a funder walks away, a quarter of an organisation's income can go with it. A pooled UK fund making long-term commitments would put the country's accountability work on stable footing."
+   "tagline": "Digital rights oversight; under £15m a year, mostly foreign-funded",
+   "summary": "The charities scrutinising state surveillance depend on a handful of mostly foreign foundations, and one funder walking away can take a quarter of an organisation's income with it. A pooled UK fund making long-term commitments would put the country's accountability work on stable footing."
   },
   {
    "number": 78,
@@ -407,8 +407,8 @@
   },
   {
    "number": 79,
-   "tagline": "A court found indefinite mugshot retention unlawful in 2012. Police hold 19 million.",
-   "summary": "The police face-search corpus is built on custody images a court ruled unlawful to keep, fourteen years ago. Hundreds of thousands of people never charged remain searchable by face indefinitely. DNA and fingerprints already get deleted automatically, and the same rule could simply be extended to photographs."
+   "tagline": "Ruled unlawful in 2012; 19 million custody images still held",
+   "summary": "The police face-search corpus is built on custody images a court ruled unlawful to keep, fourteen years ago. Hundreds of thousands of people never charged remain searchable by face indefinitely. DNA and fingerprints already get deleted automatically, and the same rule could be extended to photographs."
   },
   {
    "number": 80,
@@ -432,8 +432,8 @@
   },
   {
    "number": 84,
-   "tagline": "Britain built a blacklist for dodgy government contractors. It has zero entries.",
-   "summary": "More than a year after launch, the register for barring misbehaving suppliers from public contracts is still empty, and only ministers can put a name on it. Covid procurement fraud and error cost an estimated £10.9bn. An investigator with its own referral route, open to journalists and whistleblowers, would give the list teeth."
+   "tagline": "The contractor blacklist is live; it has zero entries",
+   "summary": "More than a year after launch, the register for barring misbehaving suppliers from public contracts is still empty, and only ministers can put a name on it. Covid procurement fraud and error cost an estimated £10.9bn. An investigator with its own referral route, open to journalists and whistleblowers, could start filling it."
   },
   {
    "number": 85,
@@ -462,8 +462,8 @@
   },
   {
    "number": 90,
-   "tagline": "Company ID checks now exist. The agents doing the checking are barely supervised.",
-   "summary": "Identity verification finally came to Companies House, but much of it is done by corporate service agents whose sector has long been the weakest link in money-laundering supervision. The Scottish partnership vehicles used to move up to $80bn out of Russia are still awaiting their fix. Publishing per-firm audit results would show whether the reform is real."
+   "tagline": "Company ID checks arrived; the checkers are barely supervised",
+   "summary": "Identity verification finally came to Companies House, but much of it is done by corporate service agents whose sector has long been the weakest link in money-laundering supervision. The Scottish partnership vehicles used to move up to $80bn out of Russia still await their fix. Publishing per-firm audit results would show whether the reform is real."
   },
   {
    "number": 91,
@@ -477,13 +477,13 @@
   },
   {
    "number": 93,
-   "tagline": "Courts can now throw out bullying libel suits, but only ones about economic crime.",
-   "summary": "The High Court has used new strike-out powers for the first time, throwing out an £8m libel claim it found oppressive. But the shield covers only speech about economic crime; reporting on sexual misconduct or environmental harm gets nothing. A model law extending protection to all public-interest speech is already drafted."
+   "tagline": "Anti-SLAPP protection exists; only for economic-crime reporting",
+   "summary": "The High Court has used the new strike-out powers for the first time, throwing out an £8m libel claim it found oppressive. The shield covers only speech about economic crime, so reporting on sexual misconduct or environmental harm gets nothing. A model law extending protection to all public-interest speech is already drafted."
   },
   {
    "number": 94,
-   "tagline": "Whistleblowers catch more fraud than auditors. UK law protects them after the sacking.",
-   "summary": "Insiders raised alarms in the Post Office and pandemic-procurement scandals and were ignored or punished; the law gives them a tribunal claim after the damage, not protection before it. Nobody is even obliged to investigate what they disclose. A bill creating an Office of the Whistleblower is already in Parliament."
+   "tagline": "Whistleblowers protected only after the sacking",
+   "summary": "Insiders raised alarms in the Post Office and pandemic-procurement scandals and were ignored or punished; the law gives them a tribunal claim after the damage rather than protection before it. Nobody is obliged to investigate what they disclose. A bill creating an Office of the Whistleblower is already in Parliament."
   },
   {
    "number": 95,
@@ -507,13 +507,13 @@
   },
   {
    "number": 98,
-   "tagline": "Thousands can now govern a shared treasury online. UK law calls that unlimited liability.",
-   "summary": "Software lets thousands of strangers govern a shared treasury, but UK law treats such groups as partnerships with unlimited personal liability, so serious projects incorporate abroad. The same defect left about 4,000 pandemic mutual-aid groups legally invisible. A simple limited-liability association status would serve street groups and online communities alike."
+   "tagline": "Online treasuries, shared governance; UK law calls it unlimited liability",
+   "summary": "Software lets thousands of strangers govern a shared treasury, and UK law treats such groups as partnerships with unlimited personal liability, so serious projects incorporate abroad. The same defect left about 4,000 pandemic mutual-aid groups legally invisible. A simple limited-liability association status would serve street groups and online communities alike."
   },
   {
    "number": 99,
-   "tagline": "Wales has a co-op development agency. Scotland has one. England, somehow, does not.",
-   "summary": "Government has pledged to double the mutual sector, yet England (most of the UK's population) has no publicly funded body whose job is forming new co-operatives, while Wales has run one since 1982. An English agency, franchised through mayoral authorities, is fundable at £10-20m a year."
+   "tagline": "Wales and Scotland run co-op development agencies; England has none",
+   "summary": "Government has pledged to double the mutual sector, yet England, holding most of the UK's population, has no publicly funded body whose job is forming new co-operatives. Wales has run one since 1982. An English agency, franchised through mayoral authorities, is fundable at £10-20m a year."
   },
   {
    "number": 100,
@@ -567,13 +567,13 @@
   },
   {
    "number": 108,
-   "tagline": "Online safety rules drove 300 volunteer forums offline. Each admin still stands alone.",
-   "summary": "When Online Safety Act duties landed, around 300 small community forums went dark rather than shoulder the legal risk alone. Every volunteer running a forum or server still writes their own risk assessment, uninsured and unadvised. A compliance co-operative (templates, a legal helpline, group insurance) would let community life stay off Big Tech."
+   "tagline": "Online safety duties; every volunteer forum admin stands alone",
+   "summary": "When Online Safety Act duties landed, around 300 small community forums went dark rather than shoulder the legal risk alone. Every volunteer running a forum or server still writes their own risk assessment, uninsured and unadvised. A compliance co-operative, offering templates, a legal helpline and group insurance, would let community life stay off Big Tech."
   },
   {
    "number": 109,
-   "tagline": "The power to break encrypted messaging sits on the statute book, held back by a promise.",
-   "summary": "British law lets regulators order the scanning of private messages, and separate secret notices already forced Apple to pull its strongest cloud encryption from UK users. Nothing in statute protects encryption, and not even the number of secret orders is published. A legal shield plus annual transparency reporting would fix both."
+   "tagline": "Message-scanning powers finalised; encryption unprotected in statute",
+   "summary": "British law lets regulators order the scanning of private messages, and separate secret notices already forced Apple to pull its strongest cloud encryption from UK users. Nothing in statute protects encryption, and the number of secret orders goes unpublished. A legal shield plus annual transparency reporting would fix both."
   },
   {
    "number": 110,
@@ -632,8 +632,8 @@
   },
   {
    "number": 119,
-   "tagline": "Harm a million people a little each and British law has no working way to make you pay.",
-   "summary": "Mass data abuses (leaky ad auctions, mega-breaches) hurt vast numbers of people a few pounds at a time, sums nobody can sue over alone. Competition law lets a claim proceed for a whole class at once. Data protection law does not, and Parliament keeps declining to fix it."
+   "tagline": "Mass data harms; no opt-out route to redress",
+   "summary": "Mass data abuses, leaky ad auctions and mega-breaches, hurt vast numbers of people a few pounds at a time, sums nobody can sue over alone. Competition law lets a claim proceed for a whole class at once. Data protection law does not, and Parliament keeps declining to fix it."
   },
   {
    "number": 120,
@@ -657,8 +657,8 @@
   },
   {
    "number": 124,
-   "tagline": "Every British Apple user has weaker cloud security than the rest of the world.",
-   "summary": "A secret order forced Apple to strip its strongest encryption from British customers, a downgrade no other country has managed. The public learned of it only through leaks and litigation. No law protects end-to-end encryption, and the state does not even have to say how many such orders exist."
+   "tagline": "UK Apple users; weaker cloud security than everywhere else",
+   "summary": "A secret order forced Apple to strip its strongest encryption from British customers, a downgrade no other country has managed. The public learned of it through leaks and litigation. No law protects end-to-end encryption, and the state is not required to say how many such orders exist."
   },
   {
    "number": 125,
@@ -682,8 +682,8 @@
   },
   {
    "number": 129,
-   "tagline": "Companies you've never heard of trade your data. Not even the government has a list.",
-   "summary": "Nobody, including the government, can name the firms holding and selling profiles of UK residents, data that feeds scams, discriminatory pricing and hostile-state targeting. Rights are useless against companies you cannot identify. California keeps a public register and a one-stop deletion law; Britain could copy both."
+   "tagline": "Data brokers trade UK profiles; no register of who they are",
+   "summary": "Nobody, including the government, can name the firms holding and selling profiles of UK residents, data that feeds scams, discriminatory pricing and hostile-state targeting. Rights are useless against companies you cannot identify. California keeps a public register and a one-stop deletion law, and Britain could copy both."
   },
   {
    "number": 130,
@@ -697,8 +697,8 @@
   },
   {
    "number": 131,
-   "tagline": "AI is reshaping British jobs right now. The state finds out years later.",
-   "summary": "No one in Britain can see which occupations and towns AI is hitting until long after the fact; official statistics were never built for it. Yet every response, from retraining to income support, depends on that knowledge arriving quarterly. Linking payroll records, job adverts and firm-level AI adoption would create the early-warning system."
+   "tagline": "AI reshapes jobs quarterly; the data arrives years late",
+   "summary": "No one in Britain can see which occupations and towns AI is hitting until long after the fact, because official statistics were never built for it. Every response, from retraining to income support, depends on that knowledge arriving quarterly. Linking payroll records, job adverts and firm-level AI adoption would create the early-warning system."
   },
   {
    "number": 132,

@@ -1207,7 +1207,7 @@
   {
    "number": 73,
    "rank": 3,
-   "note": "Orders removing encryption from millions are made entirely in secret with no published statistics or ISC notification; only under-resourced litigation scrutinises them, but no legislative vehicle is yet moving.",
+   "note": "Orders removing encryption from millions are made entirely in secret with no published statistics or ISC notification, and no legislative vehicle is yet moving.",
    "sub": {
     "i": 3,
     "t": 2,
@@ -1240,7 +1240,7 @@
   {
    "number": 77,
    "rank": 3,
-   "note": "The sector's sub-£15m budget, carrying all surveillance oversight, hangs on three or four foreign foundations; a pooled domestic fund is directly buildable, though no dated trigger forces it.",
+   "note": "The sector's sub-£15m budget carries all surveillance oversight and hangs on a few foreign foundations; a pooled domestic fund is directly buildable without a dated trigger.",
    "sub": {
     "i": 3,
     "t": 3,
@@ -1262,7 +1262,7 @@
   {
    "number": 79,
    "rank": 3,
-   "note": "Courts declared indefinite retention unlawful fourteen years ago, yet millions of innocent people's images remain the search corpus for expanding facial recognition; the deletion clause awaits an unintroduced bill.",
+   "note": "Courts declared indefinite retention unlawful fourteen years ago, millions of innocent people's images remain the search corpus for facial recognition, and the deletion clause awaits an unintroduced bill.",
    "sub": {
     "i": 3,
     "t": 2,
@@ -1306,7 +1306,7 @@
   {
    "number": 84,
    "rank": 3,
-   "note": "The debarment power that never debars leaves emergency procurement undeterred after £10.9bn Covid fraud; the regime exists but no independent trigger or red-flag analytics is resourced.",
+   "note": "Emergency procurement remains undeterred after £10.9bn of Covid fraud and error; the regime exists, the list is empty, and no independent trigger or analytics is resourced.",
    "sub": {
     "i": 3,
     "t": 2,
@@ -1372,7 +1372,7 @@
   {
    "number": 90,
    "rank": 3,
-   "note": "The register is only as trustworthy as its gatekeepers, but agent supervision stays fragmented and partnership reforms bite slowly on a several-year timetable government already part-owns.",
+   "note": "Agent supervision stays fragmented for several more years on a timetable government part-owns, and partnership reforms bite slowly while verification scales.",
    "sub": {
     "i": 3,
     "t": 2,
@@ -1405,7 +1405,7 @@
   {
    "number": 93,
    "rank": 3,
-   "note": "A proven statutory strike-out now protects only economic-crime reporting; a drafted model law would cover all public-interest speech, making the remaining exposure a legislative choice not a technical one.",
+   "note": "The strike-out mechanism is proven and protects only economic-crime reporting; a drafted model law would cover all public-interest speech, so the remaining exposure is a legislative choice.",
    "sub": {
     "i": 3,
     "t": 3,
@@ -1416,7 +1416,7 @@
   {
    "number": 94,
    "rank": 3,
-   "note": "Insiders detect more fraud than auditors and regulators combined, yet protection stays post-detriment and tribunal-only; a live private-member bill and drafted office design await government backing.",
+   "note": "Protection stays post-detriment and tribunal-only while a live private member's bill and a drafted office design wait for government backing.",
    "sub": {
     "i": 3,
     "t": 2,
@@ -1460,7 +1460,7 @@
   {
    "number": 98,
    "rank": 3,
-   "note": "This is the sharpest gap between what software enables and what law permits; overseas models exist and nobody owns the follow-up, but no dated trigger forces action.",
+   "note": "The sharpest gap between what software enables and what law permits; overseas models exist, nobody owns the follow-up, and no dated trigger forces action.",
    "sub": {
     "i": 3,
     "t": 2,
@@ -1471,7 +1471,7 @@
   {
    "number": 99,
    "rank": 3,
-   "note": "Devolved nations prove the delivery model works, England's 85% of population has none, and the government's own pledge to double the sector opens a policy window with no delivery arm.",
+   "note": "The devolved nations prove the delivery model, England has none, and the government's pledge to double the sector opens a policy window with no delivery arm.",
    "sub": {
     "i": 3,
     "t": 2,
@@ -1548,7 +1548,7 @@
   {
    "number": 108,
    "rank": 3,
-   "note": "Illegal-content duties are already forcing volunteer forums to close, a co-operative fix is well understood, nobody provides it, and a July 2026 categorisation deadline pressures action now.",
+   "note": "The duties are already forcing volunteer forums to close, the co-operative fix is well understood and unprovided, and the July 2026 categorisation deadline adds pressure now.",
    "sub": {
     "i": 2,
     "t": 2,
@@ -1559,7 +1559,7 @@
   {
    "number": 109,
    "rank": 3,
-   "note": "Encryption underpins the whole stack, scanning-mandate and secret-notice regimes are being finalised and litigated this year, but durable protection needs statute and only general-budget campaigners push back.",
+   "note": "Scanning-mandate and secret-notice regimes are being finalised and litigated this year, and durable protection needs statute with only general-budget campaigners pushing back.",
    "sub": {
     "i": 3,
     "t": 1,
@@ -1647,7 +1647,7 @@
   {
    "number": 119,
    "rank": 3,
-   "note": "Sub-litigable per-person harms from mass unlawful processing go unremedied while the ICO declines enforcement; an opt-out redress model exists to copy, but requires legislation Parliament just declined to revisit.",
+   "note": "Sub-litigable harms from mass unlawful processing go unremedied while the ICO declines enforcement; the opt-out model exists to copy and needs legislation Parliament recently declined to revisit.",
    "sub": {
     "i": 3,
     "t": 2,
@@ -1691,7 +1691,7 @@
   {
    "number": 124,
    "rank": 3,
-   "note": "Every UK user has a unique cloud-security downgrade threatening adequacy, but a statutory encryption shield is politically fraught against the security establishment, checked so far only by litigation and foreign pressure.",
+   "note": "Every UK user carries a cloud-security downgrade with no parallel abroad, and the statutory shield is politically fraught, checked so far only by litigation and foreign pressure.",
    "sub": {
     "i": 3,
     "t": 1,
@@ -1735,7 +1735,7 @@
   {
    "number": 129,
    "rank": 3,
-   "note": "Nobody can even enumerate UK data brokers feeding scams and hostile-state targeting; California's registry-and-deletion model is copyable and the market is unowned, with DSIT interest but no closing date.",
+   "note": "Nobody can enumerate the UK data brokers feeding scams and hostile-state targeting; California's registry-and-deletion model is copyable and the market is unowned.",
    "sub": {
     "i": 3,
     "t": 2,
@@ -1746,7 +1746,7 @@
   {
    "number": 131,
    "rank": 3,
-   "note": "Every retraining, income and place-based response depends on quarterly displacement data no one produces; the linkage is buildable now within existing secure-research access as graduate hiring visibly cracks.",
+   "note": "Every retraining, income and place-based response depends on quarterly displacement data no one produces, and the linkage is buildable now as graduate hiring visibly cracks.",
    "sub": {
     "i": 3,
     "t": 2,

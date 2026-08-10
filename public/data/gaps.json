@@ -2328,9 +2328,9 @@
   "domain": "debt",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The Whole of Government Accounts is the only consolidated view of ~£1.4tn unfunded pension liabilities, £107bn nuclear decommissioning provisions (UKGI projects £115bn crystallising), clinical negligence and the contested £295bn student loan asset. It is published roughly 15 months after year-end and qualified, partly because disclaimed council audits corrupt the consolidation. UKGI's Contingent Liability Central Capability advises on new guarantees but does not manage legacy provisions; the OBR analyses sustainability but manages nothing; DfE's student-loan valuation model (the RAB charge) is not open to independent replication; the Treasury Committee's 2026 report 'Student loans: Broken and unfair?' criticised the system's opacity. No single institution is accountable for the liability side of the state's balance sheet.",
-  "why": "Decisions with hundred-billion-pound balance-sheet consequences (pension uprating, tuition terms, decommissioning pace) are made without a timely consolidated picture or contestable models. Parliament scrutinises an accounting artefact published two budget cycles late.",
-  "fill": "A Treasury balance-sheet management mandate (extending UKGI's CLCC to legacy provisions), a statutory 9-month WGA publication deadline, and open-sourced valuation models for the major liabilities, starting with the student loan book, replicable by IFS and others.",
+  "description": "The Whole of Government Accounts is the only consolidated view of roughly £1.4tn in unfunded pension liabilities, £107bn of nuclear decommissioning provisions with UKGI projecting £115bn crystallising, clinical negligence, and the contested £295bn student loan asset. It is published roughly fifteen months after year-end and qualified, partly because disclaimed council audits corrupt the consolidation. UKGI's Contingent Liability Central Capability advises on new guarantees and does not manage legacy provisions. The OBR analyses sustainability and manages nothing. DfE's student-loan valuation model is not open to independent replication, and the Treasury Committee's 2026 report on student loans criticised the system's opacity. No single institution is accountable for the liability side of the state's balance sheet.",
+  "why": "Decisions with hundred-billion-pound balance-sheet consequences, pension uprating, tuition terms, decommissioning pace, are made without a timely consolidated picture or contestable models. Parliament scrutinises an accounting artefact published two budget cycles late.",
+  "fill": "A Treasury balance-sheet management mandate extending UKGI's contingent-liability capability to legacy provisions, a statutory nine-month publication deadline for the accounts, and open-sourced valuation models for the major liabilities, starting with the student loan book so IFS and others can replicate it.",
   "sources": [
    "https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1243/report.html",
    "https://www.instituteforgovernment.org.uk/explainer/public-sector-pensions",
@@ -2346,8 +2346,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Treasury balance-sheet mandate extending UKGI CLCC plus statutory nine-month WGA deadline.",
-  "tagline": "Who manages the state's £1.4tn in pension promises? Strictly speaking, no one.",
-  "summary": "The only consolidated picture of what the state owes (unfunded pensions, nuclear clean-up, the student loan book) arrives more than a year late and with a qualified audit. The models valuing those liabilities cannot be independently checked. A clear Treasury mandate, a faster publication deadline and open valuation models would make hundred-billion-pound decisions contestable.",
+  "tagline": "£1.4tn of state liabilities; nobody owns the balance sheet",
+  "summary": "The only consolidated picture of what the state owes, unfunded pensions, nuclear clean-up and the student loan book, arrives more than a year late and with a qualified audit. The models valuing those liabilities cannot be independently checked. A clear Treasury mandate, a faster publication deadline and open valuation models would make hundred-billion-pound decisions contestable.",
   "rank": 3,
   "rankNote": "Hundred-billion-pound decisions on pensions, decommissioning and student loans rest on accounts published fifteen months late and qualified, with no institution owning the liability side."
  },
@@ -2432,9 +2432,9 @@
   "domain": "surveillance",
   "type": "policy",
   "horizon": "short",
-  "description": "Technical Capability Notices and National Security Notices under the IPA 2016 (as amended 2024) are secret and gag their recipients: the Apple order (Jan 2025), Apple's withdrawal of Advanced Data Protection, and the replacement UK-only order (Sept 2025) became known only through leaks. No aggregate statistics on notices are ever published; the Technical Advisory Board reviewing them is government-and-industry only; the Intelligence and Security Committee receives no notification. The sole scrutiny channel is litigation: Apple's and Privacy International/Liberty's IPT challenge, heard on 'assumed facts' in early 2026 because government contested any open hearing. IPCO oversees notice use but reports nothing about them publicly, and its 2024 report says its resources are shrinking as demand grows.",
-  "why": "Orders that can remove encryption from millions of people's data are made, varied and enforced entirely in secret, with security-weakening consequences for everyone. Democratic accountability currently depends on leaks to journalists and one under-resourced tribunal case.",
-  "fill": "An IPA amendment package: mandatory annual publication of aggregate notice statistics (as the US and Germany publish for comparable orders), statutory notification of encryption-affecting notices to the ISC, a standing public-interest cryptography panel feeding Technical Advisory Board reviews, and a duty on IPCO to report on notice oversight. A drafted bill and coalition already exist in embryo via ORG/PI joint letters.",
+  "description": "Technical Capability Notices and National Security Notices under the Investigatory Powers Act 2016, as amended in 2024, are secret and gag their recipients. The January 2025 Apple order, Apple's withdrawal of Advanced Data Protection, and the replacement UK-only order of September 2025 became known only through leaks. No aggregate statistics on notices are ever published. The Technical Advisory Board reviewing them draws on government and industry only, and the Intelligence and Security Committee receives no notification. Litigation is the sole scrutiny channel: Apple's and Privacy International and Liberty's tribunal challenge was heard on assumed facts in early 2026 because government contested any open hearing. IPCO oversees notice use, reports nothing about them publicly, and says its resources are shrinking as demand grows.",
+  "why": "Orders that can remove encryption from millions of people's data are made, varied and enforced entirely in secret, and the weakened security reaches everyone. Democratic accountability currently depends on leaks to journalists and one under-resourced tribunal case.",
+  "fill": "An IPA amendment package: mandatory annual publication of aggregate notice statistics, as the US and Germany publish for comparable orders, statutory notification of encryption-affecting notices to the ISC, a standing public-interest cryptography panel feeding Technical Advisory Board reviews, and a duty on IPCO to report on notice oversight. ORG and PI joint letters already sketch the coalition and the drafting.",
   "sources": [
    "https://www.computerweekly.com/news/366632159/Home-Office-issues-new-back-door-order-over-Apple-encryption",
    "https://privacyinternational.org/legal-action/pi-apple-tcn-challenge",
@@ -2452,10 +2452,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: IPA amendment mandating aggregate notice statistics, ISC notification and IPCO reporting duties; only Parliament can compel this.",
-  "tagline": "The order telling Apple to break iCloud encryption stayed secret until someone leaked it.",
-  "summary": "Government can order companies to weaken encryption for millions of users, and the orders are secret; even Parliament's intelligence committee is not told. The Apple case surfaced only through leaks. Other countries publish annual statistics on comparable orders, and Britain could do the same with notification duties attached.",
+  "tagline": "Encryption-breaking orders; secret even from Parliament",
+  "summary": "Government can order companies to weaken encryption for millions of users, and the orders are secret; Parliament's intelligence committee is not told. The Apple case surfaced only through leaks. Other countries publish annual statistics on comparable orders, and Britain could do the same with notification duties attached.",
   "rank": 3,
-  "rankNote": "Orders removing encryption from millions are made entirely in secret with no published statistics or ISC notification; only under-resourced litigation scrutinises them, but no legislative vehicle is yet moving."
+  "rankNote": "Orders removing encryption from millions are made entirely in secret with no published statistics or ISC notification, and no legislative vehicle is yet moving."
  },
  {
   "number": 74,
@@ -2538,9 +2538,9 @@
   "domain": "surveillance",
   "type": "funding",
   "horizon": "short",
-  "description": "The organisations doing the whole sector's work (Big Brother Watch, ORG, medConfidential, Foxglove, Statewatch) operate on roughly £0.5-2m budgets against multi-billion-pound state programmes, and depend on a concentrated, largely non-domestic funder set: Joseph Rowntree Reform Trust, Luminate (Omidyar), Open Society Foundations (reduced by restructuring), Sigrid Rausing Trust, with ORG's own funder list dominated by a few trusts. There is no UK pooled fund, endowment or community-foundation stream for digital rights comparable to EU Civitates or the US Ford/MacArthur technology funds. A single funder exit can remove a quarter of an organisation's income.",
-  "why": "Oversight of surveillance in practice is outsourced to civil society (FOI research, litigation, consultation responses), yet the sector's whole annual budget is under £15m and hostage to three or four foundations' strategy cycles. Fragility here is fragility of the entire accountability system.",
-  "fill": "A pooled UK digital rights fund making 5-10 year core-funding commitments (target £10m/year), seeded by existing trusts plus tech-sector and high-net-worth donors, ideally with an endowment arm. A fundable, concrete vehicle: an Ariadne/Civitates-style collaborative fund hosted at an existing foundation.",
+  "description": "Big Brother Watch, ORG, medConfidential, Foxglove and Statewatch do the sector's work on budgets of roughly £0.5m to £2m against multi-billion-pound state programmes. The funder set is concentrated and largely non-domestic: Joseph Rowntree Reform Trust, Luminate, Open Society Foundations reduced by restructuring, and the Sigrid Rausing Trust, with ORG's own funder list dominated by a few trusts. No UK pooled fund, endowment or community-foundation stream for digital rights exists on the model of EU Civitates or the US Ford and MacArthur technology funds. A single funder exit can remove a quarter of an organisation's income.",
+  "why": "Oversight of surveillance is in practice outsourced to civil society through FOI research, litigation and consultation responses. The sector's whole annual budget runs under £15m and hangs on three or four foundations' strategy cycles. Fragility here is fragility of the whole accountability system.",
+  "fill": "A pooled UK digital rights fund making five-to-ten-year core-funding commitments at a target of £10m a year, seeded by existing trusts with tech-sector and high-net-worth donors, ideally with an endowment arm. An Ariadne or Civitates-style collaborative fund hosted at an existing foundation would do it.",
   "sources": [
    "https://www.openrightsgroup.org/trusts-and-foundations/",
    "https://www.jrrt.org.uk/what-we-do/grants-awarded/",
@@ -2559,8 +2559,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: Civitates-style collaborative fund hosted at an existing foundation making 5-10 year core-funding commitments.",
-  "tagline": "Britain's entire digital rights sector runs on less than £15m a year.",
-  "summary": "The charities scrutinising state surveillance depend on a handful of mostly foreign foundations; when a funder walks away, a quarter of an organisation's income can go with it. A pooled UK fund making long-term commitments would put the country's accountability work on stable footing.",
+  "tagline": "Digital rights oversight; under £15m a year, mostly foreign-funded",
+  "summary": "The charities scrutinising state surveillance depend on a handful of mostly foreign foundations, and one funder walking away can take a quarter of an organisation's income with it. A pooled UK fund making long-term commitments would put the country's accountability work on stable footing.",
   "alsoDomains": [
    "privacy"
   ],
@@ -2589,7 +2589,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "The sector's sub-£15m budget, carrying all surveillance oversight, hangs on three or four foreign foundations; a pooled domestic fund is directly buildable, though no dated trigger forces it."
+  "rankNote": "The sector's sub-£15m budget carries all surveillance oversight and hangs on a few foreign foundations; a pooled domestic fund is directly buildable without a dated trigger."
  },
  {
   "number": 78,
@@ -2627,9 +2627,9 @@
   "domain": "surveillance",
   "type": "policy",
   "horizon": "short",
-  "description": "A 2012 High Court ruling (RMC v Met) found indefinite retention of custody images of unconvicted people unlawful, yet the Police National Database still holds around 19 million facial images, including hundreds of thousands of people never charged; the former Biometrics Commissioner estimated 'several million' are unlawfully held. Inspections found 11 of 17 forces do not proactively review or delete images, and ageing systems cannot bulk-delete. Unlike DNA and fingerprints (automatic deletion under the Protection of Freedoms Act 2012), facial images have no statutory regime, and this unlawful stockpile is the search corpus for expanding retrospective facial recognition.",
-  "why": "National facial recognition rollout is being built on top of a database a court declared unlawful fourteen years ago. Innocent people are searchable by face indefinitely, and each year of inaction hardens the precedent that judicial rulings against surveillance practice can simply be ignored.",
-  "fill": "Extend the Protection of Freedoms Act 2012 automatic-deletion regime to custody images, funded replacement or remediation of PND systems with deletion-by-design, and mandatory published weeding metrics per force. A concrete legislative clause plus a bounded IT programme, an obvious candidate for inclusion in the forthcoming biometrics bill.",
+  "description": "A 2012 High Court ruling found indefinite retention of custody images of unconvicted people unlawful, and the Police National Database still holds around 19 million facial images, including hundreds of thousands of people never charged; the former Biometrics Commissioner estimated several million are unlawfully held. Inspections found 11 of 17 forces do not proactively review or delete images, and ageing systems cannot bulk-delete. DNA and fingerprints have had automatic deletion under the Protection of Freedoms Act 2012, facial images have no statutory regime, and this stockpile is the search corpus for expanding retrospective facial recognition.",
+  "why": "National facial recognition rollout is being built on a database a court declared unlawful fourteen years ago. Innocent people are searchable by face indefinitely, and each year of inaction hardens the precedent that judicial rulings against surveillance practice can be ignored.",
+  "fill": "Extend the Protection of Freedoms Act 2012 automatic-deletion regime to custody images, fund replacement or remediation of the database systems with deletion by design, and require published weeding metrics per force. It is a concrete legislative clause plus a bounded IT programme, and a natural candidate for the forthcoming biometrics bill.",
   "sources": [
    "https://www.computerweekly.com/news/366616908/UK-police-continue-to-hold-millions-of-custody-images-unlawfully",
    "https://libertyinvestigates.org.uk/articles/hundreds-of-thousands-of-innocent-people-on-police-databases-as-forces-expand-use-of-facial-recognition-tech/",
@@ -2644,10 +2644,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: legislative clause extending PoFA 2012 automatic deletion to custody images, plus funded PND system remediation.",
-  "tagline": "A court found indefinite mugshot retention unlawful in 2012. Police hold 19 million.",
-  "summary": "The police face-search corpus is built on custody images a court ruled unlawful to keep, fourteen years ago. Hundreds of thousands of people never charged remain searchable by face indefinitely. DNA and fingerprints already get deleted automatically, and the same rule could simply be extended to photographs.",
+  "tagline": "Ruled unlawful in 2012; 19 million custody images still held",
+  "summary": "The police face-search corpus is built on custody images a court ruled unlawful to keep, fourteen years ago. Hundreds of thousands of people never charged remain searchable by face indefinitely. DNA and fingerprints already get deleted automatically, and the same rule could be extended to photographs.",
   "rank": 3,
-  "rankNote": "Courts declared indefinite retention unlawful fourteen years ago, yet millions of innocent people's images remain the search corpus for expanding facial recognition; the deletion clause awaits an unintroduced bill."
+  "rankNote": "Courts declared indefinite retention unlawful fourteen years ago, millions of innocent people's images remain the search corpus for facial recognition, and the deletion clause awaits an unintroduced bill."
  },
  {
   "number": 80,
@@ -2770,9 +2770,9 @@
   "domain": "corruption-integrity",
   "type": "institutional",
   "horizon": "short",
-  "description": "The Procurement Act 2023 debarment regime went live on 24 February 2025, but the published list remains blank as of mid-2026: the gov.uk list itself states it 'will remain blank' until a minister decides to add a supplier. The first real investigations (cladding suppliers named in the Grenfell Inquiry report) were paused in July 2025 at the request of the CPS and Metropolitan Police to avoid prejudicing criminal proceedings. The Debarment Review Service, absorbed into the Government Commercial Agency in April 2026, acts only on referral from contracting authorities and ministerial discretion; there are no statutory timelines and no route for civil society, journalists or whistleblowers to trigger an investigation. Tussell provides commercial contract-data analytics but no one runs systematic corruption red-flag monitoring across the new Central Digital Platform data.",
-  "why": "The PPE VIP lane showed what unpoliced emergency procurement costs: the Covid Counter-Fraud Commissioner put total scheme fraud and error at £10.9bn, with only £1.8bn recovered. A debarment power that never debars anyone provides no deterrent for the next crisis.",
-  "fill": "An independently governed debarment investigation function with statutory timelines, a public investigation pipeline, a third-party referral channel (civil society, auditors, whistleblowers), a deconfliction protocol so criminal proceedings pause rather than kill debarment cases, plus a funded red-flag analytics unit working on Central Digital Platform data.",
+  "description": "The Procurement Act 2023 debarment regime went live on 24 February 2025, and the published list remains blank as of mid-2026; the gov.uk list itself states it will remain blank until a minister decides to add a supplier. The first real investigations, into cladding suppliers named in the Grenfell Inquiry report, were paused in July 2025 at the request of the CPS and the Metropolitan Police to avoid prejudicing criminal proceedings. The Debarment Review Service, absorbed into the Government Commercial Agency in April 2026, acts only on referral from contracting authorities and ministerial discretion. No statutory timelines exist, and civil society, journalists and whistleblowers have no route to trigger an investigation. Tussell provides commercial contract-data analytics, and nobody runs systematic corruption red-flag monitoring across the new Central Digital Platform data.",
+  "why": "The PPE VIP lane showed what unpoliced emergency procurement costs: the Covid Counter-Fraud Commissioner put total scheme fraud and error at £10.9bn, with £1.8bn recovered. A debarment power that never debars anyone deters nothing before the next crisis.",
+  "fill": "An independently governed debarment investigation function with statutory timelines and a public investigation pipeline. A third-party referral channel would open it to civil society, auditors and whistleblowers, a deconfliction protocol would let criminal proceedings pause rather than kill debarment cases, and a funded red-flag analytics unit would work the Central Digital Platform data.",
   "sources": [
    "https://assets.publishing.service.gov.uk/media/68595a94eaa6f6419fade63b/Debarment_List.pdf",
    "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html",
@@ -2787,10 +2787,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: red-flag analytics unit on public Central Digital Platform data producing shadow debarment dossiers; statutory regime is the end-state.",
-  "tagline": "Britain built a blacklist for dodgy government contractors. It has zero entries.",
-  "summary": "More than a year after launch, the register for barring misbehaving suppliers from public contracts is still empty, and only ministers can put a name on it. Covid procurement fraud and error cost an estimated £10.9bn. An investigator with its own referral route, open to journalists and whistleblowers, would give the list teeth.",
+  "tagline": "The contractor blacklist is live; it has zero entries",
+  "summary": "More than a year after launch, the register for barring misbehaving suppliers from public contracts is still empty, and only ministers can put a name on it. Covid procurement fraud and error cost an estimated £10.9bn. An investigator with its own referral route, open to journalists and whistleblowers, could start filling it.",
   "rank": 3,
-  "rankNote": "The debarment power that never debars leaves emergency procurement undeterred after £10.9bn Covid fraud; the regime exists but no independent trigger or red-flag analytics is resourced."
+  "rankNote": "Emergency procurement remains undeterred after £10.9bn of Covid fraud and error; the regime exists, the list is empty, and no independent trigger or analytics is resourced."
  },
  {
   "number": 85,
@@ -2974,9 +2974,9 @@
   "domain": "corruption-integrity",
   "type": "institutional",
   "horizon": "mid",
-  "description": "Identity verification became mandatory for new directors and PSCs on 18 November 2025; by 31 March 2026, 783,000 people had been verified by Authorised Corporate Service Providers. But ACSPs include trust and company service providers (historically the weakest-supervised AML sector), and until the FCA becomes single AML supervisor for professional services (decision announced June 2026, implementation acknowledged to take 'several years' with OPBAS continuing meanwhile), their supervision stays fragmented across many professional bodies. Limited-partnership reforms, the fix for Scottish Limited Partnerships used to move up to $80bn out of Russia, commence no sooner than spring 2026 and are not yet biting. Registered Overseas Entities trust-transparency changes are still being phased in.",
-  "why": "The register is only as trustworthy as its gatekeepers. If a compromised ACSP can wave through verifications, ECCTA's flagship reform becomes security theatre, and the UK's role as the corporate-services hub for global laundromats persists under a compliant-looking surface.",
-  "fill": "An accelerated FCA supervision timetable with an interim ACSP audit and spot-check regime publishing per-firm performance data; rapid commencement of LP/SLP reforms with retrospective verification and strike-off; and a funded Companies House data-integrity unit systematically exercising its new querying powers against red-flag patterns.",
+  "description": "Identity verification became mandatory for new directors and people with significant control on 18 November 2025, and by 31 March 2026, 783,000 people had been verified by Authorised Corporate Service Providers. ACSPs include trust and company service providers, historically the weakest-supervised anti-money-laundering sector. The FCA becomes single AML supervisor for professional services under a June 2026 decision whose implementation is acknowledged to take several years, with OPBAS continuing meanwhile, so supervision stays fragmented across many professional bodies. Limited-partnership reforms, the fix for the Scottish Limited Partnerships used to move up to $80bn out of Russia, commence no sooner than spring 2026 and are not yet biting. Trust-transparency changes for Registered Overseas Entities are still phasing in.",
+  "why": "The register is only as trustworthy as its gatekeepers. A compromised agent that can wave through verifications turns the flagship reform into security theatre, and the UK's role as corporate-services hub for global laundromats persists under a compliant-looking surface.",
+  "fill": "An accelerated FCA supervision timetable with an interim audit and spot-check regime for agents, publishing per-firm performance data. Rapid commencement of the partnership reforms with retrospective verification and strike-off would follow, plus a funded Companies House data-integrity unit exercising its new querying powers against red-flag patterns.",
   "sources": [
    "https://assets.publishing.service.gov.uk/media/6a28300ee371d9d2c0052b3e/third-report-on-the-implementation-and-operation-of-parts-1-to-3-of-the-economic-crim-and-corporate-transparency-act-2023.pdf",
    "https://www.gov.uk/government/consultations/reforming-anti-money-laundering-and-counter-terrorism-financing-supervision/outcome/reform-of-the-anti-money-laundering-and-counter-terrorism-financing-supervision-regime-consultation-response",
@@ -2995,8 +2995,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: FCA supervision timetable, LP-reform commencement orders, and a funded Companies House data-integrity unit.",
-  "tagline": "Company ID checks now exist. The agents doing the checking are barely supervised.",
-  "summary": "Identity verification finally came to Companies House, but much of it is done by corporate service agents whose sector has long been the weakest link in money-laundering supervision. The Scottish partnership vehicles used to move up to $80bn out of Russia are still awaiting their fix. Publishing per-firm audit results would show whether the reform is real.",
+  "tagline": "Company ID checks arrived; the checkers are barely supervised",
+  "summary": "Identity verification finally came to Companies House, but much of it is done by corporate service agents whose sector has long been the weakest link in money-laundering supervision. The Scottish partnership vehicles used to move up to $80bn out of Russia still await their fix. Publishing per-firm audit results would show whether the reform is real.",
   "facets": [
    "policy-gaps"
   ],
@@ -3011,7 +3011,7 @@
   ],
   "curationNote": "AML-supervision consolidation is the same instrument as the accelerated single-supervisor timetable and ACSP audit regime.",
   "rank": 3,
-  "rankNote": "The register is only as trustworthy as its gatekeepers, but agent supervision stays fragmented and partnership reforms bite slowly on a several-year timetable government already part-owns."
+  "rankNote": "Agent supervision stays fragmented for several more years on a timetable government part-owns, and partnership reforms bite slowly while verification scales."
  },
  {
   "number": 91,
@@ -3079,9 +3079,9 @@
   "domain": "corruption-integrity",
   "type": "policy",
   "horizon": "short",
-  "description": "The ECCTA anti-SLAPP provisions came into force on 18 June 2025, and in March 2026 the High Court delivered the first statutory strike-out: Kamal v Tax Policy Associates [2026] EWHC 551 (KB), throwing out an 'oppressive' £8m libel claim. But the regime applies only to claims relating to economic crime; reporting on sexual misconduct, environmental harm, political wrongdoing or public safety gets no protection, and the government has stated no current plans to extend it. The UK Anti-SLAPP Coalition has a drafted model law ready. The Anti-Corruption Strategy committed to tackling legal threats against journalists exposing corruption but stopped short of comprehensive legislation.",
-  "why": "SLAPPs are how UK corruption stays unreported: London remains the venue of choice for wealthy claimants to exhaust journalists before publication. The March 2026 ruling proves the statutory mechanism works; leaving most public-interest speech unprotected is now a legislative choice, not a technical problem.",
-  "fill": "A comprehensive Anti-SLAPP Act covering all public-interest speech (the UK Anti-SLAPP Coalition model law), matching court procedure rules, and a legal-defence fund for small newsrooms and freelancers facing pre-publication threats.",
+  "description": "The ECCTA anti-SLAPP provisions came into force on 18 June 2025, and in March 2026 the High Court delivered the first statutory strike-out, throwing out an oppressive £8m libel claim in Kamal v Tax Policy Associates. The regime applies only to claims relating to economic crime. Reporting on sexual misconduct, environmental harm, political wrongdoing or public safety gets no protection, and the government has stated no current plans to extend it. The UK Anti-SLAPP Coalition has a drafted model law ready, and the Anti-Corruption Strategy committed to tackling legal threats against journalists exposing corruption while stopping short of comprehensive legislation.",
+  "why": "SLAPPs are how UK corruption stays unreported, and London remains the venue of choice for wealthy claimants who exhaust journalists before publication. The March 2026 ruling proves the statutory mechanism works. Leaving most public-interest speech unprotected is now a legislative choice.",
+  "fill": "A comprehensive Anti-SLAPP Act covering all public-interest speech, on the UK Anti-SLAPP Coalition's model law, with matching court procedure rules and a legal-defence fund for small newsrooms and freelancers facing pre-publication threats.",
   "sources": [
    "https://www.gov.uk/government/publications/economic-crime-and-corporate-transparency-act-2023-factsheets/economic-crime-and-corporate-transparency-act-strategic-lawsuits-against-public-participation-slapps",
    "https://www.thebureauinvestigates.com/stories/2026-03-12/landmark-anti-slapp-victory-as-8m-libel-claim-is-thrown-out-of-court",
@@ -3097,10 +3097,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: legal-defence fund for small newsrooms and freelancers; comprehensive Anti-SLAPP Act is the end-state.",
-  "tagline": "Courts can now throw out bullying libel suits, but only ones about economic crime.",
-  "summary": "The High Court has used new strike-out powers for the first time, throwing out an £8m libel claim it found oppressive. But the shield covers only speech about economic crime; reporting on sexual misconduct or environmental harm gets nothing. A model law extending protection to all public-interest speech is already drafted.",
+  "tagline": "Anti-SLAPP protection exists; only for economic-crime reporting",
+  "summary": "The High Court has used the new strike-out powers for the first time, throwing out an £8m libel claim it found oppressive. The shield covers only speech about economic crime, so reporting on sexual misconduct or environmental harm gets nothing. A model law extending protection to all public-interest speech is already drafted.",
   "rank": 3,
-  "rankNote": "A proven statutory strike-out now protects only economic-crime reporting; a drafted model law would cover all public-interest speech, making the remaining exposure a legislative choice not a technical one."
+  "rankNote": "The strike-out mechanism is proven and protects only economic-crime reporting; a drafted model law would cover all public-interest speech, so the remaining exposure is a legislative choice."
  },
  {
   "number": 94,
@@ -3109,9 +3109,9 @@
   "domain": "corruption-integrity",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The Public Interest Disclosure Act 1998 framework is widely judged obsolete: it protects only 'workers', offers remedies only after detriment via employment tribunal, and creates no duty to investigate disclosures. The April 2026 change adding sexual harassment as a qualifying disclosure and a new employer duty to investigate is incremental. Gareth Snell's Office of the Whistleblower Bill (a private member's bill, in final stages as of May 2026) lacks confirmed government backing, and the December 2025 Anti-Corruption Strategy commits only to 'explore' reform by 2027; the UK Anti-Corruption Coalition flagged the absence of victimisation protection and remedies as a headline gap. The charity Protect runs an advice line but has no statutory powers.",
-  "why": "Whistleblowers detect more fraud than auditors and regulators combined, and every UK integrity scandal from PPE to Post Office involved insiders who were ignored or punished. An enforcement-poor state cannot afford to waste its cheapest intelligence source.",
-  "fill": "A statutory Office of the Whistleblower with powers to set and enforce case-handling standards, direct investigations, and order redress for victimised whistleblowers, plus consideration of US-style rewards for economic-crime tips channelled to the SFO/NCA.",
+  "description": "The Public Interest Disclosure Act 1998 framework is widely judged obsolete: it protects only workers, offers remedies only after detriment through an employment tribunal, and creates no duty to investigate disclosures. The April 2026 change adding sexual harassment as a qualifying disclosure, with a new employer duty to investigate, is incremental. Gareth Snell's Office of the Whistleblower Bill reached final stages in May 2026 without confirmed government backing, and the December 2025 Anti-Corruption Strategy commits only to explore reform by 2027. The UK Anti-Corruption Coalition flags the absence of victimisation protection and remedies as the headline gap, and the charity Protect runs an advice line with no statutory powers.",
+  "why": "Whistleblowers detect more fraud than auditors and regulators combined, and every UK integrity scandal from PPE to the Post Office involved insiders who were ignored or punished. An enforcement-poor state is wasting its cheapest intelligence source.",
+  "fill": "A statutory Office of the Whistleblower with powers to set and enforce case-handling standards, direct investigations, and order redress for victimised whistleblowers. US-style rewards for economic-crime tips, channelled to the SFO and NCA, belong in the same design conversation.",
   "sources": [
    "https://bills.parliament.uk/bills/3914",
    "https://www.ukanticorruptioncoalition.org/work/from-aspiration-to-action-experts-call-for-rapid-implementation-plans-for-new-anti-corruption-strategy",
@@ -3126,10 +3126,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statute creating an Office of the Whistleblower with standard-setting, investigation and redress powers.",
-  "tagline": "Whistleblowers catch more fraud than auditors. UK law protects them after the sacking.",
-  "summary": "Insiders raised alarms in the Post Office and pandemic-procurement scandals and were ignored or punished; the law gives them a tribunal claim after the damage, not protection before it. Nobody is even obliged to investigate what they disclose. A bill creating an Office of the Whistleblower is already in Parliament.",
+  "tagline": "Whistleblowers protected only after the sacking",
+  "summary": "Insiders raised alarms in the Post Office and pandemic-procurement scandals and were ignored or punished; the law gives them a tribunal claim after the damage rather than protection before it. Nobody is obliged to investigate what they disclose. A bill creating an Office of the Whistleblower is already in Parliament.",
   "rank": 3,
-  "rankNote": "Insiders detect more fraud than auditors and regulators combined, yet protection stays post-detriment and tribunal-only; a live private-member bill and drafted office design await government backing."
+  "rankNote": "Protection stays post-detriment and tribunal-only while a live private member's bill and a drafted office design wait for government backing."
  },
  {
   "number": 95,
@@ -3249,9 +3249,9 @@
   "domain": "parallel-institutions",
   "type": "policy",
   "horizon": "mid",
-  "description": "The Law Commission's DAO scoping paper (11 July 2024) concluded England and Wales needs no DAO-specific entity but recommended reviewing the Companies Act 2006 and LLP law to accommodate technology-mediated governance. Two years on, no department has commissioned that follow-up. Unwrapped DAOs risk classification as general partnerships with unlimited joint-and-several liability, so serious UK projects wrap offshore (Cayman foundations, Wyoming DUNAs). The same defect bites at the low-tech end: unincorporated associations (the form of ~4,000 Covid mutual aid groups) lack legal personality, cannot hold property, and struggle to open bank accounts. A 2008-9 Law Commission project on unincorporated associations was never implemented.",
-  "why": "This is the single clearest delta between what technology allows and what UK law supports: software can coordinate thousands of contributors and treasuries, but every participant carries unlimited personal liability. Formation, assets and tax residence emigrate; neighbourhood groups stay legally invisible and unbanked.",
-  "fill": "DSIT/MoJ/HM Treasury jointly commissioning the recommended Companies Act and LLP reviews; a limited-liability nonprofit association statute (cf. Wyoming's DUNA / US UUNAA) with cheap same-day digital registration usable by both street-level groups and on-chain communities.",
+  "description": "The Law Commission's DAO scoping paper of July 2024 concluded England and Wales needs no DAO-specific entity and recommended reviewing the Companies Act 2006 and LLP law to accommodate technology-mediated governance. Two years on, no department has commissioned that follow-up. Unwrapped DAOs risk classification as general partnerships with unlimited joint and several liability, so serious UK projects wrap offshore in Cayman foundations or Wyoming DUNAs. The same defect bites at the low-tech end. Unincorporated associations, the form of around 4,000 Covid mutual aid groups, lack legal personality, cannot hold property, and struggle to open bank accounts. A Law Commission project on unincorporated associations from 2008-9 was never implemented.",
+  "why": "This is the clearest distance between what technology allows and what UK law supports: software can coordinate thousands of contributors and treasuries while every participant carries unlimited personal liability. Formation, assets and tax residence emigrate. Neighbourhood groups stay legally invisible and unbanked.",
+  "fill": "DSIT, MoJ and HM Treasury jointly commissioning the recommended Companies Act and LLP reviews, and a limited-liability nonprofit association statute on the model of Wyoming's DUNA, with cheap same-day digital registration usable by street-level groups and on-chain communities alike.",
   "sources": [
    "https://lawcom.gov.uk/project/decentralised-autonomous-organisations-daos/",
    "https://www.nortonrosefulbright.com/en/inside-fintech/blog/2024/07/law-commission-publishes-scoping-paper-on-decentralised-autonomous-organisations",
@@ -3266,10 +3266,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: limited-liability nonprofit association statute; DSIT/MoJ/HM Treasury must commission the recommended reviews.",
-  "tagline": "Thousands can now govern a shared treasury online. UK law calls that unlimited liability.",
-  "summary": "Software lets thousands of strangers govern a shared treasury, but UK law treats such groups as partnerships with unlimited personal liability, so serious projects incorporate abroad. The same defect left about 4,000 pandemic mutual-aid groups legally invisible. A simple limited-liability association status would serve street groups and online communities alike.",
+  "tagline": "Online treasuries, shared governance; UK law calls it unlimited liability",
+  "summary": "Software lets thousands of strangers govern a shared treasury, and UK law treats such groups as partnerships with unlimited personal liability, so serious projects incorporate abroad. The same defect left about 4,000 pandemic mutual-aid groups legally invisible. A simple limited-liability association status would serve street groups and online communities alike.",
   "rank": 3,
-  "rankNote": "This is the sharpest gap between what software enables and what law permits; overseas models exist and nobody owns the follow-up, but no dated trigger forces action."
+  "rankNote": "The sharpest gap between what software enables and what law permits; overseas models exist, nobody owns the follow-up, and no dated trigger forces action."
  },
  {
   "number": 99,
@@ -3278,9 +3278,9 @@
   "domain": "parallel-institutions",
   "type": "institutional",
   "horizon": "short",
-  "description": "Wales has Cwmpas (est. 1982, the UK's largest co-op development agency); Scotland has Co-operative Development Scotland inside Scottish Enterprise; England (c.85% of the UK population) has no publicly funded formation agency. Co-operatives UK is a membership federation, not a funded delivery body; the Community Shares Booster Fund made only £248,000 of development grants in 2025. Government has pledged to double the mutual sector and appointed a mutuals champion, but there is no institution in England tasked with actually forming new mutuals.",
-  "why": "Doubling a sector requires a delivery arm, not just a pledge. Formation of co-ops, community businesses and mutuals is advice-intensive; the devolved nations show publicly funded development agencies work. England's absence is the largest institutional hole in the government's own mutuals agenda.",
-  "fill": "An England Co-operative Development Agency (arm's-length or franchised through mayoral combined authorities), funded via the Treasury mutuals strategy or dormant assets, offering formation advice, free model documents, and finance brokerage; fundable at £10–20m/yr.",
+  "description": "Wales has Cwmpas, established in 1982 and the UK's largest co-op development agency, and Scotland has Co-operative Development Scotland inside Scottish Enterprise. England, with about 85 per cent of the UK population, has no publicly funded formation agency. Co-operatives UK is a membership federation rather than a funded delivery body, and the Community Shares Booster Fund made £248,000 of development grants in 2025. Government has pledged to double the mutual sector and appointed a mutuals champion, and no institution in England is tasked with forming new mutuals.",
+  "why": "Doubling a sector requires a delivery arm. Formation of co-ops, community businesses and mutuals is advice-intensive, and the devolved nations show publicly funded development agencies work. England's absence is the largest institutional hole in the government's own mutuals agenda.",
+  "fill": "An England Co-operative Development Agency, arm's-length or franchised through mayoral combined authorities, funded through the Treasury mutuals strategy or dormant assets. It would offer formation advice, free model documents and finance brokerage, at £10-20m a year.",
   "sources": [
    "https://cwmpas.coop/about-us/",
    "https://www.scottish-enterprise.com/how-we-can-help/business-strategy/business-models/co-operative-business-support",
@@ -3296,8 +3296,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: a mayoral combined authority franchising a pilot regional co-op development agency ahead of Treasury or dormant-assets funding.",
-  "tagline": "Wales has a co-op development agency. Scotland has one. England, somehow, does not.",
-  "summary": "Government has pledged to double the mutual sector, yet England (most of the UK's population) has no publicly funded body whose job is forming new co-operatives, while Wales has run one since 1982. An English agency, franchised through mayoral authorities, is fundable at £10-20m a year.",
+  "tagline": "Wales and Scotland run co-op development agencies; England has none",
+  "summary": "Government has pledged to double the mutual sector, yet England, holding most of the UK's population, has no publicly funded body whose job is forming new co-operatives. Wales has run one since 1982. An English agency, franchised through mayoral authorities, is fundable at £10-20m a year.",
   "dialogue": {
    "counterparty": "councils",
    "ask": "Franchise a pilot regional co-operative development agency within your combined authority, offering formation advice and finance brokerage to new co-ops and community businesses.",
@@ -3306,7 +3306,7 @@
    "firstStep": "A six-month desk inside your existing business-support service: one co-operative development adviser, funded by us, jointly evaluated on enquiries handled and co-ops formed, creating no new institution and ending cleanly if it fails."
   },
   "rank": 3,
-  "rankNote": "Devolved nations prove the delivery model works, England's 85% of population has none, and the government's own pledge to double the sector opens a policy window with no delivery arm."
+  "rankNote": "The devolved nations prove the delivery model, England has none, and the government's pledge to double the sector opens a policy window with no delivery arm."
  },
  {
   "number": 100,
@@ -3545,9 +3545,9 @@
   "domain": "portable-sovereignty",
   "type": "institutional",
   "horizon": "short",
-  "description": "When OSA illegal-content duties began (March 2025), roughly 300 small volunteer-run forums exited or migrated to Big Tech platforms; at least 22 confirmed closures per tech lawyer Neil Brown's tracker; LFGSS/Microcosm shut and only partially returned. Ofcom offers a small-services hub and revamped compliance guide, but every volunteer admin (including operators of Matrix homeservers and Fediverse instances, who are in scope) must individually produce risk assessments with no shared legal defence, insurance product, or template compliance stack. Open Rights Group campaigns on the issue but provides no operational compliance service. A December 2025 Westminster Hall debate on repeal aired the burden without resolution; the categorisation register lands July 2026.",
-  "why": "Community self-hosting is the entry point to the whole sovereignty stack. If running a forum or homeserver is legally hazardous for volunteers, UK online community life centralises onto US platforms by default, the opposite of the Act's intent and of digital sovereignty.",
-  "fill": "A compliance co-operative ('OSA mutual') offering model risk assessments, shared moderation tooling, a legal helpline and group insurance for community services, paired with a statutory proportionality carve-out for low-risk community services at the next OSA review.",
+  "description": "When the OSA illegal-content duties began in March 2025, roughly 300 small volunteer-run forums exited or migrated to Big Tech platforms, with at least 22 confirmed closures on tech lawyer Neil Brown's tracker; LFGSS and Microcosm shut and only partially returned. Ofcom offers a small-services hub and a revamped compliance guide. Every volunteer admin, including operators of Matrix homeservers and Fediverse instances, who are in scope, must still individually produce risk assessments with no shared legal defence, and neither an insurance product nor a template compliance stack exists. Open Rights Group campaigns on the issue without providing an operational compliance service. A December 2025 Westminster Hall debate aired the burden without resolution, and the categorisation register lands in July 2026.",
+  "why": "Community self-hosting is the entry point to the whole sovereignty stack. If running a forum or homeserver is legally hazardous for volunteers, UK online community life centralises onto US platforms by default, against the Act's own intent.",
+  "fill": "A compliance co-operative offering model risk assessments, shared moderation tooling, a legal helpline and group insurance for community services, paired with a statutory proportionality carve-out for low-risk community services at the next OSA review.",
   "sources": [
    "https://www.lfgss.com/conversations/401475/",
    "https://www.parallelparliament.co.uk/debate/2025-12-15/commons/westminster-hall/online-safety-act-2023-repeal",
@@ -3563,8 +3563,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: model OSA risk-assessment pack plus mutual formation; statutory proportionality carve-out is the later state-led end-state.",
-  "tagline": "Online safety rules drove 300 volunteer forums offline. Each admin still stands alone.",
-  "summary": "When Online Safety Act duties landed, around 300 small community forums went dark rather than shoulder the legal risk alone. Every volunteer running a forum or server still writes their own risk assessment, uninsured and unadvised. A compliance co-operative (templates, a legal helpline, group insurance) would let community life stay off Big Tech.",
+  "tagline": "Online safety duties; every volunteer forum admin stands alone",
+  "summary": "When Online Safety Act duties landed, around 300 small community forums went dark rather than shoulder the legal risk alone. Every volunteer running a forum or server still writes their own risk assessment, uninsured and unadvised. A compliance co-operative, offering templates, a legal helpline and group insurance, would let community life stay off Big Tech.",
   "seeAlso": [
    {
     "number": 223,
@@ -3574,7 +3574,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "Illegal-content duties are already forcing volunteer forums to close, a co-operative fix is well understood, nobody provides it, and a July 2026 categorisation deadline pressures action now."
+  "rankNote": "The duties are already forcing volunteer forums to close, the co-operative fix is well understood and unprovided, and the July 2026 categorisation deadline adds pressure now."
  },
  {
   "number": 109,
@@ -3583,9 +3583,9 @@
   "domain": "portable-sovereignty",
   "type": "policy",
   "horizon": "short",
-  "description": "OSA s.121 lets Ofcom mandate 'accredited technology' to scan private messaging; Ofcom finalised its Technology Notices guidance in May 2026, and enforcement is deferred only by a ministerial 'technical feasibility' assurance with no legal force. Separately, IPA technical capability notices are secret: Apple withdrew Advanced Data Protection from UK users (Feb 2025), the IPT dismissed Apple's appeal after the Home Office narrowed its order to UK users only, and Privacy International's secrecy challenge was heard in 2026. There is no statutory transparency reporting (even aggregate counts) for TCNs, and no dedicated litigation/defence fund; ORG, PI and Big Brother Watch cover encryption from general budgets.",
-  "why": "Every layer of the stack rests on lawful, durable E2EE. The current regime is an uncertainty tax: providers withdraw features (ADP), builders cannot promise UK users lasting security, and secrecy prevents Parliament or the market from weighing the trade-offs.",
-  "fill": "A statutory amendment protecting E2EE from scanning mandates; annual aggregate transparency reporting on IPA notices; and a philanthropic UK Encryption Defence Fund financing interventions and representation for small providers facing notices.",
+  "description": "Section 121 of the Online Safety Act lets Ofcom mandate accredited technology to scan private messaging, Ofcom finalised its Technology Notices guidance in May 2026, and enforcement is deferred only by a ministerial assurance on technical feasibility with no legal force. Separately, technical capability notices under the Investigatory Powers Act are secret. Apple withdrew Advanced Data Protection from UK users in February 2025, the tribunal dismissed Apple's appeal after the Home Office narrowed its order to UK users only, and Privacy International's secrecy challenge was heard in 2026. No statutory transparency reporting exists, not even aggregate counts, and no dedicated litigation or defence fund backs small providers; ORG, PI and Big Brother Watch cover encryption from general budgets.",
+  "why": "Every layer of the sovereignty stack rests on lawful, durable end-to-end encryption. The current regime works as an uncertainty tax: providers withdraw features, builders cannot promise UK users lasting security, and secrecy keeps Parliament and the market from weighing the trade-offs.",
+  "fill": "A statutory amendment protecting end-to-end encryption from scanning mandates, annual aggregate transparency reporting on IPA notices, and a philanthropic UK encryption defence fund financing interventions and representation for small providers facing notices.",
   "sources": [
    "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/consultation-technology-notices",
    "https://www.computerweekly.com/news/366632561/Apple-and-Home-Office-agree-to-drop-legal-claim-over-encryption-backdoor",
@@ -3601,8 +3601,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: philanthropic UK Encryption Defence Fund; the statutory E2EE amendment remains the state-led end-state.",
-  "tagline": "The power to break encrypted messaging sits on the statute book, held back by a promise.",
-  "summary": "British law lets regulators order the scanning of private messages, and separate secret notices already forced Apple to pull its strongest cloud encryption from UK users. Nothing in statute protects encryption, and not even the number of secret orders is published. A legal shield plus annual transparency reporting would fix both.",
+  "tagline": "Message-scanning powers finalised; encryption unprotected in statute",
+  "summary": "British law lets regulators order the scanning of private messages, and separate secret notices already forced Apple to pull its strongest cloud encryption from UK users. Nothing in statute protects encryption, and the number of secret orders goes unpublished. A legal shield plus annual transparency reporting would fix both.",
   "seeAlso": [
    {
     "number": 124,
@@ -3612,7 +3612,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "Encryption underpins the whole stack, scanning-mandate and secret-notice regimes are being finalised and litigated this year, but durable protection needs statute and only general-budget campaigners push back."
+  "rankNote": "Scanning-mandate and secret-notice regimes are being finalised and litigated this year, and durable protection needs statute with only general-budget campaigners pushing back."
  },
  {
   "number": 110,
@@ -3870,9 +3870,9 @@
   "domain": "privacy",
   "type": "policy",
   "horizon": "short",
-  "description": "The UK never implemented UK GDPR Article 80(2) (non-profits complaining/litigating without named claimants); the 2021 DCMS review declined, citing Lloyd v Google, which the Supreme Court then shut down, ruling representative damages claims need individual proof of loss. The DUAA 2025 did not revisit it. Competition law has opt-out actions at the CAT; data protection has nothing. ORG has campaigned for implementation; AWO and claimant firms can only run costly opt-in group actions.",
-  "why": "Mass-scale unlawful processing (RTB, mega-breaches) produces per-person harms too small to litigate individually, so it goes unremedied and undeterred. With the ICO declining systemic enforcement, private enforcement is the only backstop, and the UK has structurally disabled it.",
-  "fill": "Legislation creating an opt-out representative action regime for data claims (Article 80(2)-equivalent or CAT-style certification), allowing authorised non-profits to bring complaints and damages claims on behalf of affected classes.",
+  "description": "The UK never implemented Article 80(2) of the UK GDPR, which would let non-profits complain and litigate without named claimants. The 2021 DCMS review declined, citing Lloyd v Google, and the Supreme Court then shut that route down too, ruling representative damages claims need individual proof of loss. The DUAA 2025 did not revisit the question. Competition law has opt-out actions at the CAT. Data protection has nothing comparable, ORG has campaigned for implementation, and AWO and claimant firms can only run costly opt-in group actions.",
+  "why": "Mass-scale unlawful processing produces per-person harms too small to litigate individually, so it goes unremedied and undeterred. With the ICO declining systemic enforcement, private enforcement is the only backstop, and the UK has structurally disabled it.",
+  "fill": "Legislation creating an opt-out representative action regime for data claims, whether an Article 80(2) equivalent or CAT-style certification, allowing authorised non-profits to bring complaints and damages claims for affected classes.",
   "sources": [
    "https://www.linklaters.com/en/insights/blogs/digilinks/2021/march/uk---government-rejects-opt-out-gdpr-class-actions",
    "https://www.openrightsgroup.org/publications/org-representative-actions-under-the-uk-gdpr/",
@@ -3890,8 +3890,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: primary legislation creating an opt-out representative-action regime.",
-  "tagline": "Harm a million people a little each and British law has no working way to make you pay.",
-  "summary": "Mass data abuses (leaky ad auctions, mega-breaches) hurt vast numbers of people a few pounds at a time, sums nobody can sue over alone. Competition law lets a claim proceed for a whole class at once. Data protection law does not, and Parliament keeps declining to fix it.",
+  "tagline": "Mass data harms; no opt-out route to redress",
+  "summary": "Mass data abuses, leaky ad auctions and mega-breaches, hurt vast numbers of people a few pounds at a time, sums nobody can sue over alone. Competition law lets a claim proceed for a whole class at once. Data protection law does not, and Parliament keeps declining to fix it.",
   "alsoDomains": [
    "surveillance"
   ],
@@ -3914,7 +3914,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "Sub-litigable per-person harms from mass unlawful processing go unremedied while the ICO declines enforcement; an opt-out redress model exists to copy, but requires legislation Parliament just declined to revisit."
+  "rankNote": "Sub-litigable harms from mass unlawful processing go unremedied while the ICO declines enforcement; the opt-out model exists to copy and needs legislation Parliament recently declined to revisit."
  },
  {
   "number": 120,
@@ -4043,9 +4043,9 @@
   "domain": "privacy",
   "type": "policy",
   "horizon": "mid",
-  "description": "Technical Capability Notices under the Investigatory Powers Act are issued and contested in secret: the late-2024 TCN forced Apple to withdraw Advanced Data Protection from all UK users in February 2025, a narrower replacement order followed in late 2025, and the IPT heard the case on 'assumed facts' in 2026 only because Apple and Privacy International litigated. Separately, Online Safety Act s121 'accredited technology' notices could compel scanning of encrypted services, unused but on the statute book. UK law contains no presumption protecting E2EE and not even a duty to publish TCN numbers.",
-  "why": "Every UK user now has weaker cloud security than users elsewhere, a unique national downgrade. Secret orders against encryption chill security investment, threaten adequacy, and were checked only by leaks and foreign-government pressure, not by any domestic institution.",
-  "fill": "IPA/OSA amendment creating a statutory presumption against notices that weaken end-to-end encryption, mandatory aggregate transparency reporting on TCNs, and independent technical review before issuance.",
+  "description": "Technical capability notices under the Investigatory Powers Act are issued and contested in secret. The late-2024 notice forced Apple to withdraw Advanced Data Protection from all UK users in February 2025, a narrower replacement order followed in late 2025, and the tribunal heard the case on assumed facts in 2026 only because Apple and Privacy International litigated. Separately, section 121 of the Online Safety Act could compel scanning of encrypted services; the power is unused and on the statute book. UK law contains no presumption protecting end-to-end encryption and no duty to publish even the number of notices.",
+  "why": "Every UK user now has weaker cloud security than users elsewhere, a national downgrade with no parallel. Secret orders against encryption chill security investment and threaten adequacy, and the only checks so far have been leaks and foreign-government pressure.",
+  "fill": "An IPA and OSA amendment creating a statutory presumption against notices that weaken end-to-end encryption, mandatory aggregate transparency reporting, and independent technical review before issuance.",
   "sources": [
    "https://privacyinternational.org/legal-action/pi-apple-tcn-challenge",
    "https://www.computerweekly.com/news/366632159/Home-Office-issues-new-back-door-order-over-Apple-encryption",
@@ -4060,8 +4060,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: IPA/OSA amendment creating statutory presumption and mandatory TCN transparency.",
-  "tagline": "Every British Apple user has weaker cloud security than the rest of the world.",
-  "summary": "A secret order forced Apple to strip its strongest encryption from British customers, a downgrade no other country has managed. The public learned of it only through leaks and litigation. No law protects end-to-end encryption, and the state does not even have to say how many such orders exist.",
+  "tagline": "UK Apple users; weaker cloud security than everywhere else",
+  "summary": "A secret order forced Apple to strip its strongest encryption from British customers, a downgrade no other country has managed. The public learned of it through leaks and litigation. No law protects end-to-end encryption, and the state is not required to say how many such orders exist.",
   "seeAlso": [
    {
     "number": 109,
@@ -4071,7 +4071,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "Every UK user has a unique cloud-security downgrade threatening adequacy, but a statutory encryption shield is politically fraught against the security establishment, checked so far only by litigation and foreign pressure."
+  "rankNote": "Every UK user carries a cloud-security downgrade with no parallel abroad, and the statutory shield is politically fraught, checked so far only by litigation and foreign pressure."
  },
  {
   "number": 125,
@@ -4204,9 +4204,9 @@
   "domain": "privacy",
   "type": "knowledge",
   "horizon": "mid",
-  "description": "No one, including government, can enumerate who holds and trades UK residents' personal data. There is no registration obligation for data brokers (contrast California's registry and Delete Act); DSIT's call for evidence on data brokers and national security acknowledged the blind spot. ICO enforcement is rare and fragile: its 2020 Experian enforcement notice on offline data broking was largely overturned on appeal. Consumers have no practical way to discover or delete broker-held profiles; ORG's campaigns are ad hoc.",
-  "why": "Broker data feeds scams, discriminatory pricing, and, per DSIT's own framing, hostile-state targeting. Individual rights are unusable against entities you cannot name; a register converts an invisible market into a governable one.",
-  "fill": "Statutory data broker registration administered by the Information Commission, with a one-stop deletion mechanism (California Delete Act model); interim: a funded independent observatory mapping the UK broker market.",
+  "description": "No one, including government, can enumerate who holds and trades UK residents' personal data. There is no registration obligation for data brokers, in contrast to California's registry and Delete Act, and DSIT's call for evidence on data brokers and national security acknowledged the blind spot. ICO enforcement is rare and fragile; its 2020 Experian enforcement notice on offline data broking was largely overturned on appeal. Consumers have no practical way to discover or delete broker-held profiles, and ORG's campaigns are ad hoc.",
+  "why": "Broker data feeds scams, discriminatory pricing and, in DSIT's own framing, hostile-state targeting. Individual rights are unusable against entities you cannot name. A register converts an invisible market into a governable one.",
+  "fill": "Statutory data broker registration administered by the Information Commission, with a one-stop deletion mechanism on the California Delete Act model. In the interim, a funded independent observatory could map the UK broker market.",
   "sources": [
    "https://www.techuk.org/resource/dsit-launches-call-for-evidence-on-data-brokers-and-national-security.html",
    "https://www.digit.fyi/uk-gov-asks-for-insight-into-data-brokers-security/"
@@ -4220,10 +4220,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: independent UK data-broker observatory (fill's named interim); statutory register is the state-led end-state.",
-  "tagline": "Companies you've never heard of trade your data. Not even the government has a list.",
-  "summary": "Nobody, including the government, can name the firms holding and selling profiles of UK residents, data that feeds scams, discriminatory pricing and hostile-state targeting. Rights are useless against companies you cannot identify. California keeps a public register and a one-stop deletion law; Britain could copy both.",
+  "tagline": "Data brokers trade UK profiles; no register of who they are",
+  "summary": "Nobody, including the government, can name the firms holding and selling profiles of UK residents, data that feeds scams, discriminatory pricing and hostile-state targeting. Rights are useless against companies you cannot identify. California keeps a public register and a one-stop deletion law, and Britain could copy both.",
   "rank": 3,
-  "rankNote": "Nobody can even enumerate UK data brokers feeding scams and hostile-state targeting; California's registry-and-deletion model is copyable and the market is unowned, with DSIT interest but no closing date."
+  "rankNote": "Nobody can enumerate the UK data brokers feeding scams and hostile-state targeting; California's registry-and-deletion model is copyable and the market is unowned."
  },
  {
   "number": 131,
@@ -4232,9 +4232,9 @@
   "domain": "ai-crisis",
   "type": "knowledge",
   "horizon": "short",
-  "description": "Nobody in the UK can currently see displacement as it happens. DSIT's AI and Future of Work Unit (first assessment Jan 2026) concedes causal links between AI adoption and employment change are unknown; ONS surveys were never designed for task-level, high-frequency measurement; a 2021 occupational reclassification truncates usable panels to ~20 quarters (British Progress). One-off studies (KCL's firm-level finding of -5.8% junior roles; IFOW graduate work) are snapshots. No linked dataset combines HMRC PAYE real-time information, job postings and firm-level AI adoption.",
-  "why": "Every transition instrument (retraining, income bridges, place-based plans) depends on knowing which occupations and places are being hit, quarterly not retrospectively. The US-centred debate is being imported unverified; UK exposure (~70% of workers, per DSIT) is higher than America's.",
-  "fill": "A UK AI Labour Market Observatory with statutory access to HMRC RTI payroll data, ONS microdata and commercial postings feeds, publishing quarterly occupation- and place-level early-warning indicators; housed in ONS or as a What Works-style centre, feeding the AI and Future of Work Unit and Skills England.",
+  "description": "Nobody in the UK can currently see displacement as it happens. DSIT's AI and Future of Work Unit, whose first assessment came in January 2026, concedes the causal links between AI adoption and employment change are unknown. ONS surveys were never designed for task-level, high-frequency measurement, and a 2021 occupational reclassification truncates usable panels to about twenty quarters. One-off studies, KCL's firm-level finding of a 5.8 per cent fall in junior roles and IFOW's graduate work among them, are snapshots. No linked dataset combines HMRC real-time payroll information, job postings and firm-level AI adoption.",
+  "why": "Every transition instrument, from retraining to income bridges to place-based plans, depends on knowing which occupations and places are being hit, quarterly rather than retrospectively. The US-centred debate is being imported unverified, and DSIT puts UK exposure at around 70 per cent of workers, higher than America's.",
+  "fill": "A UK AI labour market observatory with statutory access to HMRC payroll data, ONS microdata and commercial postings feeds, publishing quarterly occupation-level and place-level early-warning indicators. ONS or a What Works-style centre could house it, feeding the AI and Future of Work Unit and Skills England.",
   "sources": [
    "https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market",
    "https://britishprogress.org/reports/ai-and-the-uk-labour-market-the-evidence-so-far",
@@ -4254,8 +4254,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: ONS/HMRC via existing SRS/Datalab access plus commercial postings feeds; statutory RTI access is the end-state.",
-  "tagline": "AI is reshaping British jobs right now. The state finds out years later.",
-  "summary": "No one in Britain can see which occupations and towns AI is hitting until long after the fact; official statistics were never built for it. Yet every response, from retraining to income support, depends on that knowledge arriving quarterly. Linking payroll records, job adverts and firm-level AI adoption would create the early-warning system.",
+  "tagline": "AI reshapes jobs quarterly; the data arrives years late",
+  "summary": "No one in Britain can see which occupations and towns AI is hitting until long after the fact, because official statistics were never built for it. Every response, from retraining to income support, depends on that knowledge arriving quarterly. Linking payroll records, job adverts and firm-level AI adoption would create the early-warning system.",
   "dialogue": {
    "counterparty": "government-bodies",
    "ask": "Open an accredited-researcher route to link payroll records, job adverts and firm-level AI adoption, and build quarterly displacement indicators together.",
@@ -4295,7 +4295,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "Every retraining, income and place-based response depends on quarterly displacement data no one produces; the linkage is buildable now within existing secure-research access as graduate hiring visibly cracks.",
+  "rankNote": "Every retraining, income and place-based response depends on quarterly displacement data no one produces, and the linkage is buildable now as graduate hiring visibly cracks.",
   "capabilityTime": "biting now",
   "capabilityTimeNote": "Graduate and entry-level hiring is already visibly cracking; the observatory measures a live process."
  },
