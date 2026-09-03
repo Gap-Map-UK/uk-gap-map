@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-16T12:00:00Z",
+ "generatedAt": "2026-09-03T17:38:37.112Z",
  "attempts": [
   {
    "gap": 231,
@@ -14,6 +14,16 @@
     "verifiedBy": "curators",
     "url": "https://logos.co/ukdebt"
    }
+  },
+  {
+   "gap": 232,
+   "team": "society-speaks",
+   "link": "https://societyspeaks.io/",
+   "plan": "Fully functioning civic engagement platform - see where people genuinely agree, where they divide, and which ideas can bridge the gap and inform better decisions.",
+   "milestone": "It's live",
+   "claimed": "2026-07-31",
+   "updates": [],
+   "state": "active"
   }
  ]
 }
