@@ -702,13 +702,13 @@
   },
   {
    "number": 132,
-   "tagline": "Call-centre jobs are down 19% and there's no plan for the people losing them.",
-   "summary": "Britain has retraining schemes but nothing that replaces income while a mid-career worker retrains: no equivalent of America's trade adjustment support or Denmark's flexicurity. The government's own analysis puts a third of the workforce in the displacement-risk zone. A pilot combining wage insurance with a retraining entitlement could start in the occupations already shrinking."
+   "tagline": "Call-centre jobs down 19%; no income bridge for retraining",
+   "summary": "Britain has retraining schemes and nothing that replaces income while a mid-career worker retrains; there is no equivalent of America's trade adjustment support or Denmark's flexicurity. The government's own analysis puts a third of the workforce in the displacement-risk zone. A pilot combining wage insurance with a retraining entitlement could start in the occupations already shrinking."
   },
   {
    "number": 133,
-   "tagline": "Britain tests the most powerful AI models only when their makers say yes.",
-   "summary": "The AI Security Institute has tested more than 30 frontier models, but its access rests entirely on voluntary agreements that mostly US labs can withdraw at will. The promised law putting it on a statutory footing has slipped since 2024, and no AI bill is before Parliament. The window to set enforceable terms is closing."
+   "tagline": "Frontier-model testing; access only by labs' consent",
+   "summary": "The AI Security Institute has tested more than 30 frontier models, and its access rests entirely on voluntary agreements that mostly US labs can withdraw at will. The promised law putting it on a statutory footing has slipped since 2024, and no AI bill is before Parliament. The window to set enforceable terms is closing."
   },
   {
    "number": 134,
@@ -727,13 +727,13 @@
   },
   {
    "number": 137,
-   "tagline": "Political deepfakes are legal, unlabelled and already reaching three in ten adults.",
-   "summary": "Three in ten adults saw a candidate deepfake in the month before this year's local elections, yet election law binds only registered campaigners and no regulator owns the problem. The next general election will be the first fought amid cheap, fluent synthetic media at scale. The fix is known; it just has to pass before the campaign starts."
+   "tagline": "Political deepfakes reach three in ten adults; no regulator owns them",
+   "summary": "Three in ten adults saw a candidate deepfake in the month before this year's local elections, and election law binds only registered campaigners, so no regulator owns the problem. The next general election will be the first fought amid cheap, fluent synthetic media at scale. The fix is known and has to pass before the campaign starts."
   },
   {
    "number": 138,
-   "tagline": "Government is Britain's biggest AI adopter and its least audited.",
-   "summary": "AI now helps read 2.4 million NHS chest X-rays a year and drafts ministers' briefings. A supposedly mandatory transparency standard has produced barely 33 published records, and no independent body audits whether any of it works. One conspicuous failure (in benefits, policing or health) could set adoption back years."
+   "tagline": "Government's AI rollout; 33 transparency records published",
+   "summary": "AI now helps read 2.4 million NHS chest X-rays a year and drafts ministers' briefings. A supposedly mandatory transparency standard has produced 33 published records, and no independent body audits whether any of it works. One conspicuous failure in benefits, policing or health could set adoption back years."
   },
   {
    "number": 139,
@@ -752,8 +752,8 @@
   },
   {
    "number": 142,
-   "tagline": "Graduate job adverts are down nearly half. The real bill arrives in the 2030s.",
-   "summary": "Firms exposed to AI are cutting junior roles, and graduate postings are reported down 45% year on year. Every cohort that misses its first job is a permanent scar on individual earnings and on the senior skills Britain needs in the 2030s. Levy rebates conditional on keeping junior intake would give firms a reason to train."
+   "tagline": "Graduate adverts down 45%; nothing keeps firms training juniors",
+   "summary": "Firms exposed to AI are cutting junior roles, and graduate postings are reported down 45 per cent year on year. Every cohort that misses its first job is a lasting scar on individual earnings and on the senior skills Britain needs in the 2030s. Levy rebates conditional on keeping junior intake would give firms a reason to train."
   },
   {
    "number": 219,
@@ -842,8 +842,8 @@
   },
   {
    "number": 159,
-   "tagline": "The Post Office exposed Horizon victims' data. Its punishment was a stern letter.",
-   "summary": "The data watchdog no longer fines public bodies (reprimands only), so when the Post Office breached data belonging to 502 Horizon scandal victims, it faced no penalty. Private firms pay millions for equivalent failures. The fix is a sanctions regime with teeth: remediation orders, named accountable officers and redress paid to those affected."
+   "tagline": "State data breaches; reprimands where firms pay millions",
+   "summary": "The data watchdog no longer fines public bodies, so when the Post Office breached data belonging to 502 Horizon scandal victims it faced a reprimand. Private firms pay millions for equivalent failures. The fix is a sanctions regime with force: remediation orders, named accountable officers and redress paid to those affected."
   },
   {
    "number": 160,
@@ -852,8 +852,8 @@
   },
   {
    "number": 161,
-   "tagline": "Parliament passes laws by the shelf-load. It almost never checks whether they worked.",
-   "summary": "The system for reviewing laws after they pass has quietly collapsed (researchers found no reviews at all published in 2023), while skeleton bills push real policy into statutory instruments Parliament cannot amend. Failed laws persist and good ones never scale. A standing scrutiny committee and a reformed procedure for instruments are designed and waiting."
+   "tagline": "Laws pass; nobody reviews whether they worked",
+   "summary": "The system for reviewing laws after they pass has quietly collapsed; researchers found no reviews published in 2023 at all. Skeleton bills meanwhile push real policy into statutory instruments Parliament cannot amend. Failed laws persist and good ones never scale, and a standing scrutiny committee with a reformed instruments procedure is designed and waiting."
   },
   {
    "number": 162,
@@ -887,8 +887,8 @@
   },
   {
    "number": 168,
-   "tagline": "Scotland and Wales register their care workers. England can't even name its 1.6 million.",
-   "summary": "England's care workforce (around 1.6 million people) has no register, no enforceable standards and no statutory training body, unlike Scotland and Wales. A fair-pay deal is coming for workers the state cannot individually identify. Registration legislated alongside the pay reforms would give carers portable credentials and a career ladder at last."
+   "tagline": "1.6 million care workers; no register in England",
+   "summary": "England's care workforce of around 1.6 million has no register, its standards are unenforceable, and no statutory body owns training; Scotland and Wales have all three. A fair-pay deal is coming for workers the state cannot individually identify. Registration legislated alongside the pay reforms would give carers portable credentials and a career ladder."
   },
   {
    "number": 169,
@@ -922,8 +922,8 @@
   },
   {
    "number": 175,
-   "tagline": "MPs rewrote the Mental Health Act. Making it real could take a decade.",
-   "summary": "The new Mental Health Act promises less coercive care, but implementation stretches up to ten years with no dedicated unit, no costed timetable and no duty to report progress. A neighbouring reform was legislated in 2019 and has never been switched on. An implementation unit and an annual report to Parliament would stop history repeating."
+   "tagline": "Mental Health Act rewritten; implementation unfunded, up to ten years",
+   "summary": "The new Mental Health Act promises less coercive care, and implementation stretches up to ten years with no dedicated unit, an uncosted timetable and no duty to report progress. A neighbouring reform was legislated in 2019 and has never been switched on. An implementation unit and an annual report to Parliament would keep this one moving."
   },
   {
    "number": 176,
@@ -947,12 +947,12 @@
   },
   {
    "number": 180,
-   "tagline": "Wrong millions of people a few pounds each, and British courts can barely touch you.",
-   "summary": "When a company wrongs millions of people a small amount each, individual claims are uneconomic, and outside competition law Britain has no opt-out class action to bundle them. Wrongdoers keep the gains. A general collective redress regime, which the Law Commission begins examining this autumn, would change the maths."
+   "tagline": "Mass consumer harms; no opt-out claims outside competition law",
+   "summary": "When a company wrongs millions of people a small amount each, individual claims are uneconomic, and outside competition law Britain has no opt-out class action to bundle them. Wrongdoers keep the gains. A general collective redress regime, which the Law Commission begins examining this autumn, would change the arithmetic."
   },
   {
    "number": 181,
-   "tagline": "Legal aid exists on paper. Most people have no local education or benefits lawyer.",
+   "tagline": "Legal aid on paper; 88% have no local education-law provider",
    "summary": "Nine in ten people in England and Wales have no local legal aid provider for education law, and benefits and care law fare little better. No one has a duty to act when the last provider leaves an area. A statutory coverage duty would make the entitlement real."
   },
   {
@@ -972,13 +972,13 @@
   },
   {
    "number": 185,
-   "tagline": "The last resort for the wrongly convicted is itself in collapse, and answers to no one.",
-   "summary": "The Criminal Cases Review Commission is the only route back to court once appeals fail, and it declined to test the DNA that later cleared Andrew Malkinson. Its chair has resigned and MPs demand root-and-branch reform, yet its referral test and lack of outside oversight persist. A criminal appeals act could fix both."
+   "tagline": "The last route for the wrongly convicted; in documented collapse",
+   "summary": "The Criminal Cases Review Commission is the only route back to court once appeals fail, and it declined to test the DNA that later cleared Andrew Malkinson. Its chair has resigned and MPs demand root-and-branch reform, and its referral test and lack of outside oversight persist. A criminal appeals act could fix both."
   },
   {
    "number": 186,
-   "tagline": "How well a death is investigated depends on which council pays the coroner.",
-   "summary": "Inquests are how the state learns from deaths, yet coroners are appointed and funded by 85 separate local jurisdictions with no consistent standards. Bereaved families often face the state's lawyers alone. Two decades of reviews have recommended a national service. Ministers keep declining."
+   "tagline": "85 locally funded coroner areas; no national standards",
+   "summary": "Inquests are how the state learns from deaths, yet coroners are appointed and funded by 85 separate local jurisdictions with no consistent standards. Bereaved families often face the state's lawyers alone. Two decades of reviews have recommended a national service, and ministers keep declining."
   },
   {
    "number": 187,
@@ -1007,13 +1007,13 @@
   },
   {
    "number": 191,
-   "tagline": "Councils spend over £100bn a year. No independent body checks whether the sums add up.",
+   "tagline": "Councils spend £100bn a year; no independent fiscal watchdog",
    "summary": "No institution independently checks whether council funding matches councils' legal duties, so fiscal cliffs arrive as surprises negotiated in private. The best-known forecast of the sector's £7bn shortfall comes from its own lobby group. An independent fiscal watchdog for local government would put the debate on numbers everyone can trust."
   },
   {
    "number": 192,
-   "tagline": "English mayors can spend, but barely tax. Growth they create flows straight to Whitehall.",
-   "summary": "English councils and mayors control little beyond council tax and business rates, leaving England among the most fiscally centralised big economies. A modest devolved menu (a tourist levy, a share of income tax) could raise £4.4bn a year for local services. The Treasury's roadmap arrives this autumn, so far a document rather than an instrument."
+   "tagline": "Mayors can spend; the tax menu stops at council tax",
+   "summary": "English councils and mayors control little beyond council tax and business rates, leaving England among the most fiscally centralised big economies. A modest devolved menu, a tourist levy and a share of income tax among it, could raise £4.4bn a year for local services. The Treasury's roadmap arrives this autumn, so far a document rather than an instrument."
   },
   {
    "number": 193,

@@ -4306,9 +4306,9 @@
   "domain": "ai-crisis",
   "type": "funding",
   "horizon": "mid",
-  "description": "Skills-side spending exists (Growth and Skills Levy, £2.5bn Youth Guarantee, £187m TechFirst, a stated 10m-worker upskilling target), but there is no income-bridging or wage-insurance instrument for mid-career workers whose occupations contract: no UK analogue of US Trade Adjustment Assistance or Danish flexicurity. IPPR's proposed worker support levy and portable benefits remain unadopted. The only UK income-floor evidence, the Welsh Basic Income for Care Leavers pilot (£1,600/month, 635+ participants, ended 2025), targets a different population and reports finally in summer 2027.",
-  "why": "Call-centre employment is already down 19%; DSIT puts a third of the workforce in the displacement-risk segment. Retraining without income security fails historically; waiting for displacement to become visible before designing the instrument guarantees the response arrives years late.",
-  "fill": "A pilot AI Transition Fund combining time-limited wage insurance, a funded retraining entitlement and job-search support, targeted first at contact-centre and administrative occupations already contracting, with a built-in RCT-grade evaluation. It could be funded by government, a foundation consortium (JRF/Nuffield), or a metro mayor.",
+  "description": "Skills-side spending exists: the Growth and Skills Levy, the £2.5bn Youth Guarantee, £187m TechFirst, and a stated ten-million-worker upskilling target. No income-bridging or wage-insurance instrument exists for mid-career workers whose occupations contract, and the UK has no analogue of US Trade Adjustment Assistance or Danish flexicurity. IPPR's proposed worker support levy and portable benefits remain unadopted. The only UK income-floor evidence, the Welsh Basic Income for Care Leavers pilot of £1,600 a month for 635-plus participants, ended in 2025, targets a different population and reports finally in summer 2027.",
+  "why": "Call-centre employment is already down 19 per cent, and DSIT puts a third of the workforce in the displacement-risk segment. Retraining without income security fails, and the record says so. Designing the instrument only once displacement is visible guarantees the response arrives years late.",
+  "fill": "A pilot AI transition fund combining time-limited wage insurance, a funded retraining entitlement and job-search support, aimed first at contact-centre and administrative occupations already contracting, with an RCT-grade evaluation built in. Government, a foundation consortium or a metro mayor could fund it.",
   "sources": [
    "https://www.ippr.org/media-office/up-to-8-million-uk-jobs-at-risk-from-ai-unless-government-acts-finds-ippr",
    "https://www.gov.wales/basic-income-care-leavers-wales-pilot-evaluation-annual-report-2025-2026",
@@ -4323,8 +4323,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: foundation consortium (JRF/Nuffield) or a metro mayor as funder-of-record for the pilot.",
-  "tagline": "Call-centre jobs are down 19% and there's no plan for the people losing them.",
-  "summary": "Britain has retraining schemes but nothing that replaces income while a mid-career worker retrains: no equivalent of America's trade adjustment support or Denmark's flexicurity. The government's own analysis puts a third of the workforce in the displacement-risk zone. A pilot combining wage insurance with a retraining entitlement could start in the occupations already shrinking.",
+  "tagline": "Call-centre jobs down 19%; no income bridge for retraining",
+  "summary": "Britain has retraining schemes and nothing that replaces income while a mid-career worker retrains; there is no equivalent of America's trade adjustment support or Denmark's flexicurity. The government's own analysis puts a third of the workforce in the displacement-risk zone. A pilot combining wage insurance with a retraining entitlement could start in the occupations already shrinking.",
   "dialogue": {
    "counterparty": "funders-and-foundations",
    "ask": "Act as funder-of-record for a pilot transition fund pairing time-limited wage insurance with a retraining entitlement, starting in occupations already contracting.",
@@ -4347,7 +4347,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "A third of the workforce sits in the displacement-risk zone with no income-bridging instrument, the fill is entirely unowned, but no dated trigger forces action this year.",
+  "rankNote": "A third of the workforce sits in the displacement-risk zone with no income-bridging instrument, the fill is entirely unowned, and no dated trigger forces action this year.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "Displacement support becomes acute as agentic systems reach mid-skill service work."
  },
@@ -4358,9 +4358,9 @@
   "domain": "ai-crisis",
   "type": "institutional",
   "horizon": "short",
-  "description": "AISI's model access rests on voluntary agreements with (mostly US) labs; it cannot compel pre-deployment testing, information disclosure or corrective action. The promised legislation ('binding regulation on the handful of companies developing the most powerful AI models') has been delayed since 2024: first to fold in copyright, then displaced by the October 2025 regulation blueprint; as of mid-2026 no AI bill is before Parliament, and the Technology Secretary has signalled minimal new regulation. CLTR and GovAI have detailed statutory-footing proposals; nothing has moved.",
-  "why": "Voluntary access is discretionary and revocable: exactly the failure mode the Europe-2031 scenario stresses. AISI's own trends report shows agent task complexity doubling every ~8 months; the window in which the UK can set enforceable terms with labs it depends on is closing.",
-  "fill": "A Frontier AI Act putting AISI on statutory footing: compelled pre-deployment access above capability/compute thresholds, incident and safety-case disclosure duties, safe harbours for cooperating developers, plus explicit reassignment of the societal-impacts remit dropped in the February 2025 rename.",
+  "description": "AISI's model access rests on voluntary agreements with mostly US labs, and it cannot compel pre-deployment testing, information disclosure or corrective action. The promised binding regulation on the handful of companies developing the most powerful models has been delayed since 2024, first to fold in copyright, then displaced by the October 2025 regulation blueprint. As of mid-2026 no AI bill is before Parliament, and the Technology Secretary has signalled minimal new regulation. CLTR and GovAI have detailed statutory-footing proposals, and nothing has moved.",
+  "why": "Voluntary access is discretionary and revocable, and it decays as commercial stakes rise. AISI's own trends report shows agent task complexity doubling roughly every eight months. The window in which the UK can set enforceable terms with labs it depends on is closing.",
+  "fill": "A Frontier AI Act putting AISI on statutory footing: compelled pre-deployment access above capability and compute thresholds, incident and safety-case disclosure duties, safe harbours for cooperating developers, and explicit reassignment of the societal-impacts remit dropped in the February 2025 rename.",
   "sources": [
    "https://www.longtermresilience.org/reports/advancing-the-uks-global-leadership-in-frontier-ai-governance/",
    "https://www.aisi.gov.uk/frontier-ai-trends-report",
@@ -4375,10 +4375,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: a Frontier AI Act putting AISI on statutory footing.",
-  "tagline": "Britain tests the most powerful AI models only when their makers say yes.",
-  "summary": "The AI Security Institute has tested more than 30 frontier models, but its access rests entirely on voluntary agreements that mostly US labs can withdraw at will. The promised law putting it on a statutory footing has slipped since 2024, and no AI bill is before Parliament. The window to set enforceable terms is closing.",
+  "tagline": "Frontier-model testing; access only by labs' consent",
+  "summary": "The AI Security Institute has tested more than 30 frontier models, and its access rests entirely on voluntary agreements that mostly US labs can withdraw at will. The promised law putting it on a statutory footing has slipped since 2024, and no AI bill is before Parliament. The window to set enforceable terms is closing.",
   "rank": 3,
-  "rankNote": "Frontier-model testing rests on revocable voluntary access that decays as commercial stakes rise; detailed statutory proposals exist yet no bill is before Parliament and the window is closing.",
+  "rankNote": "Frontier-model testing rests on revocable voluntary access that decays as commercial stakes rise; detailed statutory proposals exist, no bill is before Parliament, and the window is closing.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "Voluntary model access decays as commercial stakes rise; statutory footing must precede the crunch."
  },
@@ -4480,9 +4480,9 @@
   "domain": "ai-crisis",
   "type": "policy",
   "horizon": "short",
-  "description": "The digital imprint regime (Elections Act 2022, in force Nov 2023) binds registered campaigners; an anonymous actor deploying AI-generated election material carries no duty, a loophole the Electoral Commission has itself asked government to close. The Online Safety Act criminalised sexual deepfakes but not political ones, and excludes mis/disinformation harms to democracy; responsibility 'bounces between' Ofcom, the Electoral Commission, or neither (Demos/Full Fact). The EC's deepfake-detection pilot for the May 2026 elections is welcome but non-statutory and unfunded at scale. Demos polling found 30% of adults saw a candidate deepfake in the month before the May 2026 locals.",
-  "why": "The next general election (due by 2029) will be the first fought with cheap, fluent synthetic media at scale. CETaS documented AI-enabled influence operations in 2024; the legal framework has not changed since. Fixing it mid-campaign will be impossible.",
-  "fill": "An Elections (Digital Content) amendment: extend imprints to all online election material regardless of registration, a disclosure/labelling duty for synthetic political content during regulated periods, designation of a lead regulator with escalation powers, and statutory footing plus funding for the Electoral Commission's detection capability, all legislated well before the next general election.",
+  "description": "The digital imprint regime from the Elections Act 2022, in force since November 2023, binds registered campaigners. An anonymous actor deploying AI-generated election material carries no duty, a loophole the Electoral Commission has itself asked government to close. The Online Safety Act criminalised sexual deepfakes and not political ones, and it excludes disinformation harms to democracy, so responsibility bounces between Ofcom, the Electoral Commission, or neither, as Demos and Full Fact document. The Commission's deepfake-detection pilot for the May 2026 elections is non-statutory and unfunded at scale, and Demos polling found 30 per cent of adults saw a candidate deepfake in the month before the May 2026 locals.",
+  "why": "The next general election, due by 2029, will be the first fought with cheap, fluent synthetic media at scale. CETaS documented AI-enabled influence operations in 2024, and the legal framework has not changed since. Fixing it mid-campaign will be impossible.",
+  "fill": "An elections amendment on digital content: imprints extended to all online election material regardless of registration, a labelling duty for synthetic political content during regulated periods, a designated lead regulator with escalation powers, and statutory footing plus funding for the Electoral Commission's detection capability, legislated well before the next campaign.",
   "sources": [
    "https://www.electoralcommission.org.uk/media-centre/electoral-commission-launches-deepfake-detection-pilot-counter-ai-misinformation",
    "https://demos.co.uk/blogs/one-in-three-uk-adults-report-seeing-political-deepfakes-in-the-month-before-local-elections/",
@@ -4497,10 +4497,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Elections (Digital Content) amendment with regulator designation and statutory funding.",
-  "tagline": "Political deepfakes are legal, unlabelled and already reaching three in ten adults.",
-  "summary": "Three in ten adults saw a candidate deepfake in the month before this year's local elections, yet election law binds only registered campaigners and no regulator owns the problem. The next general election will be the first fought amid cheap, fluent synthetic media at scale. The fix is known; it just has to pass before the campaign starts.",
+  "tagline": "Political deepfakes reach three in ten adults; no regulator owns them",
+  "summary": "Three in ten adults saw a candidate deepfake in the month before this year's local elections, and election law binds only registered campaigners, so no regulator owns the problem. The next general election will be the first fought amid cheap, fluent synthetic media at scale. The fix is known and has to pass before the campaign starts.",
   "rank": 3,
-  "rankNote": "Anonymous AI election content carries no imprint duty and no regulator owns it; the fix is known but must pass with lead time before the next general election campaign.",
+  "rankNote": "Anonymous AI election content carries no imprint duty and no regulator owns it; the fix is known and needs lead time before the next general election campaign.",
   "capabilityTime": "biting now",
   "capabilityTimeNote": "The first votes-at-16 general election is inside the current parliament; election law is deepfake-blind today."
  },
@@ -4511,9 +4511,9 @@
   "domain": "ai-crisis",
   "type": "institutional",
   "horizon": "short",
-  "description": "Humphrey tools are rolling out across Whitehall and 2.4m NHS chest X-rays a year are AI-assisted, but the Public Accounts Committee (March 2025) found 28% of government IT systems are end-of-life legacy, ~50% of civil-service digital roles advertised in 2024 went unfilled, 21 of the 72 highest-risk legacy systems lack remediation funding, and only 33 Algorithmic Transparency Recording Standard records had been published despite the standard being mandatory for central government. No independent body audits whether deployed tools actually work; the NAO flagged fragmented accountability between DSIT and Cabinet Office.",
-  "why": "Government is simultaneously the UK's biggest AI adopter and its least assured. A high-profile public-sector AI failure (benefits, policing, health) without transparency or audit trails would set adoption back years and corrode trust exactly when institutional capacity matters most.",
-  "fill": "A statutory ATRS publication duty with enforcement; an independent public-sector AI evaluation and audit function (NAO-linked, or CLTR's 'three lines' model separating risk ownership, oversight and audit) publishing before/after performance of tools like Consult; ring-fenced remediation funding for the unfunded high-risk legacy systems.",
+  "description": "Humphrey tools are rolling out across Whitehall and 2.4 million NHS chest X-rays a year are AI-assisted. The Public Accounts Committee found in March 2025 that 28 per cent of government IT systems are end-of-life legacy, that around half of civil-service digital roles advertised in 2024 went unfilled, and that 21 of the 72 highest-risk legacy systems lack remediation funding. Only 33 Algorithmic Transparency Recording Standard records had been published despite the standard being mandatory for central government. No independent body audits whether deployed tools work, and the NAO flagged fragmented accountability between DSIT and the Cabinet Office.",
+  "why": "Government is the UK's biggest AI adopter and its least assured. A high-profile public-sector AI failure without transparency or audit trails would set adoption back years, and it would corrode trust at the moment institutional capacity matters most.",
+  "fill": "A statutory ATRS publication duty with enforcement. An independent public-sector AI evaluation and audit function, NAO-linked or on CLTR's three-lines model, would publish before-and-after performance of tools like Consult, and ring-fenced remediation funding would cover the unfunded high-risk legacy systems.",
   "sources": [
    "https://committees.parliament.uk/committee/127/public-accounts-committee/news/206078/uphill-struggle-ahead-for-govts-use-of-ai-as-pac-report-reveals-the-scale-of-the-challenge/",
    "https://www.longtermresilience.org/reports/advancing-the-uks-global-leadership-in-frontier-ai-governance/"
@@ -4527,10 +4527,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory ATRS publication duty plus NAO-linked audit function and ring-fenced funding.",
-  "tagline": "Government is Britain's biggest AI adopter and its least audited.",
-  "summary": "AI now helps read 2.4 million NHS chest X-rays a year and drafts ministers' briefings. A supposedly mandatory transparency standard has produced barely 33 published records, and no independent body audits whether any of it works. One conspicuous failure (in benefits, policing or health) could set adoption back years.",
+  "tagline": "Government's AI rollout; 33 transparency records published",
+  "summary": "AI now helps read 2.4 million NHS chest X-rays a year and drafts ministers' briefings. A supposedly mandatory transparency standard has produced 33 published records, and no independent body audits whether any of it works. One conspicuous failure in benefits, policing or health could set adoption back years.",
   "rank": 3,
-  "rankNote": "Government is the biggest AI adopter yet its mandatory transparency standard is barely used and nothing audits whether tools work; one visible failure could set adoption back years.",
+  "rankNote": "Government is the biggest AI adopter while its mandatory transparency standard sits barely used and nothing audits whether tools work; one visible failure could set adoption back years.",
   "capabilityTime": "biting now",
   "capabilityTimeNote": "Public-sector deployment is already outrunning assurance capacity."
  },
@@ -4640,9 +4640,9 @@
   "domain": "ai-crisis",
   "type": "policy",
   "horizon": "short",
-  "description": "Graduate roles are reported down ~45% year-on-year with youth unemployment around 16% in early 2026; KCL finds AI-exposed firms cut junior positions by 5.8%; Randstad finds 38% of employers plan to hire fewer graduates specifically because of AI. If firms stop hiring juniors, intergenerational knowledge transmission breaks and a mid-career skills shortage follows in the 2030s. The £2.5bn Youth Guarantee targets young people generally, not the graduate/entry-level channel; the Growth and Skills Levy is not conditioned on entry-level intake; DfE/DSIT published a one-off entry-level hiring 'snapshot' rather than a regular statistic.",
-  "why": "This is the most visible, politically salient early harm of the AI transition, and it compounds: every cohort that misses first jobs is a permanent scar on earnings and on the future senior-skills base, a private under-investment problem markets will not self-correct.",
-  "fill": "Entry-level credits within the Growth and Skills Levy (rebates conditional on maintaining junior intake in AI-exposed occupations); a regular official entry-level hiring statistic (upgrading the DfE snapshot); and funded 'AI-era apprenticeship' models where juniors learn by supervising AI workflows, co-designed with employers like the consultancies still expanding graduate intake.",
+  "description": "Graduate roles are reported down about 45 per cent year on year with youth unemployment around 16 per cent in early 2026. KCL finds AI-exposed firms cut junior positions by 5.8 per cent, and Randstad finds 38 per cent of employers plan to hire fewer graduates specifically because of AI. When firms stop hiring juniors, intergenerational knowledge transmission breaks and a mid-career skills shortage follows in the 2030s. The £2.5bn Youth Guarantee targets young people generally rather than the entry-level channel, the Growth and Skills Levy carries no condition on junior intake, and DfE and DSIT published a one-off entry-level hiring snapshot rather than a regular statistic.",
+  "why": "This is the most visible early harm of the AI transition, and it compounds. Every cohort that misses first jobs is a permanent scar on earnings and on the future senior-skills base. Markets will not self-correct a private under-investment problem.",
+  "fill": "Entry-level credits within the Growth and Skills Levy, rebating firms that maintain junior intake in AI-exposed occupations. A regular official entry-level hiring statistic would upgrade the one-off snapshot, and funded AI-era apprenticeship models, where juniors learn by supervising AI workflows, could be co-designed with the employers still expanding graduate intake.",
   "sources": [
    "https://www.gov.uk/government/publications/entry-level-hiring-in-the-uk-a-snapshot/a-snapshot-of-entry-level-hiring-in-the-uk",
    "https://www.kcl.ac.uk/news/new-study-reveals-early-impact-of-ai-on-job-market-in-uk",
@@ -4657,8 +4657,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Growth and Skills Levy credit design plus an official DfE statistic.",
-  "tagline": "Graduate job adverts are down nearly half. The real bill arrives in the 2030s.",
-  "summary": "Firms exposed to AI are cutting junior roles, and graduate postings are reported down 45% year on year. Every cohort that misses its first job is a permanent scar on individual earnings and on the senior skills Britain needs in the 2030s. Levy rebates conditional on keeping junior intake would give firms a reason to train.",
+  "tagline": "Graduate adverts down 45%; nothing keeps firms training juniors",
+  "summary": "Firms exposed to AI are cutting junior roles, and graduate postings are reported down 45 per cent year on year. Every cohort that misses its first job is a lasting scar on individual earnings and on the senior skills Britain needs in the 2030s. Levy rebates conditional on keeping junior intake would give firms a reason to train.",
   "seeAlso": [
    {
     "number": 35,
@@ -4668,7 +4668,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "Graduate hiring is contracting now and every lost cohort is unrecoverable, scarring the 2030s skills base; conditioning the existing skills levy on junior intake could act immediately.",
+  "rankNote": "Graduate hiring is contracting now and every lost cohort scars the 2030s skills base; conditioning the existing levy on junior intake could act immediately.",
   "capabilityTime": "biting now",
   "capabilityTimeNote": "Entry-level postings are already contracting; every cohort missed is unrecoverable."
  },
@@ -4990,9 +4990,9 @@
   "domain": "privacy",
   "type": "policy",
   "horizon": "short",
-  "description": "The ICO's 'public sector approach', confirmed as permanent in November 2025, substitutes reprimands for fines. In December 2025 the Post Office received a reprimand, not the ~£1.09m fine considered, for a breach exposing data of 502 Horizon scandal victims. One 2025 analysis estimated public-sector infringements would have attracted ~£23m in fines absent the policy; reprimands went overwhelmingly to public bodies while all fines went to private firms. The Open Rights Group has formally urged revision. The Data (Use and Access) Act 2025 restructures the ICO into an Information Commission but creates no alternative sanction with teeth. The ICO's rationale (fines recycle public money away from services) is real; the result is no effective deterrent for state data misuse.",
-  "why": "When the state breaches citizens' data (including Post Office Horizon victims) the consequence is a reprimand, while private firms pay millions for equivalent failures. This removes deterrence exactly where citizens cannot exit, and corrodes trust in an expanding public data estate (NHS data, One Login, police biometrics).",
-  "fill": "A statutory alternative-sanctions regime for public bodies: enforceable remediation orders with named-officer accountability, mandatory board-level reporting and publication, and escalation to fines paid into a redress fund for affected citizens, legislated as a DUAA follow-on or binding Information Commission policy. Responsible: DSIT; committee interest: Science, Innovation and Technology Committee.",
+  "description": "The ICO's public sector approach, confirmed as permanent in November 2025, substitutes reprimands for fines. In December 2025 the Post Office received a reprimand rather than the £1.09m fine considered, for a breach exposing data of 502 Horizon scandal victims. One 2025 analysis estimated public-sector infringements would have attracted around £23m in fines absent the policy; reprimands went overwhelmingly to public bodies while all fines went to private firms. The Open Rights Group has formally urged revision. The Data (Use and Access) Act 2025 restructures the ICO into an Information Commission and creates no alternative sanction with force. The ICO's rationale, that fines recycle public money away from services, is real, and the result is no effective deterrent for state data misuse.",
+  "why": "When the state breaches citizens' data the consequence is a reprimand, and private firms pay millions for equivalent failures. Deterrence disappears exactly where citizens cannot exit, and trust corrodes across an expanding public data estate spanning NHS data, One Login and police biometrics.",
+  "fill": "A statutory alternative-sanctions regime for public bodies: enforceable remediation orders with named-officer accountability, mandatory board-level reporting and publication, and escalation to fines paid into a redress fund for affected citizens. It fits as a DUAA follow-on or binding Information Commission policy, with DSIT responsible.",
   "sources": [
    "https://ico.org.uk/about-the-ico/our-information/policies-and-procedures/public-sector-approach/",
    "https://www.computerweekly.com/news/366616135/ORG-urges-ICO-to-revise-public-sector-enforcement-approach",
@@ -5008,8 +5008,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: DUAA follow-on legislation or binding Information Commission policy; only Parliament or the regulator can create sanctions with teeth.",
-  "tagline": "The Post Office exposed Horizon victims' data. Its punishment was a stern letter.",
-  "summary": "The data watchdog no longer fines public bodies (reprimands only), so when the Post Office breached data belonging to 502 Horizon scandal victims, it faced no penalty. Private firms pay millions for equivalent failures. The fix is a sanctions regime with teeth: remediation orders, named accountable officers and redress paid to those affected.",
+  "tagline": "State data breaches; reprimands where firms pay millions",
+  "summary": "The data watchdog no longer fines public bodies, so when the Post Office breached data belonging to 502 Horizon scandal victims it faced a reprimand. Private firms pay millions for equivalent failures. The fix is a sanctions regime with force: remediation orders, named accountable officers and redress paid to those affected.",
   "facet": "policy-gaps",
   "seeAlso": [
    {
@@ -5020,7 +5020,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "State data breaches, including Post Office Horizon victims, draw only reprimands while firms pay millions, removing deterrence where citizens cannot exit; the Information Commission transition offers a legislative opening."
+  "rankNote": "State data breaches draw only reprimands while firms pay millions, removing deterrence where citizens cannot exit; the Information Commission transition offers a legislative opening."
  },
  {
   "number": 161,
@@ -5029,9 +5029,9 @@
   "domain": "corruption-integrity",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The 2008 system (departments publish review memoranda 3-5 years after Royal Assent for select-committee scrutiny) has quietly collapsed: researchers found no post-legislative reviews published on gov.uk in 2023, committees rarely take memoranda up, and nobody owns the Cabinet Office–Commons agreement. Upstream, the Hansard Society's Delegated Legislation Review documents 'skeleton' bills that put powers rather than policy into primary legislation, pushing substance into statutory instruments scrutinised under a system it calls broken (SIs are effectively unamendable and almost never rejected). The Lords runs occasional ad hoc post-legislative committees; the Commons Liaison Committee has stopped steering the agenda. No organisation currently has the mandate to close the loop.",
-  "why": "Parliament passes law it never checks. Without post-legislative review, failed statutes persist and successful ones are not scaled; skeleton bills shift real policy into instruments receiving minutes of scrutiny. Every implementation gap on this map is harder to detect when the feedback loop is missing.",
-  "fill": "A standing post-legislative scrutiny committee (or a renewed Liaison Committee mandate) backed by an enforceable duty on departments to publish review memoranda on schedule, plus a Statutory Instruments Act implementing the Hansard Society's single calibrated scrutiny procedure and a Parliament–Government concordat on legislative delegation.",
+  "description": "The 2008 system, under which departments publish review memoranda three to five years after Royal Assent for select-committee scrutiny, has quietly collapsed. Researchers found no post-legislative reviews published on gov.uk in 2023, committees rarely take memoranda up, and nobody owns the Cabinet Office and Commons agreement behind the system. Upstream, the Hansard Society's Delegated Legislation Review documents skeleton bills that put powers rather than policy into primary legislation, pushing substance into statutory instruments scrutinised under a system it calls broken; instruments are effectively unamendable and almost never rejected. The Lords runs occasional ad hoc post-legislative committees, and the Commons Liaison Committee has stopped steering the agenda. No organisation has the mandate to close the loop.",
+  "why": "Failed statutes persist and successful ones are not scaled, because nothing reviews them. Skeleton bills shift real policy into instruments that receive minutes of scrutiny. Every implementation gap on this map is harder to detect while the feedback loop is missing.",
+  "fill": "A standing post-legislative scrutiny committee, or a renewed Liaison Committee mandate, backed by an enforceable duty on departments to publish review memoranda on schedule. A Statutory Instruments Act would implement the Hansard Society's single calibrated scrutiny procedure, with a Parliament-government concordat on legislative delegation.",
   "sources": [
    "https://www.hansardsociety.org.uk/projects/delegated-legislation-review",
    "https://www.hansardsociety.org.uk/publications/reports/proposals-for-a-new-system-for-delegated-legislation-a-working-paper",
@@ -5047,11 +5047,11 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Statutory Instruments Act plus standing post-legislative scrutiny committee; Parliament and government must change their own procedures.",
-  "tagline": "Parliament passes laws by the shelf-load. It almost never checks whether they worked.",
-  "summary": "The system for reviewing laws after they pass has quietly collapsed (researchers found no reviews at all published in 2023), while skeleton bills push real policy into statutory instruments Parliament cannot amend. Failed laws persist and good ones never scale. A standing scrutiny committee and a reformed procedure for instruments are designed and waiting.",
+  "tagline": "Laws pass; nobody reviews whether they worked",
+  "summary": "The system for reviewing laws after they pass has quietly collapsed; researchers found no reviews published in 2023 at all. Skeleton bills meanwhile push real policy into statutory instruments Parliament cannot amend. Failed laws persist and good ones never scale, and a standing scrutiny committee with a reformed instruments procedure is designed and waiting.",
   "facet": "policy-gaps",
   "rank": 3,
-  "rankNote": "Nobody owns the feedback loop: post-legislative reviews go unpublished and skeleton bills push policy into barely-scrutinised instruments, but the fix needs deep parliamentary reform with no deadline."
+  "rankNote": "Nobody owns the feedback loop: reviews go unpublished and skeleton bills push policy into barely-scrutinised instruments, and the fix needs deep parliamentary reform with no deadline."
  },
  {
   "number": 166,
@@ -5134,9 +5134,9 @@
   "domain": "health-social-care",
   "type": "institutional",
   "horizon": "short",
-  "description": "Scotland (SSSC) and Wales (Social Care Wales; mandatory registration from 30 September 2026) register care workers by statute; England registers only social workers (Social Work England). Skills for Care, a charity with no statutory remit, holds the workforce dataset and led the 2024 Workforce Strategy; the DHSC Care Workforce Pathway remains voluntary. Nothing gives England's ~1.6 million care workers portable credentials, enforceable standards or a recognised career ladder.",
-  "why": "The first Fair Pay Agreement (from 2028) will set pay and conditions for a workforce England cannot individually identify or credential. Registration underpins FPA enforcement, safeguarding, delegated healthcare tasks and the case for training investment. Persistent high vacancies make the absence more costly each year.",
-  "fill": "A statutory registration scheme for adult social care workers in England (by extending Social Work England's remit or creating a new registrar), legislated alongside the FPA secondary legislation, plus statutory footing and funding for the Care Workforce Pathway and a national training entitlement. Casey phase 1 is the natural vehicle to recommend it; DHSC would legislate.",
+  "description": "Scotland's SSSC and Social Care Wales register care workers by statute, with Welsh registration mandatory from 30 September 2026. England registers only social workers. Skills for Care, a charity with no statutory remit, holds the workforce dataset and led the 2024 Workforce Strategy, and the DHSC Care Workforce Pathway remains voluntary. Nothing gives England's roughly 1.6 million care workers portable credentials, enforceable standards or a recognised career ladder.",
+  "why": "The first Fair Pay Agreement, from 2028, will set pay and conditions for a workforce England cannot individually identify or credential. Registration underpins enforcement of the agreement, safeguarding, delegated healthcare tasks and the case for training investment. Persistent high vacancies make the absence more costly each year.",
+  "fill": "A statutory registration scheme for adult social care workers in England, by extending Social Work England's remit or creating a new registrar, legislated alongside the Fair Pay Agreement secondary legislation. Statutory footing and funding for the Care Workforce Pathway and a national training entitlement travel with it, and Casey phase 1 is the natural vehicle to recommend the package.",
   "sources": [
    "https://www.sssc.uk.com/registration/",
    "https://socialcare.wales/registration/how-to-apply",
@@ -5152,10 +5152,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory registration scheme legislated alongside FPA secondary legislation, extending Social Work England or creating a new registrar.",
-  "tagline": "Scotland and Wales register their care workers. England can't even name its 1.6 million.",
-  "summary": "England's care workforce (around 1.6 million people) has no register, no enforceable standards and no statutory training body, unlike Scotland and Wales. A fair-pay deal is coming for workers the state cannot individually identify. Registration legislated alongside the pay reforms would give carers portable credentials and a career ladder at last.",
+  "tagline": "1.6 million care workers; no register in England",
+  "summary": "England's care workforce of around 1.6 million has no register, its standards are unenforceable, and no statutory body owns training; Scotland and Wales have all three. A fair-pay deal is coming for workers the state cannot individually identify. Registration legislated alongside the pay reforms would give carers portable credentials and a career ladder.",
   "rank": 3,
-  "rankNote": "England's 1.6 million care workers stay unidentified as Fair Pay Agreement machinery advances; only a charity holds the data and fixing it needs primary legislation, not a switch."
+  "rankNote": "England's 1.6 million care workers stay unidentified as the pay-agreement machinery advances, a charity holds the only data, and the fix needs primary legislation."
  },
  {
   "number": 169,
@@ -5365,9 +5365,9 @@
   "domain": "health-social-care",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The Act received Royal Assent on 18 December 2025; full implementation is expected to take up to ten years, contingent on workforce and secondary legislation, with a code of practice due within a year and the first major phase in 2027 (initial commencement regulations took effect February and April 2026). There is no dedicated implementation unit, no published costed roadmap, and no annual statutory reporting duty; opt-out advocacy expansion and community provision for autistic people and people with learning disabilities remain uncommissioned.",
-  "why": "A decade-long uncommenced tail invites the Liberty Protection Safeguards pattern (reform legislated, never switched on), leaving racial disparities in detention and inappropriate detention of autistic people unaddressed despite Parliament having already acted.",
-  "fill": "A DHSC/NHSE Mental Health Act implementation unit with a published, costed commencement timetable and an annual implementation report to Parliament; philanthropies could fund independent implementation monitoring by bodies such as the Centre for Mental Health or RCPsych.",
+  "description": "The Act received Royal Assent on 18 December 2025, and full implementation is expected to take up to ten years, contingent on workforce and secondary legislation. A code of practice is due within a year, the first major phase lands in 2027, and initial commencement regulations took effect in February and April 2026. No dedicated implementation unit exists, no costed roadmap has been published, and no annual statutory reporting duty applies. Opt-out advocacy expansion and community provision for autistic people and people with learning disabilities remain uncommissioned.",
+  "why": "A decade-long uncommenced tail invites the Liberty Protection Safeguards pattern, reform legislated and never switched on. Racial disparities in detention and the inappropriate detention of autistic people stay unaddressed even though Parliament has already acted.",
+  "fill": "A DHSC and NHSE implementation unit with a published, costed commencement timetable and an annual implementation report to Parliament. Philanthropies could fund independent implementation monitoring by bodies such as the Centre for Mental Health or RCPsych.",
   "sources": [
    "https://www.gov.uk/government/news/mental-health-bill-receives-royal-assent-revolutionising-care",
    "https://www.mentalhealthlaw.co.uk/Mental_Health_Act_2025",
@@ -5382,10 +5382,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: philanthropically funded independent MHA implementation monitor (Centre for Mental Health/RCPsych-style); the DHSC unit is the official end-state.",
-  "tagline": "MPs rewrote the Mental Health Act. Making it real could take a decade.",
-  "summary": "The new Mental Health Act promises less coercive care, but implementation stretches up to ten years with no dedicated unit, no costed timetable and no duty to report progress. A neighbouring reform was legislated in 2019 and has never been switched on. An implementation unit and an annual report to Parliament would stop history repeating.",
+  "tagline": "Mental Health Act rewritten; implementation unfunded, up to ten years",
+  "summary": "The new Mental Health Act promises less coercive care, and implementation stretches up to ten years with no dedicated unit, an uncosted timetable and no duty to report progress. A neighbouring reform was legislated in 2019 and has never been switched on. An implementation unit and an annual report to Parliament would keep this one moving.",
   "rank": 3,
-  "rankNote": "Freshly enacted reform risks the Liberty Protection Safeguards fate of never being switched on, with no costed roadmap or implementation unit, though the ten-year tail eases immediate pressure."
+  "rankNote": "Freshly enacted reform risks the Liberty Protection Safeguards fate, with no costed roadmap or implementation unit, though the ten-year tail eases immediate pressure."
  },
  {
   "number": 176,
@@ -5510,9 +5510,9 @@
   "domain": "justice-access",
   "type": "policy",
   "horizon": "mid",
-  "description": "The UK's only opt-out class regime is the Competition Appeal Tribunal's (Consumer Rights Act 2015). Lloyd v Google (2021) closed the CPR 19.8 representative-action route for mass damages, so data-breach, consumer, environmental and financial mass harms rely on opt-in group litigation orders (expensive, low-take-up, funder-dependent). The Law Commission announced a consumer class actions project in May 2026 (commencing autumn 2026, stakeholder input to 30 October 2026), but it is limited to consumer law and years from legislation; the DBT's August 2025 call for evidence on the CAT regime could even narrow existing rights. This cross-references the surveillance/privacy domain's redress entries: victims of unlawful data processing currently have no viable collective damages route.",
-  "why": "Mass low-value harms (data breaches affecting millions, mis-selling, drip pricing) go unremedied because individual claims are uneconomic. Wrongdoers keep gains; deterrence fails. Every comparable regime question (competition) shows opt-out certification works. The gap channels meritorious claims into regulatory complaints that yield no compensation.",
-  "fill": "A Collective Redress Act creating a generic certified opt-out procedure in the High Court with CAT-style certification safeguards. The concrete near-term step is funding and evidence for the Law Commission project (consultation late 2026) and a government commitment to legislate on its recommendations, extended beyond consumer law to data and environmental claims.",
+  "description": "The UK's only opt-out class regime sits at the Competition Appeal Tribunal under the Consumer Rights Act 2015. Lloyd v Google closed the representative-action route for mass damages in 2021, so data-breach, consumer, environmental and financial mass harms rely on opt-in group litigation orders, which are expensive, low-take-up and funder-dependent. The Law Commission announced a consumer class actions project in May 2026, commencing autumn 2026 with stakeholder input to 30 October, and it is limited to consumer law and years from legislation. The DBT's August 2025 call for evidence on the tribunal regime could even narrow existing rights. Victims of unlawful data processing currently have no viable collective damages route.",
+  "why": "Mass low-value harms, from breaches affecting millions to mis-selling and drip pricing, go unremedied because individual claims are uneconomic, and wrongdoers keep the gains. Competition law shows opt-out certification works. The gap channels meritorious claims into regulatory complaints that pay no compensation.",
+  "fill": "A Collective Redress Act creating a generic certified opt-out procedure in the High Court with tribunal-style certification safeguards. The near-term step is funding and evidence for the Law Commission project and a government commitment to legislate on its recommendations, extended beyond consumer law to data and environmental claims.",
   "sources": [
    "https://www.pinsentmasons.com/out-law/news/new-law-reform-project-consumer-class-actions-uk",
    "https://www.gov.uk/government/calls-for-evidence/opt-out-collective-actions-regime-review-call-for-evidence/opt-out-collective-actions-regime-review-call-for-evidence",
@@ -5527,8 +5527,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Collective Redress Act on Law Commission recommendations; near-term outsider step is evidence to the consultation closing October 2026.",
-  "tagline": "Wrong millions of people a few pounds each, and British courts can barely touch you.",
-  "summary": "When a company wrongs millions of people a small amount each, individual claims are uneconomic, and outside competition law Britain has no opt-out class action to bundle them. Wrongdoers keep the gains. A general collective redress regime, which the Law Commission begins examining this autumn, would change the maths.",
+  "tagline": "Mass consumer harms; no opt-out claims outside competition law",
+  "summary": "When a company wrongs millions of people a small amount each, individual claims are uneconomic, and outside competition law Britain has no opt-out class action to bundle them. Wrongdoers keep the gains. A general collective redress regime, which the Law Commission begins examining this autumn, would change the arithmetic.",
   "seeAlso": [
    {
     "number": 119,
@@ -5538,7 +5538,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "mass low-value harms go unremedied outside competition law, and the Law Commission's consumer-only project is years from legislation, so the near-term lever is shaping its late-2026 consultation."
+  "rankNote": "Mass low-value harms go unremedied outside competition law and the Law Commission's consumer-only project is years from legislation, so the near-term lever is shaping its late-2026 consultation."
  },
  {
   "number": 181,
@@ -5547,9 +5547,9 @@
   "domain": "justice-access",
   "type": "funding",
   "horizon": "short",
-  "description": "Law Society heatmaps (2025) show the share of the England and Wales population without a local legal aid provider: education 88%, welfare benefits 82%, community care ~70%, immigration/asylum 63%, housing 41%. The December 2025 fee uplift (Civil Legal Aid (Procedure and Remuneration) (Amendment) Regulations 2025, ~£20m/year by 2027–28) covers only housing/debt and immigration/asylum (the first civil rate rise in over a decade), leaving education, welfare benefits and community care untouched. Means-test reform, proposed in 2023, is still being implemented in 2026. Crucially, the Legal Aid Agency has no statutory duty to secure adequate coverage; when the last provider in an area exits, nothing triggers action. The Access to Justice Foundation, Law Centres Network and pro bono schemes (Advocate, LawWorks) patch holes but cannot replace contracted provision; over 1,400 criminal duty solicitors (26%) have left since 2017.",
-  "why": "Legal aid entitlements are meaningless where no provider exists. Millions cannot enforce rights against eviction, benefit errors or unsafe care. Unmet early advice converts into homelessness, tribunal backlogs and NHS costs; the Public Accounts Committee found MoJ knows of cases where no duty solicitor was available at all.",
-  "fill": "A statutory access duty on the Lord Chancellor/LAA (LASPO amendment) to secure minimum provision per category per area, backed by coverage-based commissioning: provider-of-last-resort grants, training contracts targeted at deserts, and index-linked fees across all categories, not just the two uplifted in December 2025.",
+  "description": "Law Society heatmaps from 2025 show the share of the England and Wales population without a local legal aid provider: 88 per cent for education, 82 per cent for welfare benefits, around 70 per cent for community care, 63 per cent for immigration and asylum, and 41 per cent for housing. The December 2025 fee uplift, worth about £20m a year by 2027-28 and the first civil rate rise in over a decade, covers only housing, debt, immigration and asylum. Means-test reform proposed in 2023 is still being implemented in 2026. The Legal Aid Agency has no statutory duty to secure adequate coverage, so when the last provider in an area exits, nothing triggers action. The Access to Justice Foundation, Law Centres Network and pro bono schemes patch holes without replacing contracted provision, and over 1,400 criminal duty solicitors, 26 per cent of them, have left since 2017.",
+  "why": "Legal aid entitlements mean nothing where no provider exists. Millions cannot enforce rights against eviction, benefit errors or unsafe care, and unmet early advice converts into homelessness, tribunal backlogs and NHS costs. The Public Accounts Committee found the MoJ knows of cases where no duty solicitor was available at all.",
+  "fill": "A statutory access duty on the Lord Chancellor and the Legal Aid Agency to secure minimum provision per category per area, backed by coverage-based commissioning: provider-of-last-resort grants, training contracts aimed at the deserts, and index-linked fees across all categories rather than the two uplifted in December 2025.",
   "sources": [
    "https://www.lawsociety.org.uk/campaigns/justice-and-rule-of-law/civil-justice/legal-aid-deserts",
    "https://www.gov.uk/government/consultations/civil-legal-aid-towards-a-sustainable-future/outcome/civil-legal-aid-towards-a-sustainable-future-consultation-response",
@@ -5565,10 +5565,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: LASPO amendment creating statutory access duty plus LAA coverage-based commissioning and fee reform.",
-  "tagline": "Legal aid exists on paper. Most people have no local education or benefits lawyer.",
+  "tagline": "Legal aid on paper; 88% have no local education-law provider",
   "summary": "Nine in ten people in England and Wales have no local legal aid provider for education law, and benefits and care law fare little better. No one has a duty to act when the last provider leaves an area. A statutory coverage duty would make the entitlement real.",
   "rank": 3,
-  "rankNote": "millions live in areas with no local provider, the December uplift skipped education, welfare and care, and no statutory duty triggers action when the last provider exits."
+  "rankNote": "Millions live in areas with no local provider, the December uplift skipped education, welfare and care, and no statutory duty triggers action when the last provider exits."
  },
  {
   "number": 182,
@@ -5665,9 +5665,9 @@
   "domain": "justice-access",
   "type": "institutional",
   "horizon": "short",
-  "description": "The Criminal Cases Review Commission is the sole gateway for post-appeal review of convictions, and it is in institutional collapse: chair Helen Pitcher resigned in January 2025 after an independent panel's findings on the Malkinson case; the Henley review found systemic failure; the Justice Committee's 2025 report ('Leadership of the CCRC') found leadership 'unable to learn from its own mistakes' and demanded root-and-branch reform. The government response so far amounts to an interim chair tasked with an operational review and agreement to pre-appointment scrutiny of future chairs. The statutory 'real possibility' test, which forces the CCRC to second-guess the Court of Appeal rather than judge the case itself, remains unchanged, and no inspectorate covers the CCRC (a one-off HMCPSI-style inspection was criticised as limited). The Law Commission proposes replacing the test and creating independent inspection; legislation is not promised.",
-  "why": "Every wrongful conviction that stays unreferred compounds injustice and leaves real perpetrators unpursued. The Malkinson case showed the CCRC declining to test DNA that later exonerated him. Without test reform and standing oversight, the same failure mode persists, with no institution empowered to detect it.",
-  "fill": "A Criminal Appeals Act implementing the Law Commission package: a reformed referral test focused on the CCRC's own view of the conviction's safety, statutory independence safeguards, an independent inspectorate covering the CCRC, and resourcing tied to caseload, plus Justice Committee pre-appointment scrutiny of the chair (already conceded) made statutory.",
+  "description": "The Criminal Cases Review Commission is the sole gateway for post-appeal review of convictions, and it is in institutional collapse. Chair Helen Pitcher resigned in January 2025 after an independent panel's findings on the Malkinson case, the Henley review found systemic failure, and the Justice Committee's 2025 report found leadership unable to learn from its own mistakes and demanded root-and-branch reform. The government response so far amounts to an interim chair tasked with an operational review and agreement to pre-appointment scrutiny of future chairs. The statutory real-possibility test, which makes the CCRC second-guess the Court of Appeal rather than judge the case itself, remains unchanged, and no inspectorate covers the body. The Law Commission proposes replacing the test and creating independent inspection, and legislation is not promised.",
+  "why": "Every wrongful conviction that stays unreferred compounds injustice and leaves the real perpetrator unpursued. The Malkinson case showed the commission declining to test DNA that later exonerated him. Without test reform and standing oversight the same failure mode persists, and no institution is empowered to detect it.",
+  "fill": "A Criminal Appeals Act implementing the Law Commission package: a referral test resting on the commission's own view of a conviction's safety, statutory independence safeguards, an independent inspectorate, resourcing tied to caseload, and the conceded pre-appointment scrutiny of the chair made statutory.",
   "sources": [
    "https://committees.parliament.uk/committee/102/justice-committee/news/206985/ccrc-leadership-unable-to-learn-from-its-own-mistakes-with-root-and-branch-reform-required-justice-committee-warns/",
    "https://publications.parliament.uk/pa/cm5901/cmselect/cmjust/749/report.html",
@@ -5683,10 +5683,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Criminal Appeals Act implementing the Law Commission package (reformed referral test, independent inspectorate, statutory safeguards).",
-  "tagline": "The last resort for the wrongly convicted is itself in collapse, and answers to no one.",
-  "summary": "The Criminal Cases Review Commission is the only route back to court once appeals fail, and it declined to test the DNA that later cleared Andrew Malkinson. Its chair has resigned and MPs demand root-and-branch reform, yet its referral test and lack of outside oversight persist. A criminal appeals act could fix both.",
+  "tagline": "The last route for the wrongly convicted; in documented collapse",
+  "summary": "The Criminal Cases Review Commission is the only route back to court once appeals fail, and it declined to test the DNA that later cleared Andrew Malkinson. Its chair has resigned and MPs demand root-and-branch reform, and its referral test and lack of outside oversight persist. A criminal appeals act could fix both.",
   "rank": 3,
-  "rankNote": "the sole post-appeal gateway is in documented collapse with an unchanged referral test and no external oversight, though its immediate crisis is already under interim review."
+  "rankNote": "The sole post-appeal gateway is in documented collapse with an unchanged referral test and no external oversight, though its immediate crisis is under interim review."
  },
  {
   "number": 186,
@@ -5695,9 +5695,9 @@
   "domain": "justice-access",
   "type": "institutional",
   "horizon": "mid",
-  "description": "Coroners are appointed and funded by individual local authorities across roughly 85 jurisdictions (down from 127 in 2004 through piecemeal mergers). Twenty years of reviews, from Luce (2003) and the Shipman Inquiry to the Justice Committee's 2021 report, recommended a national service; the MoJ rejected it, and the 2009 reforms created a Chief Coroner with leadership but no operational control, budget or workforce powers. The result documented by the Justice Committee and INQUEST: postcode-lottery inquest waiting times, inconsistent pathology provision, and bereaved families facing represented public bodies alone. The Public Office (Accountability) Bill would establish non-means-tested legal aid parity for bereaved families where public authorities are represented, but it stalled in January 2026 over the intelligence-services candour carve-out and was only carried over in April 2026. The Justice Committee relaunched a coroner service inquiry after its predecessor's report was lost to the 2024 election.",
-  "why": "Inquests are the state's mechanism for learning from deaths: in custody, hospitals, disasters. Fragmentation means Prevention of Future Deaths reports go untracked and standards depend on council budgets. Families' experience of justice after Hillsborough, Grenfell and Manchester Arena hinged on exactly the gaps a national service and parity funding would close.",
-  "fill": "A Coroners (Reform) Act creating a national coroner service: unified MoJ funding, Chief Coroner operational powers, national standards and a Prevention of Future Deaths follow-up mechanism; in the immediate term, enactment of the Public Office (Accountability) Bill's inquest legal-aid parity provisions without the security carve-out that stalled it.",
+  "description": "Coroners are appointed and funded by individual local authorities across roughly 85 jurisdictions, down from 127 in 2004 through piecemeal mergers. Twenty years of reviews, from Luce in 2003 and the Shipman Inquiry to the Justice Committee in 2021, recommended a national service; the MoJ rejected it, and the 2009 reforms created a Chief Coroner with leadership but no operational control, budget or workforce powers. The Justice Committee and INQUEST document the result: postcode-lottery inquest waiting times, inconsistent pathology provision, and bereaved families facing represented public bodies alone. The Public Office (Accountability) Bill would establish non-means-tested legal aid parity for bereaved families where public authorities are represented, and it stalled in January 2026 over the intelligence-services candour carve-out, carried over only in April 2026. The Justice Committee has relaunched a coroner service inquiry after its predecessor's report was lost to the 2024 election.",
+  "why": "Inquests are the state's mechanism for learning from deaths in custody, in hospitals and in disasters. Fragmentation lets Prevention of Future Deaths reports go untracked, and standards depend on council budgets. Families' experience of justice after Hillsborough, Grenfell and Manchester Arena hinged on the gaps a national service and parity funding would close.",
+  "fill": "A Coroners (Reform) Act creating a national coroner service: unified MoJ funding, operational powers for the Chief Coroner, national standards and a Prevention of Future Deaths follow-up mechanism. The immediate step is enacting the Public Office (Accountability) Bill's inquest legal-aid parity without the security carve-out that stalled it.",
   "sources": [
    "https://publications.parliament.uk/pa/cm5802/cmselect/cmjust/68/6805.htm",
    "https://commonslibrary.parliament.uk/research-briefings/cbp-9328/",
@@ -5713,10 +5713,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Coroners (Reform) Act; nearest step is enacting the stalled Public Office (Accountability) Bill legal-aid parity provisions.",
-  "tagline": "How well a death is investigated depends on which council pays the coroner.",
-  "summary": "Inquests are how the state learns from deaths, yet coroners are appointed and funded by 85 separate local jurisdictions with no consistent standards. Bereaved families often face the state's lawyers alone. Two decades of reviews have recommended a national service. Ministers keep declining.",
+  "tagline": "85 locally funded coroner areas; no national standards",
+  "summary": "Inquests are how the state learns from deaths, yet coroners are appointed and funded by 85 separate local jurisdictions with no consistent standards. Bereaved families often face the state's lawyers alone. Two decades of reviews have recommended a national service, and ministers keep declining.",
   "rank": 3,
-  "rankNote": "fragmented locally funded jurisdictions deny bereaved families consistent standards, and the live Public Office Accountability Bill's inquest legal-aid parity is stalled over a carve-out needing enactment now."
+  "rankNote": "Fragmented locally funded jurisdictions deny bereaved families consistent standards, and the live bill carrying inquest legal-aid parity is stalled over a carve-out."
  },
  {
   "number": 187,
@@ -5844,9 +5844,9 @@
   "domain": "local-state-capacity",
   "type": "institutional",
   "horizon": "mid",
-  "description": "No institution independently assesses whether council funding matches statutory duties, verifies 'new burdens' costings, or publishes forward sustainability analysis for a sector spending well over £100bn a year. The OBR's mandate is national; the NAO audits MHCLG's stewardship retrospectively; the LGA's gap modelling (£7bn by 2028-29) comes from a membership body with an advocacy interest; IFS coverage depends on project-by-project charitable funding. The IFS has explicitly proposed an independent advisory institution to assess councils' spending needs and revenue capacity. MHCLG's new Local Government Outcomes Framework is departmental self-oversight, not independent analysis.",
-  "why": "Fiscal cliffs (the SEND override expiry in 2028, serial EFS deals) are recognised late and negotiated bilaterally in private. Parliament, markets and voters lack an authoritative forward view, so crises arrive as surprises and redistribution fights proceed on contested numbers.",
-  "fill": "A statutory Local Government Fiscal Analysis Office (or an extended OBR remit) with data-access rights, publishing biannual sector sustainability reports, EFS analysis and new-burdens verification. Interim: a philanthropically funded shadow unit at IFS/IfG. Sponsors: HM Treasury legislation; Nuffield Foundation or abrdn Financial Fairness Trust for the interim body.",
+  "description": "No institution independently assesses whether council funding matches statutory duties, verifies new-burdens costings, or publishes forward sustainability analysis for a sector spending well over £100bn a year. The OBR's mandate is national, the NAO audits MHCLG's stewardship retrospectively, the LGA's gap modelling of £7bn by 2028-29 comes from a membership body with an advocacy interest, and IFS coverage depends on project-by-project charitable funding. The IFS has explicitly proposed an independent advisory institution to assess councils' spending needs and revenue capacity, and MHCLG's new Local Government Outcomes Framework is departmental self-oversight.",
+  "why": "Fiscal cliffs like the SEND override expiry in 2028 and the serial support deals are recognised late and negotiated bilaterally in private. Parliament, markets and voters lack an authoritative forward view, so crises arrive as surprises and redistribution fights proceed on contested numbers.",
+  "fill": "A statutory local government fiscal analysis office, or an extended OBR remit, with data-access rights, publishing biannual sector sustainability reports, support-deal analysis and new-burdens verification. A philanthropically funded shadow unit at IFS or IfG could start in the interim.",
   "sources": [
    "https://ifs.org.uk/publications/reforming-local-government-funding-england-issues-and-options",
    "https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/647/report.html",
@@ -5861,7 +5861,7 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: philanthropically funded shadow fiscal unit at IFS/IfG publishing sustainability and new-burdens analysis; statutory office is the end-state.",
-  "tagline": "Councils spend over £100bn a year. No independent body checks whether the sums add up.",
+  "tagline": "Councils spend £100bn a year; no independent fiscal watchdog",
   "summary": "No institution independently checks whether council funding matches councils' legal duties, so fiscal cliffs arrive as surprises negotiated in private. The best-known forecast of the sector's £7bn shortfall comes from its own lobby group. An independent fiscal watchdog for local government would put the debate on numbers everyone can trust.",
   "seeAlso": [
    {
@@ -5872,7 +5872,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "A £100bn+ sector has no independent forward-sustainability analysis, so cliffs like the 2028 SEND override arrive as surprises, though an interim IFS/IfG shadow unit is buildable now."
+  "rankNote": "A £100bn-plus sector has no independent forward-sustainability analysis, so cliffs like the 2028 SEND override arrive as surprises; an interim shadow unit is buildable now."
  },
  {
   "number": 192,
@@ -5881,9 +5881,9 @@
   "domain": "local-state-capacity",
   "type": "policy",
   "horizon": "mid",
-  "description": "English councils and mayors control only council tax (referendum-capped, on 1991 valuations), retained business rates, precepts and limited supplements. The 2023 trailblazer deals gave GMCA and WMCA 10-year 100% business-rates retention and integrated settlements: spending flexibility, not taxing power; their fiscal asks (tourist levy among them) were deferred. The November 2025 visitor levy consultation and a King's Speech 2026 bill would create the first genuinely new local tax, but not before 2028. The Chancellor's fiscal devolution roadmap (interim report summer 2026, full version at the autumn 2026 Budget) is so far a document, not an instrument. CCN/Grant Thornton (July 2025) estimate a modest devolved menu (income tax share, stamp duty share, apprenticeship levy, tourist tax) could yield £4.4bn/yr for councils.",
-  "why": "England remains one of the most fiscally centralised large economies: local leaders cannot capture the proceeds of growth they enable, blunting incentives, and every local priority requires a Whitehall negotiation. Devolved responsibility without revenue autonomy transfers blame, not power.",
-  "fill": "Enabling legislation for a defined menu of local instruments (visitor levy now, an assigned share of income tax for Established Mayoral Strategic Authorities next), plus HMRC/VOA collection-and-assignment infrastructure, sequenced through the fiscal devolution roadmap. Sponsors: HM Treasury and MHCLG, with GMCA/WMCA as statutory pilots.",
+  "description": "English councils and mayors control only council tax, referendum-capped and levied on 1991 valuations, retained business rates, precepts and limited supplements. The 2023 trailblazer deals gave GMCA and WMCA ten-year full business-rates retention and integrated settlements, which is spending flexibility rather than taxing power, and their fiscal asks, a tourist levy among them, were deferred. The November 2025 visitor levy consultation and a King's Speech 2026 bill would create the first genuinely new local tax, and not before 2028. The Chancellor's fiscal devolution roadmap, interim in summer 2026 with the full version at the autumn Budget, is so far a document. CCN and Grant Thornton estimate a modest devolved menu could yield £4.4bn a year for councils.",
+  "why": "England remains one of the most fiscally centralised large economies. Local leaders cannot capture the proceeds of the growth they enable, which blunts incentives, and every local priority requires a Whitehall negotiation. Devolved responsibility without revenue autonomy transfers blame rather than power.",
+  "fill": "Enabling legislation for a defined menu of local instruments, the visitor levy now and an assigned share of income tax for established mayoral strategic authorities next, with HMRC and VOA collection-and-assignment infrastructure, sequenced through the fiscal devolution roadmap.",
   "sources": [
    "https://commonslibrary.parliament.uk/research-briefings/cbp-10937/",
    "https://www.countycouncilsnetwork.org.uk/news/new-report-calls-for-government-to-be-bold-and-ambitious-on-fiscal-devolution-local-tax-powers-could-unlock-over-4bn-per-year",
@@ -5905,8 +5905,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: HM Treasury enabling legislation via the fiscal devolution roadmap plus HMRC/VOA collection-and-assignment infrastructure.",
-  "tagline": "English mayors can spend, but barely tax. Growth they create flows straight to Whitehall.",
-  "summary": "English councils and mayors control little beyond council tax and business rates, leaving England among the most fiscally centralised big economies. A modest devolved menu (a tourist levy, a share of income tax) could raise £4.4bn a year for local services. The Treasury's roadmap arrives this autumn, so far a document rather than an instrument.",
+  "tagline": "Mayors can spend; the tax menu stops at council tax",
+  "summary": "English councils and mayors control little beyond council tax and business rates, leaving England among the most fiscally centralised big economies. A modest devolved menu, a tourist levy and a share of income tax among it, could raise £4.4bn a year for local services. The Treasury's roadmap arrives this autumn, so far a document rather than an instrument.",
   "alsoDomains": [
    "growth-stagnation"
   ],
@@ -5931,7 +5931,7 @@
   ],
   "curationNote": "one instrument: the promised fiscal-devolution framework giving mayoral authorities real revenue tools.",
   "rank": 3,
-  "rankNote": "England's extreme fiscal centralisation caps local growth capture, but Treasury already owns the fix through a live visitor-levy bill and its autumn-2026 devolution roadmap."
+  "rankNote": "England's fiscal centralisation caps local growth capture, and Treasury already owns the fix through a live visitor-levy bill and its autumn 2026 roadmap."
  },
  {
   "number": 193,
