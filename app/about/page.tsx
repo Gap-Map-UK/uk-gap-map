@@ -78,8 +78,8 @@ export default function AboutPage() {
         <strong>shipped</strong>. Anyone can take a gap through the 90-second wizard, with no account: the
         claim posts publicly via GitHub, curators merge it into the claims record, and the gap flips to in
         build across the whole site. Attempts are non-exclusive, each shows a freshness pulse, and 60 days of
-        silence frees the gap again. Every gap page carries its own discussion thread (anonymous commenting
-        via Remark42 is on the roadmap; replies route through GitHub until it lands), and anyone can{" "}
+        silence frees the gap again. Every gap page carries its own discussion thread, with replies posting
+        through GitHub so the whole record stays public and forkable, and anyone can{" "}
         <a href="/suggest/">suggest a new gap</a>, which is verified against primary sources before it
         appears. Above the gaps sits an <a href="/outcomes/">outcomes layer</a>: eleven end-states, each
         showing the gaps that block it and live progress towards it, so you can work backwards from the

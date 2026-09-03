@@ -5,9 +5,9 @@ import { useAttempts } from "@/components/AttemptsProvider";
 import { gapStatus, postsFor, refOf, REPO, slugifyTeam } from "@/lib/attempts";
 import { gapBySlug } from "@/lib/data";
 
-// Per-gap thread. Until the Remark42 instance is live, posts are the claim and
-// update record from attempts.json, and replies route to a prefilled GitHub
-// issue: no fake guest posts, no invented counts.
+// Per-gap thread. Posts are the claim and update record from attempts.json,
+// and replies route to a prefilled GitHub issue: git is the permanent public
+// record, no fake guest posts, no invented counts.
 export default function ThreadPanel({ slug }: { slug: string }) {
   const gap = gapBySlug.get(slug);
   const { byGap, now, showToast } = useAttempts();
@@ -39,7 +39,7 @@ export default function ThreadPanel({ slug }: { slug: string }) {
     <div className="thread">
       <div className="bar">
         <span className="l">THREAD · {posts.length} POSTS</span>
-        <span className="m">remark42 threads launch soon · replies via github until then</span>
+        <span className="m">replies post via github, in public</span>
         {!shipped && (
           <span className="r">
             <a href={`${REPO}/issues?q=${encodeURIComponent(refOf(gap.number))}`} rel="noopener noreferrer" target="_blank">

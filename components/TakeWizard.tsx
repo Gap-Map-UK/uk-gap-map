@@ -9,8 +9,8 @@ type Form = { team: string; link: string; plan: string; milestone: string };
 const EMPTY: Form = { team: "", link: "", plan: "", milestone: "" };
 
 // The 90-second claim wizard. No account and no email: the claim posts via a
-// prefilled GitHub issue until the Remark42 threads launch, and the visitor's
-// own copy shows immediately (pending) via localStorage.
+// prefilled GitHub issue (the permanent write path), and the visitor's own
+// copy shows immediately (pending) via localStorage.
 export default function TakeWizard() {
   const { wizardGap, closeTake, addLocalClaim, showToast } = useAttempts();
   const [step, setStep] = useState(1);
