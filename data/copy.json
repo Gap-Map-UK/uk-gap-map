@@ -257,8 +257,8 @@
   },
   {
    "number": 50,
-   "tagline": "Street votes could add 30,000 homes a year. The law exists. Nobody switched it on.",
-   "summary": "Residents of a street voting themselves permission to build (and pocket the uplift) became law in 2023, but the regulations to activate it were never laid. No new legislation is needed, just statutory instruments and pilot funding. Eighteen months of work could unlock new homes exactly where demand is highest."
+   "tagline": "Street votes legislated in 2023; regulations never laid",
+   "summary": "Residents of a street voting themselves permission to build, and pocketing the uplift, became law in 2023, and the regulations to activate it were never laid. No new legislation is needed, only statutory instruments and pilot funding. Eighteen months of work could unlock new homes exactly where demand is highest."
   },
   {
    "number": 51,
@@ -277,8 +277,8 @@
   },
   {
    "number": 54,
-   "tagline": "France built trams in 25 cities by repetition. Britain reinvents the tram every time.",
-   "summary": "Manchester is around 55% less productive than same-sized Rome, partly because so few workers can reach the centre by public transport. Yet every British tram scheme starts from scratch: bespoke design, bespoke procurement, bespoke costs. A standing national delivery unit running a rolling pipeline is how other countries build cheaply and fast."
+   "tagline": "Second-city trams; every scheme starts from scratch",
+   "summary": "Manchester is around 55 per cent less productive than same-sized Rome, partly because so few workers can reach the centre by public transport. Every British tram scheme starts from scratch, with bespoke design, bespoke procurement and bespoke costs. A standing national delivery unit running a rolling pipeline is how other countries build cheaply and fast."
   },
   {
    "number": 55,
@@ -287,8 +287,8 @@
   },
   {
    "number": 56,
-   "tagline": "A fifth of the Treasury quits or moves every year. The pay system rewards exactly that.",
-   "summary": "Civil servants get raises by moving jobs, not by getting good at them, so expertise drains from the teams running decade-long programmes like planning reform and infrastructure. That churn is one reason big projects fail expensively. Paying people to deepen in post, with minimum tenure for key delivery roles, is a cheap, unglamorous growth policy."
+   "tagline": "Treasury churn a fifth a year; pay rewards the move",
+   "summary": "Civil servants get raises by moving jobs rather than by getting good at them, so expertise drains from the teams running decade-long programmes like planning reform and infrastructure. That churn is one reason big projects fail expensively. Paying people to deepen in post, with minimum tenure for key delivery roles, is a cheap, unglamorous growth policy."
   },
   {
    "number": 57,
@@ -302,8 +302,8 @@
   },
   {
    "number": 59,
-   "tagline": "Pension savers' billions are pledged to British growth. The vehicles barely exist.",
-   "summary": "Seventeen providers promised a slice of workplace pensions to private markets, with law holding a backstop power to compel them. But the first flagship UK growth fund closed at just £200m, and little else exists at institutional scale, so the money may simply flow abroad. Building investable UK vehicles is the missing half of the bargain."
+   "tagline": "Pension billions pledged to UK growth; few vehicles to hold them",
+   "summary": "Seventeen providers promised a slice of workplace pensions to private markets, with law holding a backstop power to compel them. The first flagship UK growth fund closed at £200m, and little else exists at institutional scale, so the money may simply flow abroad. Building investable UK vehicles is the missing half of the bargain."
   },
   {
    "number": 60,
@@ -312,8 +312,8 @@
   },
   {
    "number": 61,
-   "tagline": "Banks fund debt advice. Today's debts are owed to the council and the energy firm.",
-   "summary": "The levy paying for debt advice falls on regulated lenders, yet the arrears crushing households now come from utilities, council tax and government itself: creditors who pay nothing towards it. Funded capacity covers barely a quarter of need. Extending the levy to the sectors actually generating the debt is a straightforward polluter-pays statute."
+   "tagline": "Debt advice funded by banks; the arrears now come from bills",
+   "summary": "The levy paying for debt advice falls on regulated lenders, and the arrears crushing households now come from utilities, council tax and government itself, creditors who pay nothing towards it. Funded capacity covers barely a quarter of need. Extending the levy to the sectors actually generating the debt is a straightforward polluter-pays statute."
   },
   {
    "number": 62,
@@ -332,8 +332,8 @@
   },
   {
    "number": 65,
-   "tagline": "Hedge funds do a third of gilt trading. The crisis backstop doesn't cover them.",
-   "summary": "The 2022 crisis dynamic (leveraged investors forced to dump gilts) has migrated from pension funds to hedge funds, which sit outside the Bank of England's emergency lending facility. No one even publishes regular data on their gilt borrowing. Extending the backstop with strings attached, plus minimum haircuts and a public dashboard, would close the gap before it is tested."
+   "tagline": "Hedge funds do a third of gilt trading; the backstop excludes them",
+   "summary": "The 2022 crisis dynamic, leveraged investors forced to dump gilts, has migrated from pension funds to hedge funds, which sit outside the Bank of England's emergency lending facility. No one publishes regular data on their gilt borrowing. Extending the backstop with strings attached, plus minimum haircuts and a public dashboard, would close the gap before it is tested."
   },
   {
    "number": 66,
@@ -352,7 +352,7 @@
   },
   {
    "number": 69,
-   "tagline": "Three million people used loan sharks. Enforcement prosecutes about 20 cases a year.",
+   "tagline": "Three million loan-shark victims; about twenty prosecutions a year",
    "summary": "One small team hosted by a city council polices illegal lending for all of England, while the trade has moved onto social media and payment apps. The levy that funds it costs regulated firms a rounding error. Scaling it up, with bank data-sharing to spot lender-pattern accounts, would confront a market measured in millions of victims."
   },
   {
@@ -382,7 +382,7 @@
   },
   {
    "number": 74,
-   "tagline": "The only real test of police face-scanning accuracy was paid for by the police.",
+   "tagline": "Police algorithm accuracy; tested only by the police's own study",
    "summary": "Britain has no independent lab that checks surveillance algorithms before police deploy them; the main accuracy study was commissioned by the forces using the technology. Retrospective face searches against passport databases run with no published error rates at all. A national testing facility could be piloted for under £10m."
   },
   {
@@ -392,8 +392,8 @@
   },
   {
    "number": 76,
-   "tagline": "The cases that curb UK surveillance are fought by tiny charities betting their budgets.",
-   "summary": "Litigation is the only force that has ever restrained UK surveillance powers, and it rests on a few small organisations carrying the risk of ruinous costs with no legal aid. A pooled fund of £3-5m a year (counsel, expert evidence, costs insurance) would keep the case pipeline alive."
+   "tagline": "Surveillance litigation; carried by tiny charities at ruinous risk",
+   "summary": "Litigation is the only force that has ever restrained UK surveillance powers, and it rests on a few small organisations carrying the risk of ruinous costs with no legal aid. A pooled fund of £3-5m a year covering counsel, expert evidence and costs insurance would keep the case pipeline alive."
   },
   {
    "number": 77,
@@ -402,7 +402,7 @@
   },
   {
    "number": 78,
-   "tagline": "Nobody keeps a list of what surveillance kit is watching Britain. Not even the state.",
+   "tagline": "Surveillance deployments; no register anywhere, including in government",
    "summary": "No one tracks which cameras, algorithms and face-scanning tools police forces and councils have bought; the picture exists only in scattered freedom of information requests that quickly go stale. A maintained open database, like the one American civil liberties groups run, would cost a few hundred thousand pounds a year."
   },
   {
@@ -437,7 +437,7 @@
   },
   {
    "number": 85,
-   "tagline": "Most lobbyists never appear on the lobbying register. The law only counts consultants.",
+   "tagline": "The lobbying register; consultants only, in-house exempt",
    "summary": "The register covers hired consultant lobbyists only; in-house corporate lobbyists, the bulk of the industry, are exempt, which is exactly how Greensill's influence went unrecorded. A ready-made bill in the Lords would close the loophole. Meeting disclosures could turn monthly and machine-readable too."
   },
   {
@@ -447,8 +447,8 @@
   },
   {
    "number": 87,
-   "tagline": "The new ethics watchdog answers to the Prime Minister it is meant to watch.",
-   "summary": "The commission created to restore standards after Partygate can only advise, cannot investigate individuals, and could be dissolved by any future Prime Minister at a stroke: it exists by executive decision, not law. Statute could give it a protected budget and the power to open its own investigations."
+   "tagline": "The ethics watchdog; appointed by the person it watches",
+   "summary": "The commission created to restore standards after Partygate can only advise, cannot investigate individuals, and could be dissolved by any future Prime Minister at a stroke: it exists by executive decision rather than law. Statute could give it a protected budget and the power to open its own investigations."
   },
   {
    "number": 88,
@@ -457,8 +457,8 @@
   },
   {
    "number": 89,
-   "tagline": "Fraud enforcement pays for itself three times over. Britain still starves it.",
-   "summary": "The Serious Fraud Office more than pays for itself, yet its salaries fall ever further behind the private firms it faces in court. The national financial intelligence unit still has fewer staff than international assessors recommended in 2018. A ringfenced fund recycling recovered criminal assets into enforcement would end the false economy."
+   "tagline": "Fraud enforcement returns £3 per £1; funding still year to year",
+   "summary": "The Serious Fraud Office more than pays for itself, and its salaries fall ever further behind the private firms it faces in court. The national financial intelligence unit still has fewer staff than international assessors recommended in 2018. A ringfenced fund recycling recovered criminal assets into enforcement would end the false economy."
   },
   {
    "number": 90,
@@ -527,7 +527,7 @@
   },
   {
    "number": 102,
-   "tagline": "Every new community pub pays lawyers for documents the last one already paid for.",
+   "tagline": "Formation templates; paywalled, scattered, re-bought every time",
    "summary": "The templates for founding a co-op, community share offer or wrapped digital collective are scattered, paywalled or locked inside model rules you must buy. An openly licensed library of governing documents, maintained like open-source software, may be the cheapest intervention on this map: low seven figures to build."
   },
   {
@@ -577,7 +577,7 @@
   },
   {
    "number": 110,
-   "tagline": "France runs its government on a British protocol. Whitehall runs on WhatsApp.",
+   "tagline": "Matrix invented in Britain; Whitehall still on WhatsApp",
    "summary": "More than 25 countries run secure state messaging on Matrix, a protocol invented in Britain, while British government business still travels over WhatsApp, criticised by the Covid inquiry. A pilot government messenger and cheap managed servers for councils and charities would bring the technology home."
   },
   {
@@ -602,8 +602,8 @@
   },
   {
    "number": 115,
-   "tagline": "British charities run on discounted Google. The co-ops that could host them stay tiny.",
-   "summary": "France built Framasoft, a public-interest host offering the everyday tools charities need. Britain has the same software and willing co-op operators, but no funder has aggregated them into a service with real support and charity pricing. It may be the easiest gap on this map to close: every piece already runs somewhere."
+   "tagline": "Public-interest hosting; France built it, Britain's co-ops stay tiny",
+   "summary": "France built Framasoft, a public-interest host offering the everyday tools charities need. Britain has the same software and willing co-op operators, and no funder has aggregated them into a service with real support and charity pricing. It may be the easiest gap on this map to close: every piece already runs somewhere."
   },
   {
    "number": 116,

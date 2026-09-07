@@ -1754,9 +1754,9 @@
   "domain": "growth-stagnation",
   "type": "policy",
   "horizon": "short",
-  "description": "Street vote development orders were legislated in the Levelling-up and Regeneration Act 2023 and consulted on in December 2023, but the secondary legislation to switch them on has never been laid and no pilots exist. YIMBY Alliance and London YIMBY designed the mechanism; the Centre for British Progress's 2026 briefing calls it 'the next big lever', estimating ~30,000 homes a year in high-demand areas via incremental suburban intensification.",
-  "why": "This is the rare housing lever that is already law, aligns residents' incentives with building (owners vote themselves uplift), needs no new primary legislation, and adds supply precisely where agglomeration returns are highest. It sits unused solely for want of statutory instruments and pilot funding.",
-  "fill": "Commencement regulations plus Planning Inspectorate procedures, and a funded pilot programme in three high-demand cities with template street plans and design codes, all deliverable within 18 months.",
+  "description": "Street vote development orders were legislated in the Levelling-up and Regeneration Act 2023 and consulted on in December 2023. The secondary legislation to switch them on has never been laid and no pilots exist. YIMBY Alliance and London YIMBY designed the mechanism, and the Centre for British Progress's 2026 briefing calls it the next big lever, estimating around 30,000 homes a year in high-demand areas through incremental suburban intensification.",
+  "why": "This housing lever is already law, aligns residents' incentives with building because owners vote themselves the uplift, needs no new primary legislation, and adds supply where agglomeration returns are highest. It sits unused for want of statutory instruments and pilot funding.",
+  "fill": "Commencement regulations plus Planning Inspectorate procedures, and a funded pilot programme in three high-demand cities with template street plans and design codes, deliverable within eighteen months.",
   "sources": [
    "https://britishprogress.org/briefings/the-next-big-lever-street-votes",
    "https://www.gov.uk/government/consultations/street-vote-development-orders-consultation/street-vote-development-orders",
@@ -1771,10 +1771,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: commencement regulations under Levelling-up and Regeneration Act 2023 plus Planning Inspectorate procedures.",
-  "tagline": "Street votes could add 30,000 homes a year. The law exists. Nobody switched it on.",
-  "summary": "Residents of a street voting themselves permission to build (and pocket the uplift) became law in 2023, but the regulations to activate it were never laid. No new legislation is needed, just statutory instruments and pilot funding. Eighteen months of work could unlock new homes exactly where demand is highest.",
+  "tagline": "Street votes legislated in 2023; regulations never laid",
+  "summary": "Residents of a street voting themselves permission to build, and pocketing the uplift, became law in 2023, and the regulations to activate it were never laid. No new legislation is needed, only statutory instruments and pilot funding. Eighteen months of work could unlock new homes exactly where demand is highest.",
   "rank": 2,
-  "rankNote": "Already law and self-aligning owners' incentives, it needs only commencement regulations and pilot funding; moderate supply impact and no dated trigger keep pressure below acute."
+  "rankNote": "Already law and self-aligning, it needs only commencement regulations and pilot funding; moderate supply impact and no dated trigger keep the pressure below acute."
  },
  {
   "number": 51,
@@ -1868,9 +1868,9 @@
   "domain": "growth-stagnation",
   "type": "institutional",
   "horizon": "mid",
-  "description": "Centre for Cities shows big UK cities systematically underperform their size: Manchester is ~55% less productive than same-sized Rome, partly because far fewer workers can reach city centres by public transport; raising effective city size to European levels is worth ~£23.1bn a year. Yet the UK builds trams as bespoke one-offs: each city re-creates consenting, design and procurement from scratch, contributing to costs 2–8x French/Spanish levels (Britain Remade). CRSTS money exists; a delivery institution does not.",
-  "why": "Agglomeration in second cities is the largest quantified regional growth lever the UK has. France built tram networks in 25+ cities through serial, standardised delivery; the UK's per-project approach guarantees high costs and decade-long timelines for every scheme.",
-  "fill": "A national light-rail delivery unit (standardised vehicle and design specifications, framework procurement, retained engineering teams) running a rolling multi-city construction pipeline on behalf of mayoral authorities.",
+  "description": "Centre for Cities shows big UK cities systematically underperform their size. Manchester is about 55 per cent less productive than same-sized Rome, partly because far fewer workers can reach the city centre by public transport, and raising effective city size to European levels is worth about £23.1bn a year. The UK builds trams as bespoke one-offs, with each city re-creating consenting, design and procurement from scratch, which contributes to costs running two to eight times French and Spanish levels per Britain Remade. CRSTS money exists. A delivery institution does not.",
+  "why": "Agglomeration in second cities is the largest quantified regional growth lever the UK has. France built tram networks in more than 25 cities through serial, standardised delivery. The per-project approach guarantees high costs and decade-long timelines for every scheme.",
+  "fill": "A national light-rail delivery unit with standardised vehicle and design specifications, framework procurement and retained engineering teams, running a rolling multi-city construction pipeline on behalf of mayoral authorities.",
   "sources": [
    "https://www.centreforcities.org/publication/how-productive-are-the-uks-big-cities/",
    "https://www.centreforcities.org/reader/measuring-up-comparing-public-transport-uk-europe-cities/what-public-transport-tells-us-about-levelling-up/",
@@ -1885,8 +1885,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: mayoral combined authorities jointly creating shared light-rail delivery unit, pooling CRSTS funds; no statute required.",
-  "tagline": "France built trams in 25 cities by repetition. Britain reinvents the tram every time.",
-  "summary": "Manchester is around 55% less productive than same-sized Rome, partly because so few workers can reach the centre by public transport. Yet every British tram scheme starts from scratch: bespoke design, bespoke procurement, bespoke costs. A standing national delivery unit running a rolling pipeline is how other countries build cheaply and fast.",
+  "tagline": "Second-city trams; every scheme starts from scratch",
+  "summary": "Manchester is around 55 per cent less productive than same-sized Rome, partly because so few workers can reach the centre by public transport. Every British tram scheme starts from scratch, with bespoke design, bespoke procurement and bespoke costs. A standing national delivery unit running a rolling pipeline is how other countries build cheaply and fast.",
   "dialogue": {
    "counterparty": "councils",
    "ask": "Sponsor, with fellow mayoral authorities, a shared light-rail delivery unit: one standard specification, one procurement framework, one engineering team serving every city's scheme.",
@@ -1895,7 +1895,7 @@
    "firstStep": "A six-month joint feasibility study between two authorities, funded from existing programme budgets, testing whether their next tram schemes could share a specification and procurement framework, with no commitment beyond the study."
   },
   "rank": 2,
-  "rankNote": "Second-city agglomeration is the largest quantified regional lever (~£23bn/year) and a standardised delivery unit would cut costs, but no institution owns it and no date forces action."
+  "rankNote": "Second-city agglomeration is the largest quantified regional lever, worth about £23bn a year, and no institution owns the delivery model and no date forces action."
  },
  {
   "number": 56,
@@ -1904,9 +1904,9 @@
   "domain": "growth-stagnation",
   "type": "institutional",
   "horizon": "mid",
-  "description": "Institute for Government Whitehall Monitor data: 12.7% of civil servants moved department or left in 2023/24 (the second-highest churn since 2010/11), with 21.8% turnover in HM Treasury and 20.5% in the Cabinet Office. Flat in-post pay progression makes promotion-by-moving the only route to a raise, so expertise drains from exactly the teams running planning reform, infrastructure and industrial strategy. No government programme addresses the incentive structure itself.",
-  "why": "State capacity is a growth input. A Treasury that turns over a fifth of its staff annually cannot hold institutional memory on decade-long delivery programmes, one reason projects like HS2 and the IDS fail expensively and reforms die between commencement orders.",
-  "fill": "Capability-based in-post pay progression plus minimum-tenure agreements for Senior Responsible Owners and key delivery roles, piloted in delivery departments (DESNZ, MHCLG, DfT) with published retention metrics.",
+  "description": "Institute for Government Whitehall Monitor data shows 12.7 per cent of civil servants moved department or left in 2023-24, the second-highest churn since 2010-11, with 21.8 per cent turnover in HM Treasury and 20.5 per cent in the Cabinet Office. Flat in-post pay progression makes promotion by moving the only route to a raise, so expertise drains from the teams running planning reform, infrastructure and industrial strategy. No government programme addresses the incentive structure itself.",
+  "why": "State capacity is a growth input. A Treasury that turns over a fifth of its staff annually cannot hold institutional memory on decade-long delivery programmes, one reason projects like HS2 and the Integrated Data Service fail expensively and reforms die between commencement orders.",
+  "fill": "Capability-based in-post pay progression plus minimum-tenure agreements for Senior Responsible Owners and key delivery roles, piloted in the delivery departments with published retention metrics.",
   "sources": [
    "https://www.instituteforgovernment.org.uk/publication/whitehall-monitor-2025/part-2-state-civil-service",
    "https://www.instituteforgovernment.org.uk/publication/whitehall-monitor-2026/part-2-state-civil-service",
@@ -1922,8 +1922,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Cabinet Office/Treasury pay-remit reform for in-post progression and SRO minimum tenure.",
-  "tagline": "A fifth of the Treasury quits or moves every year. The pay system rewards exactly that.",
-  "summary": "Civil servants get raises by moving jobs, not by getting good at them, so expertise drains from the teams running decade-long programmes like planning reform and infrastructure. That churn is one reason big projects fail expensively. Paying people to deepen in post, with minimum tenure for key delivery roles, is a cheap, unglamorous growth policy.",
+  "tagline": "Treasury churn a fifth a year; pay rewards the move",
+  "summary": "Civil servants get raises by moving jobs rather than by getting good at them, so expertise drains from the teams running decade-long programmes like planning reform and infrastructure. That churn is one reason big projects fail expensively. Paying people to deepen in post, with minimum tenure for key delivery roles, is a cheap, unglamorous growth policy.",
   "facets": [
    "policy-gaps"
   ],
@@ -1938,7 +1938,7 @@
   ],
   "curationNote": "the same pay-and-workforce machinery counteracting promotion-by-moving churn.",
   "rank": 2,
-  "rankNote": "Fifth-of-staff annual Treasury churn drains delivery memory and nobody addresses the pay-incentive structure, yet stakes are diffuse, the HR fix unproven, and no dated trigger applies."
+  "rankNote": "A fifth of Treasury staff churn annually and nobody addresses the pay-incentive structure, and the stakes are diffuse with the HR fix unproven and no dated trigger."
  },
  {
   "number": 57,
@@ -2004,9 +2004,9 @@
   "domain": "growth-stagnation",
   "type": "funding",
   "horizon": "mid",
-  "description": "Under the May 2025 Mansion House Accord, 17 providers pledged 10% of DC default funds to private markets by 2030 (5% UK), and the Pension Schemes Act 2026 holds a backstop mandation power (exercisable once, 2028–32, then lapsing). The supply side is thin: the British Growth Partnership's Fund I first close was only £200m (Aegon UK, NatWest Cushon, M&G); few LTAFs offer UK venture/growth exposure at institutional scale. The realistic risk is the Accord being met via overseas private markets, not UK companies.",
-  "why": "Tens of billions in annual DC flows are the largest untapped domestic pool for scale-up capital: the stage at which UK science companies sell abroad or list in New York. Legislation created demand-side pressure; without investable vehicles the money simply exits.",
-  "fill": "A scaled pipeline of UK growth vehicles: BGP successor funds at £1bn+, LGPS-pool venture/growth platforms, and science-and-tech LTAFs with fee structures DC platforms will actually buy; a buildable opportunity for the British Business Bank, LGPS pools and commercial managers.",
+  "description": "Under the May 2025 Mansion House Accord, seventeen providers pledged 10 per cent of DC default funds to private markets by 2030, 5 per cent of it in the UK, and the Pension Schemes Act 2026 holds a backstop mandation power exercisable once between 2028 and 2032. The supply side is thin. The British Growth Partnership's first fund closed at £200m, with Aegon UK, NatWest Cushon and M&G participating, and few long-term asset funds offer UK venture or growth exposure at institutional scale. The realistic risk is the Accord being met through overseas private markets rather than UK companies.",
+  "why": "Tens of billions in annual DC flows are the largest untapped domestic pool for scale-up capital, the stage at which UK science companies sell abroad or list in New York. Legislation created demand-side pressure. Without investable vehicles the money simply exits.",
+  "fill": "A scaled pipeline of UK growth vehicles: British Growth Partnership successor funds at £1bn and above, LGPS-pool venture and growth platforms, and science and technology LTAFs with fee structures DC platforms will actually buy. The British Business Bank, the LGPS pools and commercial managers could all build.",
   "sources": [
    "https://www.british-business-bank.co.uk/news-and-events/news/british-business-banks-british-growth-partnership-announces-partners-targeted-ps200m-first-close",
    "https://cms.law/en/gbr/legal-updates/journey-s-end-the-pension-schemes-act-arrives",
@@ -2021,10 +2021,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: science-and-tech LTAF / BGP-successor fund with DC-friendly fees, launchable by a commercial manager today.",
-  "tagline": "Pension savers' billions are pledged to British growth. The vehicles barely exist.",
-  "summary": "Seventeen providers promised a slice of workplace pensions to private markets, with law holding a backstop power to compel them. But the first flagship UK growth fund closed at just £200m, and little else exists at institutional scale, so the money may simply flow abroad. Building investable UK vehicles is the missing half of the bargain.",
+  "tagline": "Pension billions pledged to UK growth; few vehicles to hold them",
+  "summary": "Seventeen providers promised a slice of workplace pensions to private markets, with law holding a backstop power to compel them. The first flagship UK growth fund closed at £200m, and little else exists at institutional scale, so the money may simply flow abroad. Building investable UK vehicles is the missing half of the bargain.",
   "rank": 2,
-  "rankNote": "Tens of billions of DC flows are pledged to UK growth by 2030, but investable £1bn+ vehicles barely exist, risking the money exiting overseas absent a built pipeline."
+  "rankNote": "Tens of billions of DC flows are pledged to UK growth by 2030, and investable £1bn-plus vehicles barely exist, so the money risks exiting overseas."
  },
  {
   "number": 60,
@@ -2061,9 +2061,9 @@
   "domain": "debt",
   "type": "funding",
   "horizon": "short",
-  "description": "MaPS-commissioned debt advice is funded by an FCA levy on consumer-credit and mortgage firms (~£78m), yet problem debt has shifted decisively to household bills (energy, water, telecoms, council tax and debts owed to government itself), whose creditors pay nothing toward advice. MaPS funding supports just over a quarter of estimated advice capacity; StepChange and Citizens Advice fundraise for the rest, partly via voluntary 'fair share' payments from banks. Government's own target (3.7m people receiving advice by 2030 vs ~2m now) is unfunded at current levy scope.",
-  "why": "Advice demand is at record highs while the funding base is structurally misaligned: the sectors generating today's arrears (utilities and the state) free-ride on a shrinking pool paid by regulated lenders. Every £1 of advice generates measurable returns (MaPS-funded advice boosted client incomes £48m in 2024/25).",
-  "fill": "Legislate to extend the debt-advice levy to non-FCA creditors (energy, water, telecoms) and add a government contribution proportional to the public sector's share of problem debt: a 'polluter pays' funding statute.",
+  "description": "Debt advice commissioned by MaPS is funded by an FCA levy on consumer-credit and mortgage firms, around £78m, and problem debt has shifted decisively to household bills: energy, water, telecoms, council tax and debts owed to government itself, whose creditors pay nothing towards advice. MaPS funding supports just over a quarter of estimated advice capacity, and StepChange and Citizens Advice fundraise for the rest, partly through voluntary fair-share payments from banks. Government's own target of 3.7 million people receiving advice by 2030, against around two million now, is unfunded at the current levy scope.",
+  "why": "Advice demand is at record highs while the funding base is structurally misaligned, with the sectors generating today's arrears free-riding on a shrinking pool paid by regulated lenders. Every pound of advice generates measurable returns; MaPS-funded advice boosted client incomes by £48m in 2024-25.",
+  "fill": "Legislate to extend the debt-advice levy to non-FCA creditors in energy, water and telecoms, and add a government contribution proportional to the public sector's share of problem debt. It is a polluter-pays funding statute.",
   "sources": [
    "https://hansard.parliament.uk/commons/2025-01-09/debates/6D09A5E2-5CE7-46E7-B272-03328ED1C36F/DebtAdviceServices",
    "https://maps.org.uk/en/media-centre/press-releases/2025/debt-advice-funded-by-maps-helps-boost-income",
@@ -2078,10 +2078,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statute extending debt-advice levy to energy, water, telecoms and government creditors.",
-  "tagline": "Banks fund debt advice. Today's debts are owed to the council and the energy firm.",
-  "summary": "The levy paying for debt advice falls on regulated lenders, yet the arrears crushing households now come from utilities, council tax and government itself: creditors who pay nothing towards it. Funded capacity covers barely a quarter of need. Extending the levy to the sectors actually generating the debt is a straightforward polluter-pays statute.",
+  "tagline": "Debt advice funded by banks; the arrears now come from bills",
+  "summary": "The levy paying for debt advice falls on regulated lenders, and the arrears crushing households now come from utilities, council tax and government itself, creditors who pay nothing towards it. Funded capacity covers barely a quarter of need. Extending the levy to the sectors actually generating the debt is a straightforward polluter-pays statute.",
   "rank": 2,
-  "rankNote": "Advice demand hits record highs but funded capacity covers barely a quarter, because the levy still falls on lenders, not the utilities and government now generating the arrears."
+  "rankNote": "Advice demand hits record highs and funded capacity covers barely a quarter, because the levy still falls on lenders rather than the utilities and government now generating the arrears."
  },
  {
   "number": 62,
@@ -2179,9 +2179,9 @@
   "domain": "debt",
   "type": "policy",
   "horizon": "short",
-  "description": "The Bank of England's Contingent NBFI Repo Facility (opened to applications January 2025) covers only insurers, pension funds and LDI funds holding £2bn+ of gilts. Hedge funds (now ~30% of gilt trading volumes and dominant in cash-futures basis trades financed by repo) are excluded, and minimum repo haircuts floated in the Bank's 2025 gilt-repo resilience discussion paper (feedback published 2026) have not been mandated. There is no regularly published dashboard of NBFI gilt leverage, leaving Parliament and market participants reliant on ad hoc FPC commentary.",
-  "why": "The 2022 LDI spiral cost the Bank a £19bn emergency intervention and nearly toppled pension funds. The same dynamic (leveraged forced sellers, no backstop) now sits with hedge funds, in a market that must absorb record issuance plus £70bn/year of QT supply.",
-  "fill": "Phase-2 CNRF extension to broader NBFIs with conditionality (resilience standards in exchange for access); mandatory minimum haircuts on gilt repo; and a quarterly public NBFI gilt-leverage dashboard from the Bank/FCA.",
+  "description": "The Bank of England's Contingent NBFI Repo Facility, open to applications since January 2025, covers only insurers, pension funds and LDI funds holding £2bn or more of gilts. Hedge funds, now about 30 per cent of gilt trading volumes and dominant in cash-futures basis trades financed by repo, are excluded. Minimum repo haircuts floated in the Bank's 2025 gilt-repo resilience discussion paper, with feedback published in 2026, have not been mandated. No regularly published dashboard of NBFI gilt leverage exists, leaving Parliament and market participants reliant on ad hoc FPC commentary.",
+  "why": "The 2022 LDI spiral cost the Bank a £19bn emergency intervention and nearly toppled pension funds. The same dynamic of leveraged forced sellers with no backstop now sits with hedge funds, in a market that must absorb record issuance plus £70bn a year of QT supply.",
+  "fill": "A phase-two extension of the repo facility to broader non-banks with conditionality, resilience standards in exchange for access, mandatory minimum haircuts on gilt repo, and a quarterly public dashboard of non-bank gilt leverage from the Bank and FCA.",
   "sources": [
    "https://www.bankofengland.co.uk/markets/bank-of-england-market-operations-guide/cnrf",
    "https://www.bankofengland.co.uk/paper/2025/discussion-paper/enhancing-the-resilience-of-the-gilt-repo-market",
@@ -2196,10 +2196,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Bank of England CNRF extension, FPC-mandated repo haircuts, Bank/FCA leverage dashboard from supervisory data.",
-  "tagline": "Hedge funds do a third of gilt trading. The crisis backstop doesn't cover them.",
-  "summary": "The 2022 crisis dynamic (leveraged investors forced to dump gilts) has migrated from pension funds to hedge funds, which sit outside the Bank of England's emergency lending facility. No one even publishes regular data on their gilt borrowing. Extending the backstop with strings attached, plus minimum haircuts and a public dashboard, would close the gap before it is tested.",
+  "tagline": "Hedge funds do a third of gilt trading; the backstop excludes them",
+  "summary": "The 2022 crisis dynamic, leveraged investors forced to dump gilts, has migrated from pension funds to hedge funds, which sit outside the Bank of England's emergency lending facility. No one publishes regular data on their gilt borrowing. Extending the backstop with strings attached, plus minimum haircuts and a public dashboard, would close the gap before it is tested.",
   "rank": 2,
-  "rankNote": "The 2022 forced-seller dynamic has migrated to excluded hedge funds, but the Bank already owns the backstop and is actively consulting, so the marginal external gap is narrower."
+  "rankNote": "The 2022 forced-seller dynamic has migrated to excluded hedge funds, and the Bank already owns the backstop and is actively consulting, which narrows the external gap."
  },
  {
   "number": 66,
@@ -2299,9 +2299,9 @@
   "domain": "debt",
   "type": "funding",
   "horizon": "short",
-  "description": "Fair4All Finance/Ipsos research estimates over 3 million people in Great Britain borrowed from unlicensed lenders in three years, up to 1.9m in the last 12 months. Against this, the England Illegal Money Lending Team (Stop Loan Sharks), hosted by Birmingham City Council and funded by a small Treasury-administered levy on consumer-credit firms, has secured 424 prosecutions and supported ~32,500 victims since 2004. Enforcement capacity, victim identification (much lending now happens via social media and payment apps) and data-sharing with banks have not scaled with the market; there is no national intelligence infrastructure linking transaction data to illegal-lending patterns.",
-  "why": "Illegal lending converts poverty into violence, coercion and untraceable debt spirals. A twenty-year-old regional-team model prosecuting ~20 cases a year against a market of millions is a category error in scale, and the levy mechanism to fix it already exists.",
-  "fill": "A step-change in the IMLT levy (it costs FCA-regulated firms a rounding error), a national data-sharing arrangement with banks and platforms to detect lender-pattern accounts, and a statutory duty to route identified victims to affordable-credit and advice partners.",
+  "description": "Fair4All Finance and Ipsos research estimates over three million people in Great Britain borrowed from unlicensed lenders in three years, up to 1.9 million in the last twelve months. Against this, the England Illegal Money Lending Team, hosted by Birmingham City Council and funded by a small Treasury-administered levy on consumer-credit firms, has secured 424 prosecutions and supported around 32,500 victims since 2004. Enforcement capacity, victim identification and data-sharing with banks have not scaled with a market that now operates through social media and payment apps, and no national intelligence infrastructure links transaction data to illegal-lending patterns.",
+  "why": "Illegal lending converts poverty into violence, coercion and untraceable debt spirals. A twenty-year-old regional-team model prosecuting about twenty cases a year against a market of millions is a category error in scale, and the levy mechanism to fix it already exists.",
+  "fill": "A step change in the levy, which costs FCA-regulated firms a rounding error, a national data-sharing arrangement with banks and platforms to detect lender-pattern accounts, and a statutory duty to route identified victims to affordable-credit and advice partners.",
   "sources": [
    "https://fair4allfinance.org.uk/as-one-door-closes-illegal-money-lending/",
    "https://www.stoploansharks.co.uk/who-we-are/",
@@ -2316,7 +2316,7 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Treasury decision raising IMLT levy plus statutory victim-routing duty; bank data-sharing pilot possible but capacity needs levy.",
-  "tagline": "Three million people used loan sharks. Enforcement prosecutes about 20 cases a year.",
+  "tagline": "Three million loan-shark victims; about twenty prosecutions a year",
   "summary": "One small team hosted by a city council polices illegal lending for all of England, while the trade has moved onto social media and payment apps. The levy that funds it costs regulated firms a rounding error. Scaling it up, with bank data-sharing to spot lender-pattern accounts, would confront a market measured in millions of victims.",
   "rank": 2,
   "rankNote": "One city-council team prosecutes about twenty cases a year against a three-million-victim market, and the levy that would scale it costs regulated firms a rounding error."
@@ -2464,9 +2464,9 @@
   "domain": "surveillance",
   "type": "institutional",
   "horizon": "short",
-  "description": "The only substantive UK accuracy/bias evaluation of police LFR is the 2023 National Physical Laboratory study commissioned by the Met and South Wales Police themselves; subsequent Home Office equitability reports were published buried inside the December 2025 facial recognition plan. There is no UK equivalent of the US NIST's continuous face-recognition vendor testing, no requirement that algorithms pass independent evaluation before operational use, and the ICO's 2025 police FR audit was retrospective and governance-focused. Meanwhile police run 'skyrocketing' volumes of retrospective FR searches against passport and immigration databases (Privacy International, 2025) with no published accuracy figures or audit at all.",
-  "why": "Deployment decisions rest on vendor claims and one police-commissioned study. Without standing independent evaluation, demographic error differentials and mission creep (passport-database searches) go unmeasured, making both public debate and litigation evidence-poor at exactly the moment of national rollout.",
-  "fill": "A statutory pre-deployment testing regime: biometric and algorithmic policing tools must pass independent evaluation at a designated facility (NPL and/or Alan Turing Institute) with published per-deployment performance and demographic-differential statistics, plus a standing audit of FR searches against passport/immigration databases. Fundable now as a pilot facility (~£5-10m) ahead of the expected biometrics bill.",
+  "description": "The only substantive UK accuracy and bias evaluation of police live facial recognition is the 2023 National Physical Laboratory study commissioned by the Met and South Wales Police themselves, and subsequent Home Office equitability reports were published buried inside the December 2025 facial recognition plan. No UK equivalent of the US NIST's continuous face-recognition vendor testing exists, no requirement makes algorithms pass independent evaluation before operational use, and the ICO's 2025 police audit was retrospective and governance-focused. Police meanwhile run rapidly growing volumes of retrospective searches against passport and immigration databases, per Privacy International in 2025, with no published accuracy figures or audit.",
+  "why": "Deployment decisions rest on vendor claims and one police-commissioned study. Without standing independent evaluation, demographic error differentials and the drift into passport-database searches go unmeasured, leaving public debate and litigation evidence-poor at the moment of national rollout.",
+  "fill": "A statutory pre-deployment testing regime: biometric and algorithmic policing tools must pass independent evaluation at a designated facility, the NPL or the Alan Turing Institute, with published per-deployment performance and demographic-differential statistics, plus a standing audit of searches against passport and immigration databases. A pilot facility at £5-10m is fundable ahead of the expected biometrics bill.",
   "sources": [
    "https://www.biometricupdate.com/202512/uk-tucks-biometric-bias-reports-deep-into-police-facial-recognition-plan",
    "https://www.computerweekly.com/news/366630181/ICO-publishes-summary-of-police-facial-recognition-audit",
@@ -2482,7 +2482,7 @@
   "permission": "build-together",
   "dataReady": false,
   "permissionNote": "Counterparty: host lab (NPL/Turing) plus vendors and forces submitting algorithms; pilot facility fundable now, statutory regime is the end-state.",
-  "tagline": "The only real test of police face-scanning accuracy was paid for by the police.",
+  "tagline": "Police algorithm accuracy; tested only by the police's own study",
   "summary": "Britain has no independent lab that checks surveillance algorithms before police deploy them; the main accuracy study was commissioned by the forces using the technology. Retrospective face searches against passport databases run with no published error rates at all. A national testing facility could be piloted for under £10m.",
   "dialogue": {
    "counterparty": "government-bodies",
@@ -2492,7 +2492,7 @@
    "firstStep": "A six-month scoping study: agree a test protocol modelled on the American programme, evaluate one vendor's algorithm on a voluntary basis, and publish the method and results jointly."
   },
   "rank": 2,
-  "rankNote": "Deployment decisions rest on vendor claims and a single police-commissioned study; an independent testing facility is buildable but supporting in nature, with no dated trigger forcing action now."
+  "rankNote": "Deployment decisions rest on vendor claims and a single police-commissioned study, and the independent testing facility is buildable, supporting in nature, and undated."
  },
  {
   "number": 76,
@@ -2501,9 +2501,9 @@
   "domain": "surveillance",
   "type": "funding",
   "horizon": "short",
-  "description": "Every landmark UK surveillance case (Bridges v South Wales, the IPT bulk-powers challenges, the Apple/PI TCN case, the Met LFR judicial review) was brought by a handful of small organisations (Privacy International, Liberty, Big Brother Watch) reliant on crowdfunding and a few foundation grants, carrying adverse-costs risk with no legal aid. The Digital Freedom Fund makes litigation grants Europe-wide but cannot anchor a UK pipeline; the EHRC intervenes occasionally (it joined the Met LFR case in August 2025) but does not originate surveillance cases. Costs-capping protections comparable to Aarhus environmental rules do not exist for public-interest data cases.",
-  "why": "With collective redress closed and regulators passive, litigation is the only mechanism that has ever constrained UK surveillance powers, and it currently depends on organisations whose annual budgets are smaller than one government contract's legal spend.",
-  "fill": "A pooled UK strategic litigation fund for privacy and surveillance cases (£3-5m/year covering counsel fees, expert evidence and adverse-costs insurance), paired with advocacy for extending qualified one-way costs shifting or protective costs orders to public-interest data claims. Directly buildable by a funder consortium; The Legal Education Foundation's justice-funding model is a template.",
+  "description": "Every landmark UK surveillance case, Bridges v South Wales, the tribunal bulk-powers challenges, the Apple and Privacy International case, the Met facial recognition judicial review, was brought by a handful of small organisations reliant on crowdfunding and a few foundation grants, carrying adverse-costs risk with no legal aid. The Digital Freedom Fund makes litigation grants Europe-wide and cannot anchor a UK pipeline. The EHRC intervenes occasionally, joining the Met case in August 2025, and does not originate surveillance cases. Costs-capping protections comparable to the Aarhus environmental rules do not exist for public-interest data cases.",
+  "why": "With collective redress closed and regulators passive, litigation is the only mechanism that has ever constrained UK surveillance powers. It currently depends on organisations whose annual budgets are smaller than one government contract's legal spend.",
+  "fill": "A pooled UK strategic litigation fund for privacy and surveillance cases, £3-5m a year covering counsel fees, expert evidence and adverse-costs insurance, paired with advocacy for extending protective costs orders to public-interest data claims. A funder consortium could build it directly, with The Legal Education Foundation's justice-funding model as the template.",
   "sources": [
    "https://www.libertyhumanrights.org.uk/issue/liberty-and-privacy-international-complaint-against-governments-backdoor-access-to-apple-data-to-be-heard-by-tribunal/",
    "https://libertyinvestigates.org.uk/articles/hundreds-of-thousands-of-innocent-people-on-police-databases-as-forces-expand-use-of-facial-recognition-tech/",
@@ -2518,8 +2518,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: pooled £3-5m/yr litigation fund with adverse-costs insurance, raised by a funder consortium on the TLEF model.",
-  "tagline": "The cases that curb UK surveillance are fought by tiny charities betting their budgets.",
-  "summary": "Litigation is the only force that has ever restrained UK surveillance powers, and it rests on a few small organisations carrying the risk of ruinous costs with no legal aid. A pooled fund of £3-5m a year (counsel, expert evidence, costs insurance) would keep the case pipeline alive.",
+  "tagline": "Surveillance litigation; carried by tiny charities at ruinous risk",
+  "summary": "Litigation is the only force that has ever restrained UK surveillance powers, and it rests on a few small organisations carrying the risk of ruinous costs with no legal aid. A pooled fund of £3-5m a year covering counsel, expert evidence and costs insurance would keep the case pipeline alive.",
   "seeAlso": [
    {
     "number": 77,
@@ -2529,7 +2529,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "Litigation is the only mechanism that has ever constrained UK surveillance, yet it depends on tiny crowdfunded groups carrying adverse-costs risk; a pooled fund is directly buildable but undated."
+  "rankNote": "Litigation is the only mechanism that has ever constrained UK surveillance, and it depends on tiny crowdfunded groups carrying adverse-costs risk; a pooled fund is directly buildable and undated."
  },
  {
   "number": 77,
@@ -2598,9 +2598,9 @@
   "domain": "surveillance",
   "type": "tooling",
   "horizon": "short",
-  "description": "There is no UK equivalent of the EFF's Atlas of Surveillance: knowledge of what surveillance technology police forces, councils and retailers deploy depends on ad hoc FOI journalism (Liberty Investigates, Big Brother Watch reports, Statewatch) that is unsystematic and decays. The government's Algorithmic Transparency Recording Standard is mandatory for central departments but police compliance is patchy and records for high-stakes systems sparse; LFR deployment data is published inconsistently force-by-force; procurement of tools like Facewatch or mobile FR apps surfaces only through investigations. Researchers, journalists and parliamentarians repeatedly rebuild the same picture from scratch.",
-  "why": "You cannot oversee what you cannot see. Every oversight actor (ICO, BSCC, committees, litigators, local press) is working from partial, stale data about what is actually deployed where, which systematically advantages procurement over scrutiny.",
-  "fill": "A maintained, open, machine-readable national database of surveillance technology procurement and deployments, built from FOI pipelines, published contracts (Contracts Finder/Tussell-style methods) and force publications, run by a university-charity consortium, at roughly £300-500k/year. Complemented by extending the ATRS mandate to policing with compliance enforcement.",
+  "description": "No UK equivalent of the EFF's Atlas of Surveillance exists. Knowledge of what surveillance technology police forces, councils and retailers deploy depends on ad hoc FOI journalism from Liberty Investigates, Big Brother Watch and Statewatch, which is unsystematic and decays. The government's Algorithmic Transparency Recording Standard is mandatory for central departments while police compliance stays patchy and records for high-stakes systems sparse. Live facial recognition deployment data is published inconsistently force by force, and procurement of tools like Facewatch or mobile recognition apps surfaces only through investigations. Researchers, journalists and parliamentarians repeatedly rebuild the same picture from scratch.",
+  "why": "Every oversight actor, from the ICO to committees to litigators to local press, works from partial, stale data about what is actually deployed where. The information asymmetry systematically advantages procurement over scrutiny.",
+  "fill": "A maintained, open, machine-readable national database of surveillance technology procurement and deployments, built from FOI pipelines, published contracts and force publications, run by a university and charity consortium at roughly £300-500k a year, complemented by extending the transparency standard's mandate to policing with compliance enforcement.",
   "sources": [
    "https://libertyinvestigates.org.uk/articles/police-expand-use-of-facial-recognition-apps/",
    "https://www.statewatch.org/news/2026/february/submission-to-home-office-consultation-on-a-new-legal-framework-for-law-enforcement-use-of-biometrics-facial-recognition-and-similar-technologies/",
@@ -2615,10 +2615,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: machine-readable deployment database from FOI pipelines and Contracts Finder data; ATRS extension is the policy tail.",
-  "tagline": "Nobody keeps a list of what surveillance kit is watching Britain. Not even the state.",
+  "tagline": "Surveillance deployments; no register anywhere, including in government",
   "summary": "No one tracks which cameras, algorithms and face-scanning tools police forces and councils have bought; the picture exists only in scattered freedom of information requests that quickly go stale. A maintained open database, like the one American civil liberties groups run, would cost a few hundred thousand pounds a year.",
   "rank": 2,
-  "rankNote": "Every oversight actor rebuilds the same picture from decaying FOI journalism; an open machine-readable deployment register is cheaply buildable and wholly unresourced, but faces no time-critical deadline."
+  "rankNote": "Every oversight actor rebuilds the same picture from decaying FOI journalism, and an open deployment register is cheaply buildable, wholly unresourced and undated."
  },
  {
   "number": 79,
@@ -2799,9 +2799,9 @@
   "domain": "corruption-integrity",
   "type": "policy",
   "horizon": "short",
-  "description": "The Lobbying Act 2014 register covers only consultant lobbyists contacting ministers and permanent secretaries; in-house corporate lobbyists (most of the industry) are exempt. PACAC's post-legislative scrutiny and Transparency International UK's November 2025 review documented the regime's weaknesses, yet the December 2025 Anti-Corruption Strategy contained no lobbying commitment at all, a gap the UK Anti-Corruption Coalition called out explicitly. Baroness Hayter's Lobbying Transparency (In-house Lobbyists) Bill, introduced 1 June 2026, is a Lords private member's bill with no government backing. Departmental meeting disclosures remain quarterly, published months late, with one-line purpose descriptions.",
-  "why": "Greensill demonstrated how in-house and informal lobbying escapes the register entirely. Without coverage of in-house lobbyists and timely meeting data, the public record of who influences UK policy is structurally incomplete, and every future scandal is discovered by journalists rather than disclosure.",
-  "fill": "A government-backed amendment extending registration to in-house lobbying (adopting the Hayter Bill), plus a single machine-readable platform publishing ministerial, SpAd and senior-official meetings monthly with meaningful subject descriptions.",
+  "description": "The Lobbying Act 2014 register covers only consultant lobbyists contacting ministers and permanent secretaries, and in-house corporate lobbyists, most of the industry, are exempt. PACAC's post-legislative scrutiny and Transparency International UK's November 2025 review documented the regime's weaknesses, and the December 2025 Anti-Corruption Strategy contained no lobbying commitment at all, a gap the UK Anti-Corruption Coalition called out explicitly. Baroness Hayter's Lobbying Transparency (In-house Lobbyists) Bill, introduced on 1 June 2026, is a Lords private member's bill with no government backing. Departmental meeting disclosures remain quarterly, published months late, with one-line purpose descriptions.",
+  "why": "Greensill demonstrated how in-house and informal lobbying escapes the register entirely. Without coverage of in-house lobbyists and timely meeting data, the public record of who influences UK policy is structurally incomplete, and every future scandal gets discovered by journalists rather than disclosure.",
+  "fill": "A government-backed amendment extending registration to in-house lobbying, adopting the Hayter Bill, plus a single machine-readable platform publishing ministerial, adviser and senior-official meetings monthly with meaningful subject descriptions.",
   "sources": [
    "https://publications.parliament.uk/pa/cm5804/cmselect/cmpubadm/203/report.html",
    "https://www.transparency.org.uk/sites/default/files/2025-11/Post-legislative%20review%20of%20Part%201%20of%20the%20Lobbying%20Act%202014%20%20FINAL.pdf",
@@ -2822,7 +2822,7 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: government-backed amendment adopting the Hayter Bill; in-house lobbying data cannot exist without the statutory duty.",
-  "tagline": "Most lobbyists never appear on the lobbying register. The law only counts consultants.",
+  "tagline": "The lobbying register; consultants only, in-house exempt",
   "summary": "The register covers hired consultant lobbyists only; in-house corporate lobbyists, the bulk of the industry, are exempt, which is exactly how Greensill's influence went unrecorded. A ready-made bill in the Lords would close the loophole. Meeting disclosures could turn monthly and machine-readable too.",
   "alsoDomains": [
    "civic-society"
@@ -2846,7 +2846,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "In-house lobbyists, most of the industry, stay off the register; a ready private-member bill exists but government omitted lobbying entirely from its strategy, so pressure is low."
+  "rankNote": "In-house lobbyists, most of the industry, stay off the register, and a ready private-member bill exists while government omitted lobbying from its strategy entirely."
  },
  {
   "number": 86,
@@ -2885,9 +2885,9 @@
   "domain": "corruption-integrity",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The EIC launched on 13 October 2025, replacing the Committee on Standards in Public Life. It is advisory only: it conducts evidence-based reviews and reports to the Prime Minister, has no remit to investigate individual cases, and its chair and independent members are all appointed by the PM for non-renewable five-year terms. Created by executive action, it can be reshaped or dissolved by any future PM the same way. The Institute for Government welcomed it as a start while noting these limits. The Independent Adviser can initiate investigations but the PM still controls consequences.",
-  "why": "The UK's standards architecture failed visibly during 2020-22 (Partygate, PPE cronyism, advisers resigning unheeded). An ethics body that depends entirely on prime-ministerial goodwill cannot restrain a prime minister: the precise failure mode the last decade demonstrated. Public trust data shows the cost of standards being seen as optional.",
-  "fill": "Primary legislation placing the EIC, the Independent Adviser and the business-appointments regime on a statutory basis with protected budgets, appointment by open competition with parliamentary confirmation, and own-initiative investigation powers, the model CSPL itself recommended in 2021.",
+  "description": "The Ethics and Integrity Commission launched on 13 October 2025, replacing the Committee on Standards in Public Life. It is advisory only. It conducts evidence-based reviews and reports to the Prime Minister, has no remit to investigate individual cases, and its chair and independent members are all appointed by the PM for non-renewable five-year terms. Created by executive action, it can be reshaped or dissolved by any future PM the same way. The Institute for Government welcomed it as a start while noting the limits, and the Independent Adviser can initiate investigations while the PM still controls consequences.",
+  "why": "The UK's standards architecture failed visibly during 2020-22, through Partygate, PPE cronyism and advisers resigning unheeded. An ethics body that depends entirely on prime-ministerial goodwill cannot restrain a prime minister, the failure mode the last decade demonstrated. Public trust data shows the cost of standards being seen as optional.",
+  "fill": "Primary legislation placing the commission, the Independent Adviser and the business-appointments regime on a statutory basis, with protected budgets, appointment by open competition with parliamentary confirmation, and own-initiative investigation powers, the model CSPL itself recommended in 2021.",
   "sources": [
    "https://www.gov.uk/government/news/ethics-and-integrity-commission-to-drive-up-standards-across-the-public-sector",
    "https://www.instituteforgovernment.org.uk/explainer/ethics-integrity-commission",
@@ -2903,10 +2903,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: primary legislation giving the EIC statutory footing, protected budget and own-initiative investigation powers.",
-  "tagline": "The new ethics watchdog answers to the Prime Minister it is meant to watch.",
-  "summary": "The commission created to restore standards after Partygate can only advise, cannot investigate individuals, and could be dissolved by any future Prime Minister at a stroke: it exists by executive decision, not law. Statute could give it a protected budget and the power to open its own investigations.",
+  "tagline": "The ethics watchdog; appointed by the person it watches",
+  "summary": "The commission created to restore standards after Partygate can only advise, cannot investigate individuals, and could be dissolved by any future Prime Minister at a stroke: it exists by executive decision rather than law. Statute could give it a protected budget and the power to open its own investigations.",
   "rank": 2,
-  "rankNote": "Standards architecture that failed during Partygate now rests on a PM-appointed advisory body a future PM can dissolve; the statutory fix is known but needs legislation and political will."
+  "rankNote": "Standards architecture that failed during Partygate now rests on a PM-appointed advisory body a future PM can dissolve, and the statutory fix needs legislation and political will."
  },
  {
   "number": 88,
@@ -2945,9 +2945,9 @@
   "domain": "corruption-integrity",
   "type": "funding",
   "horizon": "short",
-  "description": "The SFO returned £3 for every £1 invested in 2019-24 yet its salaries fall further behind the private-sector firms it faces; the government granted NCA officers a pay rise without new funding, slowing recruitment; and the UK Financial Intelligence Unit remains below the 200 staff FATF recommended in 2018. The December 2025 strategy expanded the City of London Police Domestic Corruption Unit and added some NCA funding, but Spotlight on Corruption warns the planned National Police Service reorganisation risks repeating the NCA's founding mistake of structural underfunding. The Economic Crime Levy and the Asset Recovery Incentivisation Scheme exist but give agencies no multi-year certainty.",
-  "why": "Enforcement is the credibility test of every other reform: registers, debarment lists and donation rules deter nothing if the agencies policing them cannot retain investigators. Underfunded enforcement is also fiscally irrational given documented positive returns on investment in the SFO.",
-  "fill": "A statutory, ringfenced Economic Crime Fighting Fund recycling recovered assets, fines and levy proceeds into the SFO, NCA, FIU and CPS proceeds-of-crime work on multi-year settlements, with pay flexibility to retain specialist investigators, a proposal long advanced by Spotlight on Corruption.",
+  "description": "The SFO returned £3 for every £1 invested in 2019-24 while its salaries fall further behind the private-sector firms it faces. The government granted NCA officers a pay rise without new funding, slowing recruitment, and the UK Financial Intelligence Unit remains below the 200 staff FATF recommended in 2018. The December 2025 strategy expanded the City of London Police Domestic Corruption Unit and added some NCA funding, and Spotlight on Corruption warns the planned National Police Service reorganisation risks repeating the NCA's founding mistake of structural underfunding. The Economic Crime Levy and the Asset Recovery Incentivisation Scheme exist and give agencies no multi-year certainty.",
+  "why": "Enforcement is the credibility test of every other reform. Registers, debarment lists and donation rules deter nothing if the agencies policing them cannot retain investigators. Underfunding is also fiscally irrational, given the SFO's documented positive returns.",
+  "fill": "A statutory, ringfenced economic crime fighting fund recycling recovered assets, fines and levy proceeds into the SFO, NCA, FIU and CPS proceeds-of-crime work on multi-year settlements, with pay flexibility to retain specialist investigators, as Spotlight on Corruption has long proposed.",
   "sources": [
    "https://www.spotlightcorruption.org/report/briefing-on-the-serious-fraud-office/",
    "https://www.spotlightcorruption.org/what-will-police-reform-mean-for-the-fight-against-dirty-money-and-economic-crime/",
@@ -2962,10 +2962,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory ringfenced Economic Crime Fighting Fund recycling recovered assets on multi-year settlements.",
-  "tagline": "Fraud enforcement pays for itself three times over. Britain still starves it.",
-  "summary": "The Serious Fraud Office more than pays for itself, yet its salaries fall ever further behind the private firms it faces in court. The national financial intelligence unit still has fewer staff than international assessors recommended in 2018. A ringfenced fund recycling recovered criminal assets into enforcement would end the false economy.",
+  "tagline": "Fraud enforcement returns £3 per £1; funding still year to year",
+  "summary": "The Serious Fraud Office more than pays for itself, and its salaries fall ever further behind the private firms it faces in court. The national financial intelligence unit still has fewer staff than international assessors recommended in 2018. A ringfenced fund recycling recovered criminal assets into enforcement would end the false economy.",
   "rank": 2,
-  "rankNote": "Enforcement is the credibility test of every other reform, yet the SFO and FIU lack multi-year funding certainty; a ringfenced recycling fund needs a hard Treasury settlement."
+  "rankNote": "Enforcement is the credibility test of every other reform, and the SFO and FIU lack multi-year certainty; a ringfenced recycling fund needs a hard Treasury settlement."
  },
  {
   "number": 90,
@@ -3422,9 +3422,9 @@
   "domain": "parallel-institutions",
   "type": "tooling",
   "horizon": "short",
-  "description": "The working knowledge for founding UK parallel institutions (society model rules, CIO/CIC constitutions, community share offer documents, friendly society rulebooks, DAO wrapper precedents) is scattered across sponsoring bodies that charge for model rules, law-firm briefings, and volunteer wikis. The cheapest FCA society registration (£40) is conditional on buying a sponsoring body's model rules, a de facto toll on formation. Nothing equivalent to an openly licensed, maintained, versioned corpus exists.",
-  "why": "Every new community pub, energy society, housing co-op or wrapped DAO re-pays for the same legal engineering. Open templates are the cheapest possible intervention with the widest reach, the legal equivalent of open-source infrastructure, and would let the coming digital registries accept machine-readable constitutions.",
-  "fill": "A funded consortium (Co-operatives UK, Cwmpas, university law clinics) publishing an openly licensed, versioned library of governing documents, playbooks and machine-readable templates for every UK formation route, integrated with digital filing. Fundable philanthropically at low seven figures.",
+  "description": "The working knowledge for founding UK parallel institutions, society model rules, CIO and CIC constitutions, community share offer documents, friendly society rulebooks and DAO wrapper precedents, is scattered across sponsoring bodies that charge for model rules, law-firm briefings and volunteer wikis. The cheapest FCA society registration at £40 is conditional on buying a sponsoring body's model rules, a de facto toll on formation. Nothing like an openly licensed, maintained, versioned corpus exists.",
+  "why": "Every new community pub, energy society, housing co-op or wrapped DAO re-pays for the same legal engineering. Open templates are the cheapest possible intervention with the widest reach, the legal equivalent of open-source infrastructure, and they would let the coming digital registries accept machine-readable constitutions.",
+  "fill": "A funded consortium of Co-operatives UK, Cwmpas and university law clinics publishing an openly licensed, versioned library of governing documents, playbooks and machine-readable templates for every UK formation route, integrated with digital filing. Philanthropically fundable at low seven figures.",
   "sources": [
    "https://www.fca.org.uk/firms/register-mutual-society",
    "https://www.uk.coop/start-new-co-op/find-adviser/cwmpas"
@@ -3438,10 +3438,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: openly licensed, versioned template library covering every UK formation route; named consortium partners are helpful, not gatekeepers.",
-  "tagline": "Every new community pub pays lawyers for documents the last one already paid for.",
+  "tagline": "Formation templates; paywalled, scattered, re-bought every time",
   "summary": "The templates for founding a co-op, community share offer or wrapped digital collective are scattered, paywalled or locked inside model rules you must buy. An openly licensed library of governing documents, maintained like open-source software, may be the cheapest intervention on this map: low seven figures to build.",
   "rank": 2,
-  "rankNote": "An openly licensed template library is the cheapest, widest-reach fix, buildable now and entirely unresourced, but modest per-case value and no deadline keep it opportunistic rather than acute."
+  "rankNote": "An openly licensed template library is the cheapest, widest-reach fix, buildable now and entirely unresourced, and modest per-case value with no deadline keeps it opportunistic."
  },
  {
   "number": 104,
@@ -3621,9 +3621,9 @@
   "domain": "portable-sovereignty",
   "type": "coordination",
   "horizon": "mid",
-  "description": "France (Tchap/DINUM, now a Matrix.org Foundation member), Germany (BwMessenger), Belgium and Sweden run Matrix-based sovereign messengers; over 25 countries deploy Matrix. UK representatives attended the 2025 Matrix Conference, but there is no UK procurement, no Crown Commercial Service framework, and government business still runs over WhatsApp, criticised by the Covid-19 Inquiry. Element, the leading vendor, is a UK company earning almost entirely abroad. Nothing offers councils, unions, co-ops or mutual-aid networks affordable managed homeservers.",
-  "why": "The UK invented the protocol its allies use for sovereign communications yet buys none of it, exporting the industrial benefit and leaving its own public and civic sectors dependent on US platforms subject to foreign legal process.",
-  "fill": "A GDS/CCS pilot of a Matrix-based government messenger; UK government membership of the Matrix.org Foundation; and a subsidised managed-homeserver service for civil-society organisations.",
+  "description": "France runs Tchap through DINUM, now a Matrix.org Foundation member, Germany runs BwMessenger, and Belgium and Sweden run their own; over 25 countries deploy Matrix-based sovereign messengers. UK representatives attended the 2025 Matrix Conference, and there is no UK procurement, no Crown Commercial Service framework, and government business still runs over WhatsApp, criticised by the Covid-19 Inquiry. Element, the leading vendor, is a UK company earning almost entirely abroad. Nothing offers councils, unions, co-ops or mutual-aid networks affordable managed homeservers.",
+  "why": "The UK invented the protocol its allies use for sovereign communications and buys none of it, exporting the industrial benefit and leaving its own public and civic sectors dependent on US platforms subject to foreign legal process.",
+  "fill": "A GDS and CCS pilot of a Matrix-based government messenger, UK government membership of the Matrix.org Foundation, and a subsidised managed-homeserver service for civil-society organisations.",
   "sources": [
    "https://www.theregister.com/2026/02/09/matrix_element_secure_chat/",
    "https://matrix.org/blog/2025/10/dinum/",
@@ -3638,7 +3638,7 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: GDS/CCS for the messenger pilot; Matrix software exists and no new law is required.",
-  "tagline": "France runs its government on a British protocol. Whitehall runs on WhatsApp.",
+  "tagline": "Matrix invented in Britain; Whitehall still on WhatsApp",
   "summary": "More than 25 countries run secure state messaging on Matrix, a protocol invented in Britain, while British government business still travels over WhatsApp, criticised by the Covid inquiry. A pilot government messenger and cheap managed servers for councils and charities would bring the technology home.",
   "dialogue": {
    "counterparty": "government-bodies",
@@ -3648,7 +3648,7 @@
    "firstStep": "A 90-day trial server for one non-sensitive team of fifty, run alongside existing tools, evaluated against cost, usability and records compliance, and switched off without ceremony if it fails."
   },
   "rank": 2,
-  "rankNote": "The instrument is off-the-shelf and allies already deploy it, but no UK procurement route or civil-society offer exists and no dated trigger makes it acute."
+  "rankNote": "The instrument is off the shelf and allies already deploy it, and no UK procurement route or civil-society offer exists, with no dated trigger making it acute."
  },
  {
   "number": 111,
@@ -3737,9 +3737,9 @@
   "domain": "portable-sovereignty",
   "type": "institutional",
   "horizon": "short",
-  "description": "France has Framasoft and the CHATONS hosting collective; Germany procures openDesk/Nextcloud for its public sector. The UK equivalents are micro-scale: Webarchitects Co-operative (Sheffield) and Autonomic (whose Co-op Cloud platform was built precisely to let small hosts offer federated services), loosely networked through CoTech. No funder backs a UK alliance offering CryptPad, Nextcloud, Matrix and mailing lists at charity-affordable prices with credible SLAs, so UK charities default to discounted Google/Microsoft nonprofit licences, deepening the dependence the sovereignty stack is meant to reduce.",
-  "why": "The coordination layer is the easiest to fix: the software exists, UK operators exist, demand exists. What is missing is modest institutional capital and aggregation. Every charity moved off Big Tech suites is an immediate, measurable sovereignty gain.",
-  "fill": "A philanthropically seeded UK community-hosting alliance built on Co-op Cloud/Webarchitects-type members, with a shared security baseline, SLA and nonprofit pricing, plus eligibility for it in charity digital-funding schemes.",
+  "description": "France has Framasoft and the CHATONS hosting collective, and Germany procures openDesk and Nextcloud for its public sector. The UK equivalents are micro-scale: Webarchitects Co-operative in Sheffield and Autonomic, whose Co-op Cloud platform was built precisely to let small hosts offer federated services, loosely networked through CoTech. No funder backs a UK alliance offering CryptPad, Nextcloud, Matrix and mailing lists at charity-affordable prices with credible service levels, so UK charities default to discounted Google and Microsoft nonprofit licences, deepening the dependence the sovereignty stack is meant to reduce.",
+  "why": "The coordination layer is the easiest to fix: the software exists, UK operators exist, and demand exists. What is missing is modest institutional capital and aggregation. Every charity moved off Big Tech suites is an immediate, measurable sovereignty gain.",
+  "fill": "A philanthropically seeded UK community-hosting alliance built on Co-op Cloud and Webarchitects-type members, with a shared security baseline, service levels and nonprofit pricing, plus eligibility for it in charity digital-funding schemes.",
   "sources": [
    "https://coopcloud.tech/",
    "https://www.webarchitects.coop/",
@@ -3755,10 +3755,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: alliance charter with shared security baseline, SLA and member directory across existing co-op hosts; philanthropically seeded.",
-  "tagline": "British charities run on discounted Google. The co-ops that could host them stay tiny.",
-  "summary": "France built Framasoft, a public-interest host offering the everyday tools charities need. Britain has the same software and willing co-op operators, but no funder has aggregated them into a service with real support and charity pricing. It may be the easiest gap on this map to close: every piece already runs somewhere.",
+  "tagline": "Public-interest hosting; France built it, Britain's co-ops stay tiny",
+  "summary": "France built Framasoft, a public-interest host offering the everyday tools charities need. Britain has the same software and willing co-op operators, and no funder has aggregated them into a service with real support and charity pricing. It may be the easiest gap on this map to close: every piece already runs somewhere.",
   "rank": 2,
-  "rankNote": "Software, UK operators and charity demand all exist and the fix is cheap aggregation nobody funds, yet no dated trigger makes acting this year decisive over next."
+  "rankNote": "Software, UK operators and charity demand all exist and the fix is cheap aggregation nobody funds, and no dated trigger makes this year decisive."
  },
  {
   "number": 116,
