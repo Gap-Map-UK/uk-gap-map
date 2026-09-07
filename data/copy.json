@@ -7,8 +7,8 @@
   },
   {
    "number": 2,
-   "tagline": "Residents can buy the pub. They still can't touch the services or the spending.",
-   "summary": "Campaigners wanted community rights over assets, services and investment; the new devolution law delivered only the first. Neighbourhood boards will soon control up to £20m each while residents hold no enforceable say over the services and spending that shape their lives. Regulations with real teeth could finish the job."
+   "tagline": "Community rights won for assets; services and spending left out",
+   "summary": "Campaigners wanted community rights over assets, services and investment, and the new devolution law delivered the first alone. Neighbourhood boards will soon control up to £20m each while residents hold no enforceable say over the services and spending that shape their lives. Regulations with real force could finish the job."
   },
   {
    "number": 3,
@@ -17,7 +17,7 @@
   },
   {
    "number": 4,
-   "tagline": "Billions for lonely neighbourhoods, and no one left to say what actually works.",
+   "tagline": "Billions for social connection; the evidence centre closed in 2024",
    "summary": "The centre that told Britain what works against loneliness closed in 2024, taking its evidence base offline. Government is now spending billions on neighbourhood renewal aimed at social connection, with no institution able to say which interventions succeed. A new What Works centre with ten-year funding could carry the findings forward."
   },
   {
@@ -47,8 +47,8 @@
   },
   {
    "number": 10,
-   "tagline": "Churches are closing faster than communities can catch them.",
-   "summary": "Faith buildings are the densest civic spaces in many neighbourhoods, and nearly a thousand are officially at risk just as repair costs got a VAT hike. When congregations fold, there is no standard route into community hands: every rescue is a bespoke legal slog. A transition agency with templates and funding could change that."
+   "tagline": "969 faith buildings at risk; no standard route to community hands",
+   "summary": "Faith buildings are the densest civic spaces in many neighbourhoods, and nearly a thousand are officially at risk just as repair costs took a VAT rise. When congregations fold, no standard route into community hands exists, and every rescue is a bespoke legal slog. A transition agency with templates and funding could change that."
   },
   {
    "number": 11,
@@ -82,8 +82,8 @@
   },
   {
    "number": 15,
-   "tagline": "Every council vets the same software alone. Most give up and buy proprietary.",
-   "summary": "No standard process tells a council or hospital that an open source product is safe to buy, so each repeats its own due diligence or defaults to proprietary suppliers who arrive pre-assured. The single product that crossed the barrier saved councils up to £90,000 per website. A national kite-mark service could unlock those savings everywhere."
+   "tagline": "Open source vetting; every public buyer repeats it alone",
+   "summary": "No standard process tells a council or hospital that an open source product is safe to buy, so each repeats its own due diligence or defaults to proprietary suppliers who arrive pre-assured. The one product that crossed the barrier saved councils up to £90,000 per website. A national kite-mark service could unlock those savings everywhere."
   },
   {
    "number": 16,
@@ -92,23 +92,23 @@
   },
   {
    "number": 17,
-   "tagline": "A quarter of links on the government's own data site lead nowhere.",
-   "summary": "Nobody in government is required to keep the country's reference data (lists of schools, councils, countries) up to date, and the official data portal admits over a quarter of its links are broken. Every service built on rotting data inherits its errors. Named owners, update deadlines and public quality dashboards would fix the incentive."
+   "tagline": "Canonical government data; maintenance is nobody's job",
+   "summary": "Nobody in government is required to keep the country's reference data, the lists of schools, councils and countries, up to date, and the official data portal admits over a quarter of its links are broken. Every service built on rotting data inherits its errors. Named owners, update deadlines and public quality dashboards would fix the incentive."
   },
   {
    "number": 18,
-   "tagline": "Europe's small-grant tap for public-interest tech has closed. Britain never had one.",
+   "tagline": "Small grants for public-interest tech; the EU tap closed, the UK never had one",
    "summary": "Small, fast grants produced much of Europe's privacy technology and open protocols. The EU scheme that funded them has closed, and no UK funder, public or philanthropic, makes grants at the size where independent maintainers actually live. A lightweight pooled fund with paperwork to match could fill the tier entirely."
   },
   {
    "number": 19,
-   "tagline": "British science runs on software funded to be born, never to be kept alive.",
-   "summary": "The UK's first fund for maintaining research software proved the demand, then hit its expiry date: it is a pilot, not a budget line. Thousands of scientific packages decay on volunteer time while grants reward only novelty. A permanent maintenance stream costing about one per cent of production spend would protect the rest."
+   "tagline": "Research software maintenance; a pilot, and no budget line",
+   "summary": "The UK's first fund for maintaining research software proved the demand and then hit its expiry date: it is a pilot rather than a budget line. Thousands of scientific packages decay on volunteer time while grants reward novelty alone. A permanent maintenance stream costing about one per cent of production spend would protect the rest."
   },
   {
    "number": 20,
-   "tagline": "Government built the tools, published the code, then locked charities out anyway.",
-   "summary": "GOV.UK Notify sends messages for over 1,500 public services, but charities, hospices and housing associations are barred from it, so they re-buy the same infrastructure at retail prices with donated money. The code is open and already running. Extending access, or chartering a nonprofit to run it for civil society, is among the cheapest transfers available."
+   "tagline": "GOV.UK Notify serves 1,500 public services; charities excluded",
+   "summary": "GOV.UK Notify sends messages for over 1,500 public services, and charities, hospices and housing associations are barred from it, so they re-buy the same infrastructure at retail prices with donated money. The code is open and already running. Extending access, or chartering a nonprofit to run it for civil society, is among the cheapest transfers available."
   },
   {
    "number": 21,
@@ -117,8 +117,8 @@
   },
   {
    "number": 22,
-   "tagline": "No one has ever listed the open source code the British state actually runs on.",
-   "summary": "Government tells businesses to inventory their software dependencies but has never done it for itself: there is no map of which open source components underpin public services and critical infrastructure, or who maintains them. You cannot defend what you have not mapped. A recurring census could be delivered within a year using existing tools."
+   "tagline": "State-critical open source; never inventoried",
+   "summary": "Government tells businesses to inventory their software dependencies and has never done it for itself: no map exists of which open source components underpin public services and critical infrastructure, or of who maintains them. A recurring census, deliverable within a year on existing tools, would turn the risk into a ranked list."
   },
   {
    "number": 23,
@@ -132,7 +132,7 @@
   },
   {
    "number": 25,
-   "tagline": "A 76-year-old institution died in a week when its corporate backer went under.",
+   "tagline": "National youth council; none since the 2024 collapse",
    "summary": "The British Youth Council collapsed overnight in 2024 when its single funder went into administration, and no independent, youth-governed national voice has replaced it. Sixteen-year-olds are about to get the vote in a country with no such body, a rarity in Europe. A refounded council with diversified long-term funding would close the gap."
   },
   {
@@ -157,7 +157,7 @@
   },
   {
    "number": 30,
-   "tagline": "The one programme that mixed teenagers across class lines closed with nothing behind it.",
+   "tagline": "Universal civic service ended 2025; no successor designed",
    "summary": "The National Citizen Service was the UK's only shared civic experience for teenagers, and it closed in 2025 without replacement. France and the United States run national civic service pathways; Britain now has none, just as polarisation among the young widens. A voluntary, paid civic year built on existing youth organisations is ready to be designed."
   },
   {
@@ -182,8 +182,8 @@
   },
   {
    "number": 35,
-   "tagline": "The Youth Guarantee guarantees nothing outside eight city-regions.",
-   "summary": "Nearly a million young people are neither earning nor learning, yet the government's answer is a handful of pilot schemes with no enforceable entitlement and no coverage across most of the country. Disconnection from work feeds disconnection from democracy. A statutory offer of training, apprenticeship or paid placement for every young adult would make the name honest."
+   "tagline": "The Youth Guarantee; eight pilots, no entitlement",
+   "summary": "Nearly a million young people are neither earning nor learning, and the government's answer is a handful of pilot schemes with no enforceable entitlement and no coverage across most of the country. Disconnection from work feeds disconnection from democracy. A statutory offer of training, apprenticeship or paid placement for every young adult would make the name honest."
   },
   {
    "number": 36,
@@ -212,8 +212,8 @@
   },
   {
    "number": 41,
-   "tagline": "Wales hands every school vetted digital tools. England leaves 22,000 to shop alone.",
-   "summary": "Every Welsh school gets centrally licensed tools, identity and filtering through one national platform. English schools buy alone, so safe AI access tracks a trust's budget rather than pupils' need. A national platform for England (single sign-on, negotiated licences, certified tools only) is proven practice from just across the border."
+   "tagline": "Wales runs a national school platform; England's 22,000 schools buy alone",
+   "summary": "Every Welsh school gets centrally licensed tools, identity and filtering through one national platform. English schools buy alone, so safe AI access tracks a trust's budget rather than pupils' need. A national platform for England, with single sign-on, negotiated licences and certified tools only, is proven practice from across the border."
   },
   {
    "number": 42,
@@ -237,8 +237,8 @@
   },
   {
    "number": 46,
-   "tagline": "No one studies what daily AI use does to a child's mind. Vendors mark their own homework.",
-   "summary": "The government admits evidence for AI tutoring is limited, yet it is rolling tools out to hundreds of thousands of disadvantaged pupils. The best classroom trials come from American labs testing their own products. A dedicated UK research programme (long-run cohort studies plus rapid trials in volunteer schools) would build independent knowledge before rollout, not after."
+   "tagline": "Child-AI interaction; no UK research programme",
+   "summary": "The government admits evidence for AI tutoring is limited, and it is rolling tools out to hundreds of thousands of disadvantaged pupils anyway. The best classroom trials come from American labs testing their own products. A dedicated UK research programme, long-run cohort studies plus rapid trials in volunteer schools, would build independent knowledge before rollout rather than after."
   },
   {
    "number": 47,
@@ -247,13 +247,13 @@
   },
   {
    "number": 48,
-   "tagline": "High-speed rail costs Britain eight times what France pays. The state keeps no score.",
-   "summary": "The best data on Britain's infrastructure cost disease is one-off campaign research, not an official series. Standardised, public unit costs would expose overruns to comparison on a pipeline worth £718bn. A campaign group proved the idea works once; making it permanent inside government is cheap."
+   "tagline": "UK infrastructure unit costs; unpublished, unbenchmarked",
+   "summary": "The best data on Britain's infrastructure cost disease is one-off campaign research rather than an official series. Standardised, public unit costs would expose overruns to comparison on a pipeline worth £718bn. A campaign group proved the idea works once, and making it permanent inside government is cheap."
   },
   {
    "number": 49,
-   "tagline": "The planning revolution has arrived. The planners have not.",
-   "summary": "England and Wales are short more than 2,200 planners. The government's response trains 300, an order of magnitude too few for the reforms now landing on their desks. Without bursaries, ringfenced fees and shared specialist pools, the new planning laws stay on paper."
+   "tagline": "Planning reform landing; 2,200 planners short",
+   "summary": "England and Wales are short more than 2,200 planners, and the government's response trains 300, an order of magnitude too few for the reforms now landing on their desks. Without bursaries, ringfenced fees and shared specialist pools, the new planning laws stay on paper."
   },
   {
    "number": 50,

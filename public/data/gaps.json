@@ -58,9 +58,9 @@
   "domain": "civic-society",
   "type": "policy",
   "horizon": "mid",
-  "description": "The We're Right Here campaign (Young Foundation, Power to Change, People's Health Trust and community leaders) sought three rights; the 2026 Act delivered only the Community Right to Buy. There is no Community Right to Shape Public Services (co-design/challenge of local services) and no Right to Control Investment (community sign-off on neighbourhood regeneration spend). The Act's neighbourhood governance duty on councils exists but its parameters are left entirely to future regulations, and the Localism Act 2011's community right to challenge was little-used and remains unreformed.",
-  "why": "Pride in Place hands 379 neighbourhood boards up to £20m each, but residents still have no enforceable standing over the services and investment decisions that dominate local outcomes. Without completing the rights framework, neighbourhood governance risks repeating the consultative, easily-ignored structures that discredited earlier regeneration programmes.",
-  "fill": "Regulations under the 2026 Act (or a successor Community Power Act) specifying neighbourhood governance with teeth: a community right to co-design/trigger review of local public services, a participatory budgeting duty for defined local investment streams, and statutory standing for recognised neighbourhood bodies, as blueprinted in We're Right Here's January 2026 neighbourhood governance proposal.",
+  "description": "The We're Right Here campaign, backed by the Young Foundation, Power to Change, People's Health Trust and community leaders, sought three rights, and the 2026 Act delivered only the Community Right to Buy. No community right exists to shape public services through co-design or challenge, and none to control investment through community sign-off on neighbourhood regeneration spend. The Act's neighbourhood governance duty on councils leaves its parameters entirely to future regulations, and the Localism Act 2011's community right to challenge was little used and remains unreformed.",
+  "why": "Pride in Place hands 379 neighbourhood boards up to £20m each while residents still have no enforceable standing over the services and investment decisions that dominate local outcomes. An incomplete rights framework points neighbourhood governance back towards the consultative, easily ignored structures that discredited earlier regeneration programmes.",
+  "fill": "Regulations under the 2026 Act, or a successor Community Power Act, specifying neighbourhood governance with force: a community right to co-design and trigger review of local public services, a participatory budgeting duty for defined local investment streams, and statutory standing for recognised neighbourhood bodies, as blueprinted in We're Right Here's January 2026 proposal.",
   "sources": [
    "https://www.right-here.org/a-pivotal-moment-for-community-power-the-english-devolution-and-community-empowerment-act/",
    "https://www.right-here.org/wp-content/uploads/2026/01/Were-Right-Here-A-Blueprint-for-Community-Powered-Neighbourhood-Governance.pdf",
@@ -75,10 +75,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: regulations under the 2026 Devolution and Community Empowerment Act or a successor Community Power Act.",
-  "tagline": "Residents can buy the pub. They still can't touch the services or the spending.",
-  "summary": "Campaigners wanted community rights over assets, services and investment; the new devolution law delivered only the first. Neighbourhood boards will soon control up to £20m each while residents hold no enforceable say over the services and spending that shape their lives. Regulations with real teeth could finish the job.",
+  "tagline": "Community rights won for assets; services and spending left out",
+  "summary": "Campaigners wanted community rights over assets, services and investment, and the new devolution law delivered the first alone. Neighbourhood boards will soon control up to £20m each while residents hold no enforceable say over the services and spending that shape their lives. Regulations with real force could finish the job.",
   "rank": 2,
-  "rankNote": "Completing the rights framework needs only regulations under the live 2026 Act, but advocacy is under-resourced and the neighbourhood governance duty's parameters remain undefined, with no acute deadline."
+  "rankNote": "Completing the rights framework needs only regulations under the live 2026 Act, and advocacy is under-resourced with the governance duty's parameters still undefined."
  },
  {
   "number": 3,
@@ -141,9 +141,9 @@
   "domain": "civic-society",
   "type": "knowledge",
   "horizon": "short",
-  "description": "The What Works Centre for Wellbeing closed on 30 April 2024, taking the Campaign to End Loneliness (hosted since 2021) with it; both websites are now static archives. DCMS's loneliness team was repurposed in 2020 and ministerial focus has faded. The £34.5m Know Your Neighbourhood Fund, the largest recent experiment in volunteering/loneliness interventions in 27 deprived areas, ended in March 2026 with its evaluation published but no institutional owner to carry findings forward. The Jo Cox Foundation's policy group and academic centres partially cover, but nothing synthesises evidence, sets standards or advises funders at national scale.",
-  "why": "Government and funders are about to spend billions on neighbourhood renewal (Pride in Place, Community Wealth Fund) whose stated aims include social connection, with no institution able to say what works. Evidence from a decade of loneliness programmes is fragmenting exactly as demand for it peaks.",
-  "fill": "A What Works Centre for Social Connection and Civic Life with 10-year endowed funding (ESRC + DCMS + foundations, mirroring other What Works Centres), formally owning the KYN evidence base, Community Life Survey analysis, and evaluation duties written into Pride in Place and Community Wealth Fund delivery.",
+  "description": "The What Works Centre for Wellbeing closed on 30 April 2024, taking with it the Campaign to End Loneliness it had hosted since 2021; both websites are now static archives. DCMS's loneliness team was repurposed in 2020 and ministerial focus has faded. The £34.5m Know Your Neighbourhood Fund, the largest recent experiment in volunteering and loneliness interventions across 27 deprived areas, ended in March 2026 with its evaluation published and no institutional owner to carry the findings forward. The Jo Cox Foundation's policy group and academic centres cover parts, and nothing synthesises evidence, sets standards or advises funders at national scale.",
+  "why": "Government and funders are about to spend billions on neighbourhood renewal whose stated aims include social connection, and no institution can say what works. Evidence from a decade of loneliness programmes is fragmenting exactly as demand for it peaks.",
+  "fill": "A What Works Centre for Social Connection and Civic Life with ten-year endowed funding from ESRC, DCMS and foundations, formally owning the Know Your Neighbourhood evidence base and Community Life Survey analysis, with evaluation duties written into Pride in Place and Community Wealth Fund delivery.",
   "sources": [
    "https://whatworkswellbeing.org/blog/statement-of-closure/",
    "https://www.campaigntoendloneliness.org/closure-statement-from-the-campaign-to-end-loneliness/",
@@ -159,7 +159,7 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: ESRC/DCMS as endowment co-funders; evaluation duties inside government programmes require them at the table.",
-  "tagline": "Billions for lonely neighbourhoods, and no one left to say what actually works.",
+  "tagline": "Billions for social connection; the evidence centre closed in 2024",
   "summary": "The centre that told Britain what works against loneliness closed in 2024, taking its evidence base offline. Government is now spending billions on neighbourhood renewal aimed at social connection, with no institution able to say which interventions succeed. A new What Works centre with ten-year funding could carry the findings forward.",
   "dialogue": {
    "counterparty": "government-bodies",
@@ -177,7 +177,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "Government is spending billions on neighbourhood renewal with no institution to say what works, while a decade of loneliness evidence orphaned by recent closures fragments and needs a home now."
+  "rankNote": "Billions are flowing into neighbourhood renewal with no institution to say what works, and a decade of loneliness evidence orphaned by the closures needs a home now."
  },
  {
   "number": 5,
@@ -352,9 +352,9 @@
   "domain": "civic-society",
   "type": "institutional",
   "horizon": "mid",
-  "description": "Faith buildings are the densest network of civic space in many neighbourhoods, and they are failing: 969 places of worship sit on Historic England's Heritage at Risk Register; the Listed Places of Worship VAT scheme closed on 31 March 2026 (repairs now attract 20% VAT), replaced by a smaller £92m/4-year, England-only Places of Worship Renewal Fund. As congregations shrink and buildings close, there is no standard route into community ownership: the Churches Conservation Trust and Friends of Friendless Churches preserve rather than repurpose; the Community Right to Buy applies only to listed assets actually offered for sale; National Churches Trust campaigns but cannot broker transfers. Each conversion is a bespoke, multi-year legal struggle with denominational property rules.",
-  "why": "Thousands of centrally-located, often heritage-grade civic buildings will change hands over the next two decades. Without a transfer mechanism, they will be lost to housing conversion or dereliction precisely as neighbourhood programmes search for venues: a one-time, irreversible loss of social infrastructure in low-income and rural areas.",
-  "fill": "A Faith Buildings Transition Agency and endowed fund (heritage bodies + denominations + dormant assets): standardised legal templates for transfer from denominational trusts to community ownership, feasibility grants, and blended capital for conversion to mixed worship/community use, analogous to how the Plunkett model professionalised community pub and shop rescues.",
+  "description": "Faith buildings are the densest network of civic space in many neighbourhoods, and they are failing. Historic England's Heritage at Risk Register lists 969 places of worship, and the Listed Places of Worship VAT scheme closed on 31 March 2026, so repairs now attract 20 per cent VAT, with a smaller £92m four-year England-only Places of Worship Renewal Fund in its place. As congregations shrink and buildings close, no standard route into community ownership exists. The Churches Conservation Trust and Friends of Friendless Churches preserve rather than repurpose, the Community Right to Buy applies only to listed assets actually offered for sale, and the National Churches Trust campaigns without brokering transfers. Each conversion is a bespoke, multi-year legal struggle with denominational property rules.",
+  "why": "Thousands of centrally located, often heritage-grade civic buildings will change hands over the next two decades. Without a transfer mechanism they are lost to housing conversion or dereliction just as neighbourhood programmes search for venues, a one-time, irreversible loss of social infrastructure in low-income and rural areas.",
+  "fill": "A faith buildings transition agency and endowed fund, drawing on heritage bodies, denominations and dormant assets: standardised legal templates for transfer from denominational trusts to community ownership, feasibility grants, and blended capital for conversion to mixed worship and community use, the way the Plunkett model professionalised community pub and shop rescues.",
   "sources": [
    "https://lordslibrary.parliament.uk/funding-for-listed-places-of-worship-recent-changes/",
    "https://www.nationalchurchestrust.org/news/listed-places-worship-grants-scheme-only-renewed-one-year-reduced-budget",
@@ -369,8 +369,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: denominations (Church Commissioners-class trusts) must consent to transfers; heritage bodies co-fund.",
-  "tagline": "Churches are closing faster than communities can catch them.",
-  "summary": "Faith buildings are the densest civic spaces in many neighbourhoods, and nearly a thousand are officially at risk just as repair costs got a VAT hike. When congregations fold, there is no standard route into community hands: every rescue is a bespoke legal slog. A transition agency with templates and funding could change that.",
+  "tagline": "969 faith buildings at risk; no standard route to community hands",
+  "summary": "Faith buildings are the densest civic spaces in many neighbourhoods, and nearly a thousand are officially at risk just as repair costs took a VAT rise. When congregations fold, no standard route into community hands exists, and every rescue is a bespoke legal slog. A transition agency with templates and funding could change that.",
   "dialogue": {
    "counterparty": "funders-and-foundations",
    "ask": "Agree standard legal templates and a shared feasibility fund so closing places of worship can pass into community hands instead of dereliction or conversion to flats.",
@@ -379,7 +379,7 @@
    "firstStep": "A twelve-month pilot in one diocese: three closing buildings taken through a templated transfer with small feasibility grants, jointly reviewed before anything is standardised nationally."
   },
   "rank": 2,
-  "rankNote": "Thousands of central heritage-grade civic buildings will change hands irreversibly, accelerated by the March 2026 VAT-scheme closure, yet no standardised transfer route to community ownership exists."
+  "rankNote": "Thousands of heritage-grade civic buildings will change hands irreversibly, the VAT scheme's March 2026 closure accelerates it, and no standardised transfer route exists."
  },
  {
   "number": 11,
@@ -586,9 +586,9 @@
   "domain": "open-source-public-goods",
   "type": "tooling",
   "horizon": "short",
-  "description": "GDS Principal Technologist Phil Rumens stated in May 2026 that there is 'no formal or standardised process across government for evaluating, recommending, or providing confidence in open-source products'. Every council, trust and department repeats (or skips) its own due diligence, so risk-averse buyers default to proprietary suppliers who arrive pre-assured. GDS Local's 'Sourcing the Stack' is consulting on seven evaluation criteria (maturity, governance, security, sustainability, cost, operational fit, ethical AI) but is early-stage and unfunded as a service; Open Digital Cooperative assures only LocalGov Drupal.",
-  "why": "LocalGov Drupal shows the prize (30-50% cost reductions and £30k-£90k saved per council website), but only one product ever crossed the assurance barrier. A kite-mark service would unlock those savings across the whole local government and NHS software stack.",
-  "fill": "Fund GDS Local's assurance process into a standing national service: kite-marked evaluations, pooled security reviews, a public catalogue of assured open source products with signposting to commercial support vendors, the equivalent of Germany's openCode platform.",
+  "description": "GDS Principal Technologist Phil Rumens stated in May 2026 that there is no formal or standardised process across government for evaluating, recommending, or providing confidence in open source products. Every council, trust and department repeats its own due diligence or skips it, so risk-averse buyers default to proprietary suppliers who arrive pre-assured. GDS Local's Sourcing the Stack is consulting on seven evaluation criteria covering maturity, governance, security, sustainability, cost, operational fit and ethical AI, and it remains early-stage and unfunded as a service. Open Digital Cooperative assures LocalGov Drupal alone.",
+  "why": "LocalGov Drupal shows the prize: cost reductions of 30 to 50 per cent and £30k to £90k saved per council website. Only one product ever crossed the assurance barrier. A kite-mark service would unlock those savings across the whole local government and NHS software stack.",
+  "fill": "Fund GDS Local's assurance process into a standing national service: kite-marked evaluations, pooled security reviews, and a public catalogue of assured open source products with signposting to commercial support vendors, the equivalent of Germany's openCode platform.",
   "sources": [
    "https://technology.blog.gov.uk/2026/05/27/adopting-open-source-in-local-government/",
    "https://www.ukauthority.com/articles/localgov-drupal-becomes-open-digital-cooperative/"
@@ -602,8 +602,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: GDS Local/DSIT, or LGA-coordinated councils pooling kite-marked evaluations into a standing service.",
-  "tagline": "Every council vets the same software alone. Most give up and buy proprietary.",
-  "summary": "No standard process tells a council or hospital that an open source product is safe to buy, so each repeats its own due diligence or defaults to proprietary suppliers who arrive pre-assured. The single product that crossed the barrier saved councils up to £90,000 per website. A national kite-mark service could unlock those savings everywhere.",
+  "tagline": "Open source vetting; every public buyer repeats it alone",
+  "summary": "No standard process tells a council or hospital that an open source product is safe to buy, so each repeats its own due diligence or defaults to proprietary suppliers who arrive pre-assured. The one product that crossed the barrier saved councils up to £90,000 per website. A national kite-mark service could unlock those savings everywhere.",
   "dialogue": {
    "counterparty": "government-bodies",
    "ask": "Turn the Sourcing the Stack criteria into a standing assurance service by piloting kite-marked evaluations of open source products councils already want to buy.",
@@ -612,7 +612,7 @@
    "firstStep": "A 120-day pilot: evaluate three open source products against the seven draft criteria with volunteer reviewers, publish the results openly, and gather council feedback before deciding anything about a permanent service."
   },
   "rank": 2,
-  "rankNote": "A live GDS Local consultation on evaluation criteria could become a funded kite-mark unlocking 30-50% council savings, but it stays early-stage, unfunded, and duplicated department by department."
+  "rankNote": "A live GDS Local consultation could become a funded kite-mark unlocking 30 to 50 per cent council savings, and it stays early-stage, unfunded and duplicated department by department."
  },
  {
   "number": 16,
@@ -650,9 +650,9 @@
   "domain": "open-source-public-goods",
   "type": "institutional",
   "horizon": "mid",
-  "description": "GDS's Registers programme, comprising 51 canonical, API-accessible datasets (countries, local authorities, schools), was retired in March 2021 with no successor function. The consequences are now official: data.gov.uk's own team admits over 25% of links lead to error pages, datasets sit unupdated for years, and publishers include organisations that no longer exist, after 'underinvestment since 2017'. The March 2026 data.gov.uk reset (curation, Data Manual v1, public roadmap) treats symptoms, but no department is under any duty to maintain reference data that others build on, and the National Data Library's published plans do not yet include ownership obligations.",
-  "why": "Every service, journalist and AI system built on rotting reference data inherits its errors. The government is now spending £100m+ on a National Data Library whose raw inputs decay by default because maintenance is nobody's job.",
-  "fill": "A registers function inside the National Data Library: named accountable data owners per canonical dataset, update SLAs and public quality dashboards, backed by a Cabinet Office functional standard or statutory duty to maintain designated reference datasets.",
+  "description": "GDS's Registers programme, 51 canonical API-accessible datasets covering countries, local authorities and schools, was retired in March 2021 with no successor function. The consequences are now official: data.gov.uk's own team admits over 25 per cent of links lead to error pages, datasets sit unupdated for years, and listed publishers include organisations that no longer exist, after what it calls underinvestment since 2017. The March 2026 data.gov.uk reset, with curation, a data manual and a public roadmap, treats symptoms. No department is under any duty to maintain reference data that others build on, and the National Data Library's published plans do not yet include ownership obligations.",
+  "why": "Every service, journalist and AI system built on rotting reference data inherits its errors. Government is spending over £100m on a National Data Library whose raw inputs decay by default, because maintenance is nobody's job.",
+  "fill": "A registers function inside the National Data Library: named accountable data owners per canonical dataset, update service levels and public quality dashboards, backed by a Cabinet Office functional standard or a statutory duty to maintain designated reference datasets.",
   "sources": [
    "https://dataingovernment.blog.gov.uk/2026/03/25/whats-changing-on-data-gov-uk-and-why/",
    "https://www.registers.service.gov.uk/",
@@ -667,10 +667,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Cabinet Office functional standard or statutory duty within the National Data Library.",
-  "tagline": "A quarter of links on the government's own data site lead nowhere.",
-  "summary": "Nobody in government is required to keep the country's reference data (lists of schools, councils, countries) up to date, and the official data portal admits over a quarter of its links are broken. Every service built on rotting data inherits its errors. Named owners, update deadlines and public quality dashboards would fix the incentive.",
+  "tagline": "Canonical government data; maintenance is nobody's job",
+  "summary": "Nobody in government is required to keep the country's reference data, the lists of schools, councils and countries, up to date, and the official data portal admits over a quarter of its links are broken. Every service built on rotting data inherits its errors. Named owners, update deadlines and public quality dashboards would fix the incentive.",
   "rank": 2,
-  "rankNote": "The £100m National Data Library is being reset now, creating a moment to attach maintenance duties, but keeping canonical datasets current is currently nobody's statutory job."
+  "rankNote": "The £100m National Data Library reset creates the moment to attach maintenance duties, and keeping canonical datasets current is currently nobody's statutory job."
  },
  {
   "number": 18,
@@ -679,9 +679,9 @@
   "domain": "open-source-public-goods",
   "type": "funding",
   "horizon": "short",
-  "description": "The EU's Next Generation Internet initiative distributed ~€140m to 1,200+ projects in small, low-bureaucracy cascade grants (largely via NLnet) for privacy tech, open protocols and digital commons; then the Commission dropped NGI from the Horizon Europe 2025 work programme. UK developers had already lost easy access post-Brexit, and no domestic substitute exists at the €5k-€50k grant size where most independent maintainers and public-interest tools live. UK civil-society funders explicitly treat technology as unfundable infrastructure (Careful Industries, December 2025), and Nesta/National Lottery digital funds have closed. Careful Industries has floated a 'Civic Technology Fund' concept; nobody has built it.",
-  "why": "Small fast grants are the proven mechanism that produced much of Europe's privacy and protocol innovation. With both the EU spigot and UK philanthropy closed, an entire tier of public-interest tooling now has no funder in the UK at all.",
-  "fill": "A pooled DSIT-philanthropy fund making £10k-£75k grants with NLnet-style lightweight process, targeting privacy-enhancing tech, open protocols, accessibility and digital commons; could be hosted by an existing intermediary (e.g. ODI or Nesta) to avoid new-institution overhead.",
+  "description": "The EU's Next Generation Internet initiative distributed around €140m to more than 1,200 projects in small, low-bureaucracy cascade grants, largely through NLnet, for privacy tech, open protocols and digital commons. The Commission then dropped NGI from the Horizon Europe 2025 work programme. UK developers had already lost easy access after Brexit, and no domestic substitute exists at the €5k to €50k grant size where most independent maintainers and public-interest tools live. UK civil-society funders explicitly treat technology as unfundable infrastructure, per Careful Industries in December 2025, and the Nesta and National Lottery digital funds have closed. Careful Industries has floated a Civic Technology Fund concept, and nobody has built it.",
+  "why": "Small fast grants are the proven mechanism behind much of Europe's privacy and protocol innovation. With the EU spigot and UK philanthropy both closed, an entire tier of public-interest tooling now has no funder in the UK at all.",
+  "fill": "A pooled DSIT and philanthropy fund making £10k to £75k grants with NLnet-style lightweight process, aimed at privacy-enhancing tech, open protocols, accessibility and digital commons, hosted by an existing intermediary such as ODI or Nesta to avoid new-institution overhead.",
   "sources": [
    "https://fsfe.org/news/2024/news-20240719-01.en.html",
    "https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/",
@@ -696,7 +696,7 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: philanthropic pilot grant round with NLnet-style process hosted at ODI/Nesta; DSIT co-funding can follow.",
-  "tagline": "Europe's small-grant tap for public-interest tech has closed. Britain never had one.",
+  "tagline": "Small grants for public-interest tech; the EU tap closed, the UK never had one",
   "summary": "Small, fast grants produced much of Europe's privacy technology and open protocols. The EU scheme that funded them has closed, and no UK funder, public or philanthropic, makes grants at the size where independent maintainers actually live. A lightweight pooled fund with paperwork to match could fill the tier entirely.",
   "seeAlso": [
    {
@@ -707,7 +707,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "Both the EU cascade-grant spigot and UK philanthropy have just closed, leaving small public-interest tooling with no domestic funder; the NLnet model is proven and cheap to host."
+  "rankNote": "The EU cascade-grant spigot and UK philanthropy closed together, leaving small public-interest tooling with no domestic funder, and the NLnet model is proven and cheap to host."
  },
  {
   "number": 19,
@@ -716,9 +716,9 @@
   "domain": "open-source-public-goods",
   "type": "funding",
   "horizon": "short",
-  "description": "The SSI's Research Software Maintenance Fund (£4.8m from UKRI's Digital Research Infrastructure programme, first round 2025) is the UK's first dedicated maintenance fund and proves demand: 13 projects funded (four up to £500k/two years, nine up to £150k/one year), with round 2 capped at £150k for 12 months. But it is a fixed-term pilot against a research software estate of thousands of packages underpinning UK science; when the DRI spending period ends there is no recurring UKRI line for keeping software alive, and EPSRC RSE fellowships have been sporadic. Grant incentives still reward novelty over stewardship, pushing the RSE workforce (organised by the Society of Research Software Engineering) onto short contracts.",
-  "why": "The UK invented the RSE profession, yet the software multiplying every UKRI research pound decays on volunteer time. Maintenance funding at roughly 1% of what is spent producing software would protect the reproducibility and reuse of the rest.",
-  "fill": "A permanent maintenance stream within UKRI's Digital Research Infrastructure programme (analogous to the US NSF's POSE programme or Germany's DFG research-software line), plus block funding for institutional RSE teams, converting the RSMF pilot into standing infrastructure.",
+  "description": "The Software Sustainability Institute's Research Software Maintenance Fund, £4.8m from UKRI's Digital Research Infrastructure programme with a first round in 2025, is the UK's first dedicated maintenance fund and proves demand: thirteen projects funded, four at up to £500k over two years and nine at up to £150k over one, with round two capped at £150k for twelve months. It is a fixed-term pilot set against a research software estate of thousands of packages underpinning UK science. When the DRI spending period ends there is no recurring UKRI line for keeping software alive, EPSRC fellowships for research software engineers have been sporadic, and grant incentives still reward novelty over stewardship, pushing the RSE workforce onto short contracts.",
+  "why": "The UK invented the research software engineer profession, and the software multiplying every UKRI research pound decays on volunteer time. Maintenance funding at roughly one per cent of what is spent producing software would protect the reproducibility and reuse of the rest.",
+  "fill": "A permanent maintenance stream within UKRI's Digital Research Infrastructure programme, on the model of the US NSF's POSE programme or Germany's DFG research-software line, plus block funding for institutional RSE teams, converting the pilot into standing infrastructure.",
   "sources": [
    "https://www.software.ac.uk/programmes/research-software-maintenance-fund",
    "https://www.ukri.org/opportunity/ssi-research-software-maintenance-fund-round-two/",
@@ -733,10 +733,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: permanent UKRI Digital Research Infrastructure budget line converting the RSMF pilot.",
-  "tagline": "British science runs on software funded to be born, never to be kept alive.",
-  "summary": "The UK's first fund for maintaining research software proved the demand, then hit its expiry date: it is a pilot, not a budget line. Thousands of scientific packages decay on volunteer time while grants reward only novelty. A permanent maintenance stream costing about one per cent of production spend would protect the rest.",
+  "tagline": "Research software maintenance; a pilot, and no budget line",
+  "summary": "The UK's first fund for maintaining research software proved the demand and then hit its expiry date: it is a pilot rather than a budget line. Thousands of scientific packages decay on volunteer time while grants reward novelty alone. A permanent maintenance stream costing about one per cent of production spend would protect the rest.",
   "rank": 2,
-  "rankNote": "A working pilot has proven demand, so making the stream recurring is a budget decision to progress opportunistically against a future spending period rather than an acute emergency."
+  "rankNote": "A working pilot has proven demand, so making the stream recurring is a budget decision to progress against a future spending period rather than an acute emergency."
  },
  {
   "number": 20,
@@ -745,9 +745,9 @@
   "domain": "open-source-public-goods",
   "type": "institutional",
   "horizon": "short",
-  "description": "GOV.UK Notify, the shared notifications platform serving 1,500+ public services, explicitly excludes charities, community pharmacies, hospices, housing associations and universities, and no UK body provides equivalent shared digital infrastructure to civil society. Charities re-buy messaging, forms and payments at retail SaaS prices with donated funds. Notify's code is open source, so the technical barrier is trivial; the barrier is institutional (data-processing agreements limited to public bodies) and the absence of any chartered provider. mySociety/SocietyWorks and small intermediaries like Superhighways help at the margins; US models (e.g. philanthropically backed civic tech infrastructure) have no UK counterpart.",
-  "why": "The voluntary sector delivers public services under contract yet pays commercial rates for infrastructure the state already built and open-sourced. Extending access is one of the cheapest transfers to civil society available; the software is written and running.",
-  "fill": "Either extend Government-as-a-Platform eligibility to regulated charities on a cost-recovery basis, or charter a 'civic infrastructure service': a nonprofit operator running the open-sourced Notify/Forms codebases for civil society, seed-funded by trusts and subscription-sustained like Open Digital Cooperative.",
+  "description": "GOV.UK Notify, the shared notifications platform serving more than 1,500 public services, explicitly excludes charities, community pharmacies, hospices, housing associations and universities, and no UK body provides equivalent shared digital infrastructure to civil society. Charities re-buy messaging, forms and payments at retail SaaS prices with donated funds. Notify's code is open source, so the technical barrier is trivial. The barrier is institutional: data-processing agreements limited to public bodies, and the absence of any chartered provider. mySociety, SocietyWorks and small intermediaries like Superhighways help at the margins, and the philanthropically backed civic infrastructure operators of the US have no UK counterpart.",
+  "why": "The voluntary sector delivers public services under contract and pays commercial rates for infrastructure the state already built and open-sourced. Extending access is one of the cheapest transfers to civil society available. The software is written and running.",
+  "fill": "Either extend Government-as-a-Platform eligibility to regulated charities on a cost-recovery basis, or charter a civic infrastructure service: a nonprofit operator running the open-sourced Notify and Forms codebases for civil society, seed-funded by trusts and sustained by subscriptions like Open Digital Cooperative.",
   "sources": [
    "https://www.notifications.service.gov.uk/features/who-can-use-notify",
    "https://superhighways.org.uk/latest/funding-your-tech-and-digital/",
@@ -762,10 +762,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: trust-seeded nonprofit running the open-sourced Notify/Forms codebases for charities (Open Digital Cooperative model).",
-  "tagline": "Government built the tools, published the code, then locked charities out anyway.",
-  "summary": "GOV.UK Notify sends messages for over 1,500 public services, but charities, hospices and housing associations are barred from it, so they re-buy the same infrastructure at retail prices with donated money. The code is open and already running. Extending access, or chartering a nonprofit to run it for civil society, is among the cheapest transfers available.",
+  "tagline": "GOV.UK Notify serves 1,500 public services; charities excluded",
+  "summary": "GOV.UK Notify sends messages for over 1,500 public services, and charities, hospices and housing associations are barred from it, so they re-buy the same infrastructure at retail prices with donated money. The code is open and already running. Extending access, or chartering a nonprofit to run it for civil society, is among the cheapest transfers available.",
   "rank": 2,
-  "rankNote": "The software is already written, open-sourced and running, but stakes are sector-bounded and no dated trigger forces the institutional exclusion to be resolved this year."
+  "rankNote": "The software is written, open-sourced and running, and the stakes are sector-bounded with no dated trigger forcing the institutional exclusion to be resolved this year."
  },
  {
   "number": 21,
@@ -810,9 +810,9 @@
   "domain": "open-source-public-goods",
   "type": "knowledge",
   "horizon": "short",
-  "description": "DSIT's commissioned research (2025) tells businesses to keep SBOMs, and the NCSC warns of active dependency-compromise attacks and urges organisations to check their dependencies, but the state has never aggregated this picture. There is no inventory of which open source components government services and critical national infrastructure actually depend on, who maintains them, or how healthy they are (contrast the Harvard/Linux Foundation 'Census II' of most-used OSS, and US federal SBOM aggregation under EO 14028). Without this evidence base, neither NCSC prioritisation nor any future UK maintenance fund can be targeted, and ministers can honestly say they don't know what the UK runs on.",
-  "why": "You cannot defend or fund what you haven't mapped. A census converts open source risk from anecdote (Log4j surprised everyone) into a ranked, actionable list, and is the analytic precondition for a UK Sovereign Tech Fund.",
-  "fill": "An NCSC/DSIT-commissioned recurring census aggregating SBOMs across departments and CNI operators, published with criticality and maintainer-health rankings; deliverable by an academic-industry consortium in under a year using existing SCA tooling.",
+  "description": "DSIT's commissioned research from 2025 tells businesses to keep software bills of materials, and the NCSC warns of active dependency-compromise attacks while urging organisations to check their dependencies. The state has never aggregated the picture for itself. No inventory exists of which open source components government services and critical national infrastructure depend on, who maintains them, or how healthy they are; the Harvard and Linux Foundation Census II of most-used open source and the US federal SBOM aggregation under Executive Order 14028 show what the exercise looks like. Without this evidence base, neither NCSC prioritisation nor any future UK maintenance fund can be targeted, and ministers can honestly say they do not know what the UK runs on.",
+  "why": "Mapping converts open source risk from anecdote into a ranked, actionable list; Log4j surprised everyone because nothing like it existed. The census is also the analytic precondition for a UK Sovereign Tech Fund.",
+  "fill": "An NCSC and DSIT-commissioned recurring census aggregating software bills of materials across departments and infrastructure operators, published with criticality and maintainer-health rankings, deliverable by an academic and industry consortium in under a year using existing analysis tooling.",
   "sources": [
    "https://www.gov.uk/government/publications/open-source-software-best-practice-supply-chain-risk-management",
    "https://www.ncsc.gov.uk/blogs/software-supply-chain-attacks-check-your-dependencies",
@@ -827,8 +827,8 @@
   "permission": "build-together",
   "dataReady": false,
   "permissionNote": "Counterparty: NCSC/DSIT commission plus departmental and CNI SBOM access; privileged data outsiders cannot scrape.",
-  "tagline": "No one has ever listed the open source code the British state actually runs on.",
-  "summary": "Government tells businesses to inventory their software dependencies but has never done it for itself: there is no map of which open source components underpin public services and critical infrastructure, or who maintains them. You cannot defend what you have not mapped. A recurring census could be delivered within a year using existing tools.",
+  "tagline": "State-critical open source; never inventoried",
+  "summary": "Government tells businesses to inventory their software dependencies and has never done it for itself: no map exists of which open source components underpin public services and critical infrastructure, or of who maintains them. A recurring census, deliverable within a year on existing tools, would turn the risk into a ranked list.",
   "dialogue": {
    "counterparty": "government-bodies",
    "ask": "Commission a recurring census of the open source software that government services and critical national infrastructure actually run on, ranked by criticality and maintainer health.",
@@ -851,7 +851,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "Cheap, deliverable within a year on existing tooling, and entirely unowned, this evidence base is the analytic precondition for targeting any maintenance fund or NCSC prioritisation."
+  "rankNote": "Cheap, deliverable within a year on existing tooling and entirely unowned, this evidence base is the precondition for targeting any maintenance fund."
  },
  {
   "number": 23,
@@ -918,9 +918,9 @@
   "domain": "youth-mobilisation",
   "type": "institutional",
   "horizon": "short",
-  "description": "The British Youth Council, the UK's youth-led representative umbrella since 1948 and deliverer of the UK Youth Parliament, went insolvent overnight in March 2024 when its backer (The Body Shop) entered administration. DCMS moved UKYP delivery to the National Youth Agency, but this is a government-contracted delivery arrangement, not an independent, youth-governed voice; BYC's wider functions (federating local youth councils, Youth Select Committees' independent home, UK representation in the European Youth Forum) have no successor. The UK is now one of very few European democracies without an independent national youth council.",
-  "why": "Enfranchising 16-year-olds while the UK lacks any independent youth representative body is a legitimacy gap: youth voice now exists only at government's discretion and contract cycle. BYC's single-funder collapse also showed how fragile the ecosystem is: one corporate administration deleted a 76-year-old institution in a week.",
-  "fill": "A refounded, youth-governed UK youth council with diversified 5-10 year core funding (foundation consortium plus a small endowment), holding the local youth council federation, Youth Select Committee and international representation functions, with UKYP delivery contractually insulated from any single funder or government department.",
+  "description": "The British Youth Council, the UK's youth-led representative umbrella since 1948 and deliverer of the UK Youth Parliament, went insolvent overnight in March 2024 when its backer, The Body Shop, entered administration. DCMS moved Youth Parliament delivery to the National Youth Agency, which is a government-contracted delivery arrangement rather than an independent, youth-governed voice. BYC's wider functions, federating local youth councils, housing the Youth Select Committees, and representing the UK in the European Youth Forum, have no successor. The UK is now one of very few European democracies without an independent national youth council.",
+  "why": "Enfranchising 16-year-olds while the UK lacks any independent youth representative body is a legitimacy gap: youth voice now exists at government's discretion and contract cycle. The collapse also showed the ecosystem's fragility, since one corporate administration deleted a 76-year-old institution in a week.",
+  "fill": "A refounded, youth-governed UK youth council with diversified five-to-ten-year core funding from a foundation consortium and a small endowment, holding the local federation, Youth Select Committee and international representation functions, with Youth Parliament delivery contractually insulated from any single funder or department.",
   "sources": [
    "https://hansard.parliament.uk/commons/2024-05-21/debates/24052139000012/UKYouthParliamentBritishYouthCouncilClosure",
    "https://www.gov.uk/government/news/government-secures-future-of-uk-youth-parliament",
@@ -935,7 +935,7 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: foundation-consortium-funded refounded council holding federation and international functions; UKYP contract negotiated with DCMS later.",
-  "tagline": "A 76-year-old institution died in a week when its corporate backer went under.",
+  "tagline": "National youth council; none since the 2024 collapse",
   "summary": "The British Youth Council collapsed overnight in 2024 when its single funder went into administration, and no independent, youth-governed national voice has replaced it. Sixteen-year-olds are about to get the vote in a country with no such body, a rarity in Europe. A refounded council with diversified long-term funding would close the gap.",
   "seeAlso": [
    {
@@ -946,7 +946,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "A 76-year-old institution vanished overnight and no independent successor holds its federating and international functions, leaving youth voice at government's contract-cycle discretion just as 16-year-olds gain the vote."
+  "rankNote": "A 76-year-old institution vanished overnight and no independent successor holds its functions, leaving youth voice at government's contract-cycle discretion just as 16-year-olds gain the vote."
  },
  {
   "number": 26,
@@ -1109,9 +1109,9 @@
   "domain": "youth-mobilisation",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The National Citizen Service (the UK's only attempt at a shared civic experience for all 16-17-year-olds, with over £1bn spent since 2011) closed in March 2025, cutting funding to ~250 delivery organisations. Its replacements (Better Youth Spaces, Young Futures Hubs, dormant assets funding) are place-based provision for disadvantaged areas, not a universal mixing-and-service experience. Youth volunteering is declining (NCVO's Time Well Spent shows youth-relevant participation roughly halving since 2018), and unlike France (SNU) or the US (AmeriCorps), the UK now has no national civic service pathway; the Conservatives' 2024 mandatory national service proposal died with that government.",
-  "why": "Social mixing across class and place, NCS's evidenced strength, has no delivery vehicle left, precisely when polarisation between young men and women and between graduate and non-graduate youth is widening. A civic-experience vacuum will be filled by algorithmic and partisan alternatives.",
-  "fill": "A voluntary, paid Civic Service year (or funded term-length service entitlement) for 16-24s, built on #iwill and uniformed-youth infrastructure rather than a new quango: a fundable design-and-pilot project for a foundation consortium ahead of a spending review bid.",
+  "description": "The National Citizen Service, the UK's only attempt at a shared civic experience for all 16 and 17-year-olds, with over £1bn spent since 2011, closed in March 2025, cutting funding to around 250 delivery organisations. Its replacements, Better Youth Spaces, Young Futures Hubs and dormant-assets funding, are place-based provision for disadvantaged areas rather than a universal mixing-and-service experience. Youth volunteering is declining, with NCVO's Time Well Spent showing youth-relevant participation roughly halving since 2018. France runs the SNU and the US runs AmeriCorps, and the UK now has no national civic service pathway; the 2024 mandatory national service proposal died with the government that made it.",
+  "why": "Social mixing across class and place, the strength NCS evidenced, has no delivery vehicle left, at the moment polarisation between young men and women and between graduate and non-graduate youth is widening. A civic-experience vacuum gets filled by algorithmic and partisan alternatives.",
+  "fill": "A voluntary, paid civic service year, or a funded term-length service entitlement, for 16 to 24-year-olds, built on #iwill and uniformed-youth infrastructure rather than a new quango. It is a fundable design-and-pilot project for a foundation consortium ahead of a spending review bid.",
   "sources": [
    "https://www.civilsociety.co.uk/news/charity-funding-concerns-as-government-announces-national-citizen-service-closure.html",
    "https://www.gov.uk/government/news/new-national-youth-strategy-to-break-down-barriers-to-opportunity-for-young-people",
@@ -1126,7 +1126,7 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: foundation-consortium design-and-pilot on #iwill/uniformed infrastructure; spending-review bid is the statutory-scale end-state.",
-  "tagline": "The one programme that mixed teenagers across class lines closed with nothing behind it.",
+  "tagline": "Universal civic service ended 2025; no successor designed",
   "summary": "The National Citizen Service was the UK's only shared civic experience for teenagers, and it closed in 2025 without replacement. France and the United States run national civic service pathways; Britain now has none, just as polarisation among the young widens. A voluntary, paid civic year built on existing youth organisations is ready to be designed.",
   "seeAlso": [
    {
@@ -1137,7 +1137,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "A billion-pound universal mixing experience closed with only place-based replacements, but a new civic-service year needs design, piloting and a spending-review bid rather than an off-the-shelf switch."
+  "rankNote": "A billion-pound universal mixing experience closed with only place-based replacements, and a new civic-service year needs design, piloting and a spending-review bid."
  },
  {
   "number": 31,
@@ -1286,9 +1286,9 @@
   "domain": "youth-mobilisation",
   "type": "policy",
   "horizon": "mid",
-  "description": "Nearly one million 16-24s are NEET (up 26% on pre-pandemic), yet the 'Youth Guarantee' for 18-21s is £45m across eight mayoral trailblazers (extended into 2026/27), with no enforceable entitlement, no coverage of non-devolved areas, and nothing for 16-17s or 22-24s. The pathway infrastructure beneath it is shrinking: under-19 apprenticeship starts fell again in 2025/26 (down 5.2% year-on-year; ~40% over the decade per Skills England), and young people's share of starts hit a five-year low of 23.8% as over-25s absorbed funding. Foundation apprenticeships launched August 2025 are promising but small.",
-  "why": "Earning-or-learning pathways are mobilisation infrastructure: NEET young people are the least registered, least likely to vote and most drawn to anti-system politics. A 'guarantee' that guarantees nothing outside eight city-regions entrenches exactly the geographic and class participation gaps the map should target.",
-  "fill": "A statutory guaranteed offer (apprenticeship, training or paid placement within a set period) for all 18-21s with national rollout funding beyond trailblazers, plus rebalanced apprenticeship funding toward under-19s and expansion of foundation apprenticeships.",
+  "description": "Nearly one million 16 to 24-year-olds are NEET, up 26 per cent on pre-pandemic levels, and the Youth Guarantee for 18 to 21-year-olds is £45m across eight mayoral trailblazers, extended into 2026-27, with no enforceable entitlement, no coverage of non-devolved areas, and nothing for those aged 16 to 17 or 22 to 24. The pathway infrastructure beneath it is shrinking. Under-19 apprenticeship starts fell again in 2025-26, down 5.2 per cent on the year and about 40 per cent over the decade per Skills England, and young people's share of starts hit a five-year low of 23.8 per cent as over-25s absorbed funding. Foundation apprenticeships launched in August 2025 are promising and small.",
+  "why": "Earning-or-learning pathways are mobilisation infrastructure. NEET young people are the least registered, least likely to vote and most drawn to anti-system politics. A guarantee that covers eight city-regions entrenches the geographic and class participation gaps the map exists to close.",
+  "fill": "A statutory guaranteed offer of apprenticeship, training or paid placement within a set period for all 18 to 21-year-olds, with national rollout funding beyond the trailblazers, rebalanced apprenticeship funding towards under-19s, and expanded foundation apprenticeships.",
   "sources": [
    "https://www.gov.uk/government/news/almost-a-million-young-people-to-benefit-from-expanded-support-new-training-and-work-experience-opportunities",
    "https://youthfuturesfoundation.org/blog/youth-guarantee-trailblazers-what-you-need-to-know/",
@@ -1304,8 +1304,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory 18-21 guarantee with national rollout funding at spending review.",
-  "tagline": "The Youth Guarantee guarantees nothing outside eight city-regions.",
-  "summary": "Nearly a million young people are neither earning nor learning, yet the government's answer is a handful of pilot schemes with no enforceable entitlement and no coverage across most of the country. Disconnection from work feeds disconnection from democracy. A statutory offer of training, apprenticeship or paid placement for every young adult would make the name honest.",
+  "tagline": "The Youth Guarantee; eight pilots, no entitlement",
+  "summary": "Nearly a million young people are neither earning nor learning, and the government's answer is a handful of pilot schemes with no enforceable entitlement and no coverage across most of the country. Disconnection from work feeds disconnection from democracy. A statutory offer of training, apprenticeship or paid placement for every young adult would make the name honest.",
   "seeAlso": [
    {
     "number": 142,
@@ -1315,7 +1315,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "A million NEET young people are least likely to vote, yet the guarantee is £45m across eight city-regions the government partly owns, high stakes but only inching wider."
+  "rankNote": "A million NEET young people are least likely to vote, and the guarantee is £45m across eight city-regions that government partly owns, high stakes and only inching wider."
  },
  {
   "number": 36,
@@ -1485,9 +1485,9 @@
   "domain": "education-ai",
   "type": "tooling",
   "horizon": "mid",
-  "description": "Wales provides Hwb (centrally licensed tools, identity and filtering for all maintained schools); Scotland has Glow. England leaves 22,000+ schools and trusts to procure individually. DfE's AI Content Store serves developers, EdTech Testbeds (£23m) trials products in ~1,000 settings, and Oak provides content, but there is no central identity, licensing and delivery layer giving every English pupil and teacher access to vetted AI tools, so access tracks trust capacity and budget rather than need.",
-  "why": "Fragmented procurement means duplicated spend, no aggregated buying power against AI vendors, uneven safeguarding, and an access gap: pupils in small or poor schools get no safe AI tools while large MATs negotiate enterprise deals. Central provision is proven UK practice next door in Wales.",
-  "fill": "A DfE-commissioned national education platform (or federated framework across MATs): single sign-on, centrally negotiated licences, and delivery restricted to assurance-body-certified AI tools; in effect, Hwb translated to England's trust structure.",
+  "description": "Wales provides Hwb, centrally licensed tools, identity and filtering for all maintained schools, and Scotland has Glow. England leaves more than 22,000 schools and trusts to procure individually. DfE's AI Content Store serves developers, the £23m EdTech Testbeds trial products in around 1,000 settings, and Oak provides content. No central identity, licensing and delivery layer gives every English pupil and teacher access to vetted AI tools, so access tracks trust capacity and budget rather than need.",
+  "why": "Fragmented procurement means duplicated spend, no aggregated buying power against AI vendors, uneven safeguarding, and an access gap: pupils in small or poor schools get no safe AI tools while large trusts negotiate enterprise deals. Central provision is proven UK practice next door in Wales.",
+  "fill": "A DfE-commissioned national education platform, or a federated framework across trusts: single sign-on, centrally negotiated licences, and delivery restricted to assurance-body-certified AI tools. In effect, Hwb translated to England's trust structure.",
   "sources": [
    "https://hwb.gov.wales/",
    "https://aicontentstore.education.gov.uk/",
@@ -1502,8 +1502,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: coalition of MATs forming federated SSO/licensing framework; DfE-commissioned platform is the statutory end-state.",
-  "tagline": "Wales hands every school vetted digital tools. England leaves 22,000 to shop alone.",
-  "summary": "Every Welsh school gets centrally licensed tools, identity and filtering through one national platform. English schools buy alone, so safe AI access tracks a trust's budget rather than pupils' need. A national platform for England (single sign-on, negotiated licences, certified tools only) is proven practice from just across the border.",
+  "tagline": "Wales runs a national school platform; England's 22,000 schools buy alone",
+  "summary": "Every Welsh school gets centrally licensed tools, identity and filtering through one national platform. English schools buy alone, so safe AI access tracks a trust's budget rather than pupils' need. A national platform for England, with single sign-on, negotiated licences and certified tools only, is proven practice from across the border.",
   "dialogue": {
    "counterparty": "schools-and-education",
    "ask": "Form a founding coalition of school trusts to build a federated framework (single sign-on and jointly negotiated licences for vetted AI tools), open to any school that joins.",
@@ -1512,7 +1512,7 @@
    "firstStep": "A two-term pilot: five trusts jointly negotiate one AI tool licence and trial shared sign-on across ten schools, comparing cost and safeguarding overhead with buying alone."
   },
   "rank": 2,
-  "rankNote": "England's 22,000 schools procure individually with no central licensing or safeguarding layer, but the mid-horizon build has no dated trigger despite Wales and Scotland proving the model."
+  "rankNote": "England's 22,000 schools procure individually with no central licensing or safeguarding layer, and the mid-horizon build has no dated trigger despite Wales and Scotland proving the model."
  },
  {
   "number": 42,
@@ -1623,9 +1623,9 @@
   "domain": "education-ai",
   "type": "knowledge",
   "horizon": "mid",
-  "description": "Government itself describes evidence for AI tutoring as 'limited'. EEF runs individual trials (e.g. Aila Teacher Choices) but has no dedicated AI programme; UKRI has no directed programme on learning with AI; the strongest classroom RCT evidence (e.g. the LearnLM UK trial, n=165) comes from US labs studying their own products. Nobody in the UK is funding longitudinal research on what sustained AI use does to children's learning, cognition (the DfE safety expectations even ask products to report 'cognitive offloading' rates, a construct with little research behind it), motivation or safeguarding.",
+  "description": "Government itself describes evidence for AI tutoring as limited. EEF runs individual trials without a dedicated AI programme, UKRI has no directed programme on learning with AI, and the strongest classroom RCT evidence, such as the LearnLM UK trial of 165 pupils, comes from US labs studying their own products. Nobody in the UK funds longitudinal research on what sustained AI use does to children's learning, cognition, motivation or safeguarding; the DfE safety expectations even ask products to report cognitive offloading rates, a construct with little research behind it.",
   "why": "The state is deploying AI tutors to 450,000 disadvantaged children ahead of the evidence. Without independent UK research infrastructure, the knowledge base will be owned by vendors evaluating themselves, and long-run harms or null effects will surface only after national rollout.",
-  "fill": "A UKRI-DfE directed programme ('EEF for AI'): longitudinal cohort studies with National Pupil Database linkage, standing rapid-RCT infrastructure in volunteer school networks, and open evaluation of the government's own tutoring tools.",
+  "fill": "A UKRI and DfE directed programme, an EEF for AI: longitudinal cohort studies with National Pupil Database linkage, standing rapid-trial infrastructure in volunteer school networks, and open evaluation of the government's own tutoring tools.",
   "sources": [
    "https://www.tes.com/magazine/news/general/limited-evidence-ai-tutoring-tools-government-admits",
    "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/aila-teacher-choices-trial",
@@ -1641,8 +1641,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: volunteer school networks plus DfE NPD-linkage approval; philanthropic funder can seed before UKRI-DfE programme.",
-  "tagline": "No one studies what daily AI use does to a child's mind. Vendors mark their own homework.",
-  "summary": "The government admits evidence for AI tutoring is limited, yet it is rolling tools out to hundreds of thousands of disadvantaged pupils. The best classroom trials come from American labs testing their own products. A dedicated UK research programme (long-run cohort studies plus rapid trials in volunteer schools) would build independent knowledge before rollout, not after.",
+  "tagline": "Child-AI interaction; no UK research programme",
+  "summary": "The government admits evidence for AI tutoring is limited, and it is rolling tools out to hundreds of thousands of disadvantaged pupils anyway. The best classroom trials come from American labs testing their own products. A dedicated UK research programme, long-run cohort studies plus rapid trials in volunteer schools, would build independent knowledge before rollout rather than after.",
   "dialogue": {
    "counterparty": "schools-and-education",
    "ask": "Join a volunteer network of schools running independent trials of the AI tools you are being asked to adopt, before they reach every classroom.",
@@ -1651,7 +1651,7 @@
    "firstStep": "A two-term trial in ten to twenty volunteer schools of one government-endorsed tutoring tool, findings published whatever they show, any school free to withdraw at any point."
   },
   "rank": 2,
-  "rankNote": "The state is deploying AI tutors to 450,000 children ahead of evidence, yet no UK body funds longitudinal research, leaving the knowledge base to self-evaluating vendors."
+  "rankNote": "The state deploys AI tutors to 450,000 children ahead of evidence, and no UK body funds longitudinal research, leaving the knowledge base to self-evaluating vendors."
  },
  {
   "number": 47,
@@ -1689,9 +1689,9 @@
   "domain": "growth-stagnation",
   "type": "tooling",
   "horizon": "short",
-  "description": "HS2 Phase 1 costs ~£396m per mile against ~£46m for comparable French LGV lines; the Lower Thames Crossing consent alone cost ~£300m. Britain Remade compiled a one-off dataset of 138 transit and 104 road projects across 14 countries showing UK costs 2–8x EU peers, but it is static campaign research. NISTA's pipeline portal lists projects and values, not standardised outturn unit costs, and IPA/NISTA benchmarking is internal, not public or machine-readable.",
-  "why": "Britain cannot fix cost disease it cannot measure. Without standardised, public unit costs, every project negotiates in the dark, cost overruns face no comparative scrutiny, and the £718bn pipeline risks repeating HS2. Open benchmarking is cheap and demonstrably shifted debate when Britain Remade did it once.",
-  "fill": "A statutory open unit-cost observatory inside NISTA: mandatory standardised cost-breakdown and outturn reporting for every public project over £100m, published as machine-readable data with international comparators, making it an official, maintained successor to Britain Remade's database.",
+  "description": "HS2 Phase 1 costs about £396m per mile against about £46m for comparable French high-speed lines, and the Lower Thames Crossing consent alone cost about £300m. Britain Remade compiled a one-off dataset of 138 transit and 104 road projects across 14 countries showing UK costs running two to eight times EU peers, and it is static campaign research. NISTA's pipeline portal lists projects and values rather than standardised outturn unit costs, and official benchmarking stays internal, neither public nor machine-readable.",
+  "why": "Cost disease that goes unmeasured goes unfixed. Without standardised, public unit costs, every project negotiates in the dark, overruns face no comparative scrutiny, and the £718bn pipeline risks repeating HS2. Open benchmarking is cheap, and it demonstrably shifted the debate the one time it was done.",
+  "fill": "A statutory open unit-cost observatory inside NISTA: mandatory standardised cost-breakdown and outturn reporting for every public project over £100m, published as machine-readable data with international comparators, the official successor to Britain Remade's database.",
   "sources": [
    "https://www.britainremade.co.uk/britain_paying_up_to_eight_times_more_than_eu_for_road_and_rail_projects_research_finds",
    "https://pipeline.nista.grid.civilservice.gov.uk/",
@@ -1706,10 +1706,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: maintained open unit-cost database from published/FOI-able outturns, extending Britain Remade; statutory NISTA mandate is end-state.",
-  "tagline": "High-speed rail costs Britain eight times what France pays. The state keeps no score.",
-  "summary": "The best data on Britain's infrastructure cost disease is one-off campaign research, not an official series. Standardised, public unit costs would expose overruns to comparison on a pipeline worth £718bn. A campaign group proved the idea works once; making it permanent inside government is cheap.",
+  "tagline": "UK infrastructure unit costs; unpublished, unbenchmarked",
+  "summary": "The best data on Britain's infrastructure cost disease is one-off campaign research rather than an official series. Standardised, public unit costs would expose overruns to comparison on a pipeline worth £718bn. A campaign group proved the idea works once, and making it permanent inside government is cheap.",
   "rank": 2,
-  "rankNote": "Britain's £718bn pipeline keeps overpaying because outturn unit costs stay unpublished; a proven, cheap benchmarking instrument exists but sits unfunded, with no dated trigger forcing action now."
+  "rankNote": "The £718bn pipeline keeps overpaying while outturn unit costs stay unpublished, and the proven, cheap benchmarking instrument sits unfunded."
  },
  {
   "number": 49,
@@ -1718,9 +1718,9 @@
   "domain": "growth-stagnation",
   "type": "institutional",
   "horizon": "short",
-  "description": "The Home Builders Federation estimates a shortage of 2,200+ planners in England and Wales; MHCLG's 2025 capacity survey found ~48% of planning authorities carrying 1–3 vacancies and 17% more than six. Government's response (300 graduate/apprentice planners via the LGA's Pathways to Planning and Public Practice plus a £46m capacity package) is an order of magnitude short. The Planning and Infrastructure Act 2025 allows locally-set fees, but fee income alone cannot conjure labour supply.",
-  "why": "Every reform in the Planning and Infrastructure Act 2025 (spatial development strategies, delegation schemes, new towns, 150 NSIP decisions) lands on understaffed planning departments. Workforce is the rate-limiter on converting legislative wins into consented homes and infrastructure within this Parliament.",
-  "fill": "A national planning workforce programme: ringfenced full-cost-recovery fees, bursaries and apprenticeships scaled to ~2,000 additional planners, plus shared specialist pools (ecology, heritage, viability) that small districts can draw on.",
+  "description": "The Home Builders Federation estimates a shortage of more than 2,200 planners in England and Wales, and MHCLG's 2025 capacity survey found about 48 per cent of planning authorities carrying one to three vacancies and 17 per cent more than six. Government's response, 300 graduate and apprentice planners through the LGA's Pathways to Planning and Public Practice with a £46m capacity package, is an order of magnitude short. The Planning and Infrastructure Act 2025 allows locally set fees, and fee income alone cannot conjure labour supply.",
+  "why": "Every reform in the Planning and Infrastructure Act 2025, spatial development strategies, delegation schemes, new towns and 150 infrastructure decisions, lands on understaffed planning departments. Workforce is the rate-limiter on converting legislative wins into consented homes and infrastructure within this Parliament.",
+  "fill": "A national planning workforce programme: ringfenced full-cost-recovery fees, bursaries and apprenticeships scaled to about 2,000 additional planners, and shared specialist pools in ecology, heritage and viability that small districts can draw on.",
   "sources": [
    "https://www.rtpi.org.uk/policy-and-research/planning-reform-hub/briefing-on-the-existential-education-and-workforce-crisis-in-the-english-planning-sector/",
    "https://www.gov.uk/government/publications/local-authority-planning-capacity-and-capability-survey-2025/local-authority-planning-capacity-and-capability-survey-2025",
@@ -1735,8 +1735,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: volunteer councils funding shared specialist pools and apprenticeships via full-cost fees already legal under PIA 2025.",
-  "tagline": "The planning revolution has arrived. The planners have not.",
-  "summary": "England and Wales are short more than 2,200 planners. The government's response trains 300, an order of magnitude too few for the reforms now landing on their desks. Without bursaries, ringfenced fees and shared specialist pools, the new planning laws stay on paper.",
+  "tagline": "Planning reform landing; 2,200 planners short",
+  "summary": "England and Wales are short more than 2,200 planners, and the government's response trains 300, an order of magnitude too few for the reforms now landing on their desks. Without bursaries, ringfenced fees and shared specialist pools, the new planning laws stay on paper.",
   "dialogue": {
    "counterparty": "councils",
    "ask": "Fund shared specialist planners and apprenticeships with two or three neighbouring councils, using the full-cost fees the Planning and Infrastructure Act already lets you set.",
@@ -1745,7 +1745,7 @@
    "firstStep": "A six-month trial: three neighbouring districts share one ecologist and one heritage officer, costs recovered through planning fees, workload and decision times reviewed together after two quarters."
   },
   "rank": 2,
-  "rankNote": "Planning Act reforms are landing now on departments 2,200 planners short, and long training lead times make starting immediately valuable, but government's response stays an order of magnitude too small."
+  "rankNote": "Planning Act reforms land now on departments 2,200 planners short, training lead times are long, and government's response stays an order of magnitude too small."
  },
  {
   "number": 50,
