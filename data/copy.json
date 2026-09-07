@@ -617,8 +617,8 @@
   },
   {
    "number": 118,
-   "tagline": "Nearly every claim about community tech comes from the people selling it.",
-   "summary": "Councils and funders weighing decentralised tools (encrypted messaging, data stores, digital currencies) rely almost entirely on vendor claims. Nobody runs structured field trials with real housing co-ops or parish councils and publishes comparable results. A test lab would tell communities which tools are ready and which are still whitepapers."
+   "tagline": "Community tech evidence; almost all of it vendor-made",
+   "summary": "Councils and funders weighing decentralised tools, encrypted messaging, data stores and digital currencies among them, rely almost entirely on vendor claims. Nobody runs structured field trials with real housing co-ops or parish councils and publishes comparable results. A test lab would tell communities which tools are ready and which are still whitepapers."
   },
   {
    "number": 217,
@@ -642,8 +642,8 @@
   },
   {
    "number": 121,
-   "tagline": "There is no appeal when the data watchdog looks at a breach and does nothing.",
-   "summary": "The Information Commissioner found the online ad industry systemically breaking data law in 2019 and has never enforced against it, and complainants can only challenge the paperwork, not the outcome. A regulator whose inaction carries no risk will keep choosing inaction. A merits appeal to a tribunal, as freedom-of-information law already has, would rebalance the incentives."
+   "tagline": "ICO declines to enforce; the outcome cannot be appealed",
+   "summary": "The Information Commissioner found the online ad industry systemically breaking data law in 2019 and has never enforced against it, and complainants can only challenge the paperwork rather than the outcome. A regulator whose inaction carries no risk will keep choosing inaction. A merits appeal to a tribunal, as freedom-of-information law already has, would rebalance the incentives."
   },
   {
    "number": 122,
@@ -667,12 +667,12 @@
   },
   {
    "number": 126,
-   "tagline": "Your genome is protected by a gentleman's agreement with the insurance industry.",
-   "summary": "The state is sequencing 100,000 newborns while the only thing stopping insurers using genetic results against you is a voluntary code that an industry board could rescind. America and Canada legislated years ago. Nobody in Britain even owns the campaign for a law."
+   "tagline": "Genetic discrimination; barred only by a voluntary code",
+   "summary": "The state is sequencing 100,000 newborns while the only thing stopping insurers using genetic results against you is a voluntary code that an industry board could rescind. America and Canada legislated years ago. Nobody in Britain owns the campaign for a law."
   },
   {
    "number": 127,
-   "tagline": "Britain writes world-class privacy tech guidance, then funds none of the tech.",
+   "tagline": "World-class PETs guidance; no deployment fund behind it",
    "summary": "Privacy-enhancing technologies let organisations use data without exposing it, the closest thing to a technical fix for the growth-versus-privacy fight. The UK leads the world in guidance about them and has no standing fund to deploy any. A modest adoption fund, tied to how the NHS and tax office share data, would finally test them at scale."
   },
   {
@@ -712,8 +712,8 @@
   },
   {
    "number": 134,
-   "tagline": "Plane crashes get investigated. Drug reactions get logged. AI failures just vanish.",
-   "summary": "Aviation, medicines and workplace safety all run mandatory incident reporting. AI (now embedded in benefits, policing and hospitals) has nothing, so no one can spot patterns or catch early warnings of bigger failures. A central incident database may be the cheapest single piece of AI preparedness available, and it remains unbuilt."
+   "tagline": "AI incident reporting; every other safety sector has it",
+   "summary": "Aviation, medicines and workplace safety all run mandatory incident reporting. AI, now embedded in benefits, policing and hospitals, has nothing comparable, so no one can spot patterns or catch early warnings of bigger failures. A central incident database may be the cheapest single piece of AI preparedness available, and it remains unbuilt."
   },
   {
    "number": 135,
@@ -742,13 +742,13 @@
   },
   {
    "number": 140,
-   "tagline": "The towns hosting AI data centres could lose their biggest service employers to AI.",
-   "summary": "Call-centre work clusters in the North East, South Wales and central Scotland: the same regions now hosting data-centre building booms that leave few lasting jobs. Displacement lands as local shocks, the lesson of deindustrialisation, yet no exposure map feeds any local growth plan. Transition compacts for the most exposed towns would put an owner on the problem."
+   "tagline": "Contact-centre towns; most exposed, least planned for",
+   "summary": "Call-centre work clusters in the North East, South Wales and central Scotland, the same regions now hosting data-centre building booms that leave few lasting jobs. Displacement lands as local shocks, the lesson of deindustrialisation, and no exposure map feeds any local growth plan. Transition compacts for the most exposed towns would put an owner on the problem."
   },
   {
    "number": 141,
-   "tagline": "An AI agent can cause harm that no person is legally liable for. That's the law now.",
-   "summary": "The Law Commission has identified scenarios where an autonomous system causes harm and no one is legally liable, yet no reform project exists to fix them. Unclear liability chills honest deployment and leaves victims uncompensated, and insurers cannot price the risk. Waiting for the first big uncompensated harm means legislating in a panic."
+   "tagline": "Autonomous AI harms; scenarios exist where no one is liable",
+   "summary": "The Law Commission has identified scenarios where an autonomous system causes harm and no one is legally liable, and no reform project exists to fix them. Unclear liability chills honest deployment, leaves victims uncompensated, and stops insurers pricing the risk. Waiting for the first big uncompensated harm means legislating in a panic."
   },
   {
    "number": 142,
@@ -787,8 +787,8 @@
   },
   {
    "number": 148,
-   "tagline": "A ten-year campaign won a fund for left-behind places. It arrived a tenth of the size.",
-   "summary": "Campaigners spent a decade winning a Community Wealth Fund for neighbourhoods with the least social infrastructure. It launches at £175m, enough to reach only a fraction of the places that qualify. A fixed slice of future dormant assets, plus matched philanthropy, could build the permanent billion-pound endowment the campaign originally imagined."
+   "tagline": "The Community Wealth Fund; won at a tenth of designed scale",
+   "summary": "Campaigners spent a decade winning a Community Wealth Fund for neighbourhoods with the least social infrastructure, and it launches at £175m, enough to reach a fraction of the places that qualify. A fixed slice of future dormant assets, plus matched philanthropy, could build the permanent billion-pound endowment the campaign originally designed."
   },
   {
    "number": 149,
@@ -797,8 +797,8 @@
   },
   {
    "number": 150,
-   "tagline": "The centre that told government what works for wellbeing died waiting for its next grant.",
-   "summary": "Government leans on What Works Centres to say which policies deserve money, then funds them on short grants anyone can drop. The wellbeing centre, which helped shape Treasury spending rules, closed in 2024 when its grants simply ran out. A pooled ten-year funding facility would treat evidence as infrastructure, not a project."
+   "tagline": "Evidence centres; funded on grants anyone can drop",
+   "summary": "Government leans on What Works Centres to say which policies deserve money, then funds them on short grants anyone can drop. The wellbeing centre, which helped shape Treasury spending rules, closed in 2024 when its grants ran out. A pooled ten-year funding facility would treat evidence as infrastructure rather than a project."
   },
   {
    "number": 151,
@@ -897,8 +897,8 @@
   },
   {
    "number": 170,
-   "tagline": "The UK's most valuable health data sits in GP records. Researchers lost the key in 2021.",
-   "summary": "National research access to GP records collapsed in 2021 when a badly launched data programme met public revolt, and nothing has replaced it. Trials, prevention research and the new health-data service all feel the hole. A rebuilt collection (secure-environment access only, co-designed with GPs and patients, with reformed opt-outs) is the settlement waiting to be issued."
+   "tagline": "GP data for research; paused since 2021",
+   "summary": "National research access to GP records collapsed in 2021 when a badly launched data programme met public revolt, and nothing has replaced it. Trials, prevention research and the new health-data service all feel the hole. A rebuilt collection, with secure-environment access only, co-design with GPs and patients, and reformed opt-outs, is the settlement waiting to be issued."
   },
   {
    "number": 171,
@@ -932,8 +932,8 @@
   },
   {
    "number": 177,
-   "tagline": "How many people need care and don't get it? Britain has decided not to count.",
-   "summary": "No official statistic measures how many people need social care and do not receive it; the government declined to produce one, citing methodology. Every funding negotiation therefore starts blind, and charity estimates fill the void. A national statistics series, built from a survey linked to council data, is a well-defined project someone could simply commission."
+   "tagline": "Unmet care need; no official count exists",
+   "summary": "No official statistic measures how many people need social care and do not receive it, and the government declined to produce one, citing methodology. Every funding negotiation therefore starts blind, and charity estimates fill the void. A national statistics series, built from a survey linked to council data, is a well-defined project someone could commission."
   },
   {
    "number": 178,
@@ -942,7 +942,7 @@
   },
   {
    "number": 179,
-   "tagline": "A court ruling broke the funding behind group lawsuits. The fix keeps slipping.",
+   "tagline": "Group-claim funding broken by PACCAR; the fix keeps slipping",
    "summary": "Most big group claims, like the sub-postmasters', run on third-party funding that a 2023 Supreme Court ruling left largely unenforceable. Ministers accepted the fix, then left it out of the King's Speech. A short bill, drafted once already, would settle the rules before more cases and capital move abroad."
   },
   {
@@ -957,18 +957,18 @@
   },
   {
    "number": 182,
-   "tagline": "Four inspectors watch the pieces of criminal justice. Nobody inspects the courts at all.",
-   "summary": "Police, prosecution, prisons and probation each have their own inspectorate, but nobody follows a case from arrest to release or holds the system itself to account. Court administration has gone entirely uninspected since 2010. A chief inspector of criminal justice, with courts back in scope, would close the blind spot."
+   "tagline": "Four inspectorates, none end-to-end; courts uninspected since 2010",
+   "summary": "Police, prosecution, prisons and probation each have their own inspectorate, and nobody follows a case from arrest to release or holds the system itself to account. Court administration has gone entirely uninspected since 2010. A chief inspector of criminal justice, with courts back in scope, would close the blind spot."
   },
   {
    "number": 183,
-   "tagline": "Two decades after Britain's first drug courts, intensive supervision is still a pilot.",
-   "summary": "Intensive supervision courts (judges keeping offenders with addictions on track through community sentences) have piloted since 2023 with no permanent legal basis, no delivery unit and no recurring budget. Sentencing reform is about to send thousands more people to community sentences. Without a rollout vehicle, the expertise dissipates, as earlier drug courts showed."
+   "tagline": "Intensive supervision courts; twenty years and still a pilot",
+   "summary": "Intensive supervision courts, judges keeping offenders with addictions on track through community sentences, have piloted since 2023 with no permanent legal basis, no delivery unit and no recurring budget. Sentencing reform is about to send thousands more people to community sentences. Without a rollout vehicle the expertise dissipates, as earlier drug courts showed."
   },
   {
    "number": 184,
-   "tagline": "Conviction quashed? You still must prove innocence beyond reasonable doubt to be paid.",
-   "summary": "People whose convictions are quashed must prove innocence beyond reasonable doubt to be compensated: a test almost every exoneree fails, judged inside the ministry whose system failed them. Andrew Malkinson left prison to benefit-sanction letters, not payment. The Law Commission's reform blueprint lands at the end of this year."
+   "tagline": "Conviction quashed; compensation still needs proof of innocence",
+   "summary": "People whose convictions are quashed must prove innocence beyond reasonable doubt to be compensated, a test almost every exoneree fails, judged inside the ministry whose system failed them. Andrew Malkinson left prison to benefit-sanction letters rather than payment. The Law Commission's reform blueprint lands at the end of this year."
   },
   {
    "number": 185,

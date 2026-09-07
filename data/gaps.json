@@ -3832,9 +3832,9 @@
   "domain": "portable-sovereignty",
   "type": "knowledge",
   "horizon": "short",
-  "description": "Claims about the usability of sovereignty-stack tools are almost entirely vendor-made. Honest status: Waku is pre-production (public testnet targeted 2026, mainnet 2027) and unproven for ordinary community use; Matrix works but faces metadata-leakage and homeserver-burden critiques; Solid stalled; PDS and mutual-credit pilots are rarely independently evaluated. No What Works-style body runs structured trials of these stacks with actual UK community organisations (housing co-ops, mutual aid groups, parish councils) and publishes comparable results, so funders and councils cannot distinguish production-ready from aspirational, and money chases whitepapers.",
-  "why": "Misallocated trust cuts both ways: communities adopt immature tools and get burned, or dismiss mature ones as crypto-adjacent hype. Sixty years of What Works methodology exists; applying it here would discipline vendors (including the decentralised-web ecosystem itself) and de-risk adoption.",
-  "fill": "A funded 'civic stack test lab' running structured field trials of sovereignty-stack tools with UK community organisations, publishing comparable evaluations, reference architectures and total-cost-of-ownership data.",
+  "description": "Claims about the usability of sovereignty-stack tools are almost entirely vendor-made. The honest status: Waku is pre-production, with a public testnet targeted for 2026 and mainnet in 2027, and unproven for ordinary community use; Matrix works and faces metadata-leakage and homeserver-burden critiques; Solid stalled; personal data store and mutual-credit pilots are rarely independently evaluated. No What Works-style body runs structured trials of these stacks with actual UK community organisations and publishes comparable results, so funders and councils cannot distinguish production-ready from aspirational, and money chases whitepapers.",
+  "why": "Misallocated trust cuts both ways: communities adopt immature tools and get burned, or dismiss mature ones as crypto-adjacent hype. Sixty years of What Works methodology exists. Applying it here would discipline vendors, including the decentralised-web ecosystem itself, and de-risk adoption.",
+  "fill": "A funded civic stack test lab running structured field trials of sovereignty-stack tools with UK community organisations, publishing comparable evaluations, reference architectures and total-cost-of-ownership data.",
   "sources": [
    "https://blog.waku.org/waku-monthly-update-june-2025/",
    "https://blog.waku.org",
@@ -3850,8 +3850,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: comparative field evaluation with a first community-organisation cohort; philanthropically fundable, trials generate the data.",
-  "tagline": "Nearly every claim about community tech comes from the people selling it.",
-  "summary": "Councils and funders weighing decentralised tools (encrypted messaging, data stores, digital currencies) rely almost entirely on vendor claims. Nobody runs structured field trials with real housing co-ops or parish councils and publishes comparable results. A test lab would tell communities which tools are ready and which are still whitepapers.",
+  "tagline": "Community tech evidence; almost all of it vendor-made",
+  "summary": "Councils and funders weighing decentralised tools, encrypted messaging, data stores and digital currencies among them, rely almost entirely on vendor claims. Nobody runs structured field trials with real housing co-ops or parish councils and publishes comparable results. A test lab would tell communities which tools are ready and which are still whitepapers.",
   "seeAlso": [
    {
     "number": 214,
@@ -3861,7 +3861,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "Vendor claims dominate and no What Works-style body independently trials these tools with real communities, a proven methodology exists to apply, but no deadline forces it."
+  "rankNote": "Vendor claims dominate and no What Works-style body independently trials these tools with real communities; the methodology exists and no deadline forces it."
  },
  {
   "number": 119,
@@ -3959,9 +3959,9 @@
   "domain": "privacy",
   "type": "policy",
   "horizon": "short",
-  "description": "Section 166 DPA 2018 lets complainants ask the First-tier Tribunal only to fix procedural failings, not to review the outcome; the Court of Appeal in R (Delo) v ICO confirmed the Commissioner need not determine every complaint. Judicial review is expensive and deferential. This is how the ICO's own 2019 finding that real-time bidding systemically breaches UK GDPR could end in closed complaints (Killock & Veale) and zero RTB enforcement seven years on, while its 2026 tracking strategy focuses on cookie banners and accommodates consent-or-pay.",
-  "why": "A regulator whose inaction cannot be appealed on the merits faces asymmetric incentives: enforcement risks appeals from deep-pocketed firms, inaction risks nothing. The adtech failure shows the result: documented unlawfulness at population scale with no remedy.",
-  "fill": "Statutory duty to determine complaints within deadlines plus a merits appeal to the First-tier Tribunal against ICO complaint outcomes, mirroring the FOI s50 decision-notice model.",
+  "description": "Section 166 of the DPA 2018 lets complainants ask the First-tier Tribunal only to fix procedural failings rather than review the outcome, and the Court of Appeal in R (Delo) v ICO confirmed the Commissioner need not determine every complaint. Judicial review is expensive and deferential. This is how the ICO's own 2019 finding that real-time bidding systemically breaches UK GDPR could end in closed complaints and zero enforcement seven years on, while its 2026 tracking strategy focuses on cookie banners and accommodates consent-or-pay.",
+  "why": "A regulator whose inaction cannot be appealed on the merits faces asymmetric incentives: enforcement risks appeals from deep-pocketed firms, and inaction risks nothing. The adtech record shows the result, documented unlawfulness at population scale with no remedy.",
+  "fill": "A statutory duty to determine complaints within deadlines, plus a merits appeal to the First-tier Tribunal against ICO complaint outcomes, mirroring the FOI section 50 decision-notice model.",
   "sources": [
    "https://www.handleygill.co.uk/handley-gill-blog/data-protection-complaints-data-use-and-access-act-2025-information-commissioner-data-protection-complaints-handling-consultation",
    "https://www.computerweekly.com/news/252495225/ICO-resumes-adtech-investigation",
@@ -3976,8 +3976,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory complaint deadlines plus First-tier Tribunal merits appeal.",
-  "tagline": "There is no appeal when the data watchdog looks at a breach and does nothing.",
-  "summary": "The Information Commissioner found the online ad industry systemically breaking data law in 2019 and has never enforced against it, and complainants can only challenge the paperwork, not the outcome. A regulator whose inaction carries no risk will keep choosing inaction. A merits appeal to a tribunal, as freedom-of-information law already has, would rebalance the incentives.",
+  "tagline": "ICO declines to enforce; the outcome cannot be appealed",
+  "summary": "The Information Commissioner found the online ad industry systemically breaking data law in 2019 and has never enforced against it, and complainants can only challenge the paperwork rather than the outcome. A regulator whose inaction carries no risk will keep choosing inaction. A merits appeal to a tribunal, as freedom-of-information law already has, would rebalance the incentives.",
   "seeAlso": [
    {
     "number": 159,
@@ -3987,7 +3987,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "Regulator inaction is unappealable on the merits, letting documented population-scale adtech unlawfulness go unremedied; the FOI decision-notice model is copyable, but the fix needs legislation with no dated trigger."
+  "rankNote": "Regulator inaction is unappealable on the merits, letting documented population-scale adtech unlawfulness go unremedied; the FOI model is copyable and the fix needs legislation."
  },
  {
   "number": 122,
@@ -4124,9 +4124,9 @@
   "domain": "privacy",
   "type": "policy",
   "horizon": "mid",
-  "description": "The UK has no statute banning genetic discrimination, unlike the US (GINA) or Canada (Genetic Non-Discrimination Act). Insurers' use of predictive genetic tests is limited only by the voluntary ABI Code on Genetic Testing and Insurance (three-year review, 2025), binding only signatories; employment protection is indirect via the Equality Act 2010. Meanwhile the state is normalising population genomics: the Generation Study is sequencing 100,000 newborns, and the 23andMe breach (£2.31m ICO fine, 2025) showed how genomic data leaks. The Progress Educational Trust and academics have called for legislation; no organisation owns the campaign.",
-  "why": "Newborns sequenced today carry that data for 80+ years under a code that can be rescinded by an industry board. Fear of genetic disadvantage measurably suppresses research participation and screening uptake, undermining the UK's genomics strategy itself.",
-  "fill": "A statutory prohibition on genetic discrimination in insurance and employment, plus statutory rules governing law-enforcement access to research genomic databases (NGRL, UK Biobank).",
+  "description": "The UK has no statute banning genetic discrimination, unlike the US with GINA or Canada with its Genetic Non-Discrimination Act. Insurers' use of predictive genetic tests is limited only by the voluntary ABI Code on Genetic Testing and Insurance, on a three-year review cycle as of 2025 and binding only its signatories, and employment protection is indirect through the Equality Act 2010. The state is meanwhile normalising population genomics: the Generation Study is sequencing 100,000 newborns, and the 23andMe breach, fined £2.31m by the ICO in 2025, showed how genomic data leaks. The Progress Educational Trust and academics have called for legislation, and no organisation owns the campaign.",
+  "why": "Newborns sequenced today carry that data for eighty years and more, under a code an industry board can rescind. Fear of genetic disadvantage measurably suppresses research participation and screening uptake, which undermines the UK's genomics strategy itself.",
+  "fill": "A statutory prohibition on genetic discrimination in insurance and employment, plus statutory rules governing law-enforcement access to research genomic databases.",
   "sources": [
    "https://www.gov.uk/government/publications/code-on-genetic-testing-and-insurance-3-year-review-2025/code-on-genetic-testing-and-insurance-3-year-review-2025",
    "https://www.progress.org.uk/why-the-uk-needs-a-law-to-prevent-genetic-discrimination/",
@@ -4141,10 +4141,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory prohibition on genetic discrimination plus law-enforcement access rules.",
-  "tagline": "Your genome is protected by a gentleman's agreement with the insurance industry.",
-  "summary": "The state is sequencing 100,000 newborns while the only thing stopping insurers using genetic results against you is a voluntary code that an industry board could rescind. America and Canada legislated years ago. Nobody in Britain even owns the campaign for a law.",
+  "tagline": "Genetic discrimination; barred only by a voluntary code",
+  "summary": "The state is sequencing 100,000 newborns while the only thing stopping insurers using genetic results against you is a voluntary code that an industry board could rescind. America and Canada legislated years ago. Nobody in Britain owns the campaign for a law.",
   "rank": 2,
-  "rankNote": "No statute bars genetic discrimination, only a rescindable industry code, and nobody owns the campaign; foreign models exist but stakes are contained for now with no dated trigger."
+  "rankNote": "No statute bars genetic discrimination, only a rescindable industry code, and nobody owns the campaign; foreign models exist and the stakes stay contained for now."
  },
  {
   "number": 127,
@@ -4153,9 +4153,9 @@
   "domain": "privacy",
   "type": "funding",
   "horizon": "mid",
-  "description": "The UK produces world-class privacy-enhancing-technologies guidance (ICO 2023, world-first) and research (REPHRAIN, EPSRC), and DSIT/ICO shipped a PETs cost-benefit tool (Nov 2024) after the ICO's own report found adoption persistently low. But translation money is one-off: the UK–US PETs prize (2022–23) ended; the NHS–US National Cancer Institute PETs pilot (2025) has no scale-up vehicle; and no UK body pays for maintenance of open-source privacy infrastructure the way Germany's Sovereign Tech Fund does. Innovate UK has no standing PETs programme.",
-  "why": "PETs are the technical resolution of the UK's 'growth vs privacy' dilemma, enabling data use without data exposure, and a plausible export strength. Guidance without procurement pull or deployment funding has demonstrably failed to move adoption for three years.",
-  "fill": "A DSIT/Innovate UK PETs adoption fund (~£20–50m): procurement-linked challenges in NHS/ONS/HMRC data sharing plus maintenance grants for open-source privacy tooling, or a privacy strand of any future UK sovereign tech fund.",
+  "description": "The UK produces world-class privacy-enhancing-technologies guidance, with the ICO's 2023 publication a world first, and research through REPHRAIN and EPSRC, and DSIT and the ICO shipped a cost-benefit tool in November 2024 after the ICO's own report found adoption persistently low. Translation money is one-off. The UK-US PETs prize ended in 2023, the NHS and US National Cancer Institute pilot of 2025 has no scale-up vehicle, and no UK body pays for maintenance of open-source privacy infrastructure the way Germany's Sovereign Tech Fund does. Innovate UK has no standing PETs programme.",
+  "why": "PETs are the technical resolution of the growth-versus-privacy dilemma, enabling data use without data exposure, and a plausible export strength. Guidance without procurement pull or deployment funding has demonstrably failed to move adoption for three years.",
+  "fill": "A DSIT and Innovate UK PETs adoption fund at £20-50m: procurement-linked challenges in NHS, ONS and HMRC data sharing, plus maintenance grants for open-source privacy tooling, or a privacy strand of any future UK sovereign tech fund.",
   "sources": [
    "https://ico.org.uk/about-the-ico/research-reports-impact-and-evaluation/research-and-reports/technology-and-innovation/tackling-barriers-to-privacy-enhancing-technologies-adoption/",
    "https://www.gov.uk/government/publications/privacy-enhancing-technologies-cost-benefit-awareness-tool",
@@ -4171,7 +4171,7 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: DSIT/Innovate UK or a willing data-holding body (NHS, ONS, HMRC); a philanthropy-seeded PETs challenge with one public partner needs no legislation.",
-  "tagline": "Britain writes world-class privacy tech guidance, then funds none of the tech.",
+  "tagline": "World-class PETs guidance; no deployment fund behind it",
   "summary": "Privacy-enhancing technologies let organisations use data without exposing it, the closest thing to a technical fix for the growth-versus-privacy fight. The UK leads the world in guidance about them and has no standing fund to deploy any. A modest adoption fund, tied to how the NHS and tax office share data, would finally test them at scale.",
   "dialogue": {
    "counterparty": "government-bodies",
@@ -4195,7 +4195,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "PETs could dissolve the growth-versus-privacy dilemma but translation money is one-off with no standing programme; a fund is straightforward yet moderate-stakes and lacks any time pressure."
+  "rankNote": "PETs could dissolve the growth-versus-privacy dilemma, and translation money stays one-off with no standing programme; the fund is straightforward and lacks time pressure."
  },
  {
   "number": 129,
@@ -4389,9 +4389,9 @@
   "domain": "ai-crisis",
   "type": "coordination",
   "horizon": "short",
-  "description": "Identified by CLTR in 2024 and still unfilled: DSIT has no central, live picture of AI incidents in the UK. Aviation (AAIB), medicines (MHRA Yellow Card) and workplace safety all have mandatory incident regimes; AI has none. Fragments sit with individual regulators; failures of government's own AI tools (Humphrey suite, DWP/HMRC systems) have no mandatory reporting route; misuse incidents (fraud, disinformation) are counted by nobody.",
-  "why": "Without incident data the state cannot detect patterns, coordinate responses to a major AI failure, or catch early warnings of larger-scale harms: the same blindness that preceded past regulatory disasters in other sectors. It is also the cheapest single preparedness measure available.",
-  "fill": "A central AI incident database run by DSIT/AISI with a statutory reporting duty on public bodies and thresholds for private-sector reporting; longer term, an AI Incident Investigation Branch modelled on the Air Accidents Investigation Branch with no-blame investigative powers.",
+  "description": "CLTR identified the gap in 2024 and it remains unfilled: DSIT has no central, live picture of AI incidents in the UK. Aviation has the AAIB, medicines have the MHRA Yellow Card scheme, and workplace safety has mandatory regimes; AI has none. Fragments sit with individual regulators, failures of government's own AI tools have no mandatory reporting route, and misuse incidents in fraud and disinformation are counted by nobody.",
+  "why": "Without incident data the state cannot detect patterns, coordinate responses to a major AI failure, or catch early warnings of larger-scale harms, the blindness that preceded past regulatory disasters in other sectors. It is also the cheapest single preparedness measure available.",
+  "fill": "A central AI incident database run by DSIT and AISI with a statutory reporting duty on public bodies and thresholds for private-sector reporting. Longer term, an AI incident investigation branch modelled on the Air Accidents Investigation Branch, with no-blame investigative powers.",
   "sources": [
    "https://www.longtermresilience.org/reports/ai-incident-reporting-addressing-a-gap-in-the-uks-regulation-of-ai/"
   ],
@@ -4404,10 +4404,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory reporting duty and DSIT/AISI-run database; investigation branch later.",
-  "tagline": "Plane crashes get investigated. Drug reactions get logged. AI failures just vanish.",
-  "summary": "Aviation, medicines and workplace safety all run mandatory incident reporting. AI (now embedded in benefits, policing and hospitals) has nothing, so no one can spot patterns or catch early warnings of bigger failures. A central incident database may be the cheapest single piece of AI preparedness available, and it remains unbuilt.",
+  "tagline": "AI incident reporting; every other safety sector has it",
+  "summary": "Aviation, medicines and workplace safety all run mandatory incident reporting. AI, now embedded in benefits, policing and hospitals, has nothing comparable, so no one can spot patterns or catch early warnings of bigger failures. A central incident database may be the cheapest single piece of AI preparedness available, and it remains unbuilt.",
   "rank": 2,
-  "rankNote": "Aviation and medicines run mandatory incident regimes while AI has none; the database is the cheapest preparedness measure, wholly unowned since 2024, though no fixed date forces it.",
+  "rankNote": "Aviation and medicines run mandatory incident regimes while AI has none; the database is the cheapest preparedness measure and has been wholly unowned since 2024.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "Incident volume scales with deployment; the reporting function must exist before the first major cascade."
  },
@@ -4571,9 +4571,9 @@
   "domain": "ai-crisis",
   "type": "coordination",
   "horizon": "mid",
-  "description": "Call-centre employment fell ~19% and telephone sales ~23% (2021-25, Annual Population Survey via British Progress); Forrester projects contact-centre jobs halving by 2030. These jobs cluster in specific labour markets (the North East, South Wales, central Scotland), which overlap AI Growth Zone areas whose data centres create construction but few continuing jobs. No exposure mapping feeds Local Growth Plans; combined authorities have neither the data nor a duty to plan; DWP employment support is not AI-aware. Nobody links the two policy worlds.",
-  "why": "Displacement will be experienced as place-level shocks, not national averages: the deindustrialisation lesson. The same towns hosting AI Growth Zone data centres could see their largest service employers automate, a politically combustible combination with no owner in Whitehall or town halls.",
-  "fill": "AI transition compacts for the 10-20 most-exposed local labour markets: occupation-level exposure mapping (from the Observatory in gap 1), pooled DWP/Skills England/local growth funding, employer early-notification norms for AI-driven restructuring, and AI Growth Zone community-benefit clauses tied to local retraining.",
+  "description": "Call-centre employment fell about 19 per cent and telephone sales about 23 per cent between 2021 and 2025 on Annual Population Survey data, and Forrester projects contact-centre jobs halving by 2030. These jobs cluster in specific labour markets, the North East, South Wales and central Scotland, which overlap the AI Growth Zone areas whose data centres create construction work and few continuing jobs. No exposure mapping feeds Local Growth Plans, combined authorities have neither the data nor a duty to plan, and DWP employment support is not AI-aware. Nobody links the two policy worlds.",
+  "why": "Displacement will be experienced as place-level shocks rather than national averages, the deindustrialisation lesson. The same towns hosting AI Growth Zone data centres could see their largest service employers automate, a politically combustible combination with no owner in Whitehall or the town halls.",
+  "fill": "AI transition compacts for the ten to twenty most exposed local labour markets: occupation-level exposure mapping, pooled DWP, Skills England and local growth funding, employer early-notification norms for AI-driven restructuring, and community-benefit clauses in AI Growth Zone deals tied to local retraining.",
   "sources": [
    "https://britishprogress.org/reports/ai-and-the-uk-labour-market-the-evidence-so-far",
    "https://contact-centres.com/forrester-predicts-that-ai-will-reduce-contact-centre-jobs-by-50/",
@@ -4588,8 +4588,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: one metro mayor or local authority compact pooling DWP/Skills England funding; exposure mapping is doable today.",
-  "tagline": "The towns hosting AI data centres could lose their biggest service employers to AI.",
-  "summary": "Call-centre work clusters in the North East, South Wales and central Scotland: the same regions now hosting data-centre building booms that leave few lasting jobs. Displacement lands as local shocks, the lesson of deindustrialisation, yet no exposure map feeds any local growth plan. Transition compacts for the most exposed towns would put an owner on the problem.",
+  "tagline": "Contact-centre towns; most exposed, least planned for",
+  "summary": "Call-centre work clusters in the North East, South Wales and central Scotland, the same regions now hosting data-centre building booms that leave few lasting jobs. Displacement lands as local shocks, the lesson of deindustrialisation, and no exposure map feeds any local growth plan. Transition compacts for the most exposed towns would put an owner on the problem.",
   "dialogue": {
    "counterparty": "councils",
    "ask": "Work with us on the country's first AI transition compact: exposure map first, then pooled retraining money and early-notification arrangements with large local employers.",
@@ -4598,7 +4598,7 @@
    "firstStep": "A 90-day exposure-mapping exercise for the authority's area, using public data, presented to officers before anything is published, proceeding to a compact only if the map shows a case."
   },
   "rank": 2,
-  "rankNote": "Displacement will land as local shocks in the very towns hosting data-centre booms, yet no exposure map feeds any growth plan and the mapping is doable today.",
+  "rankNote": "Displacement will land as local shocks in the towns hosting the data-centre booms, and no exposure map feeds any growth plan although the mapping is doable today.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "Contact-centre and back-office automation lands within one procurement cycle in exposed towns."
  },
@@ -4609,9 +4609,9 @@
   "domain": "ai-crisis",
   "type": "policy",
   "horizon": "long",
-  "description": "The Law Commission's discussion paper (31 July 2025) identifies genuine liability gaps (scenarios where 'no natural or legal person is liable' for harm caused by adaptive autonomous systems), plus causation and opacity problems, but it is a scoping paper with no commissioned reform project behind it. The UK Jurisdiction Taskforce consulted on a draft legal statement on AI liability under English private law (Jan 2026), which can clarify but not change law. Meanwhile AISI finds agent task-complexity doubling roughly every seven-to-eight months: agentic deployment is accelerating ahead of any framework, and insurers cannot price the risk.",
-  "why": "Unclear liability chills legitimate deployment (buyers cannot allocate risk) while under-protecting victims (harms with no defendant). As agents transact, hire and advise autonomously, the first major uncompensated AI harm will force rushed, badly-designed legislation: the worst way to make private law.",
-  "fill": "Commission a full Law Commission reform project with a reporting deadline, leading to an AI Liability Act: attribution rules for agentic systems, strict-liability channels for defined high-risk deployments, mandatory insurance for operators; interim statutory guidance for courts building on the UKJT statement.",
+  "description": "The Law Commission's discussion paper of 31 July 2025 identifies genuine liability gaps, scenarios where no natural or legal person is liable for harm caused by adaptive autonomous systems, along with causation and opacity problems, and it is a scoping paper with no commissioned reform project behind it. The UK Jurisdiction Taskforce consulted on a draft legal statement on AI liability under English private law in January 2026, which can clarify but not change the law. AISI meanwhile finds agent task-complexity doubling roughly every seven to eight months, so agentic deployment accelerates ahead of any framework, and insurers cannot price the risk.",
+  "why": "Unclear liability chills legitimate deployment, because buyers cannot allocate risk, and under-protects victims, who face harms with no defendant. As agents transact, hire and advise autonomously, the first major uncompensated AI harm will force rushed legislation, the worst way to make private law.",
+  "fill": "Commission a full Law Commission reform project with a reporting deadline, leading to an AI Liability Act: attribution rules for agentic systems, strict-liability channels for defined high-risk deployments, and mandatory insurance for operators, with interim statutory guidance for courts building on the taskforce statement.",
   "sources": [
    "https://lawcom.gov.uk/news/artificial-intelligence-and-the-law-a-discussion-paper/",
    "https://www.hsfkramer.com/notes/litigation/2026-01/uk-jurisdiction-taskforce-consults-on-draft-legal-statement-on-liability-for-ai-harms",
@@ -4626,10 +4626,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: commissioned Law Commission project leading to an AI Liability Act.",
-  "tagline": "An AI agent can cause harm that no person is legally liable for. That's the law now.",
-  "summary": "The Law Commission has identified scenarios where an autonomous system causes harm and no one is legally liable, yet no reform project exists to fix them. Unclear liability chills honest deployment and leaves victims uncompensated, and insurers cannot price the risk. Waiting for the first big uncompensated harm means legislating in a panic.",
+  "tagline": "Autonomous AI harms; scenarios exist where no one is liable",
+  "summary": "The Law Commission has identified scenarios where an autonomous system causes harm and no one is legally liable, and no reform project exists to fix them. Unclear liability chills honest deployment, leaves victims uncompensated, and stops insurers pricing the risk. Waiting for the first big uncompensated harm means legislating in a panic.",
   "rank": 2,
-  "rankNote": "Autonomous systems can already cause harm no one is liable for, but the fix needs a multi-year Law Commission project not yet commissioned, and no date forces it.",
+  "rankNote": "Autonomous systems can already cause harm no one is liable for, and the fix needs a multi-year Law Commission project not yet commissioned.",
   "capabilityTime": "2–4 model generations",
   "capabilityTimeNote": "Autonomous-harm liability becomes urgent as agentic systems act with money and infrastructure."
  },
@@ -4753,9 +4753,9 @@
   "domain": "civic-society",
   "type": "funding",
   "horizon": "mid",
-  "description": "After Local Trust's decade-long campaign, dormant assets will fund a Community Wealth Fund for 'left-behind' neighbourhoods, but at £87.5m (matched by £87.5m of Lottery money, £175m total), delivering £1-2.5m per neighbourhood over ten years to a limited set of areas. Campaign modelling envisaged a permanent endowment an order of magnitude larger to reach the hundreds of qualifying neighbourhoods. Only ~£90m more is forecast to enter the English scheme by 2028, contested between four causes.",
-  "why": "Neighbourhoods with low social infrastructure are where civic participation, health and economic outcomes are worst; long-horizon patient capital is the only funding type shown (Big Local) to work there. Underscale means a postcode lottery among equally deprived places.",
-  "fill": "A statutory commitment of a fixed share of all future dormant-assets tranches to the CWF, faster onboarding of pensions/insurance/securities assets into the expanded scheme, and a philanthropic/corporate match campaign to build a £1bn permanent endowment.",
+  "description": "After Local Trust's decade-long campaign, dormant assets will fund a Community Wealth Fund for left-behind neighbourhoods at £87.5m, matched by £87.5m of Lottery money for £175m in total, delivering £1-2.5m per neighbourhood over ten years to a limited set of areas. Campaign modelling envisaged a permanent endowment an order of magnitude larger, reaching the hundreds of qualifying neighbourhoods. Only about £90m more is forecast to enter the English scheme by 2028, contested between four causes.",
+  "why": "Neighbourhoods with low social infrastructure are where civic participation, health and economic outcomes are worst, and long-horizon patient capital is the only funding type Big Local showed to work there. Underscale means a postcode lottery among equally deprived places.",
+  "fill": "A statutory commitment of a fixed share of all future dormant-assets tranches to the fund, faster onboarding of pensions, insurance and securities assets into the expanded scheme, and a philanthropic and corporate match campaign to build a £1bn permanent endowment.",
   "sources": [
    "https://www.gov.uk/government/publications/dormant-assets-scheme-strategy/dormant-assets-scheme-strategy",
    "https://www.gov.uk/government/consultations/technical-consultation-on-a-community-wealth-fund-in-england/outcome/government-response-to-the-technical-consultation-on-the-design-of-a-community-wealth-fund-in-england",
@@ -4770,11 +4770,11 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory share of future dormant-assets tranches; the philanthropic match campaign only supplements state-controlled capital.",
-  "tagline": "A ten-year campaign won a fund for left-behind places. It arrived a tenth of the size.",
-  "summary": "Campaigners spent a decade winning a Community Wealth Fund for neighbourhoods with the least social infrastructure. It launches at £175m, enough to reach only a fraction of the places that qualify. A fixed slice of future dormant assets, plus matched philanthropy, could build the permanent billion-pound endowment the campaign originally imagined.",
+  "tagline": "The Community Wealth Fund; won at a tenth of designed scale",
+  "summary": "Campaigners spent a decade winning a Community Wealth Fund for neighbourhoods with the least social infrastructure, and it launches at £175m, enough to reach a fraction of the places that qualify. A fixed slice of future dormant assets, plus matched philanthropy, could build the permanent billion-pound endowment the campaign originally designed.",
   "facet": "funding-gaps",
   "rank": 2,
-  "rankNote": "Patient capital is the only thing shown to work in the worst-off neighbourhoods, but the fund exists and is funded, merely underscale, making this a scaling fight not a vacuum."
+  "rankNote": "Patient capital is the only thing shown to work in the worst-off neighbourhoods, and the fund exists, is funded and is merely underscale, which makes this a scaling fight."
  },
  {
   "number": 150,
@@ -4783,9 +4783,9 @@
   "domain": "civic-society",
   "type": "institutional",
   "horizon": "short",
-  "description": "The What Works Centre for Wellbeing closed in April 2024 when its grants ended (despite shaping the Treasury Green Book and national wellbeing frameworks) because, as NPC noted, a cross-cutting remit means 'everyone's responsibility and no-one's': no single department owns it. Other centres survive on short departmental grants renewed at political discretion. No endowment or statutory core-funding mechanism underpins the evidence bodies government itself cites.",
-  "why": "Evidence intermediaries are textbook public goods: every department benefits, none will pay. Letting them die one by one destroys accumulated methodological capital and makes 'what works' government rhetoric hollow precisely as fiscal pressure raises the value of knowing what to cut.",
-  "fill": "A pooled ten-year core-funding facility for cross-departmental evidence bodies, administered via the Cabinet Office Evaluation Task Force or an endowed independent 'Evidence Foundation', with mixed government and foundation capital and explicit continuity rules.",
+  "description": "The What Works Centre for Wellbeing closed in April 2024 when its grants ended, despite shaping the Treasury Green Book and national wellbeing frameworks, because, as NPC noted, a cross-cutting remit means everyone's responsibility and no one's: no single department owns it. Other centres survive on short departmental grants renewed at political discretion. No endowment or statutory core-funding mechanism underpins the evidence bodies government itself cites.",
+  "why": "Evidence intermediaries are textbook public goods: every department benefits and none will pay. Letting them die one by one destroys accumulated methodological capital, and it hollows the what-works rhetoric exactly as fiscal pressure raises the value of knowing what to cut.",
+  "fill": "A pooled ten-year core-funding facility for cross-departmental evidence bodies, administered through the Cabinet Office Evaluation Task Force or an endowed independent evidence foundation, with mixed government and foundation capital and explicit continuity rules.",
   "sources": [
    "https://whatworkswellbeing.org/blog/statement-of-closure/",
    "https://www.thinknpc.org/blog/in-praise-of-the-defunct-what-works-centre-for-wellbeing/",
@@ -4803,8 +4803,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: Cabinet Office Evaluation Task Force plus foundations co-capitalising a ten-year facility; no legislation, but needs government at the table.",
-  "tagline": "The centre that told government what works for wellbeing died waiting for its next grant.",
-  "summary": "Government leans on What Works Centres to say which policies deserve money, then funds them on short grants anyone can drop. The wellbeing centre, which helped shape Treasury spending rules, closed in 2024 when its grants simply ran out. A pooled ten-year funding facility would treat evidence as infrastructure, not a project.",
+  "tagline": "Evidence centres; funded on grants anyone can drop",
+  "summary": "Government leans on What Works Centres to say which policies deserve money, then funds them on short grants anyone can drop. The wellbeing centre, which helped shape Treasury spending rules, closed in 2024 when its grants ran out. A pooled ten-year funding facility would treat evidence as infrastructure rather than a project.",
   "dialogue": {
    "counterparty": "government-bodies",
    "ask": "Design with us a pooled ten-year core-funding facility for cross-departmental evidence bodies, capitalised jointly by government and foundations.",
@@ -4835,7 +4835,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "Cross-cutting evidence bodies government itself cites are dying one by one because no department owns them, and the fix is a pooled facility that is ready but not yet anyone's job."
+  "rankNote": "Cross-cutting evidence bodies government itself cites are dying one by one because no department owns them, and the pooled facility is ready to design and nobody's job."
  },
  {
   "number": 152,
@@ -5192,9 +5192,9 @@
   "domain": "health-social-care",
   "type": "policy",
   "horizon": "short",
-  "description": "The General Practice Data for Planning and Research programme has been paused since 2021 and never restarted. National research access to primary-care records relies on partial workarounds: the GPES Data for Consented Research collection (2026-28) covers only consented cohorts; CPRD covers a subset of practices. Missing is the policy instrument itself: a re-consulted national GP data collection with SDE-only access and a settled opt-out regime. The new Health Data Research Service is the plausible operator, but no one has issued the settlement.",
-  "why": "Primary-care data is the UK's most valuable research asset; its absence hollows out the HDRS's core promise, trials recruitment and prevention research. A second botched launch would entrench distrust; millions registered opt-outs after care.data and GPDPR.",
-  "fill": "A new data collection direction for GP data-for-research with SDE-only dissemination, co-designed with RCGP, the BMA and the National Data Guardian, coupled with reform of the national data opt-out and a funded public deliberation programme. DHSC and HDRS could deliver it; a foundation could fund the deliberative work.",
+  "description": "The General Practice Data for Planning and Research programme has been paused since 2021 and never restarted. National research access to primary-care records relies on partial workarounds: the GPES Data for Consented Research collection for 2026-28 covers only consented cohorts, and CPRD covers a subset of practices. The missing piece is the policy instrument itself, a re-consulted national GP data collection with secure-environment-only access and a settled opt-out regime. The new Health Data Research Service is the plausible operator, and no one has issued the settlement.",
+  "why": "Primary-care data is the UK's most valuable research asset, and its absence hollows out the health data service's core promise, trials recruitment and prevention research. A second botched launch would entrench distrust; millions registered opt-outs after care.data and GPDPR.",
+  "fill": "A new data collection direction for GP data for research with secure-environment-only dissemination, co-designed with RCGP, the BMA and the National Data Guardian, coupled with reform of the national data opt-out and a funded public deliberation programme. DHSC and the Health Data Research Service could deliver it, and a foundation could fund the deliberative work.",
   "sources": [
    "https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/general-practice-data-for-planning-and-research",
    "https://wellcome.org/research-funding/funding-portfolio/major-initiatives/health-data-research-service",
@@ -5209,8 +5209,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: DHSC data collection direction with SDE-only dissemination and opt-out reform; foundations can fund deliberation but cannot issue the direction.",
-  "tagline": "The UK's most valuable health data sits in GP records. Researchers lost the key in 2021.",
-  "summary": "National research access to GP records collapsed in 2021 when a badly launched data programme met public revolt, and nothing has replaced it. Trials, prevention research and the new health-data service all feel the hole. A rebuilt collection (secure-environment access only, co-designed with GPs and patients, with reformed opt-outs) is the settlement waiting to be issued.",
+  "tagline": "GP data for research; paused since 2021",
+  "summary": "National research access to GP records collapsed in 2021 when a badly launched data programme met public revolt, and nothing has replaced it. Trials, prevention research and the new health-data service all feel the hole. A rebuilt collection, with secure-environment access only, co-design with GPs and patients, and reformed opt-outs, is the settlement waiting to be issued.",
   "seeAlso": [
    {
     "number": 125,
@@ -5226,7 +5226,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "Primary-care data is the UK's most valuable research asset, but the settlement stays paused five years on with only partial workarounds and no dated trigger forcing action now."
+  "rankNote": "Primary-care data is the UK's most valuable research asset, and the settlement stays paused five years on with only partial workarounds."
  },
  {
   "number": 171,
@@ -5424,9 +5424,9 @@
   "domain": "health-social-care",
   "type": "knowledge",
   "horizon": "short",
-  "description": "In its response to the HSCC 'cost of inaction' report, the government declined to publish annual assessments of unmet care need, citing methodological challenges. No ONS or DHSC official series measures how many people need care and do not receive it; charity estimates fill the void without official status. The new client-level data collection from councils covers only people already in contact with services, so the denominator of need is invisible.",
-  "why": "Casey phase 2 and any future funding settlement will be negotiated blind: you cannot size a national care service, or evaluate the Fair Pay Agreement's effect on capacity, without an official measure of unmet need. What gets measured gets funded.",
-  "fill": "An ONS-badged official statistics series on unmet social care need (a recurring survey module linked to administrative data), commissioned by DHSC, with NIHR methods funding; ONS and the Health Foundation's REAL Centre could co-develop the methodology the government says is missing.",
+  "description": "In its response to the Health and Social Care Committee's report on the cost of inaction, the government declined to publish annual assessments of unmet care need, citing methodological challenges. No ONS or DHSC official series measures how many people need care and do not receive it, and charity estimates fill the void without official status. The new client-level data collection from councils covers only people already in contact with services, so the denominator of need stays invisible.",
+  "why": "Casey phase 2 and any future funding settlement will be negotiated blind: nobody can size a national care service, or evaluate the Fair Pay Agreement's effect on capacity, without an official measure of unmet need.",
+  "fill": "An ONS-badged official statistics series on unmet social care need, a recurring survey module linked to administrative data, commissioned by DHSC with NIHR methods funding. ONS and the Health Foundation's REAL Centre could co-develop the methodology the government says is missing.",
   "sources": [
    "https://www.gov.uk/government/publications/adult-social-care-and-the-cost-of-inaction-government-response-to-the-hscc/adult-social-care-reform-and-the-cost-of-inaction-government-response-to-the-health-and-social-care-committee-hscc-report"
   ],
@@ -5439,10 +5439,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: DHSC-commissioned ONS official statistics series. Official status is the gap; unofficial charity estimates already exist and fall short.",
-  "tagline": "How many people need care and don't get it? Britain has decided not to count.",
-  "summary": "No official statistic measures how many people need social care and do not receive it; the government declined to produce one, citing methodology. Every funding negotiation therefore starts blind, and charity estimates fill the void. A national statistics series, built from a survey linked to council data, is a well-defined project someone could simply commission.",
+  "tagline": "Unmet care need; no official count exists",
+  "summary": "No official statistic measures how many people need social care and do not receive it, and the government declined to produce one, citing methodology. Every funding negotiation therefore starts blind, and charity estimates fill the void. A national statistics series, built from a survey linked to council data, is a well-defined project someone could commission.",
   "rank": 2,
-  "rankNote": "Casey phase 2 and any funding settlement will be negotiated blind without an official unmet-need measure, and the methodology ONS and the REAL Centre could build stays uncommissioned."
+  "rankNote": "Casey phase 2 and any funding settlement will be negotiated blind without an official unmet-need measure, and the methodology stays uncommissioned."
  },
  {
   "number": 178,
@@ -5481,9 +5481,9 @@
   "domain": "justice-access",
   "type": "policy",
   "horizon": "short",
-  "description": "The Supreme Court's 2023 PACCAR ruling made most litigation funding agreements unenforceable damages-based agreements. The Civil Justice Council's June 2025 final report recommended legislation reversing PACCAR (retrospectively and prospectively) plus light-touch regulation. On 17 December 2025 justice minister Sarah Sackman KC accepted the two primary recommendations, but prospective-only and with no bill: the 2026 King's Speech omitted it. The previous Litigation Funding Agreements (Enforceability) Bill fell at the 2024 election. No organisation can fill this: only primary legislation works, and the Association of Litigation Funders' voluntary code has no statutory force.",
-  "why": "Third-party funding underwrites most UK group claims: sub-postmasters, competition, environmental and data actions. Continued unenforceability risk deters funders, raises capital costs, and pushes cases and funding business abroad; the Law Gazette reports the sector losing competitive edge to jurisdictions with settled rules.",
-  "fill": "A short Litigation Funding (Enforceability and Regulation) Bill: clarify LFAs are not DBAs and establish the CJC-recommended proportionate regulatory scheme. Drafting exists from the 2024 bill; the CJC report supplies the regulatory design. A founder/funder-actionable adjunct: an independent monitor of funded-claim outcomes and funder returns to inform the regime.",
+  "description": "The Supreme Court's 2023 PACCAR ruling made most litigation funding agreements unenforceable damages-based agreements. The Civil Justice Council's June 2025 final report recommended legislation reversing PACCAR, retrospectively and prospectively, plus light-touch regulation. On 17 December 2025 the justice minister accepted the two primary recommendations, prospective-only and with no bill, and the 2026 King's Speech omitted it. The previous enforceability bill fell at the 2024 election. No organisation can fill this: only primary legislation works, and the Association of Litigation Funders' voluntary code has no statutory force.",
+  "why": "Third-party funding underwrites most UK group claims, from the sub-postmasters to competition, environmental and data actions. Continued unenforceability risk deters funders, raises capital costs, and pushes cases and funding business abroad, with the sector reported losing its edge to jurisdictions with settled rules.",
+  "fill": "A short litigation funding bill clarifying that funding agreements are not damages-based agreements and establishing the Civil Justice Council's proportionate regulatory scheme. Drafting exists from the 2024 bill. An independent monitor of funded-claim outcomes and funder returns would inform the regime.",
   "sources": [
    "https://www.akingump.com/en/insights/alerts/uk-government-omits-paccar-fix-from-2026-kings-speech-leaving-litigation-funding-reform-uncertain",
    "https://www.dechert.com/knowledge/onpoint/2026/1/uk-government-to-legislate-on-litigation-funding-to-mitigate-the.html",
@@ -5498,10 +5498,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: short Litigation Funding (Enforceability and Regulation) Bill; only primary legislation reverses PACCAR. The outcomes monitor is an adjunct.",
-  "tagline": "A court ruling broke the funding behind group lawsuits. The fix keeps slipping.",
+  "tagline": "Group-claim funding broken by PACCAR; the fix keeps slipping",
   "summary": "Most big group claims, like the sub-postmasters', run on third-party funding that a 2023 Supreme Court ruling left largely unenforceable. Ministers accepted the fix, then left it out of the King's Speech. A short bill, drafted once already, would settle the rules before more cases and capital move abroad.",
   "rank": 2,
-  "rankNote": "only primary legislation can reverse the ruling and ministers accepted the fix, yet it was dropped from the 2026 King's Speech, leaving group-claim funding in limbo."
+  "rankNote": "Only primary legislation can reverse the ruling and ministers accepted the fix, and it was dropped from the 2026 King's Speech, leaving group-claim funding in limbo."
  },
  {
   "number": 180,
@@ -5577,9 +5577,9 @@
   "domain": "justice-access",
   "type": "institutional",
   "horizon": "mid",
-  "description": "Four separate inspectorates (HMICFRS for police, HMCPSI for prosecution, HMI Prisons, HMI Probation) inspect their own agencies. Their Criminal Justice Joint Inspection programme (Police and Justice Act 2006) is periodic, consensual and topic-based; no body has a standing statutory remit to follow cases end-to-end from arrest to release or to hold the system, rather than agencies, to account. Worse, court administration is entirely uninspected: HM Inspectorate of Court Administration closed in December 2010 and was formally abolished by a 2012 Public Bodies Act order, leaving HMCTS (running a record backlog with a quarter of courtrooms unused on some counts) accountable only to internal audit. The Law Commission has separately proposed that even the CCRC be brought under an independent inspectorate, underlining the oversight vacuum.",
-  "why": "The Crown Court backlog is a system failure (police charging, CPS readiness, courtroom availability, prison transport all interact), yet no inspector owns the interaction. Victims' experiences fall between four remits. An uninspected HMCTS ran the Common Platform rollout and courtroom-utilisation failures with no independent scrutiny short of NAO value-for-money studies.",
-  "fill": "A statute creating an HM Chief Inspector of Criminal Justice with cross-agency, end-to-end remit (absorbing or sitting atop the CJJI) and restoring inspection of court administration, either within the new inspectorate or by re-establishing an HMCTS inspectorate under the Courts Act 2003 model.",
+  "description": "Four separate inspectorates cover police, prosecution, prisons and probation. Their joint inspection programme under the Police and Justice Act 2006 is periodic, consensual and topic-based, and no body holds a standing statutory remit to follow cases end to end from arrest to release or to hold the system, rather than the agencies, to account. Court administration is entirely uninspected: HM Inspectorate of Court Administration closed in December 2010 and was formally abolished by a 2012 order, leaving HMCTS, running a record backlog with a quarter of courtrooms unused on some counts, accountable only to internal audit. The Law Commission has separately proposed bringing even the CCRC under an independent inspectorate.",
+  "why": "The Crown Court backlog is a system failure in which police charging, CPS readiness, courtroom availability and prison transport all interact, and no inspector owns the interaction. Victims' experiences fall between four remits. An uninspected HMCTS ran the Common Platform rollout with no independent scrutiny beyond NAO value-for-money studies.",
+  "fill": "A statute creating an HM Chief Inspector of Criminal Justice with a cross-agency, end-to-end remit, absorbing or sitting atop the joint programme, and restoring inspection of court administration, within the new inspectorate or by re-establishing one under the Courts Act 2003 model.",
   "sources": [
    "https://cjji.justiceinspectorates.gov.uk/",
    "https://www.legislation.gov.uk/ukdsi/2012/9780111524169",
@@ -5595,10 +5595,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: primary legislation creating HM Chief Inspector of Criminal Justice and restoring court-administration inspection.",
-  "tagline": "Four inspectors watch the pieces of criminal justice. Nobody inspects the courts at all.",
-  "summary": "Police, prosecution, prisons and probation each have their own inspectorate, but nobody follows a case from arrest to release or holds the system itself to account. Court administration has gone entirely uninspected since 2010. A chief inspector of criminal justice, with courts back in scope, would close the blind spot.",
+  "tagline": "Four inspectorates, none end-to-end; courts uninspected since 2010",
+  "summary": "Police, prosecution, prisons and probation each have their own inspectorate, and nobody follows a case from arrest to release or holds the system itself to account. Court administration has gone entirely uninspected since 2010. A chief inspector of criminal justice, with courts back in scope, would close the blind spot.",
   "rank": 2,
-  "rankNote": "an accountability vacuum leaves no inspector tracking cases end-to-end and court administration wholly uninspected since 2010, but no dated trigger forces action right now."
+  "rankNote": "No inspector tracks cases end to end and court administration has been wholly uninspected since 2010, and no dated trigger forces action."
  },
  {
   "number": 183,
@@ -5607,9 +5607,9 @@
   "domain": "justice-access",
   "type": "institutional",
   "horizon": "mid",
-  "description": "Intensive Supervision Courts (judge-monitored community orders for offenders with addiction and complex needs) have piloted since June 2023 (Liverpool, Teesside, and a women's court in Birmingham) under time-limited powers from the Police, Crime, Sentencing and Courts Act 2022. The final process evaluation is published and a second wave opens from spring 2026 via an expression-of-interest round (closed October 2025). But twenty years after the first UK drug courts, there is still no permanent statutory framework, no dedicated MoJ/HMCTS delivery unit, and no recurrent funding line; each expansion is a bespoke pilot. The Centre for Justice Innovation provides evidence and technical assistance but is a charity with no commissioning power. The Sentencing Act 2026's shift to community sentences increases the need for exactly this supervision model.",
-  "why": "Sentencing reform now sends thousands more offenders to community sentences; ISCs are the evidenced model for making those sentences credible for the highest-need cohort. Without a rollout vehicle, the pilots' judicial expertise and partnerships dissipate, as happened to previous UK drug and community courts, which withered when pilot funding ended.",
-  "fill": "A statutory ISC framework (amendment to the Sentencing Act 2020/2026 making the reviewing-court power permanent and national), a named problem-solving courts unit in MoJ/HMCTS with multi-year funding, and an outcome evaluation programme, turning expression-of-interest pilots into a commissioned national service.",
+  "description": "Intensive Supervision Courts, judge-monitored community orders for offenders with addiction and complex needs, have piloted since June 2023 in Liverpool, Teesside and a women's court in Birmingham, under time-limited powers from the Police, Crime, Sentencing and Courts Act 2022. The final process evaluation is published, and a second wave opens from spring 2026 through an expression-of-interest round that closed in October 2025. Twenty years after the first UK drug courts there is still no permanent statutory framework, no dedicated delivery unit, and no recurrent funding line, so each expansion is a bespoke pilot. The Centre for Justice Innovation provides evidence and technical assistance as a charity with no commissioning power, and the Sentencing Act 2026's shift to community sentences increases the need for exactly this supervision model.",
+  "why": "Sentencing reform now sends thousands more offenders to community sentences, and these courts are the evidenced model for making those sentences credible for the highest-need cohort. Without a rollout vehicle, the pilots' judicial expertise and partnerships dissipate, as happened to previous UK drug and community courts when pilot funding ended.",
+  "fill": "A statutory framework making the reviewing-court power permanent and national, a named problem-solving courts unit in MoJ and HMCTS with multi-year funding, and an outcome evaluation programme, turning expression-of-interest pilots into a commissioned national service.",
   "sources": [
    "https://www.gov.uk/government/publications/process-evaluation-of-the-intensive-supervision-courts-pilot-final-report",
    "https://assets.publishing.service.gov.uk/media/689382fe039176aec5e8968a/intensive-supervision-courts-eoi-guidance.pdf",
@@ -5624,10 +5624,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Sentencing Act amendment making ISC powers permanent, plus a named MoJ/HMCTS unit and multi-year funding.",
-  "tagline": "Two decades after Britain's first drug courts, intensive supervision is still a pilot.",
-  "summary": "Intensive supervision courts (judges keeping offenders with addictions on track through community sentences) have piloted since 2023 with no permanent legal basis, no delivery unit and no recurring budget. Sentencing reform is about to send thousands more people to community sentences. Without a rollout vehicle, the expertise dissipates, as earlier drug courts showed.",
+  "tagline": "Intensive supervision courts; twenty years and still a pilot",
+  "summary": "Intensive supervision courts, judges keeping offenders with addictions on track through community sentences, have piloted since 2023 with no permanent legal basis, no delivery unit and no recurring budget. Sentencing reform is about to send thousands more people to community sentences. Without a rollout vehicle the expertise dissipates, as earlier drug courts showed.",
   "rank": 2,
-  "rankNote": "the Sentencing Act's shift to community sentences raises demand for supervised courts just as a second pilot wave opens, yet no permanent framework, unit or funding secures them."
+  "rankNote": "The Sentencing Act's shift to community sentences raises demand for supervised courts just as a second pilot wave opens, and no permanent framework, unit or funding secures them."
  },
  {
   "number": 184,
@@ -5636,9 +5636,9 @@
   "domain": "justice-access",
   "type": "institutional",
   "horizon": "short",
-  "description": "Section 133 Criminal Justice Act 1988 (as amended in 2014) pays compensation only to quashed-conviction applicants who prove innocence 'beyond reasonable doubt' (a test the vast majority of exonerees fail), decided by the Justice Secretary via an internal MoJ assessor, capped at £1m. Andrew Malkinson's case exposed both the test and the absence of any support service for the newly exonerated. The Law Commission's criminal appeals consultation proposes a balance-of-probabilities test, and it will publish a standalone report on compensation and support for the wrongly convicted by end-2026 (main report early 2027, delayed by the Courts and Tribunals Bill). No government commitment to implement exists, and no independent body, as opposed to the department whose system caused the wrong, assesses claims. APPEAL and the Westminster Commission have proposed reform but no institution owns it.",
-  "why": "People who lose decades to wrongful conviction routinely leave prison with no compensation, housing or support; Malkinson initially received benefits sanctions letters, not payment. The state compensating almost no one it wrongly imprisoned corrodes confidence in the whole appeals system and removes any financial signal of system failure.",
-  "fill": "Amend s.133 to a balance-of-probabilities test and uprate or remove the £1m cap (the Law Commission's end-2026 report supplies the blueprint); create an independent compensation body outside MoJ plus a statutory resettlement and support service for exonerees.",
+  "description": "Section 133 of the Criminal Justice Act 1988, as amended in 2014, pays compensation only to quashed-conviction applicants who prove innocence beyond reasonable doubt, a test the vast majority of exonerees fail, decided by the Justice Secretary through an internal MoJ assessor and capped at £1m. Andrew Malkinson's case exposed the test and the absence of any support service for the newly exonerated. The Law Commission's criminal appeals consultation proposes a balance-of-probabilities test, and it will publish a standalone report on compensation and support for the wrongly convicted by the end of 2026, with the main report early in 2027. No government commitment to implement exists, and no body independent of the department whose system caused the wrong assesses claims. APPEAL and the Westminster Commission have proposed reform, and no institution owns it.",
+  "why": "People who lose decades to wrongful conviction routinely leave prison with no compensation, housing or support. A state that compensates almost no one it wrongly imprisoned corrodes confidence in the whole appeals system, and it removes any financial signal of system failure.",
+  "fill": "Amend section 133 to a balance-of-probabilities test and uprate or remove the £1m cap, with the Law Commission's end-2026 report as the blueprint. Create an independent compensation body outside the MoJ and a statutory resettlement and support service for exonerees.",
   "sources": [
    "https://lawcom.gov.uk/project/criminal-appeals/",
    "https://lawcom.gov.uk/news/law-commission-makes-wide-ranging-proposals-to-reform-law-on-criminal-appeals/",
@@ -5653,10 +5653,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: s.133 CJA 1988 amendment and independent compensation body; Law Commission end-2026 report supplies the blueprint.",
-  "tagline": "Conviction quashed? You still must prove innocence beyond reasonable doubt to be paid.",
-  "summary": "People whose convictions are quashed must prove innocence beyond reasonable doubt to be compensated: a test almost every exoneree fails, judged inside the ministry whose system failed them. Andrew Malkinson left prison to benefit-sanction letters, not payment. The Law Commission's reform blueprint lands at the end of this year.",
+  "tagline": "Conviction quashed; compensation still needs proof of innocence",
+  "summary": "People whose convictions are quashed must prove innocence beyond reasonable doubt to be compensated, a test almost every exoneree fails, judged inside the ministry whose system failed them. Andrew Malkinson left prison to benefit-sanction letters rather than payment. The Law Commission's reform blueprint lands at the end of this year.",
   "rank": 2,
-  "rankNote": "exonerees must prove innocence to a department-run assessor and leave prison unsupported, with the Law Commission's blueprint due end-2026 but no commitment to implement it."
+  "rankNote": "Exonerees must prove innocence to a department-run assessor and leave prison unsupported, and the Law Commission's blueprint is due at the end of 2026 with no commitment to implement it."
  },
  {
   "number": 185,
