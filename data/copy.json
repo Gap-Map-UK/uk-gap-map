@@ -692,7 +692,7 @@
   },
   {
    "number": 216,
-   "tagline": "Lose your bank account and no institution in Britain is tasked with getting you back.",
+   "tagline": "Debanked or de-platformed; no institution restores you",
    "summary": "Debanking, de-platforming and digital ID errors can cut a person off from work, rent and trade overnight, with appeals that take months and no due process. No service exists whose whole job is restoration. One is buildable: emergency payment routes, identity re-establishment and casework against the institution that pulled the plug."
   },
   {
@@ -1017,8 +1017,8 @@
   },
   {
    "number": 193,
-   "tagline": "The NHS has a plan for failing hospitals. For failing councils, England improvises.",
-   "summary": "When a council fails there is no rulebook: bailouts are negotiated behind closed doors and commissioners recruited ad hoc from a thin pool. Five councils sit under intervention right now, their residents facing indefinite cuts to service debts that may never be repaid. A statutory failure regime would catch distress early and resolve it openly."
+   "tagline": "Councils fail; England improvises each rescue",
+   "summary": "When a council fails there is no rulebook: bailouts are negotiated behind closed doors and commissioners recruited ad hoc from a thin pool. Five councils sit under intervention right now, their residents facing indefinite cuts to service debts that may never be repaid. A statutory failure regime would catch distress early and resolve it in the open."
   },
   {
    "number": 194,
@@ -1032,7 +1032,7 @@
   },
   {
    "number": 196,
-   "tagline": "Bad deals sank Woking. Councils still have no expert help for the next big contract.",
+   "tagline": "Tens of billions in council contracts; no expert deal service",
    "summary": "Councils move tens of billions of pounds a year through contracts and commercial deals, yet Whitehall's commercial profession does not serve them and the one body built for the job is small and fee-funded. Reorganisation is about to multiply the contract risk. A national commercial service would put deal teams on call."
   },
   {
@@ -1047,8 +1047,8 @@
   },
   {
    "number": 199,
-   "tagline": "Your council tax bill is based on what your home was worth in 1991.",
-   "summary": "England has not revalued homes for council tax in 35 years, so identical bills land on wildly different properties and every funding formula built on top inherits the distortion. Wales has already legislated for regular revaluations. A rolling revaluation cycle is entirely buildable; the government has simply ruled it out."
+   "tagline": "Council tax; still priced on 1991 valuations",
+   "summary": "England has not revalued homes for council tax in 35 years, so identical bills land on wildly different properties and every funding formula built on top inherits the distortion. Wales has already legislated for regular revaluations. A rolling revaluation cycle is entirely buildable, and the government has ruled it out."
   },
   {
    "number": 213,
@@ -1057,13 +1057,13 @@
   },
   {
    "number": 200,
-   "tagline": "The Covid inquiry asked for an independent preparedness watchdog. Ministers said no.",
-   "summary": "Every review since 2020 blamed groupthink and absent outside challenge for Britain's pandemic failures, yet ministers rejected the Covid inquiry's call for an independent statutory preparedness body. Between crises, the state still marks its own homework. A watchdog on the climate-committee model would supply the missing challenge."
+   "tagline": "Independent preparedness watchdog; recommended, rejected",
+   "summary": "Every review since 2020 blamed groupthink and absent outside challenge for Britain's pandemic failures, and ministers rejected the Covid inquiry's call for an independent statutory preparedness body. Between crises, the state still audits itself. A watchdog on the climate-committee model would supply the missing challenge."
   },
   {
    "number": 201,
-   "tagline": "Emergency science advice gets assembled after the emergency starts.",
-   "summary": "The scientific advisory group that steers ministers through a crisis is assembled only once the crisis has begun; in 2020 the UK stood up its advice from a cold start. Nothing maintains expertise, models scenarios or challenges assumptions in peacetime. A permanently funded standing network would cut the fatal lag."
+   "tagline": "Crisis science advice; assembled after the crisis starts",
+   "summary": "The scientific advisory group that steers ministers through a crisis is assembled only once the crisis has begun; in 2020 the UK stood up its advice from a cold start. Nothing maintains expertise, models scenarios or challenges assumptions in peacetime. A permanently funded standing network would cut the lag."
   },
   {
    "number": 202,
@@ -1087,7 +1087,7 @@
   },
   {
    "number": 206,
-   "tagline": "Climate-proofing Britain needs around £11bn a year. Nothing exists to raise or track it.",
+   "tagline": "Adaptation needs ~£11bn a year; no mechanism raises or tracks it",
    "summary": "The climate committee puts Britain's adaptation bill at roughly £11bn a year, split between public and private money, and finds no mechanism to coordinate, guarantee or track it. The flood insurance backstop expires in 2039 with no successor designed. A national adaptation-finance vehicle would keep high-risk homes insurable."
   },
   {
@@ -1102,8 +1102,8 @@
   },
   {
    "number": 209,
-   "tagline": "Britain's pathogen radar is switched on in some hospitals and switched off in most.",
-   "summary": "The promised national biosurveillance network (spotting novel pathogens in real time) runs in only around 30 NHS trusts, with wastewater and air monitoring barely begun. Whether the headline funding is genuinely new money is contested, and there are no measurable milestones. Finishing the build decides how early Britain catches the next outbreak."
+   "tagline": "Pathogen surveillance; running in 30 of 200 trusts",
+   "summary": "The promised national biosurveillance network, built to spot novel pathogens in real time, runs in around 30 NHS trusts, with wastewater and air monitoring barely begun. Whether the headline funding is genuinely new money is contested, and no measurable milestones exist. Finishing the build decides how early Britain catches the next outbreak."
   },
   {
    "number": 210,
@@ -1112,12 +1112,12 @@
   },
   {
    "number": 211,
-   "tagline": "Local emergency planners have no legal existence and no budget beyond next year.",
-   "summary": "Local Resilience Forums carry the front line of every emergency, yet they have no legal personality and survive on fragmented short-term funding. There is no national chief resilience officer either, despite repeated parliamentary calls. A resilience act with a multi-year settlement would put the front line on a footing to match its job."
+   "tagline": "Local resilience forums; no legal standing, one-year money",
+   "summary": "Local Resilience Forums carry the front line of every emergency, and they have no legal personality and survive on fragmented short-term funding. No national chief resilience officer exists either, despite repeated parliamentary calls. A resilience act with a multi-year settlement would put the front line on a footing to match its job."
   },
   {
    "number": 224,
-   "tagline": "US-owned firms run our NHS and defence data. Nobody checks if US law can reach it.",
+   "tagline": "NHS and defence data on US-owned platforms; exposure never assessed",
    "summary": "The companies running Britain's most sensitive data platforms are American-owned, and US law can compel an American company to hand over data it controls. No UK contract sign-off asks that question on the record. A required exposure assessment would, and a research body could start auditing signed contracts now."
   },
   {
@@ -1132,27 +1132,27 @@
   },
   {
    "number": 227,
-   "tagline": "Government signs software deals it can't leave, and never checks that it could.",
+   "tagline": "Deep software contracts; exit never tested",
    "summary": "The state buys deep, long contracts for intelligence and data platforms with no requirement to prove it could ever switch supplier or bring the work in-house. Dependence deepens by default. An exit-readiness test at approval, plus a lock-in toolkit buildable now, would make leaving a real option."
   },
   {
    "number": 228,
-   "tagline": "The public pays for the training. A private company keeps the data.",
+   "tagline": "Levy-funded learner records; owned by private platforms",
    "summary": "Publicly funded apprenticeships generate detailed learner records held on private platforms under 'legitimate business interest', not consent, with no rules on who ends up owning them. Public money builds private data assets with no strings. A data-governance clause in the funding rules would fix it."
   },
   {
    "number": 229,
-   "tagline": "Foreign states face mandatory press ownership review. Every other acquirer faces none automatically.",
+   "tagline": "Press takeovers; plurality review only if a minister chooses",
    "summary": "UK press takeovers receive plurality scrutiny only if a minister chooses to intervene, and the 2024 mandatory regime covers foreign states alone. An automatic, acquirer-neutral review for significant news acquisitions remains missing."
   },
   {
    "number": 230,
-   "tagline": "Public money buys technology with no duty to check suppliers' human-rights records.",
+   "tagline": "Public technology procurement; no human-rights due-diligence duty",
    "summary": "The Procurement Act 2023 excludes suppliers for convictions and defined misconduct but requires no assessment of a technology supplier's human-rights record or the dual-use nature of its products before award. Modern-slavery rules cover supply-chain labour only, so no human-rights due-diligence standard exists anywhere in UK public technology procurement."
   },
   {
    "number": 231,
-   "tagline": "The debt is public data. Public understanding is another matter.",
+   "tagline": "Debt figures scattered across releases; a plain hub since June 2026",
    "summary": "Official debt and interest figures were always published, but scattered across statistical releases written for specialists. An evergreen, plain-English hub on where the UK stands and what servicing the debt costs did not exist until the Logos UK debt campaign built one in June 2026."
   },
   {

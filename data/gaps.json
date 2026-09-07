@@ -5940,9 +5940,9 @@
   "domain": "local-state-capacity",
   "type": "institutional",
   "horizon": "short",
-  "description": "Intervention in failing councils is improvised case-by-case: s114 notices freeze spending, Exceptional Financial Support capitalisation directions are negotiated bilaterally and opaquely (c.35 councils, c.£1.5bn for 2026-27; 42 authorities since 2020-21, an approach the PAC calls short-term and unsustainable), and commissioners are recruited ad hoc from a thin pool of retired chief executives (Birmingham, Woking, Slough, Thurrock and Nottingham are all under intervention in 2026). There are no published intervention triggers, no debt-resolution mechanism for authorities whose debts are unpayable (Woking, Thurrock), and no institutional memory carried between interventions. The NHS has a statutory special-measures regime; local government has nothing equivalent.",
-  "why": "Distress is caught late and resolved expensively: EFS pushes costs into future years via asset sales and extra borrowing, commissioner supply limits simultaneous interventions, and residents of insolvent councils face indefinite service cuts servicing debts that will never realistically be repaid.",
-  "fill": "A statutory graduated failure regime plus a standing Local Authority Resolution Unit: published early-warning triggers, a trained standing commissioner cadre, transparent EFS criteria, and a debt-restructuring instrument for genuinely insolvent authorities. Sponsor: MHCLG primary legislation; design input from LGA, CIPFA and CfGS.",
+  "description": "Intervention in failing councils is improvised case by case. Section 114 notices freeze spending, and Exceptional Financial Support capitalisation directions are negotiated bilaterally and opaquely, around 35 councils and £1.5bn for 2026-27 with 42 authorities helped since 2020-21, an approach the Public Accounts Committee calls short-term and unsustainable. Commissioners are recruited ad hoc from a thin pool of retired chief executives, with Birmingham, Woking, Slough, Thurrock and Nottingham all under intervention in 2026. No published intervention triggers exist, no debt-resolution mechanism serves authorities whose debts are unpayable, and no institutional memory carries between interventions. The NHS has a statutory special-measures regime, and local government has nothing equivalent.",
+  "why": "Distress is caught late and resolved expensively. The support deals push costs into future years through asset sales and extra borrowing, commissioner supply limits how many interventions can run at once, and residents of insolvent councils face indefinite service cuts servicing debts that will never realistically be repaid.",
+  "fill": "A statutory graduated failure regime and a standing resolution unit: published early-warning triggers, a trained standing commissioner cadre, transparent support criteria, and a debt-restructuring instrument for genuinely insolvent authorities. MHCLG primary legislation would carry it, with design input from the LGA, CIPFA and CfGS.",
   "sources": [
    "https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/647/report.html",
    "https://www.instituteforgovernment.org.uk/explainer/local-authority-section-114-notices",
@@ -5959,8 +5959,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: MHCLG primary legislation creating a graduated failure regime and standing Local Authority Resolution Unit.",
-  "tagline": "The NHS has a plan for failing hospitals. For failing councils, England improvises.",
-  "summary": "When a council fails there is no rulebook: bailouts are negotiated behind closed doors and commissioners recruited ad hoc from a thin pool. Five councils sit under intervention right now, their residents facing indefinite cuts to service debts that may never be repaid. A statutory failure regime would catch distress early and resolve it openly.",
+  "tagline": "Councils fail; England improvises each rescue",
+  "summary": "When a council fails there is no rulebook: bailouts are negotiated behind closed doors and commissioners recruited ad hoc from a thin pool. Five councils sit under intervention right now, their residents facing indefinite cuts to service debts that may never be repaid. A statutory failure regime would catch distress early and resolve it in the open.",
   "alsoDomains": [
    "debt"
   ],
@@ -5983,7 +5983,7 @@
    }
   ],
   "rank": 3,
-  "rankNote": "Councils are failing and rescued expensively case-by-case with no debt-resolution tool or trained commissioner cadre, yet the statutory regime needed is a slow primary-legislation build."
+  "rankNote": "Councils are failing and rescued expensively case by case with no debt-resolution tool or trained commissioner cadre, and the statutory regime needed is a slow primary-legislation build."
  },
  {
   "number": 195,
@@ -6028,9 +6028,9 @@
   "domain": "local-state-capacity",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The Procurement Act 2023 (in force February 2025) rewrote the rules governing roughly a third of council spend, but the main training offer is the Government Commercial College's generic e-learning built for Whitehall, and the Government Commercial Function does not serve councils. Local Partnerships (the HM Treasury/LGA/Welsh Government joint venture) provides exactly the right kind of deployable commercial support but is small and fee-funded; purchasing consortia (ESPO, YPO) cover commodity buying, not complex contract management. NAO and PAC work repeatedly links council failures (Thurrock's investments, Woking's development deals) to absent commercial skills, and local government reorganisation now adds mass contract novation and re-procurement risk.",
-  "why": "Councils transact tens of billions of pounds a year through contracts and commercial ventures. Capability gaps convert directly into failed regeneration deals, outsourcing disputes, unrealised Procurement Act benefits, and reorganisation transitions that destroy rather than release value.",
-  "fill": "A grant-funded expansion of Local Partnerships into a Local Government Commercial Service: regional commercial hubs, a contract-management academy, and deployable deal teams that councils can call on for high-value transactions and LGR novations. Sponsors: MHCLG with Cabinet Office/Government Commercial Function; LGA as co-owner.",
+  "description": "The Procurement Act 2023, in force since February 2025, rewrote the rules governing roughly a third of council spend. The main training offer is the Government Commercial College's generic e-learning built for Whitehall, and the Government Commercial Function does not serve councils. Local Partnerships, the HM Treasury, LGA and Welsh Government joint venture, provides exactly the right kind of deployable commercial support and is small and fee-funded, while the purchasing consortia cover commodity buying rather than complex contract management. NAO and PAC work repeatedly links council failures, Thurrock's investments and Woking's development deals among them, to absent commercial skills, and reorganisation now adds mass contract novation and re-procurement risk.",
+  "why": "Councils transact tens of billions of pounds a year through contracts and commercial ventures. Capability gaps convert directly into failed regeneration deals, outsourcing disputes, unrealised Procurement Act benefits, and reorganisation transitions that destroy value instead of releasing it.",
+  "fill": "A grant-funded expansion of Local Partnerships into a local government commercial service: regional commercial hubs, a contract-management academy, and deployable deal teams councils can call on for high-value transactions and reorganisation novations. MHCLG would sponsor it with the Cabinet Office, and the LGA would co-own it.",
   "sources": [
    "https://www.local.gov.uk/our-support/procurement/transforming-public-procurement/procurement-act-2023-learning-and",
    "https://localpartnerships.gov.uk/about-local-partnerships/",
@@ -6045,7 +6045,7 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: Local Partnerships and LGA to pilot deployable commercial teams and a contract-management academy; MHCLG grant scales it.",
-  "tagline": "Bad deals sank Woking. Councils still have no expert help for the next big contract.",
+  "tagline": "Tens of billions in council contracts; no expert deal service",
   "summary": "Councils move tens of billions of pounds a year through contracts and commercial deals, yet Whitehall's commercial profession does not serve them and the one body built for the job is small and fee-funded. Reorganisation is about to multiply the contract risk. A national commercial service would put deal teams on call.",
   "dialogue": {
    "counterparty": "government-bodies",
@@ -6055,7 +6055,7 @@
    "firstStep": "One region, six months: a grant-funded deal team supports three councils through reorganisation contract reviews at no charge, with take-up and results reported jointly."
   },
   "rank": 3,
-  "rankNote": "Tens of billions flow through council contracts where skills gaps caused real collapses and Local Partnerships could be scaled, but no dated trigger forces action this year."
+  "rankNote": "Tens of billions flow through council contracts where skills gaps caused real collapses, Local Partnerships could be scaled, and no dated trigger forces action this year."
  },
  {
   "number": 197,
@@ -6129,9 +6129,9 @@
   "domain": "local-state-capacity",
   "type": "policy",
   "horizon": "long",
-  "description": "Council tax remains based on 1991 property values (no English revaluation in 35 years), and in its September 2025 response to the HCLG Committee the government confirmed it has no plans to reform council tax; the fiscal devolution roadmap focuses on sharing national taxes instead. There is no statutory revaluation cycle and no maintained VOA domestic revaluation dataset, so the base corrodes further every year. IFS and the HCLG Committee have repeatedly recommended revaluation and band reform, and Wales has legislated (Local Government Finance (Wales) Act 2024) for regular revaluations, showing the instrument is buildable within the UK.",
-  "why": "The principal local tax is increasingly regressive and arbitrary: identical bills for wildly divergent property values distort both household fairness and the Fair Funding equalisation built on measured tax capacity. Every fiscal devolution step compounds errors baked into a 1991 snapshot.",
-  "fill": "A statutory rolling revaluation cycle with VOA automated-valuation infrastructure and transitional relief, ideally de-politicised through an independent cross-party commission, mirroring the Welsh legislative model. Sponsors: HM Treasury and VOA; groundwork by IFS and think tanks funded by abrdn Financial Fairness Trust.",
+  "description": "Council tax remains based on 1991 property values, with no English revaluation in 35 years, and in its September 2025 response to the HCLG Committee the government confirmed it has no plans to reform council tax; the fiscal devolution roadmap focuses on sharing national taxes instead. No statutory revaluation cycle exists and the VOA maintains no domestic revaluation dataset, so the base corrodes further every year. The IFS and the HCLG Committee have repeatedly recommended revaluation and band reform, and Wales legislated for regular revaluations in its Local Government Finance Act of 2024, which shows the instrument is buildable inside the UK.",
+  "why": "The principal local tax is increasingly regressive and arbitrary. Identical bills for wildly divergent property values distort household fairness, and the equalisation formulas built on measured tax capacity inherit the same distortion. Every step of fiscal devolution compounds errors baked into a 1991 snapshot.",
+  "fill": "A statutory rolling revaluation cycle with automated valuation infrastructure at the VOA and transitional relief, de-politicised through an independent cross-party commission, on the Welsh legislative model.",
   "sources": [
    "https://publications.parliament.uk/pa/cm5901/cmselect/cmcomloc/1355/report.html",
    "https://ifs.org.uk/publications/reforming-local-government-funding-england-issues-and-options",
@@ -6146,10 +6146,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: primary legislation for a rolling revaluation cycle on the Welsh 2024 Act model, with VOA automated-valuation infrastructure.",
-  "tagline": "Your council tax bill is based on what your home was worth in 1991.",
-  "summary": "England has not revalued homes for council tax in 35 years, so identical bills land on wildly different properties and every funding formula built on top inherits the distortion. Wales has already legislated for regular revaluations. A rolling revaluation cycle is entirely buildable; the government has simply ruled it out.",
+  "tagline": "Council tax; still priced on 1991 valuations",
+  "summary": "England has not revalued homes for council tax in 35 years, so identical bills land on wildly different properties and every funding formula built on top inherits the distortion. Wales has already legislated for regular revaluations. A rolling revaluation cycle is entirely buildable, and the government has ruled it out.",
   "rank": 3,
-  "rankNote": "The principal local tax is grossly regressive on 35-year-old valuations, but government explicitly ruled out reform in 2025 and the political build is long and contested."
+  "rankNote": "The principal local tax runs on 35-year-old valuations, and government explicitly ruled out reform in 2025, so the build is long and contested."
  },
  {
   "number": 200,
@@ -6158,9 +6158,9 @@
   "domain": "national-resilience",
   "type": "institutional",
   "horizon": "mid",
-  "description": "Covid-19 Inquiry Module 1 Recommendation 10 called for a UK-wide independent statutory body for whole-system civil emergency preparedness, resilience and response. The government rejected it (Jan 2025), saying it cannot 'outsource' responsibility, offering instead enhanced SAGE, eight standing advisory groups and unspecified 'independent challenge'. CLTR and the National Preparedness Commission argue this leaves no OBR/CCC-equivalent scrutineer able to audit and publicly report on preparedness between crises; existing bodies advise but cannot independently hold government to account.",
-  "why": "Every review since 2020 named 'groupthink' and absent external challenge as core failures. Without a statutory scrutineer, preparedness depends on the government of the day auditing itself - the exact pattern the Inquiry blamed for the UK's under-preparedness in 2020.",
-  "fill": "A National Resilience Act creating an independent statutory body (modelled on the OBR or Climate Change Committee) with a duty to scrutinise, stress-test and publicly report on cross-hazard civil-emergency preparedness, plus statutory power to demand information.",
+  "description": "Module 1 of the Covid-19 Inquiry recommended a UK-wide independent statutory body for whole-system civil emergency preparedness, resilience and response. The government rejected the recommendation in January 2025, saying it cannot outsource responsibility, and offered instead an enhanced SAGE, eight standing advisory groups and unspecified independent challenge. CLTR and the National Preparedness Commission argue this leaves no OBR or Climate Change Committee equivalent able to audit and publicly report on preparedness between crises. The existing bodies advise, and none can independently hold government to account.",
+  "why": "Every review since 2020 named groupthink and absent external challenge as core failures. Preparedness now depends on the government of the day auditing itself, the pattern the Inquiry blamed for the under-preparedness of 2020.",
+  "fill": "A National Resilience Act creating an independent statutory body on the OBR or Climate Change Committee model, with a duty to scrutinise, stress-test and publicly report on cross-hazard preparedness, and statutory power to demand information.",
   "sources": [
    "https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-1-report/uk-government-response-to-the-covid-19-inquiry-module-1-report-html",
    "https://covid19.public-inquiry.uk/inquiry-recommendations/",
@@ -6175,10 +6175,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: National Resilience Act creating an OBR/CCC-model statutory scrutineer with information powers; government rejected it January 2025.",
-  "tagline": "The Covid inquiry asked for an independent preparedness watchdog. Ministers said no.",
-  "summary": "Every review since 2020 blamed groupthink and absent outside challenge for Britain's pandemic failures, yet ministers rejected the Covid inquiry's call for an independent statutory preparedness body. Between crises, the state still marks its own homework. A watchdog on the climate-committee model would supply the missing challenge.",
+  "tagline": "Independent preparedness watchdog; recommended, rejected",
+  "summary": "Every review since 2020 blamed groupthink and absent outside challenge for Britain's pandemic failures, and ministers rejected the Covid inquiry's call for an independent statutory preparedness body. Between crises, the state still audits itself. A watchdog on the climate-committee model would supply the missing challenge.",
   "rank": 3,
-  "rankNote": "A well-understood OBR-style model would give whole-hazard preparedness its only independent auditor, yet government rejected it in January 2025, leaving it unowned with no dated trigger forcing action."
+  "rankNote": "An OBR-style model would give preparedness its only independent auditor, and government rejected it in January 2025, leaving the function unowned with no dated trigger."
  },
  {
   "number": 201,
@@ -6187,9 +6187,9 @@
   "domain": "national-resilience",
   "type": "institutional",
   "horizon": "short",
-  "description": "SAGE convenes only during emergencies and is assembled ad hoc, a failing the Inquiry criticised in Modules 1 and 2. Government committed to eight standing expert advisory groups and to refreshing GO-Science's expert register in 2026, with open recruitment merely 'explored' subject to resources. There is still no permanently funded standing scientific body maintaining biothreat/pandemic readiness, horizon-scanning and rehearsed advice between crises; NERVTAG and the register are narrow and under-resourced.",
-  "why": "In 2020 the UK stood up scientific advice from a cold start. A standing mechanism that continuously maintains expertise, models scenarios and challenges assumptions would cut the fatal lag between a threat emerging and credible advice reaching decision-makers.",
-  "fill": "A permanently funded standing scientific advisory network - open-recruited, diverse, devolved-inclusive - with a between-crisis remit for horizon-scanning, scenario modelling and red-teaming, backed by compensation for participating institutions.",
+  "description": "SAGE convenes only during emergencies and is assembled ad hoc, a failing the Inquiry criticised in Modules 1 and 2. Government committed to eight standing expert advisory groups and to refreshing GO-Science's expert register in 2026, with open recruitment merely explored, subject to resources. No permanently funded standing scientific body maintains biothreat and pandemic readiness, horizon-scanning and rehearsed advice between crises, and NERVTAG and the register are narrow and under-resourced.",
+  "why": "In 2020 the UK stood up scientific advice from a cold start. A standing mechanism that continuously maintains expertise, models scenarios and challenges assumptions would cut the lag between a threat emerging and credible advice reaching decision-makers.",
+  "fill": "A permanently funded standing scientific advisory network, open-recruited, diverse and inclusive of the devolved nations, with a between-crisis remit for horizon-scanning, scenario modelling and red-teaming, backed by compensation for participating institutions.",
   "sources": [
    "https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-2-report/uk-government-response-to-the-covid-19-inquiry-module-2-report-html",
    "https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-1-report/uk-government-response-to-the-covid-19-inquiry-module-1-report-html"
@@ -6203,10 +6203,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: philanthropically funded standing shadow network (Independent-SAGE precedent) publishing horizon scans, scenario models and red-team exercises.",
-  "tagline": "Emergency science advice gets assembled after the emergency starts.",
-  "summary": "The scientific advisory group that steers ministers through a crisis is assembled only once the crisis has begun; in 2020 the UK stood up its advice from a cold start. Nothing maintains expertise, models scenarios or challenges assumptions in peacetime. A permanently funded standing network would cut the fatal lag.",
+  "tagline": "Crisis science advice; assembled after the crisis starts",
+  "summary": "The scientific advisory group that steers ministers through a crisis is assembled only once the crisis has begun; in 2020 the UK stood up its advice from a cold start. Nothing maintains expertise, models scenarios or challenges assumptions in peacetime. A permanently funded standing network would cut the lag.",
   "rank": 3,
-  "rankNote": "Pandemic-readiness advice still starts from cold, but government is refreshing the expert register in 2026 and exploring open recruitment now, a live window to lock in permanent standing infrastructure."
+  "rankNote": "Pandemic-readiness advice still starts from cold, and the 2026 register refresh with open recruitment under exploration is a live window to lock in permanent infrastructure."
  },
  {
   "number": 202,
@@ -6341,9 +6341,9 @@
   "domain": "national-resilience",
   "type": "funding",
   "horizon": "mid",
-  "description": "The CCC's 'A Well-Adapted UK' (2026) estimates ~£11bn/year is needed for adaptation, roughly half public and half private, but finds no mechanism to coordinate, guarantee or track that split. Flood-defence funding (£4.2bn, multi-year) exists but is narrow; there is no standing adaptation-finance vehicle, and Flood Re expires in 2039 with no successor scheme yet designed. The Environment Agency is not yet empowered to oversee delivery across all flood sources.",
-  "why": "The CCC shows adaptation underinvestment is cheaper to fix now than to pay in damages later. Without a finance mechanism and a designed Flood Re successor, private capital stays sidelined and low-income, high-risk households face uninsurable homes after 2039.",
-  "fill": "A national adaptation-finance mechanism (blended public/private, with a project pipeline and mandatory reporting) plus a designed 'Flood Re 2.0' successor that rewards resilience measures and protects low-income households.",
+  "description": "The CCC's 2026 report A Well-Adapted UK estimates around £11bn a year is needed for adaptation, roughly half public and half private, and finds no mechanism to coordinate, guarantee or track that split. Flood-defence funding of £4.2bn over multiple years exists and is narrow. No standing adaptation-finance vehicle exists, Flood Re expires in 2039 with no successor scheme designed, and the Environment Agency is not yet empowered to oversee delivery across all flood sources.",
+  "why": "The CCC shows adaptation underinvestment is cheaper to fix now than to pay for in damages later. Without a finance mechanism and a designed Flood Re successor, private capital stays sidelined, and low-income households in high-risk homes face uninsurability after 2039.",
+  "fill": "A national adaptation-finance mechanism blending public and private money, with a project pipeline and mandatory reporting, and a designed Flood Re successor that rewards resilience measures and protects low-income households.",
   "sources": [
    "https://www.theccc.org.uk/publication/a-well-adapted-uk/",
    "https://theconversation.com/how-the-uk-is-keeping-flood-insurance-affordable-until-2039-275463",
@@ -6358,10 +6358,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Treasury/Defra blended adaptation-finance mechanism with mandatory reporting plus statutory Flood Re successor design.",
-  "tagline": "Climate-proofing Britain needs around £11bn a year. Nothing exists to raise or track it.",
+  "tagline": "Adaptation needs ~£11bn a year; no mechanism raises or tracks it",
   "summary": "The climate committee puts Britain's adaptation bill at roughly £11bn a year, split between public and private money, and finds no mechanism to coordinate, guarantee or track it. The flood insurance backstop expires in 2039 with no successor designed. A national adaptation-finance vehicle would keep high-risk homes insurable.",
   "rank": 3,
-  "rankNote": "Underinvestment is cheaper to fix now than pay later, and Flood Re expires 2039 with no successor, but the finance vehicle is complex and lacks a this-year trigger."
+  "rankNote": "Underinvestment costs more later and Flood Re expires in 2039 with no successor, and the finance vehicle is complex with no this-year trigger."
  },
  {
   "number": 207,
@@ -6427,9 +6427,9 @@
   "domain": "national-resilience",
   "type": "tooling",
   "horizon": "mid",
-  "description": "The 2023 Biological Security Strategy promised a National Biosurveillance Network with pathogen-agnostic, real-time detection. The Biothreats Radar launched and the Respiratory Metagenomics project scaled to ~30 NHS trusts, but CLTR questions whether the headline ~£1.5bn/year is genuinely new money, flags an absence of measurable milestones, and notes unclear operationalisation of 'unbiased metagenomic' detection. Coverage is partial (30 of ~200 trusts), wastewater and air surveillance are nascent, and durable multi-year funding is uncertain.",
+  "description": "The 2023 Biological Security Strategy promised a National Biosurveillance Network with pathogen-agnostic, real-time detection. The Biothreats Radar launched and the Respiratory Metagenomics project scaled to about 30 NHS trusts. CLTR questions whether the headline £1.5bn a year is genuinely new money, flags the absence of measurable milestones, and notes unclear operationalisation of unbiased metagenomic detection. Coverage reaches 30 of roughly 200 trusts, wastewater and air surveillance are nascent, and durable multi-year funding is uncertain.",
   "why": "Real-time metagenomic surveillance is the UK's early-warning system for the next novel pathogen and the trigger for the 100 Days Mission. Partial coverage and uncertain funding mean the UK could again detect an outbreak dangerously late.",
-  "fill": "Sustained, ring-fenced funding to build pathogen-agnostic metagenomic surveillance to full NHS/national coverage, integrate wastewater and air monitoring, and publish measurable rollout milestones and capability targets.",
+  "fill": "Sustained, ring-fenced funding to build pathogen-agnostic metagenomic surveillance to full national coverage, integrate wastewater and air monitoring, and publish measurable rollout milestones and capability targets.",
   "sources": [
    "https://www.gov.uk/government/publications/uk-biological-security-strategy-implementation-report-june-2023-june-2025/uk-biological-security-strategy-implementation-report-june-2023-june-2025-html",
    "https://www.longtermresilience.org/response-to-the-uk-governments-refreshed-biological-security-strategy-bss/"
@@ -6443,10 +6443,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: ring-fenced multi-year DHSC/UKHSA funding and NHS-wide metagenomics rollout with published milestones.",
-  "tagline": "Britain's pathogen radar is switched on in some hospitals and switched off in most.",
-  "summary": "The promised national biosurveillance network (spotting novel pathogens in real time) runs in only around 30 NHS trusts, with wastewater and air monitoring barely begun. Whether the headline funding is genuinely new money is contested, and there are no measurable milestones. Finishing the build decides how early Britain catches the next outbreak.",
+  "tagline": "Pathogen surveillance; running in 30 of 200 trusts",
+  "summary": "The promised national biosurveillance network, built to spot novel pathogens in real time, runs in around 30 NHS trusts, with wastewater and air monitoring barely begun. Whether the headline funding is genuinely new money is contested, and no measurable milestones exist. Finishing the build decides how early Britain catches the next outbreak.",
   "rank": 3,
-  "rankNote": "Metagenomic surveillance is the pandemic early-warning trigger and scaling the existing 30-trust programme is straightforward, but government is already building it and funding decisions carry no this-year deadline."
+  "rankNote": "Metagenomic surveillance is the pandemic early-warning trigger and scaling the 30-trust programme is straightforward, and government is already building it with no this-year funding deadline."
  },
  {
   "number": 210,
@@ -6484,9 +6484,9 @@
   "domain": "national-resilience",
   "type": "policy",
   "horizon": "mid",
-  "description": "The 'whole-of-society' resilience approach rests on non-statutory strategy. Local Resilience Forums lack legal personality and are funded through fragmented, short-term, non-ring-fenced pots; the 2025 plan promises a funding review but no multi-year settlement. There is no national Chief Resilience Officer (only local CROs), despite repeated calls from the House of Lords Risk Committee, the Joint Committee on the National Security Strategy, the National Preparedness Commission and CLTR. Statutory duties under the Civil Contingencies Act 2004 are not reviewed until 2027.",
-  "why": "Local responders carry the front line of every emergency but plan year-to-year on soft money with no legal standing. Absent statutory duties and durable funding, resilience remains a 'junior partner' cut first under fiscal pressure.",
-  "fill": "A National Resilience Act giving LRFs legal standing and statutory duties, a multi-year ring-fenced local resilience settlement, and a national Chief Resilience Officer at Deputy National Security Adviser level.",
+  "description": "The whole-of-society resilience approach rests on non-statutory strategy. Local Resilience Forums lack legal personality and are funded through fragmented, short-term, non-ring-fenced pots, and the 2025 plan promises a funding review without a multi-year settlement. No national Chief Resilience Officer exists, only local ones, despite repeated calls from the Lords Risk Committee, the Joint Committee on the National Security Strategy, the National Preparedness Commission and CLTR. The statutory duties under the Civil Contingencies Act 2004 are not reviewed until 2027.",
+  "why": "Local responders carry the front line of every emergency and plan year to year on soft money with no legal standing. Without statutory duties and durable funding, resilience stays the junior partner, cut first under fiscal pressure.",
+  "fill": "A National Resilience Act giving the forums legal standing and statutory duties, a multi-year ring-fenced local resilience settlement, and a national Chief Resilience Officer at Deputy National Security Adviser level.",
   "sources": [
    "https://www.longtermresilience.org/reports/uk-resilience-action-plan-ambitious-progress-with-room-to-go-further/",
    "https://nationalpreparednesscommission.uk/publications/resilience-action-plan-arent-we-there-yet/",
@@ -6501,10 +6501,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: National Resilience Act giving LRFs legal standing, multi-year ring-fenced settlement and a national Chief Resilience Officer.",
-  "tagline": "Local emergency planners have no legal existence and no budget beyond next year.",
-  "summary": "Local Resilience Forums carry the front line of every emergency, yet they have no legal personality and survive on fragmented short-term funding. There is no national chief resilience officer either, despite repeated parliamentary calls. A resilience act with a multi-year settlement would put the front line on a footing to match its job.",
+  "tagline": "Local resilience forums; no legal standing, one-year money",
+  "summary": "Local Resilience Forums carry the front line of every emergency, and they have no legal personality and survive on fragmented short-term funding. No national chief resilience officer exists either, despite repeated parliamentary calls. A resilience act with a multi-year settlement would put the front line on a footing to match its job.",
   "rank": 3,
-  "rankNote": "Front-line local responders lack legal standing and durable money and get cut first, with a funding review underway and the 2004 Act's duties reviewed in 2027 opening a real window."
+  "rankNote": "Front-line responders lack legal standing and durable money and get cut first, and the live funding review plus the 2004 Act's 2027 duties review opens a real window."
  },
  {
   "number": 212,
@@ -6651,9 +6651,9 @@
   "domain": "privacy",
   "type": "institutional",
   "horizon": "short",
-  "description": "Losing a bank account, a platform account or a digital identity in the UK increasingly means losing the ability to work, rent, trade or organise, with no due process and no institution whose job is restoration. Debanking of individuals, charities and small businesses proceeds under de-risking logic with FOS appeal routes that take months; platform de-platforming has no appeal outside the platform; and digital-ID exclusion errors will scale with One Login. Advice agencies handle fragments; nobody provides the composite: emergency payment rails, identity re-establishment, communications continuity and casework against the excluding institution.",
-  "why": "Arendt's 'right to have rights' has a domestic form: a person cut off from payments and identity is functionally rightless regardless of their legal rights. As access to essentials becomes conditional on accounts, exclusion errors become livelihood-destroying events, and their invisibility is why they persist.",
-  "fill": "A 'landing spot' service: rapid casework for the debanked/excluded, guaranteed-access payment arrangements (credit-union partnerships, cash-capable rails), identity re-establishment support, and published data on exclusion volumes and causes, plus policy work for statutory due-process duties on account closure.",
+  "description": "Losing a bank account, a platform account or a digital identity in the UK increasingly means losing the ability to work, rent, trade or organise, with no due process and no institution whose job is restoration. Debanking of individuals, charities and small businesses proceeds under de-risking logic with ombudsman appeals that take months. Platform de-platforming has no appeal outside the platform, and digital-ID exclusion errors will scale with One Login. Advice agencies handle fragments, and nobody provides the composite: emergency payment rails, identity re-establishment, communications continuity and casework against the excluding institution.",
+  "why": "A person cut off from payments and identity is functionally rightless whatever their legal rights say, the domestic form of Arendt's right to have rights. As access to essentials becomes conditional on accounts, exclusion errors become livelihood-destroying events, and they persist because they stay invisible.",
+  "fill": "A landing-spot service: rapid casework for the debanked and excluded, guaranteed-access payment arrangements through credit-union partnerships and cash-capable rails, identity re-establishment support, and published data on exclusion volumes and causes, with policy work towards statutory due-process duties on account closure.",
   "sources": [
    "https://www.fca.org.uk/publications/corporate-documents/account-access-closures",
    "https://commonslibrary.parliament.uk/research-briefings/cbp-10369/"
@@ -6668,10 +6668,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: rapid casework service plus published exclusion-volumes tracker; credit-union partnerships are voluntary, not gatekeeping.",
-  "tagline": "Lose your bank account and no institution in Britain is tasked with getting you back.",
+  "tagline": "Debanked or de-platformed; no institution restores you",
   "summary": "Debanking, de-platforming and digital ID errors can cut a person off from work, rent and trade overnight, with appeals that take months and no due process. No service exists whose whole job is restoration. One is buildable: emergency payment routes, identity re-establishment and casework against the institution that pulled the plug.",
   "rank": 3,
-  "rankNote": "Debanking and digital-ID exclusion strip livelihoods with no restoration institution; the composite service is buildable and wholly unowned, and One Login will scale exclusion errors without a single forcing date."
+  "rankNote": "Debanking and digital-ID exclusion strip livelihoods with no restoration institution, the composite service is buildable and unowned, and One Login will scale exclusion errors."
  },
  {
   "number": 217,
@@ -6939,7 +6939,7 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: a research body's published foreign-data-compulsion assessments of already-signed contracts; the mandatory rule is the state-led end-state.",
-  "tagline": "US-owned firms run our NHS and defence data. Nobody checks if US law can reach it.",
+  "tagline": "NHS and defence data on US-owned platforms; exposure never assessed",
   "summary": "The companies running Britain's most sensitive data platforms are American-owned, and US law can compel an American company to hand over data it controls. No UK contract sign-off asks that question on the record. A required exposure assessment would, and a research body could start auditing signed contracts now.",
   "seeAlso": [
    {
@@ -7045,7 +7045,7 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: a statutory exit-readiness condition on contract approval; an independent lock-in toolkit can precede it.",
-  "tagline": "Government signs software deals it can't leave, and never checks that it could.",
+  "tagline": "Deep software contracts; exit never tested",
   "summary": "The state buys deep, long contracts for intelligence and data platforms with no requirement to prove it could ever switch supplier or bring the work in-house. Dependence deepens by default. An exit-readiness test at approval, plus a lock-in toolkit buildable now, would make leaving a real option.",
   "seeAlso": [
    {
@@ -7095,7 +7095,7 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: a Department for Education change to apprenticeship funding rules attaching data-governance conditions.",
-  "tagline": "The public pays for the training. A private company keeps the data.",
+  "tagline": "Levy-funded learner records; owned by private platforms",
   "summary": "Publicly funded apprenticeships generate detailed learner records held on private platforms under 'legitimate business interest', not consent, with no rules on who ends up owning them. Public money builds private data assets with no strings. A data-governance clause in the funding rules would fix it.",
   "rank": 3,
   "rankNote": "Publicly funded apprenticeship data becomes private assets ungoverned; a Department for Education funding-rule change is easy and nobody owns it, but stakes are narrow with no urgent trigger."
@@ -7128,7 +7128,7 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Only Parliament can create a mandatory review regime; an ownership-change tracker and model legislation can be built without permission today.",
-  "tagline": "Foreign states face mandatory press ownership review. Every other acquirer faces none automatically.",
+  "tagline": "Press takeovers; plurality review only if a minister chooses",
   "summary": "UK press takeovers receive plurality scrutiny only if a minister chooses to intervene, and the 2024 mandatory regime covers foreign states alone. An automatic, acquirer-neutral review for significant news acquisitions remains missing.",
   "rank": 3,
   "rankNote": "High democratic stakes and live salience after the 2024-25 reforms, but blocked on primary legislation; the near-term value is evidence, tracking and drafting."
@@ -7161,7 +7161,7 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "The standard and monitoring can be built now by researchers and civil society; individual authorities can adopt it voluntarily within the Act's flexibilities. Making it a requirement needs the Cabinet Office.",
-  "tagline": "Public money buys technology with no duty to check suppliers' human-rights records.",
+  "tagline": "Public technology procurement; no human-rights due-diligence duty",
   "summary": "The Procurement Act 2023 excludes suppliers for convictions and defined misconduct but requires no assessment of a technology supplier's human-rights record or the dual-use nature of its products before award. Modern-slavery rules cover supply-chain labour only, so no human-rights due-diligence standard exists anywhere in UK public technology procurement.",
   "dialogue": {
    "counterparty": "government-bodies",
@@ -7180,7 +7180,7 @@
   "domain": "debt",
   "type": "knowledge",
   "horizon": "short",
-  "description": "The raw numbers have always been public: the ONS publishes the public sector finances monthly, the OBR forecasts debt and the interest bill twice a year, and the Commons Library briefs MPs on both. What did not exist was a public-facing, evergreen resource that translated them for a general reader: where the debt stands, what servicing it costs (over one hundred billion pounds a year, more than the entire defence budget), and what that bill crowds out. The data was open; the understanding was not. Disclosure: the fill recorded on this entry came from the Logos UK debt campaign, run by the same circle that maintains this map, and the entry is held to the same bar as every other.",
+  "description": "The raw numbers have always been public: the ONS publishes the public sector finances monthly, the OBR forecasts debt and the interest bill twice a year, and the Commons Library briefs MPs on both. What did not exist was a public-facing, evergreen resource that translated them for a general reader: where the debt stands, what servicing it costs (over one hundred billion pounds a year, more than the entire defence budget), and what that bill crowds out. The data was open and the understanding was missing. Disclosure: the fill recorded on this entry came from the Logos UK debt campaign, run by the same circle that maintains this map, and the entry is held to the same bar as every other.",
   "why": "Informed dialogue about any fiscal choice is impossible while the scale of the debt and its servicing cost stay invisible to the people paying it. Every budget line the public argues about is smaller than the interest bill nobody can see, and a generation is inheriting commitments it never authorised without a plain account of what they amount to.",
   "fill": "A maintained, plain-English knowledge hub on UK debt and debt interest: the current level, the servicing cost, where it sits by historical and international standards, and what the figures mean, updated as they move, free to read and reuse, and citing the official series it draws from.",
   "sources": [
@@ -7197,7 +7197,7 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "Instrument: a public explainer built from ONS and OBR series; no permission was required, and the fill proves it.",
-  "tagline": "The debt is public data. Public understanding is another matter.",
+  "tagline": "Debt figures scattered across releases; a plain hub since June 2026",
   "summary": "Official debt and interest figures were always published, but scattered across statistical releases written for specialists. An evergreen, plain-English hub on where the UK stands and what servicing the debt costs did not exist until the Logos UK debt campaign built one in June 2026.",
   "rank": 3,
   "rankNote": "Filled in June 2026 by the campaign; what remains ranked is the evergreen obligation, keeping the hub current as every release moves the figures."
