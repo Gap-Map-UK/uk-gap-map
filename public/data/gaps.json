@@ -3516,9 +3516,9 @@
   "domain": "parallel-institutions",
   "type": "policy",
   "horizon": "mid",
-  "description": "Withdrawable community shares (the funding engine of community pubs, shops and energy societies) are exempt from prospectus and financial-promotion regulation; protection rests on the voluntary Standard Mark run by Co-operatives UK's Community Shares Unit. Law Commission consultation paper 264 proposed statutory definitions of withdrawable and transferable shares, prescribed withdrawal conditions, write-down protections and interest caps, with the final report expected in 2026, after which implementation depends on government legislating. Withdrawal today depends entirely on a society's cash position; there is no secondary market or underwriting facility.",
-  "why": "Community shares are the one proven mass retail instrument for financing parallel institutions (£1m+ of match-crowded investment in 2025 alone). One high-profile collapse without statutory protection could poison the market; absence of liquidity caps how much ordinary savers will ever commit.",
-  "fill": "Government implementation of the Law Commission's share reforms; statutory underpinning of the Standard Mark; and a liquidity/underwriting facility so members can exit without destabilising societies, a fundable financial-infrastructure project for social investors.",
+  "description": "Withdrawable community shares, the funding engine of community pubs, shops and energy societies, are exempt from prospectus and financial-promotion regulation, and protection rests on the voluntary Standard Mark run by Co-operatives UK's Community Shares Unit. Law Commission consultation paper 264 proposed statutory definitions of withdrawable and transferable shares, prescribed withdrawal conditions, write-down protections and interest caps, with the final report expected in 2026, after which implementation depends on government legislating. Withdrawal today depends entirely on a society's cash position, and no secondary market or underwriting facility exists.",
+  "why": "Community shares are the one proven mass retail instrument for financing parallel institutions, with over £1m of match-crowded investment in 2025 alone. One high-profile collapse without statutory protection could poison the market, and the absence of liquidity caps how much ordinary savers will ever commit.",
+  "fill": "Government implementation of the Law Commission's share reforms, statutory underpinning of the Standard Mark, and a liquidity and underwriting facility so members can exit without destabilising societies, a fundable financial-infrastructure project for social investors.",
   "sources": [
    "https://lawcom.gov.uk/project/co-operatives-and-community-benefit-societies/",
    "https://www.uk.coop/blog/record-year-community-shares-booster-fund-2025",
@@ -3533,10 +3533,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: social-investor liquidity/underwriting facility for member exits; Law Commission share reforms are the end-state.",
-  "tagline": "Community shares run on trust, not law. One big collapse could poison the whole market.",
-  "summary": "Withdrawable shares finance community pubs, shops and energy projects, yet sit outside investor-protection law: the only safeguard is a voluntary mark, and cashing out depends on the society's till that day. The Law Commission's reform proposals are due this year. Enacting them, plus a facility letting members exit safely, would put the market on solid ground.",
+  "tagline": "Community shares; protected by a voluntary mark alone",
+  "summary": "Withdrawable shares finance community pubs, shops and energy projects, yet sit outside investor-protection law: the only safeguard is a voluntary mark, and cashing out depends on the society's till that day. The Law Commission's reform proposals are due this year. Enacting them, plus a facility letting members exit safely, would put the market on a statutory footing.",
   "rank": 1,
-  "rankNote": "The main retail funding instrument for community ownership rests on a voluntary mark; the 2026 Law Commission report offers a live hook, though liquidity reform remains downstream of legislation."
+  "rankNote": "The main retail funding instrument for community ownership rests on a voluntary mark; the 2026 Law Commission report offers a live hook, and liquidity reform sits downstream of legislation."
  },
  {
   "number": 108,
@@ -3701,9 +3701,9 @@
   "domain": "portable-sovereignty",
   "type": "funding",
   "horizon": "mid",
-  "description": "AIRR/Isambard-AI allocate compute via structured calls favouring researchers, startups and the public sector; the £500m Sovereign AI Unit (opened April 2026) makes venture investments. No programme funds charities, community organisations or local newsrooms to fine-tune or run open-weight models for local services (advice triage, translation, casework), and no public inference endpoint exists for accredited civil-society organisations. Running Llama/Mistral-class models locally is technically feasible on consumer hardware today, but the skills, hosting and support layer for communities is absent; Nesta and CAST offer advice, not infrastructure.",
-  "why": "Without a community tier, 'sovereign AI' means sovereign for the state and investors only. Civil society will rent US frontier APIs instead, sending sensitive community data offshore and forfeiting the privacy advantage that local open-weight inference uniquely offers.",
-  "fill": "A 'community compute' allocation within AIRR plus a grant programme providing hosted open-weight inference, fine-tuning support and deployment assistance to accredited civil-society organisations.",
+  "description": "AIRR and Isambard-AI allocate compute through structured calls favouring researchers, startups and the public sector, and the £500m Sovereign AI Unit, open since April 2026, makes venture investments. No programme funds charities, community organisations or local newsrooms to fine-tune or run open-weight models for local services such as advice triage, translation and casework, and no public inference endpoint exists for accredited civil-society organisations. Running Llama or Mistral-class models locally is technically feasible on consumer hardware today, and the skills, hosting and support layer for communities is absent; Nesta and CAST offer advice rather than infrastructure.",
+  "why": "Without a community tier, sovereign AI means sovereign for the state and investors only. Civil society will rent US frontier APIs instead, sending sensitive community data offshore and forfeiting the privacy advantage local open-weight inference uniquely offers.",
+  "fill": "A community compute allocation within AIRR plus a grant programme providing hosted open-weight inference, fine-tuning support and deployment assistance to accredited civil-society organisations.",
   "sources": [
    "https://www.gov.uk/government/publications/ai-opportunities-action-plan-one-year-on/ai-opportunities-action-plan-one-year-on",
    "https://www.bristol.ac.uk/research/centres/bristol-supercomputing/articles/2026/isambard-ai-supercomputer-powers-500m-uk-sovereign-ai-fund.html",
@@ -3718,8 +3718,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: DSIT/UKRI for an AIRR community allocation; open-weight models and hosting are ready today.",
-  "tagline": "Public AI compute flows to labs and startups. Charities are left renting Silicon Valley.",
-  "summary": "Britain's £500m sovereign AI push funds researchers, startups and the state, not the charity running advice triage or the local newsroom that could use a small model of its own. Without a community tier, civil society sends its sensitive data to US cloud companies instead. A modest compute allocation plus hands-on support would change that.",
+  "tagline": "Public AI compute; no tier for civil society",
+  "summary": "Britain's £500m sovereign AI push funds researchers, startups and the state, and misses the charity running advice triage or the local newsroom that could use a small model of its own. Without a community tier, civil society sends its sensitive data to US cloud companies instead. A modest compute allocation plus hands-on support would change that.",
   "dialogue": {
    "counterparty": "government-bodies",
    "ask": "Add a community tier to public AI compute: hosted open-weight models and hands-on support for accredited charities, advice services and local newsrooms.",
@@ -3728,7 +3728,7 @@
    "firstStep": "One pilot cohort: ten accredited organisations, a fixed slice of existing compute for six months, one shared support contractor, and a jointly published report on costs and outcomes."
   },
   "rank": 1,
-  "rankNote": "Sensitive community data drifts offshore without a public inference tier and a grant instrument is straightforward, but the stakes are nascent and no deadline forces action."
+  "rankNote": "Sensitive community data drifts offshore without a public inference tier and a grant instrument is straightforward, and the stakes are nascent with no deadline."
  },
  {
   "number": 115,
@@ -3767,9 +3767,9 @@
   "domain": "portable-sovereignty",
   "type": "coordination",
   "horizon": "mid",
-  "description": "LoRa mesh (Meshtastic) is cheap, encrypted and licence-exempt in the UK (868MHz), and hobbyists already run a national MQTT-bridged emergency text network (meshtastic.sytes.net) plus preparedness groups like UKSN. But Local Resilience Forums and national resilience guidance assign no role, standard kit list or funding to neighbourhood-level data mesh. RAYNET provides recognised amateur-radio voice support to emergency services, but nothing covers community-owned digital messaging that survives power and telecoms outages, a gap highlighted by Storm Éowyn-class events and the 2025 Iberian blackout.",
-  "why": "When mobile networks fail, communities currently have no sanctioned, practised fallback for local digital coordination. The hardware costs tens of pounds; the missing ingredient is doctrine, training and modest procurement: classic under-provisioned public-good territory.",
-  "fill": "A Cabinet Office/MHCLG community resilience communications pilot funding mesh starter kits and training through Local Resilience Forums and town/parish councils, with published interoperability and governance guidance.",
+  "description": "LoRa mesh through Meshtastic is cheap, encrypted and licence-exempt in the UK at 868MHz, and hobbyists already run a national MQTT-bridged emergency text network alongside preparedness groups like UKSN. Local Resilience Forums and national resilience guidance assign no role, standard kit list or funding to neighbourhood-level data mesh. RAYNET provides recognised amateur-radio voice support to emergency services, and nothing covers community-owned digital messaging that survives power and telecoms outages, a gap highlighted by Storm Éowyn-class events and the 2025 Iberian blackout.",
+  "why": "When mobile networks fail, communities currently have no sanctioned, practised fallback for local digital coordination. The hardware costs tens of pounds a node, and the missing ingredients are doctrine, training and modest procurement, classic under-provisioned public-good territory.",
+  "fill": "A Cabinet Office and MHCLG community resilience communications pilot funding mesh starter kits and training through Local Resilience Forums and town and parish councils, with published interoperability and governance guidance.",
   "sources": [
    "http://meshtastic.sytes.net/",
    "https://www.uksn.org.uk/post/exploring-meshtastic-secure-off-grid-communication-with-project-lora",
@@ -3784,8 +3784,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: one volunteer LRF or town/parish council for a mesh pilot; Cabinet Office sponsorship is the end-state.",
-  "tagline": "When the phone network dies, hobbyists have a backup. Emergency planners don't.",
-  "summary": "Cheap, encrypted radio mesh networks already carry messages when power and phone masts fail, and British hobbyists run a national one. Official resilience doctrine gives them no role, no kit list and no funding. Starter kits for parish councils would cost tens of pounds a node.",
+  "tagline": "Mesh radio survives blackouts; resilience doctrine ignores it",
+  "summary": "Cheap, encrypted radio mesh networks already carry messages when power and phone masts fail, and British hobbyists run a national one. Official resilience doctrine assigns them no role, and neither kit standards nor funding exist. Starter kits for parish councils would cost tens of pounds a node.",
   "dialogue": {
    "counterparty": "councils",
    "ask": "Adopt a neighbourhood radio-mesh pilot in your emergency plan: a practised text fallback for when power and phone masts fail.",
@@ -3794,7 +3794,7 @@
    "firstStep": "A 90-day trial in one parish: twenty nodes across halls, shops and volunteers' homes, one exercise simulating a mast outage, and a one-page joint evaluation for the resilience forum."
   },
   "rank": 1,
-  "rankNote": "Cheap hardware and hobbyist networks already exist but resilience doctrine assigns them no role; stakes hinge on rare outages and no deadline pushes procurement."
+  "rankNote": "Cheap hardware and hobbyist networks already exist and resilience doctrine assigns them no role; the stakes hinge on rare outages and no deadline pushes procurement."
  },
  {
   "number": 117,
@@ -4449,9 +4449,9 @@
   "domain": "local-ai",
   "type": "tooling",
   "horizon": "mid",
-  "description": "The UK's frontier strategy is partnership with US labs (AISI MoU with Anthropic, Feb 2025; hyperscaler infrastructure deals). The only domestic open-model effort, BritLLM/UK-LLM (UCL, Bangor, NVIDIA; trained on Isambard-AI), is a small academic project focused on UK languages. There is no UK counterpart to the EU's OpenEuroLLM or the EUROPA consortium (selected June 2026 to build a 400B+-parameter open frontier model). Yet AISI's own trends report finds the open-closed capability gap has narrowed to 4-8 months, making maintained open weights a credible fallback the UK has chosen not to build.",
-  "why": "If US API access were restricted or repriced, UK public services and firms have no fallback stack. Open-weight models are the one hedge that does not require winning the frontier race, but only if someone maintains, evaluates and adapts them for UK-critical functions in advance.",
-  "fill": "A National Open Models Programme under the £500m Sovereign AI Unit: a standing team that evaluates, fine-tunes, secures and hosts open-weight models on AIRR as a public-sector fallback; funding for open-model maintenance (a Sovereign Tech Fund-style instrument for model infrastructure); and formal association with European open-model consortia.",
+  "description": "The UK's frontier strategy is partnership with US labs, through the AISI memorandum with Anthropic of February 2025 and the hyperscaler infrastructure deals. The only domestic open-model effort, BritLLM at UCL and Bangor with NVIDIA, trained on Isambard-AI, is a small academic project focused on UK languages. No UK counterpart exists to the EU's OpenEuroLLM or the EUROPA consortium selected in June 2026 to build an open frontier model of 400 billion-plus parameters. AISI's own trends report finds the open-closed capability gap narrowed to four to eight months, which makes maintained open weights a credible fallback the UK has chosen not to build.",
+  "why": "If US API access were restricted or repriced, UK public services and firms have no fallback stack. Open-weight models are the one hedge that does not require winning the frontier race, and the hedge works only if someone maintains, evaluates and adapts them for UK-critical functions in advance.",
+  "fill": "A national open models programme under the £500m Sovereign AI Unit: a standing team evaluating, fine-tuning, securing and hosting open-weight models on AIRR as a public-sector fallback, funding for open-model maintenance, and formal association with the European open-model consortia.",
   "sources": [
    "https://www.aisi.gov.uk/frontier-ai-trends-report",
    "https://www.ucl.ac.uk/news/2025/jun/ucl-chosen-uk-partner-help-develop-sovereign-ai-platforms",
@@ -4466,10 +4466,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: government programme decision within the £500m Sovereign AI Unit and AIRR.",
-  "tagline": "If American AI access ever ends, Britain has no plan B. Open models could be one.",
-  "summary": "Open-weight AI models now trail the frontier by only months, making them a credible fallback if US access were restricted or repriced, but a fallback only if someone maintains and adapts them in advance. Europe is building its own open frontier model. Britain's sole effort is a small university project.",
+  "tagline": "Open-weight models; the hedge Britain chose not to build",
+  "summary": "Open-weight AI models now trail the frontier by only months, which makes them a credible fallback if US access were restricted or repriced, and a fallback only if someone maintains and adapts them in advance. Europe is building its own open frontier model. Britain's sole effort is a small university project.",
   "rank": 1,
-  "rankNote": "A cheap fallback exists only if someone maintains open weights in advance; the vehicle and compute already exist, but stakes are contingent and no date forces the decision.",
+  "rankNote": "A cheap fallback exists only if someone maintains open weights in advance; the vehicle and compute already exist, and the stakes are contingent with no date forcing the decision.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "The open–closed capability gap is 4–8 months today; the hedge is cheap while it stays that narrow."
  },
@@ -4541,9 +4541,9 @@
   "domain": "ai-crisis",
   "type": "knowledge",
   "horizon": "mid",
-  "description": "Income tax and NICs supply nearly half of UK receipts, and DSIT's own assessment puts ~70% of UK workers in AI-exposed roles, the highest of comparable economies because of the UK's services weighting. The OBR has explored AI productivity upsides but publishes no systematic displacement-driven downside fiscal scenario; no HMT/HMRC workstream examines value migrating to US AI firms via low-tax jurisdictions (the tax-base erosion mechanism at the core of the Europe-2031 scenario). No institution owns the question 'what happens to UK receipts if white-collar labour income compresses?'",
-  "why": "Fiscal stress arrives before labour-market statistics register crisis: hiring freezes cut receipts years before unemployment peaks. Without modelled scenarios, the Treasury will meet AI-driven erosion with ad-hoc cuts rather than prepared instruments: the exact sequence the Europe-2031 report projects for services-heavy economies.",
-  "fill": "A mandate for the OBR to publish AI downside scenarios in its Fiscal Risks and Sustainability reports; a standing HMT/HMRC analysis unit on AI tax-base resilience covering wage-share shifts, profit attribution by AI firms, and evaluation of instruments such as IPPR's worker support levy.",
+  "description": "Income tax and national insurance supply nearly half of UK receipts, and DSIT's own assessment puts around 70 per cent of UK workers in AI-exposed roles, the highest of comparable economies because of the UK's services weighting. The OBR has explored AI productivity upsides and publishes no systematic displacement-driven downside fiscal scenario. No Treasury or HMRC workstream examines value migrating to US AI firms through low-tax jurisdictions, and no institution owns the question of what happens to UK receipts if white-collar labour income compresses.",
+  "why": "Fiscal stress arrives before labour-market statistics register crisis, because hiring freezes cut receipts years before unemployment peaks. Without modelled scenarios, the Treasury will meet AI-driven erosion with ad hoc cuts rather than prepared instruments.",
+  "fill": "A mandate for the OBR to publish AI downside scenarios in its fiscal risks reports, and a standing Treasury and HMRC analysis unit on AI tax-base resilience covering wage-share shifts, profit attribution by AI firms, and evaluation of instruments such as a worker support levy.",
   "sources": [
    "https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market",
    "https://www.ippr.org/media-office/up-to-8-million-uk-jobs-at-risk-from-ai-unless-government-acts-finds-ippr"
@@ -4557,10 +4557,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: OBR mandate change plus a standing HMT/HMRC analysis unit.",
-  "tagline": "No one in government models what AI displacement does to the tax take.",
+  "tagline": "AI and the tax take; no downside scenario modelled",
   "summary": "Nearly half of government revenue comes from taxing wages, and most British workers sit in AI-exposed jobs, yet no institution models what happens to receipts if white-collar incomes compress. Fiscal stress will arrive before unemployment statistics do. Mandating the budget watchdog to publish AI downside scenarios would buy the Treasury time to prepare.",
   "rank": 1,
-  "rankNote": "Half of receipts come from taxing wages most exposed to AI, yet nobody models the downside; the fix is cheap but the erosion compounds slowly with no dated trigger.",
+  "rankNote": "Half of receipts come from taxing the wages most exposed to AI and nobody models the downside; the fix is cheap and the erosion compounds slowly.",
   "capabilityTime": "2–4 model generations",
   "capabilityTimeNote": "Tax-base erosion compounds slowly; the early-warning capability is cheap insurance ahead of it."
  },
@@ -4874,9 +4874,9 @@
   "domain": "open-source-public-goods",
   "type": "coordination",
   "horizon": "mid",
-  "description": "Crypto public-goods programmes are substantial (Gitcoin has facilitated $60m+ across quadratic-funding rounds; the Ethereum Foundation's Ecosystem Support Program has granted $148m+ to 900+ projects; Protocol Labs and Optimism run further streams), but there is no UK fiscal-sponsorship vehicle for charities to receive crypto grants, no data on UK receipt, and charity trustees remain cautious about custody and regulatory treatment. UK civic tech organisations facing funding decline are largely absent from these rounds.",
-  "why": "This is one of the few growing pools of no-strings public-goods money in the world, philosophically aligned with open civic infrastructure. The UK's charity-law and custody friction means British open-source and civic projects forfeit funding their US and EU peers collect.",
-  "fill": "A UK-registered crypto-competent fiscal-sponsor charity that receives and regrants crypto public-goods funding; Charity Commission guidance on accepting cryptoasset grants; and a UK-civic-focused matching round negotiated with Gitcoin or the Ethereum Foundation.",
+  "description": "Crypto public-goods programmes are substantial: Gitcoin has facilitated more than $60m across quadratic-funding rounds, the Ethereum Foundation's Ecosystem Support Program has granted over $148m to more than 900 projects, and Protocol Labs and Optimism run further streams. No UK fiscal-sponsorship vehicle exists for charities to receive crypto grants, no data tracks UK receipt, and charity trustees remain cautious about custody and regulatory treatment. UK civic tech organisations facing funding decline are largely absent from these rounds.",
+  "why": "This is one of the few growing pools of no-strings public-goods money in the world, and it is philosophically aligned with open civic infrastructure. Charity-law and custody friction means British open-source and civic projects forfeit funding their US and EU peers collect.",
+  "fill": "A UK-registered, crypto-competent fiscal-sponsor charity that receives and regrants crypto public-goods funding, Charity Commission guidance on accepting cryptoasset grants, and a UK-civic-focused matching round negotiated with Gitcoin or the Ethereum Foundation.",
   "sources": [
    "https://gitcoin.co/program",
    "https://www.grantchain.eu/grants/ethereum-foundation-esp"
@@ -4890,11 +4890,11 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: crypto-competent fiscal-sponsor charity plus a UK-civic Gitcoin/EF matching round; Charity Commission guidance helps but does not gate v1.",
-  "tagline": "Crypto funders give millions to public goods. British charities lack a way to accept it.",
-  "summary": "One programme alone has granted over $148m to open-source and civic projects worldwide, yet no UK vehicle exists to receive crypto public-goods money, and charity trustees stay wary. British civic tech, short of funders at home, forfeits grants its American and European peers collect. A crypto-competent fiscal sponsor and clear Charity Commission guidance would open the tap.",
+  "tagline": "Crypto public-goods grants; no UK vehicle to receive them",
+  "summary": "One programme alone has granted over $148m to open-source and civic projects worldwide, yet no UK vehicle exists to receive crypto public-goods money, and charity trustees stay wary. British civic tech, short of funders at home, forfeits grants its American and European peers collect. A crypto-competent fiscal sponsor and clear Charity Commission guidance would open the route.",
   "facet": "funding-gaps",
   "rank": 1,
-  "rankNote": "One of the few growing no-strings funding pools is aligned, but custody and charity-law friction make the fiscal-sponsor vehicle hard to build and no dated trigger forces action."
+  "rankNote": "One of the few growing no-strings funding pools is aligned, and custody and charity-law friction make the fiscal-sponsor vehicle hard to build with no dated trigger."
  },
  {
   "number": 154,
@@ -5060,9 +5060,9 @@
   "domain": "corruption-integrity",
   "type": "knowledge",
   "horizon": "mid",
-  "description": "There is no legal requirement for think tanks to disclose funders. openDemocracy's revived Who Funds You? project rated several of the most ministerially connected tanks (IEA, Policy Exchange, Adam Smith Institute, Legatum, TaxPayers' Alliance) 'E' for transparency and traced ~£25m of pre-election policy funding to opaque sources; the Transparency of Lobbying Act 2014 covers consultant lobbyists, not think tanks. Unlock Democracy and On Think Tanks have proposed reforms; none has been adopted. Separately, the ~150-strong UK think-tank sector clusters in London: IPPR North is the main sustained regional exception, leaving new mayoral strategic authorities (now major policymaking venues) without independent local policy and evidence capacity.",
-  "why": "Organisations shaping ministerial decisions face weaker disclosure rules than the consultant lobbyists Parliament regulated in 2014. Meanwhile new regional governments lack independent policy capacity, so increasingly consequential devolved decisions are made with London-produced evidence, or none at all.",
-  "fill": "Two instruments: (1) extend lobbying-register-style disclosure so organisations meeting ministers or giving parliamentary evidence must declare funders above a threshold; (2) a philanthropic pooled endowment for regional policy institutes attached to strategic authority geographies (on the Centre for London / IPPR North model).",
+  "description": "No legal requirement obliges think tanks to disclose funders. openDemocracy's revived Who Funds You? project rated several of the most ministerially connected tanks E for transparency and traced around £25m of pre-election policy funding to opaque sources, and the Transparency of Lobbying Act 2014 covers consultant lobbyists rather than think tanks. Unlock Democracy and On Think Tanks have proposed reforms, and none has been adopted. Separately, the roughly 150-strong UK think-tank sector clusters in London, with IPPR North the main sustained regional exception, leaving the new mayoral strategic authorities without independent local policy and evidence capacity.",
+  "why": "Organisations shaping ministerial decisions face weaker disclosure rules than the consultant lobbyists Parliament regulated in 2014. New regional governments meanwhile lack independent policy capacity, so increasingly consequential devolved decisions rest on London-produced evidence, or none.",
+  "fill": "Two instruments. Disclosure first: extend lobbying-register-style rules so organisations meeting ministers or giving parliamentary evidence declare funders above a threshold. Capacity second: a philanthropic pooled endowment for regional policy institutes attached to strategic authority geographies, on the Centre for London and IPPR North model.",
   "sources": [
    "https://www.opendemocracy.net/en/dark-money-investigations/think-tanks-transparency-funding-who-funds-you/",
    "https://unlockdemocracy.org.uk/think-tanks",
@@ -5078,8 +5078,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: philanthropic pooled endowment for regional policy institutes (IPPR North model); statutory funder disclosure remains state-led.",
-  "tagline": "Think tanks help write government policy. They never have to say who pays them.",
-  "summary": "Consultant lobbyists must register, but the think tanks briefing ministers face no disclosure rules; investigators traced £25m of pre-election policy funding to opaque sources. Meanwhile England's new regional governments make big decisions with almost no independent policy capacity outside London. Disclosure rules and endowed regional institutes are the twin fixes.",
+  "tagline": "Think tanks shape policy; funders undisclosed",
+  "summary": "Consultant lobbyists must register, and the think tanks briefing ministers face no disclosure rules; investigators traced £25m of pre-election policy funding to opaque sources. England's new regional governments meanwhile make big decisions with almost no independent policy capacity outside London. Disclosure rules and endowed regional institutes are the twin fixes.",
   "facet": "policy-gaps",
   "seeAlso": [
    {
@@ -5096,7 +5096,7 @@
    }
   ],
   "rank": 1,
-  "rankNote": "Bodies shaping ministerial decisions face weaker disclosure than regulated lobbyists while new regional governments lack independent policy capacity; both fixes are moderate, unadopted, and undated."
+  "rankNote": "Bodies shaping ministerial decisions face weaker disclosure than regulated lobbyists while regional governments lack independent policy capacity; both fixes are moderate, unadopted and undated."
  },
  {
   "number": 167,
@@ -5278,9 +5278,9 @@
   "domain": "health-social-care",
   "type": "policy",
   "horizon": "mid",
-  "description": "The Hewitt Review (2023) recommended raising the share of ICS budgets spent on prevention by at least 1% over five years; the 10 Year Health Plan impact statement (January 2026) canvasses a prevention investment standard, Preventative Departmental Expenditure Limits and outcomes-based payment, but none has been adopted. There is no agreed definition or baseline measurement of NHS prevention spend. The ring-fenced local-authority public health grant exists, but NHS budgets have no equivalent instrument.",
-  "why": "Every NHS strategy since 2006 has promised a prevention shift; without a measurable standard or Treasury category it stays rhetorical, because acute pressures always reclaim marginal funds. As the King's Fund put it: 'some is not a number, soon is not a time'.",
-  "fill": "A defined, audited prevention investment standard in NHS planning guidance with published ICB-level prevention-spend statistics, or an HM Treasury Preventative DEL created at the 2027 Spending Review. A fundable precursor: definitional and measurement work by ONS/DHSC analysts or an independent centre (Health Foundation REAL Centre).",
+  "description": "The Hewitt Review of 2023 recommended raising the share of integrated care system budgets spent on prevention by at least one percentage point over five years, and the 10 Year Health Plan impact statement of January 2026 canvasses a prevention investment standard, preventative departmental expenditure limits and outcomes-based payment, none of which has been adopted. No agreed definition or baseline measurement of NHS prevention spend exists. The ring-fenced local-authority public health grant exists, and NHS budgets have no equivalent instrument.",
+  "why": "Every NHS strategy since 2006 has promised a prevention shift, and without a measurable standard or Treasury category it stays rhetorical, because acute pressures always reclaim marginal funds. As the King's Fund put it: 'some is not a number, soon is not a time'.",
+  "fill": "A defined, audited prevention investment standard in NHS planning guidance with published board-level prevention-spend statistics, or a preventative departmental expenditure limit created at the 2027 Spending Review. The fundable precursor is definitional and measurement work by ONS and DHSC analysts or an independent centre.",
   "sources": [
    "https://assets.publishing.service.gov.uk/media/69651a7699fbdc498faecd1f/impact-statement-10-year-health-plan.pdf",
    "https://www.kingsfund.org.uk/insight-and-analysis/blogs/some-is-not-a-number-soon-is-not-a-time",
@@ -5295,10 +5295,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: independent prevention-spend definition and measurement (REAL Centre-style) from published/FOI-able ICB data; the Treasury DEL is state-led.",
-  "tagline": "Twenty years of NHS strategies promise a prevention shift. The money never moves.",
-  "summary": "Every NHS strategy since 2006 has promised to shift money into prevention, yet there is no agreed definition of prevention spending, no baseline and no rule forcing the shift, so acute pressures always claw the money back. A measurable investment standard, or a dedicated Treasury spending category, would turn a slogan into a number someone must hit.",
+  "tagline": "The prevention shift; promised since 2006, never enforced",
+  "summary": "Every NHS strategy since 2006 has promised to shift money into prevention, yet prevention spending has no agreed definition, no baseline exists, and nothing forces the shift, so acute pressures claw the money back. A measurable investment standard, or a dedicated Treasury spending category, would turn a slogan into a number someone must hit.",
   "rank": 1,
-  "rankNote": "The prevention shift has been promised since 2006 but stays rhetorical without an agreed definition or Treasury category, and no live date this year forces adoption."
+  "rankNote": "The prevention shift has been promised since 2006 and stays rhetorical without an agreed definition or Treasury category, with no live date forcing adoption."
  },
  {
   "number": 173,
@@ -6285,9 +6285,9 @@
   "domain": "national-resilience",
   "type": "funding",
   "horizon": "mid",
-  "description": "The £1bn Pandemic Preparedness Strategy (2025) funds PPE replenishment, some UK vaccine capacity (Moderna, Harwell) and testing-chemical stockpiles. But CLTR notes the plan lacks a comprehensive strategy to boost supply-chain resilience for medical countermeasures and offers no detailed reshoring analysis. There is no standing surge-manufacturing 'warm base' (a UK equivalent of a permanent BARDA-style capacity) nor a published cross-hazard national stockpile strategy with maintained, rotated reserves.",
-  "why": "In 2020 the UK was exposed by global scrambles for PPE, reagents and vaccines. Ad hoc stockpiles degrade and surge manufacturing cannot be improvised; a warm-base capability is the difference between 100-day and 12-month countermeasure availability.",
-  "fill": "A published national stockpile strategy (rotated, cross-hazard reserves) plus funded warm-base surge-manufacturing capacity and reshoring of critical medical inputs, explicitly tied to the 100 Days Mission.",
+  "description": "The £1bn Pandemic Preparedness Strategy of 2025 funds PPE replenishment, some UK vaccine capacity at Moderna's Harwell site, and testing-chemical stockpiles. CLTR notes the plan lacks a comprehensive strategy for medical-countermeasure supply-chain resilience and offers no detailed reshoring analysis. No standing surge-manufacturing warm base exists, no UK equivalent of a permanent BARDA-style capacity, and no published cross-hazard national stockpile strategy with maintained, rotated reserves.",
+  "why": "In 2020 the UK was exposed by global scrambles for PPE, reagents and vaccines. Ad hoc stockpiles degrade and surge manufacturing cannot be improvised. A warm-base capability is the difference between countermeasures in 100 days and countermeasures in twelve months.",
+  "fill": "A published national stockpile strategy with rotated, cross-hazard reserves, plus funded warm-base surge-manufacturing capacity and reshoring of critical medical inputs, explicitly tied to the 100 Days Mission.",
   "sources": [
    "https://www.gov.uk/government/news/1-billion-invested-in-health-protection-as-new-pandemic-strategy-published",
    "https://www.longtermresilience.org/reports/uk-resilience-action-plan-ambitious-progress-with-room-to-go-further/"
@@ -6301,10 +6301,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: government stockpile strategy plus DHSC-funded BARDA-style warm-base manufacturing; spending-review decisions outsiders cannot ship.",
-  "tagline": "You cannot improvise a vaccine factory. Britain still has no warm-standby manufacturing.",
-  "summary": "The £1bn pandemic strategy replenishes protective equipment and buys some vaccine capacity, but Britain has no standing surge-manufacturing base and no published stockpile strategy with rotated reserves. Stockpiles degrade, and factories cannot be conjured mid-crisis. A warm manufacturing base is what makes a fast response possible.",
+  "tagline": "Vaccine surge manufacturing; no warm standby",
+  "summary": "The £1bn pandemic strategy replenishes protective equipment and buys some vaccine capacity, and Britain has no standing surge-manufacturing base and no published stockpile strategy with rotated reserves. Stockpiles degrade, and factories cannot be conjured mid-crisis. A warm manufacturing base is what makes a fast response possible.",
   "rank": 1,
-  "rankNote": "Warm-base surge manufacturing decides 100-day versus 12-month countermeasures, but the £1bn strategy already funds adjacent stockpiles and no dated trigger forces the reshoring piece now."
+  "rankNote": "Warm-base surge manufacturing decides 100-day versus 12-month countermeasures, and the £1bn strategy already funds adjacent stockpiles with no dated trigger for the reshoring piece."
  },
  {
   "number": 205,
@@ -6513,9 +6513,9 @@
   "domain": "corruption-integrity",
   "type": "tooling",
   "horizon": "mid",
-  "description": "The UK's defining records scandals are archive failures: Post Office Horizon (corrupted evidence convicting hundreds), Windrush (landing cards destroyed, citizens stripped of status), inquiry disclosure fights, and ~45% of council accounts carrying disclaimed opinions. Yet no UK public institution preserves evidence-grade records (inquiry evidence, court judgments, FOI corpora, procurement decisions) in tamper-evident, publicly verifiable form. The National Archives preserves but does not make records independently verifiable; case law sits behind licensing friction. Durable, censorship-resistant archive protocols exist (content-addressed storage with cryptographic proofs of custody exist), but nothing connects them to UK public records.",
-  "why": "Records are where UK accountability actually breaks: Horizon and Windrush each destroyed thousands of lives through corrupted or vanished records. 'There is no political power without control of the archive', and the state keeps proving it cannot be its own archivist.",
-  "fill": "A public-interest archive service anchoring hashes of inquiry evidence, judgments, contracts and FOI releases to tamper-evident storage with independent verification, piloted with one inquiry's evidence corpus or one council's records, run by a university-charity consortium, mechanism-agnostic on the underlying stack.",
+  "description": "The UK's defining records scandals are archive failures: Post Office Horizon, where corrupted evidence convicted hundreds, Windrush, where destroyed landing cards stripped citizens of status, inquiry disclosure fights, and the roughly 45 per cent of council accounts carrying disclaimed opinions. No UK public institution preserves evidence-grade records, inquiry evidence, court judgments, FOI corpora or procurement decisions, in tamper-evident, publicly verifiable form. The National Archives preserves without making records independently verifiable, and case law sits behind licensing friction. Durable, censorship-resistant archive protocols exist, content-addressed storage with cryptographic proofs of custody among them, and nothing connects them to UK public records.",
+  "why": "Records are where UK accountability actually breaks: Horizon and Windrush each destroyed thousands of lives through corrupted or vanished records, and the state keeps proving it cannot be its own archivist.",
+  "fill": "A public-interest archive service anchoring hashes of inquiry evidence, judgments, contracts and FOI releases to tamper-evident storage with independent verification, piloted with one inquiry's evidence corpus or one council's records, run by a university and charity consortium, mechanism-agnostic on the underlying stack.",
   "sources": [
    "https://www.gov.uk/government/publications/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions",
    "https://www.opendemocracy.net/en/freedom-of-information/freedom-of-information-in-danger-of-sliding-into-obsolescence-new-report-finds/"
@@ -6530,10 +6530,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: tamper-evident hash archive of one published inquiry evidence corpus; the council-records variant would need a partner.",
-  "tagline": "Corrupted records convicted hundreds. Destroyed records stripped citizens of status.",
+  "tagline": "Evidence-grade records; nothing keeps them tamper-evident",
   "summary": "The Post Office and Windrush scandals were both, at root, failures of record-keeping that nobody could independently verify. No UK institution stores inquiry evidence, judgments or contracts in tamper-evident, publicly checkable form, though the technology exists. A pilot could start with a single inquiry's evidence corpus.",
   "rank": 1,
-  "rankNote": "No UK body keeps evidence-grade records tamper-evident despite Horizon and Windrush; the technology exists but the application is novel, unresourced, and carries no dated trigger."
+  "rankNote": "No UK body keeps evidence-grade records tamper-evident despite Horizon and Windrush; the technology exists and the application is novel, unresourced and undated."
  },
  {
   "number": 213,
@@ -6578,8 +6578,8 @@
   "domain": "parallel-institutions",
   "type": "tooling",
   "horizon": "mid",
-  "description": "The UK debates electoral technology at the highest-stakes level (general elections) where caution rightly wins, while the low-stakes venues where verifiable governance could actually be proven (union ballots, statutorily paper-bound under the Trade Union Act's rules; co-op AGMs; community share votes; participatory budgeting; neighbourhood boards) run on show-of-hands, postal ballots or vendor black boxes. Nobody in the UK runs structured trials of member-verifiable voting (each voter can confirm their vote was counted; anyone can verify the tally) with real membership organisations, so the evidence base stays empty and every debate restarts from zero.",
-  "why": "Blockchain communities are 'laboratories for investigating democratic governance mechanisms', but only if someone runs the experiments. The UK has 16.6m co-op members and 6m union members governed by processes less verifiable than a parkrun result; proving the tooling there is the prerequisite for ever trusting it anywhere else.",
+  "description": "The UK debates electoral technology at the highest-stakes level, general elections, where caution rightly wins, while the low-stakes venues where verifiable governance could actually be proven run on show-of-hands, postal ballots or vendor black boxes: union ballots, statutorily paper-bound under the Trade Union Act's rules, co-op AGMs, community share votes, participatory budgeting and neighbourhood boards. Nobody in the UK runs structured trials of member-verifiable voting with real membership organisations, so the evidence base stays empty and every debate restarts from zero.",
+  "why": "Digital governance communities can serve as laboratories for democratic mechanisms only if someone runs the experiments. The UK has 16.6 million co-op members and six million union members governed by processes less verifiable than a parkrun result. Proving the tooling there is the prerequisite for trusting it anywhere else.",
   "fill": "A funded governance-lab programme partnering with unions, co-ops and participatory-budgeting pilots to run verifiable ballots alongside incumbent processes, publishing comparable results on turnout, cost, contestation and member trust, with statutory reform of e-balloting rules as the policy tail.",
   "sources": [
    "https://www.uk.coop/resources/economy",
@@ -6595,8 +6595,8 @@
   "permission": "build-together",
   "dataReady": false,
   "permissionNote": "Counterparty: a union, co-op or participatory-budgeting host running verifiable ballots alongside incumbent processes; e-balloting reform is the tail.",
-  "tagline": "Six million union members vote with processes less verifiable than a parkrun result.",
-  "summary": "Verifiable voting (where each member can confirm their ballot counted and anyone can check the tally) has never been trialled with real UK membership organisations, so every debate about electoral technology restarts from zero. Union ballots, co-op meetings and participatory budgets are the safe, low-stakes places to build the evidence.",
+  "tagline": "Verifiable voting; never trialled where stakes are low",
+  "summary": "Verifiable voting, where each member can confirm their ballot counted and anyone can check the tally, has never been trialled with real UK membership organisations, so every debate about electoral technology restarts from zero. Union ballots, co-op meetings and participatory budgets are the safe, low-stakes places to build the evidence.",
   "dialogue": {
    "counterparty": "unions-and-membership-bodies",
    "ask": "Run a verifiable ballot alongside one of your existing votes: the incumbent result stands; the trial simply builds the evidence.",
@@ -6613,7 +6613,7 @@
    }
   ],
   "rank": 1,
-  "rankNote": "Millions of co-op and union members are governed by unverifiable processes, but running structured trials is unproven, statutorily constrained, and faces no deadline forcing the evidence base to fill."
+  "rankNote": "Millions of co-op and union members are governed by unverifiable processes, and running structured trials is unproven, statutorily constrained and undated."
  },
  {
   "number": 215,
@@ -6790,9 +6790,9 @@
   "domain": "parallel-institutions",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The map's legal entries (no new friendly societies since 1993; DAO wrapper absent; community shares unprotected) explain why parallel institutions are hard to form, but no UK community has demonstrated the operating model either: a modern mutual providing the service stack members actually need (income-smoothing and sick pay for the self-employed, collective bargaining for care and insurance, legal defence, housing deposits, member advocacy) with member-verifiable treasuries and genuinely portable exit. The surviving friendly societies are legacy insurers; new mutual aid is informal and dissolves; platform co-ops are single-service. The gap is a working existence proof, not another report.",
-  "why": "Legal reform follows demonstration more often than it precedes it. One visible, well-governed full-stack mutual (the book's 'services without territory' menu made British) would give the Law Commission workstreams a live client, funders a template, and 4.4m self-employed workers an alternative to falling through the welfare state's gaps.",
-  "fill": "A flagship mutual pilot: 1,000+ members drawn from an existing community (a union branch, a professional network, a large mutual-aid group), offering two or three services at launch with transparent treasury and published governance, structured within existing law (community benefit society + contractual layers) while documenting exactly where the law binds, which is the evidence the reform entries need.",
+  "description": "The map's legal entries explain why parallel institutions are hard to form: no new friendly societies since 1993, no DAO wrapper, community shares unprotected. No UK community has demonstrated the operating model either: a modern mutual providing the service stack members actually need, income-smoothing and sick pay for the self-employed, collective bargaining for care and insurance, legal defence, housing deposits and member advocacy, with member-verifiable treasuries and genuinely portable exit. The surviving friendly societies are legacy insurers, new mutual aid is informal and dissolves, and platform co-ops are single-service. The gap is a working existence proof rather than another report.",
+  "why": "Legal reform follows demonstration more often than it precedes it. One visible, well-governed full-stack mutual, services without territory made British, would give the Law Commission workstreams a live client, funders a template, and 4.4 million self-employed workers an alternative to falling through the welfare state's gaps.",
+  "fill": "A flagship mutual pilot: a thousand or more members drawn from an existing community, whether a union branch, a professional network or a large mutual-aid group, offering two or three services at launch with a transparent treasury and published governance, structured within existing law as a community benefit society with contractual layers, while documenting exactly where the law binds, which is the evidence the reform entries need.",
   "sources": [
    "https://lawcom.gov.uk/project/friendly-societies/",
    "https://financialmutuals.org/resource/afm-welcomes-the-law-commission-consultation-on-the-long-overdue-reform-of-friendly-societies-legislation/"
@@ -6807,10 +6807,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: 1,000-member community benefit society with transparent treasury, formed voluntarily within existing law.",
-  "tagline": "Millions of self-employed workers fall through the safety net. A mutual could catch them.",
+  "tagline": "The modern mutual; designed on paper, demonstrated nowhere",
   "summary": "No British community has demonstrated the modern mutual: sick pay, bargaining power and legal defence for members, run on a transparent treasury. Existing law already allows a version of it. A pilot with a thousand members would give reformers a live client, funders a template, and the self-employed a way back in.",
   "rank": 1,
-  "rankNote": "A working existence-proof would give reformers a live client and self-employed workers an alternative, and it is buildable within existing law, but it is unresourced, operationally heavy and undated."
+  "rankNote": "A working existence proof would give reformers a live client and self-employed workers an alternative, and it is buildable within existing law while staying unresourced, operationally heavy and undated."
  },
  {
   "number": 221,
@@ -7007,7 +7007,7 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: a funder-provenance tracker cross-referencing public parliamentary evidence, declared interests and contracts.",
-  "tagline": "A firm helped design the levy it's now paid from. The records don't talk to each other.",
+  "tagline": "Rule-shapers later paid under the rules; records never joined",
   "summary": "Companies submit evidence to Parliament that shapes funding rules they later draw money from, but the two public records live apart, so the loop is never drawn. Multiverse advised on the skills levy it now trains apprentices under. A tracker linking policy submissions to public money would let anyone see it.",
   "seeAlso": [
    {

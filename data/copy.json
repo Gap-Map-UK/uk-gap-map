@@ -492,7 +492,7 @@
   },
   {
    "number": 212,
-   "tagline": "Corrupted records convicted hundreds. Destroyed records stripped citizens of status.",
+   "tagline": "Evidence-grade records; nothing keeps them tamper-evident",
    "summary": "The Post Office and Windrush scandals were both, at root, failures of record-keeping that nobody could independently verify. No UK institution stores inquiry evidence, judgments or contracts in tamper-evident, publicly checkable form, though the technology exists. A pilot could start with a single inquiry's evidence corpus."
   },
   {
@@ -547,17 +547,17 @@
   },
   {
    "number": 106,
-   "tagline": "Community shares run on trust, not law. One big collapse could poison the whole market.",
-   "summary": "Withdrawable shares finance community pubs, shops and energy projects, yet sit outside investor-protection law: the only safeguard is a voluntary mark, and cashing out depends on the society's till that day. The Law Commission's reform proposals are due this year. Enacting them, plus a facility letting members exit safely, would put the market on solid ground."
+   "tagline": "Community shares; protected by a voluntary mark alone",
+   "summary": "Withdrawable shares finance community pubs, shops and energy projects, yet sit outside investor-protection law: the only safeguard is a voluntary mark, and cashing out depends on the society's till that day. The Law Commission's reform proposals are due this year. Enacting them, plus a facility letting members exit safely, would put the market on a statutory footing."
   },
   {
    "number": 214,
-   "tagline": "Six million union members vote with processes less verifiable than a parkrun result.",
-   "summary": "Verifiable voting (where each member can confirm their ballot counted and anyone can check the tally) has never been trialled with real UK membership organisations, so every debate about electoral technology restarts from zero. Union ballots, co-op meetings and participatory budgets are the safe, low-stakes places to build the evidence."
+   "tagline": "Verifiable voting; never trialled where stakes are low",
+   "summary": "Verifiable voting, where each member can confirm their ballot counted and anyone can check the tally, has never been trialled with real UK membership organisations, so every debate about electoral technology restarts from zero. Union ballots, co-op meetings and participatory budgets are the safe, low-stakes places to build the evidence."
   },
   {
    "number": 220,
-   "tagline": "Millions of self-employed workers fall through the safety net. A mutual could catch them.",
+   "tagline": "The modern mutual; designed on paper, demonstrated nowhere",
    "summary": "No British community has demonstrated the modern mutual: sick pay, bargaining power and legal defence for members, run on a transparent treasury. Existing law already allows a version of it. A pilot with a thousand members would give reformers a live client, funders a template, and the self-employed a way back in."
   },
   {
@@ -587,8 +587,8 @@
   },
   {
    "number": 112,
-   "tagline": "Public AI compute flows to labs and startups. Charities are left renting Silicon Valley.",
-   "summary": "Britain's £500m sovereign AI push funds researchers, startups and the state, not the charity running advice triage or the local newsroom that could use a small model of its own. Without a community tier, civil society sends its sensitive data to US cloud companies instead. A modest compute allocation plus hands-on support would change that."
+   "tagline": "Public AI compute; no tier for civil society",
+   "summary": "Britain's £500m sovereign AI push funds researchers, startups and the state, and misses the charity running advice triage or the local newsroom that could use a small model of its own. Without a community tier, civil society sends its sensitive data to US cloud companies instead. A modest compute allocation plus hands-on support would change that."
   },
   {
    "number": 113,
@@ -607,8 +607,8 @@
   },
   {
    "number": 116,
-   "tagline": "When the phone network dies, hobbyists have a backup. Emergency planners don't.",
-   "summary": "Cheap, encrypted radio mesh networks already carry messages when power and phone masts fail, and British hobbyists run a national one. Official resilience doctrine gives them no role, no kit list and no funding. Starter kits for parish councils would cost tens of pounds a node."
+   "tagline": "Mesh radio survives blackouts; resilience doctrine ignores it",
+   "summary": "Cheap, encrypted radio mesh networks already carry messages when power and phone masts fail, and British hobbyists run a national one. Official resilience doctrine assigns them no role, and neither kit standards nor funding exist. Starter kits for parish councils would cost tens of pounds a node."
   },
   {
    "number": 117,
@@ -722,8 +722,8 @@
   },
   {
    "number": 136,
-   "tagline": "If American AI access ever ends, Britain has no plan B. Open models could be one.",
-   "summary": "Open-weight AI models now trail the frontier by only months, making them a credible fallback if US access were restricted or repriced, but a fallback only if someone maintains and adapts them in advance. Europe is building its own open frontier model. Britain's sole effort is a small university project."
+   "tagline": "Open-weight models; the hedge Britain chose not to build",
+   "summary": "Open-weight AI models now trail the frontier by only months, which makes them a credible fallback if US access were restricted or repriced, and a fallback only if someone maintains and adapts them in advance. Europe is building its own open frontier model. Britain's sole effort is a small university project."
   },
   {
    "number": 137,
@@ -737,7 +737,7 @@
   },
   {
    "number": 139,
-   "tagline": "No one in government models what AI displacement does to the tax take.",
+   "tagline": "AI and the tax take; no downside scenario modelled",
    "summary": "Nearly half of government revenue comes from taxing wages, and most British workers sit in AI-exposed jobs, yet no institution models what happens to receipts if white-collar incomes compress. Fiscal stress will arrive before unemployment statistics do. Mandating the budget watchdog to publish AI downside scenarios would buy the Treasury time to prepare."
   },
   {
@@ -812,8 +812,8 @@
   },
   {
    "number": 153,
-   "tagline": "Crypto funders give millions to public goods. British charities lack a way to accept it.",
-   "summary": "One programme alone has granted over $148m to open-source and civic projects worldwide, yet no UK vehicle exists to receive crypto public-goods money, and charity trustees stay wary. British civic tech, short of funders at home, forfeits grants its American and European peers collect. A crypto-competent fiscal sponsor and clear Charity Commission guidance would open the tap."
+   "tagline": "Crypto public-goods grants; no UK vehicle to receive them",
+   "summary": "One programme alone has granted over $148m to open-source and civic projects worldwide, yet no UK vehicle exists to receive crypto public-goods money, and charity trustees stay wary. British civic tech, short of funders at home, forfeits grants its American and European peers collect. A crypto-competent fiscal sponsor and clear Charity Commission guidance would open the route."
   },
   {
    "number": 154,
@@ -877,8 +877,8 @@
   },
   {
    "number": 166,
-   "tagline": "Think tanks help write government policy. They never have to say who pays them.",
-   "summary": "Consultant lobbyists must register, but the think tanks briefing ministers face no disclosure rules; investigators traced £25m of pre-election policy funding to opaque sources. Meanwhile England's new regional governments make big decisions with almost no independent policy capacity outside London. Disclosure rules and endowed regional institutes are the twin fixes."
+   "tagline": "Think tanks shape policy; funders undisclosed",
+   "summary": "Consultant lobbyists must register, and the think tanks briefing ministers face no disclosure rules; investigators traced £25m of pre-election policy funding to opaque sources. England's new regional governments meanwhile make big decisions with almost no independent policy capacity outside London. Disclosure rules and endowed regional institutes are the twin fixes."
   },
   {
    "number": 167,
@@ -907,8 +907,8 @@
   },
   {
    "number": 172,
-   "tagline": "Twenty years of NHS strategies promise a prevention shift. The money never moves.",
-   "summary": "Every NHS strategy since 2006 has promised to shift money into prevention, yet there is no agreed definition of prevention spending, no baseline and no rule forcing the shift, so acute pressures always claw the money back. A measurable investment standard, or a dedicated Treasury spending category, would turn a slogan into a number someone must hit."
+   "tagline": "The prevention shift; promised since 2006, never enforced",
+   "summary": "Every NHS strategy since 2006 has promised to shift money into prevention, yet prevention spending has no agreed definition, no baseline exists, and nothing forces the shift, so acute pressures claw the money back. A measurable investment standard, or a dedicated Treasury spending category, would turn a slogan into a number someone must hit."
   },
   {
    "number": 173,
@@ -1077,8 +1077,8 @@
   },
   {
    "number": 204,
-   "tagline": "You cannot improvise a vaccine factory. Britain still has no warm-standby manufacturing.",
-   "summary": "The £1bn pandemic strategy replenishes protective equipment and buys some vaccine capacity, but Britain has no standing surge-manufacturing base and no published stockpile strategy with rotated reserves. Stockpiles degrade, and factories cannot be conjured mid-crisis. A warm manufacturing base is what makes a fast response possible."
+   "tagline": "Vaccine surge manufacturing; no warm standby",
+   "summary": "The £1bn pandemic strategy replenishes protective equipment and buys some vaccine capacity, and Britain has no standing surge-manufacturing base and no published stockpile strategy with rotated reserves. Stockpiles degrade, and factories cannot be conjured mid-crisis. A warm manufacturing base is what makes a fast response possible."
   },
   {
    "number": 205,
@@ -1127,7 +1127,7 @@
   },
   {
    "number": 226,
-   "tagline": "A firm helped design the levy it's now paid from. The records don't talk to each other.",
+   "tagline": "Rule-shapers later paid under the rules; records never joined",
    "summary": "Companies submit evidence to Parliament that shapes funding rules they later draw money from, but the two public records live apart, so the loop is never drawn. Multiverse advised on the skills levy it now trains apprentices under. A tracker linking policy submissions to public money would let anyone see it."
   },
   {
