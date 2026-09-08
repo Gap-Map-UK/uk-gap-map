@@ -5785,9 +5785,9 @@
   "domain": "justice-access",
   "type": "tooling",
   "horizon": "mid",
-  "description": "Police forces, the CPS, HMCTS, prisons and probation run separate case systems with no common person or case identifier in live operations. MoJ's Data First programme (funded by ADR UK/ESRC) links justice datasets (magistrates', Crown Court, prisons, probation, offender assessment), but retrospectively, de-identified, for accredited researchers only. The CJS Data Improvement Programme (MoJ/Home Office) promotes a 'unified approach' but has no statutory force; HMCTS's Common Platform covers courts only and its rollout was troubled. Consequence: no agency can track a case end-to-end in real time, attrition (e.g. victim withdrawal between charge and trial) is measured by periodic linkage studies rather than operationally, and cross-agency performance scorecards depend on manual reconciliation. This underpins several other gaps here: a whole-system inspectorate and a capacity mechanism both need this data layer.",
-  "why": "You cannot manage a backlog you cannot see. Fragmented data hides where the 80,000-case queue actually sits, prevents victims being told case status, and forces policy (sentencing, remand, diversion) to be made on lagged, unlinked statistics. It is the enabling capability for nearly every other justice reform.",
-  "fill": "A statutory duty (in the next criminal justice bill) mandating common data standards and a single cross-CJS case/person identifier for police, CPS, courts, prisons and probation, with a published cross-system scorecard; funded expansion of Data First into a near-real-time operational linkage service under appropriate governance.",
+  "description": "Police forces, the CPS, HMCTS, prisons and probation run separate case systems with no common person or case identifier in live operations. MoJ's Data First programme links justice datasets retrospectively, de-identified, for accredited researchers only. The CJS Data Improvement Programme promotes a unified approach with no statutory force, and HMCTS's Common Platform covers courts alone after a troubled rollout. No agency can track a case end to end in real time, attrition such as victim withdrawal between charge and trial is measured by periodic linkage studies rather than operationally, and cross-agency scorecards depend on manual reconciliation. Several other gaps here sit on this one: a whole-system inspectorate and a capacity mechanism both need the data layer.",
+  "why": "A backlog nobody can see cannot be managed. Fragmented data hides where the 80,000-case queue sits, prevents victims being told case status, and forces sentencing, remand and diversion policy to be made on lagged, unlinked statistics. It is the enabling capability for nearly every other justice reform.",
+  "fill": "A statutory duty in the next criminal justice bill mandating common data standards and a single cross-system case and person identifier for police, CPS, courts, prisons and probation, with a published cross-system scorecard, and funded expansion of Data First into a near-real-time operational linkage service under appropriate governance.",
   "sources": [
    "https://www.gov.uk/guidance/ministry-of-justice-data-first",
    "https://www.adruk.org/data-access/flagship-datasets/dataset/data-first-cross-justice-system-england-and-wales/",
@@ -5802,10 +5802,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory data-standards duty in next criminal justice bill; Data First expansion needs MoJ funding and governance.",
-  "tagline": "Police, courts and prisons can't follow the same case. The backlog hides in the gaps.",
+  "tagline": "Criminal justice case data; no shared identifier across agencies",
   "summary": "Every criminal justice agency runs its own case system, with no shared identifier following a person from arrest to release. No one can see in real time where the 80,000-case backlog actually sits, and victims cannot be told what is happening to their case. A common data layer is the unglamorous fix most other reforms depend on.",
   "rank": 2,
-  "rankNote": "no shared identifier lets any agency track a case end-to-end in real time, hiding where the backlog sits and blocking nearly every other reform, but nothing dates the fix."
+  "rankNote": "No shared identifier lets any agency track a case end to end, which hides the backlog and blocks nearly every other reform, and nothing dates the fix."
  },
  {
   "number": 190,
@@ -6093,9 +6093,9 @@
   "domain": "local-state-capacity",
   "type": "coordination",
   "horizon": "short",
-  "description": "Integrated settlements now hand Established Mayoral Strategic Authorities multi-billion-pound flexible budgets, but scrutiny remains each authority's own overview-and-scrutiny committee: part-time councillors reviewing their own mayor, with no audit-linked follow-the-pound capability. The December 2024 English Devolution White Paper committed only to 'explore' the Local Public Accounts Committee model that the Centre for Governance and Scrutiny has developed since 2013; the 2026 Act strengthened overview-and-scrutiny requirements but created no LPACs. The NAO's 'Devolution in England: funding and accountability' work has flagged that accountability arrangements lag the funding flexibility being devolved. No institution examines value for money across all public spending in a place: council, strategic authority, NHS, police.",
-  "why": "Devolution's durability depends on visible local accountability. Without place-based, audit-connected scrutiny of integrated settlements, the first mayoral spending scandal will be caught late and trigger a recentralising backlash that discredits the whole settlement.",
-  "fill": "Statutory Local Public Accounts Committees for Established Mayoral Strategic Authorities, piloted in Greater Manchester and the West Midlands, with independent membership, a small secretariat, and reporting lines to the LAO and NAO. Sponsors: MHCLG (secondary legislation under the 2026 Act); CfGS design; philanthropy could fund a two-area pilot.",
+  "description": "Integrated settlements now hand Established Mayoral Strategic Authorities multi-billion-pound flexible budgets, and scrutiny remains each authority's own overview-and-scrutiny committee: part-time councillors reviewing their own mayor, with no audit-linked follow-the-pound capability. The December 2024 English Devolution White Paper committed only to explore the Local Public Accounts Committee model the Centre for Governance and Scrutiny has developed since 2013, and the 2026 Act strengthened overview-and-scrutiny requirements without creating them. The NAO's devolution work flags that accountability arrangements lag the funding flexibility being devolved. No institution examines value for money across all public spending in a place: council, strategic authority, NHS, police.",
+  "why": "Devolution's durability depends on visible local accountability. Without place-based, audit-connected scrutiny of integrated settlements, the first mayoral spending scandal will be caught late, and the recentralising backlash would discredit the whole settlement.",
+  "fill": "Statutory Local Public Accounts Committees for Established Mayoral Strategic Authorities, piloted in Greater Manchester and the West Midlands, with independent membership, a small secretariat, and reporting lines to the Local Audit Office and the NAO. MHCLG can make them under the 2026 Act's secondary legislation, and philanthropy could fund a two-area pilot.",
   "sources": [
    "https://www.cfgs.org.uk/devolution-local-scrutiny-public-accounts-committee/",
    "https://www.nao.org.uk/reports/devolution-in-england-funding-and-accountability/",
@@ -6110,8 +6110,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: GMCA or WMCA hosting a philanthropy-funded two-area pilot LPAC before secondary-legislation rollout.",
-  "tagline": "Mayors control billions. The scrutiny? Part-time councillors reviewing their own mayor.",
-  "summary": "Devolution hands mayoral authorities flexible multi-billion-pound settlements, but no body follows the pound across everything spent in a place: council, mayor, NHS, police. The first mayoral spending scandal caught late could discredit the whole settlement. Local public accounts committees, piloted first in Greater Manchester and the West Midlands, are the ready answer.",
+  "tagline": "Mayoral billions; scrutinised by the mayor's own councillors",
+  "summary": "Devolution hands mayoral authorities flexible multi-billion-pound settlements, and no body follows the pound across everything spent in a place: council, mayor, NHS, police. The first mayoral spending scandal caught late could discredit the whole settlement. Local public accounts committees, piloted first in Greater Manchester and the West Midlands, are the ready answer.",
   "dialogue": {
    "counterparty": "councils",
    "ask": "Host a two-area pilot of a local public accounts committee, funded by philanthropy, to follow the pound across everything spent in your area.",
@@ -6120,7 +6120,7 @@
    "firstStep": "A six-month shadow committee tracing one programme's money across council, mayoral and NHS budgets, with an independently chaired public session and a single published report, at our cost, evaluated jointly."
   },
   "rank": 2,
-  "rankNote": "Multi-billion integrated settlements are scrutinised only by part-time councillors reviewing their own mayor; the model is designed and the 2026 Act opens a secondary-legislation window."
+  "rankNote": "Multi-billion integrated settlements are scrutinised only by part-time councillors reviewing their own mayor, and the designed model has a secondary-legislation window under the 2026 Act."
  },
  {
   "number": 199,
@@ -6215,9 +6215,9 @@
   "domain": "national-resilience",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The UK has no standing national civilian volunteer reserve for emergencies comparable to Germany's THW or Nordic civil-defence corps. The Joint Civil Aid Corps exists only as a small, crowdfunded charity without government backing or statutory recognition. The 2025 Resilience Action Plan promotes household preparedness and 'whole-of-society' resilience but creates no organised, trained, deployable corps; surge capacity relies on ad hoc mutual aid and existing charities (British Red Cross, St John Ambulance) that are not resourced for sustained national mobilisation.",
-  "why": "Cascading crises - pandemic, flooding, CNI failure, conflict - need surge manpower faster than professional services can supply. Without a trained, insured, pre-mobilised reserve, response depends on improvised volunteering, as happened chaotically in 2020.",
-  "fill": "A government-backed national civil-protection corps on the THW/Nordic model: trained generalist volunteers, statutory recognition, employer time-off protections, insurance, and integration into Local Resilience Forums.",
+  "description": "The UK has no standing national civilian volunteer reserve for emergencies comparable to Germany's THW or the Nordic civil-defence corps. The Joint Civil Aid Corps exists as a small, crowdfunded charity without government backing or statutory recognition. The 2025 Resilience Action Plan promotes household preparedness and whole-of-society resilience and creates no organised, trained, deployable corps, so surge capacity relies on ad hoc mutual aid and existing charities, the British Red Cross and St John Ambulance among them, which are not resourced for sustained national mobilisation.",
+  "why": "Cascading crises, from pandemics to flooding to infrastructure failure, need surge manpower faster than professional services can supply it. Without a trained, insured, pre-mobilised reserve, response depends on improvised volunteering, which is what happened chaotically in 2020.",
+  "fill": "A government-backed national civil-protection corps on the THW and Nordic model: trained generalist volunteers, statutory recognition, employer time-off protections, insurance, and integration into Local Resilience Forums.",
   "sources": [
    "https://www.gov.uk/government/publications/uk-government-resilience-action-plan/uk-government-resilience-action-plan-html",
    "https://nationalpreparednesscommission.uk/publications/learning-from-and-dealing-with-the-everyday-the-2025-uk-national-resilience-action-plan-and-household-resilience/"
@@ -6231,8 +6231,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: willing Local Resilience Forums integrating a philanthropically funded pilot corps (JCAC nucleus); statutory recognition and employer protections are end-state.",
-  "tagline": "Germany has a trained civilian reserve for disasters. Britain has a crowdfunded charity.",
-  "summary": "The UK has no national volunteer reserve for emergencies: nothing like Germany's technical relief agency or the Nordic civil-defence corps. When crisis hits, surge help is improvised, as it was in 2020. A government-backed corps with training, insurance and employer time-off rights would make the willing useful.",
+  "tagline": "Emergency volunteer reserve; Germany trains one, Britain improvises",
+  "summary": "The UK has no national volunteer reserve for emergencies, nothing like Germany's technical relief agency or the Nordic civil-defence corps. When crisis hits, surge help is improvised, as it was in 2020. A government-backed corps with training, insurance and employer time-off rights would make the willing useful.",
   "dialogue": {
    "counterparty": "councils",
    "ask": "Bring a trained, insured pilot volunteer corps into your local resilience forum's plans and exercises.",
@@ -6241,7 +6241,7 @@
    "firstStep": "Invite the pilot corps into one planned exercise this season under a simple agreement covering vetting and insurance; review together afterwards before deciding on any standing role."
   },
   "rank": 2,
-  "rankNote": "Surge manpower for cascading crises is genuinely missing and only a tiny charity attempts it, but the THW model needs building from scratch with no dated trigger forcing 2026 action."
+  "rankNote": "Surge manpower for cascading crises is genuinely missing and a tiny charity attempts it alone, and the THW model needs building from scratch with no dated trigger."
  },
  {
   "number": 203,
@@ -6250,9 +6250,9 @@
   "domain": "national-resilience",
   "type": "coordination",
   "horizon": "short",
-  "description": "DCMS's civil-society emergency work amounts to a consultation and a data collaboration between voluntary, community and faith sector (VCFS) leaders and the National Situation Centre. There is no standing protocol, no pre-agreed surge-funding mechanism, and no statutory footing to rapidly deploy and reimburse VCS organisations in a crisis. The Covid-19 Inquiry stressed the sector's role in reaching disproportionately-impacted groups, but current arrangements remain informal and under-resourced.",
-  "why": "In 2020 mutual-aid groups and charities filled gaps the state could not, but with no funding rails or defined roles. A repeat crisis would again see the most effective local responders under-funded, uncoordinated and slow to mobilise.",
-  "fill": "A standing VCFS emergency-response protocol with pre-agreed roles, a rapid surge-funding facility, and statutory recognition in local resilience planning - the DCMS 'civil society response protocol' given teeth and money.",
+  "description": "DCMS's civil-society emergency work amounts to a consultation and a data collaboration between voluntary, community and faith sector leaders and the National Situation Centre. No standing protocol exists, no pre-agreed surge-funding mechanism, and no statutory footing to rapidly deploy and reimburse civil-society organisations in a crisis. The Covid-19 Inquiry stressed the sector's role in reaching disproportionately affected groups, and the current arrangements remain informal and under-resourced.",
+  "why": "In 2020 mutual-aid groups and charities filled gaps the state could not, with no funding rails or defined roles. A repeat crisis would again find the most effective local responders under-funded, uncoordinated and slow to mobilise.",
+  "fill": "A standing civil-society emergency-response protocol with pre-agreed roles, a rapid surge-funding facility, and statutory recognition in local resilience planning: the DCMS response protocol given force and money.",
   "sources": [
    "https://www.gov.uk/government/publications/uk-government-resilience-action-plan/uk-government-resilience-action-plan-html",
    "https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-2-report/uk-government-response-to-the-covid-19-inquiry-module-2-report-html"
@@ -6266,7 +6266,7 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: DCMS and Local Resilience Forums adopting a pre-agreed protocol; the surge fund can be pooled philanthropically first.",
-  "tagline": "Charities filled the state's gaps in 2020. There's still no plan to fund them next time.",
+  "tagline": "Emergency mobilisation of charities; still informal",
   "summary": "In the pandemic, community groups reached people the state could not, with no defined roles, no funding rails and no coordination. The arrangements remain informal today. A standing protocol with pre-agreed roles and a rapid surge-funding facility would let civil society mobilise fast and get paid for it.",
   "dialogue": {
    "counterparty": "government-bodies",
@@ -6276,7 +6276,7 @@
    "firstStep": "A 90-day trial in one resilience forum area: the draft protocol tested in a single exercise, the fund making one simulated rapid payment, findings published jointly."
   },
   "rank": 2,
-  "rankNote": "Reaching vulnerable groups fast matters and DCMS work is only a consultation, but the fix is moderate-stakes coordination with no funded rails or deadline compelling immediate movement."
+  "rankNote": "Reaching vulnerable groups fast matters and the DCMS work is only a consultation, and the fix is moderate-stakes coordination with no funded rails or deadline."
  },
  {
   "number": 204,
@@ -6370,9 +6370,9 @@
   "domain": "national-resilience",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The CCC finds no single department owns residential overheating. Building Regulations Part O covers only new-build, is weakly enforced and is misaligned with the energy-efficiency Part L; nothing addresses the existing stock, and there is no support scheme for heat-vulnerable, low-income households. MHCLG owns building standards, DHSC/UKHSA own heat-health alerts and DESNZ owns retrofit - but none owns the outcome. 2025 was the UK's hottest year on record.",
-  "why": "By 2050 the CCC projects the majority of homes at risk of overheating and heat mortality rising sharply. Split responsibility means no one is accountable for keeping people alive during heatwaves indoors, where most heat deaths occur.",
-  "fill": "A named lead department for heat resilience, a passive-cooling retrofit programme for existing and social housing, enforced Part O across all tenures, and targeted cooling support for heat-vulnerable low-income households.",
+  "description": "The Climate Change Committee finds no single department owns residential overheating. Building Regulations Part O covers only new-build, is weakly enforced and is misaligned with the energy-efficiency Part L. Nothing addresses the existing stock, and no support scheme serves heat-vulnerable, low-income households. MHCLG owns building standards, DHSC and UKHSA own heat-health alerts, and DESNZ owns retrofit, and none owns the outcome. 2025 was the UK's hottest year on record.",
+  "why": "The CCC projects a majority of homes at risk of overheating by 2050 and heat mortality rising sharply. Most heat deaths happen indoors, and split responsibility means no one is accountable for keeping people alive there during heatwaves.",
+  "fill": "A named lead department for heat resilience, a passive-cooling retrofit programme for existing and social housing, Part O enforced across all tenures, and targeted cooling support for heat-vulnerable low-income households.",
   "sources": [
    "https://www.theccc.org.uk/publication/a-well-adapted-uk/",
    "https://www.gov.uk/government/publications/overheating-approved-document-o"
@@ -6386,10 +6386,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: machinery-of-government designation of a lead department, Part O regulatory extension and funded retrofit programme.",
-  "tagline": "Most heat deaths happen indoors. No one in government owns keeping homes cool.",
+  "tagline": "Indoor heat deaths rising; no department owns the problem",
   "summary": "Overheating rules cover only new homes and are weakly enforced, while three departments each hold a piece of the problem and none owns the outcome. Last year was the UK's hottest on record, and heat mortality is projected to rise sharply. Naming a lead department is the cheap, obvious first step.",
   "rank": 2,
-  "rankNote": "Nobody owns residential overheating despite 2025 being the hottest year and mortality rising toward 2050, and naming a lead department is easy, yet no dated policy trigger forces it."
+  "rankNote": "Nobody owns residential overheating after the hottest year on record, and naming a lead department is easy with no dated policy trigger forcing it."
  },
  {
   "number": 208,
@@ -6455,9 +6455,9 @@
   "domain": "national-resilience",
   "type": "institutional",
   "horizon": "mid",
-  "description": "CNI protection relies on piecemeal arrangements between operators, government, NPSA and NCSC; no executive body coordinates resilience across the UK's 13 CNI sectors or manages interdependencies (CETAS, NIC and the CCC all flag this). Outcome-based resilience standards promised by 2030 are not yet published in full. The CCC warns cascading failures (e.g. power to digital payments to transport) have no single coordinator. Note: energy-supply/grid resilience overlaps the stagnation domain's energy items - this gap concerns cross-sector coordination, not generation.",
-  "why": "Modern crises cascade across interdependent systems, yet the UK secures each sector in isolation. Without an executive coordinator, a single trigger - cyber-attack, flood, space weather - can ripple across energy, water, digital and finance unchecked.",
-  "fill": "A freestanding national resilience/CNI agency with an executive (not merely advisory) mandate to set and enforce cross-sector resilience standards, map interdependencies, and coordinate all-hazards mitigation.",
+  "description": "Critical national infrastructure protection relies on piecemeal arrangements between operators, government, NPSA and NCSC, and no executive body coordinates resilience across the UK's thirteen sectors or manages their interdependencies, a gap CETAS, the NIC and the CCC all flag. Outcome-based resilience standards promised by 2030 are not yet published in full, and the CCC warns that cascading failures, from power to digital payments to transport, have no single coordinator. Energy-supply and grid resilience overlap the stagnation domain's energy entries; this gap concerns cross-sector coordination rather than generation.",
+  "why": "Modern crises cascade across interdependent systems while each sector is secured in isolation. Without an executive coordinator, a single trigger, whether cyber-attack, flood or space weather, can ripple across energy, water, digital and finance unchecked.",
+  "fill": "A freestanding national resilience agency with an executive rather than advisory mandate: setting and enforcing cross-sector resilience standards, mapping interdependencies, and coordinating all-hazards mitigation.",
   "sources": [
    "https://cetas.turing.ac.uk/publications/building-national-resilience-urgent-issue-its-not-job-police",
    "https://nic.org.uk/news/clearer-standards-needed-to-boost-economys-resilience/",
@@ -6472,10 +6472,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: legislation creating an executive CNI agency with cross-sector standard-setting and enforcement powers.",
-  "tagline": "A single failure can cascade from power to payments to transport. Nobody owns the whole.",
+  "tagline": "Thirteen infrastructure sectors; interdependencies unmanaged",
   "summary": "The UK secures each of its 13 critical infrastructure sectors separately, and no executive body manages how they depend on one another. A flood, cyber-attack or solar storm in one sector can ripple unchecked through energy, water and finance. An agency with power to set cross-sector standards is the missing piece.",
   "rank": 2,
-  "rankNote": "Cascading cross-sector failures have no executive coordinator across thirteen CNI sectors, a high-stakes institutional gap, but building the agency is hard and outcome standards aren't due until 2030."
+  "rankNote": "Cascading cross-sector failures have no executive coordinator across thirteen sectors, and building the agency is hard with outcome standards not due until 2030."
  },
  {
   "number": 211,
@@ -6542,9 +6542,9 @@
   "domain": "local-state-capacity",
   "type": "tooling",
   "horizon": "mid",
-  "description": "Roughly 35 councils needed Exceptional Financial Support for 2026-27, negotiated bilaterally and opaquely, while years of accounts carry disclaimed audit opinions, meaning £100bn+ of annual local spending has neither timely audit assurance nor public verifiability. Spending-over-£500 CSV publications are stale, unstandardised and unauditable. Continuously auditable treasury rails (payments and procurement published as they happen in tamper-evident, machine-readable form) are technically routine; no UK council or public body runs them, and no funder has paid for a pilot.",
-  "why": "The audit system failed and its replacement fixes plumbing, not assurance. Residents of effectively bankrupt councils cannot see where the money went; verifiable-by-default finance would make the next Thurrock visible years earlier, and is the strongest possible differentiator for any parallel institution handling community money.",
-  "fill": "A pilot with one willing council or combined authority (or a Pride in Place neighbourhood board): all payments and procurement published to a tamper-evident public ledger with supplier and category data, paired with an independent evaluation of cost, fraud-detection and trust effects.",
+  "description": "Roughly 35 councils needed Exceptional Financial Support for 2026-27, negotiated bilaterally and opaquely, while years of accounts carry disclaimed audit opinions, so more than £100bn of annual local spending has neither timely audit assurance nor public verifiability. The spending-over-£500 CSV publications are stale, unstandardised and unauditable. Continuously auditable treasury rails, payments and procurement published as they happen in tamper-evident, machine-readable form, are technically routine. No UK council or public body runs them, and no funder has paid for a pilot.",
+  "why": "The audit system failed and its replacement fixes plumbing rather than assurance. Residents of effectively bankrupt councils cannot see where the money went. Verifiable-by-default finance would make the next Thurrock visible years earlier, and it is the strongest differentiator available to any parallel institution handling community money.",
+  "fill": "A pilot with one willing council, combined authority or Pride in Place neighbourhood board: all payments and procurement published to a tamper-evident public ledger with supplier and category data, paired with an independent evaluation of cost, fraud-detection and trust effects.",
   "sources": [
    "https://www.gov.uk/guidance/exceptional-financial-support-for-local-authorities-for-2026-27",
    "https://www.lgcplus.com/finance/revealed-22-councils-miss-audit-backstop-deadline-27-03-2026/"
@@ -6559,8 +6559,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: one willing council, combined authority or Pride in Place board publishing payments to the tamper-evident ledger pilot.",
-  "tagline": "Council spending data is stale and unauditable. The technology to fix that is routine.",
-  "summary": "Over £100bn of annual local spending now has neither timely audit nor public verifiability, and the spending files councils publish are stale and unstandardised. Publishing payments as they happen, on tamper-evident rails, is technically routine, yet no British public body does it. One willing council could prove the model.",
+  "tagline": "Council spending; stale files, unauditable, fixable with routine tech",
+  "summary": "Over £100bn of annual local spending now has neither timely audit nor public verifiability, and the spending files councils publish are stale and unstandardised. Publishing payments as they happen, on tamper-evident rails, is technically routine, and no British public body does it. One willing council could prove the model.",
   "dialogue": {
    "counterparty": "councils",
    "ask": "Publish one service's payments and procurement as they happen, in a tamper-evident open format, and evaluate the results with us.",
@@ -6569,7 +6569,7 @@
    "firstStep": "A 90-day pilot publishing one service's spend in the open format alongside your existing files, jointly evaluated; if it adds work without value, switch it off."
   },
   "rank": 2,
-  "rankNote": "Over £100bn of annual spending lacks timely assurance while tamper-evident treasury rails are technically routine yet unfunded, with no council or funder having piloted them."
+  "rankNote": "Over £100bn of annual spending lacks timely assurance while tamper-evident treasury rails are technically routine, and no council or funder has piloted them."
  },
  {
   "number": 214,
@@ -6680,9 +6680,9 @@
   "domain": "portable-sovereignty",
   "type": "knowledge",
   "horizon": "short",
-  "description": "The cost of leaving (a bank, a platform, a pension, a profession, a digital identity, the country) is rising across UK life, and no institution measures it. Pension transfers take months and shed value; professional credentials are non-portable; debanking has no due process; government credentials are planned to be locked to the GOV.UK Wallet, excluding certified private wallets; proposed self-custody and stablecoin rules constrain the one asset class designed for exit. Switching data exists for utilities (CMA remedies) but nothing aggregates exit friction as a civic metric across domains.",
-  "why": "'The penalty for selecting a bad community should not be a life sentence in that community.' Exit is what disciplines institutions: banks, platforms and states alike behave better when leaving is cheap. Unmeasured, lock-in accumulates silently until it is architecture.",
-  "fill": "An annual UK Exit Friction Index: measured switching/leaving costs across banking, pensions, platforms, credentials, identity and residence, with per-institution scores and a design standard (data portability, wallet interoperability, credential portability). A publishable research product a small team could ship in a year.",
+  "description": "The cost of leaving a bank, a platform, a pension, a profession, a digital identity or the country is rising across UK life, and no institution measures it. Pension transfers take months and shed value, professional credentials are non-portable, debanking has no due process, government credentials are planned to be locked to the GOV.UK Wallet with certified private wallets excluded, and proposed self-custody and stablecoin rules constrain the one asset class designed for exit. Switching data exists for utilities through CMA remedies, and nothing aggregates exit friction as a civic metric across domains.",
+  "why": "Exit disciplines institutions: banks, platforms and states behave better when leaving is cheap. A bad choice of community should stay correctable. Unmeasured, lock-in accumulates silently until it is architecture.",
+  "fill": "An annual UK exit friction index: measured switching and leaving costs across banking, pensions, platforms, credentials, identity and residence, with per-institution scores and a design standard covering data portability, wallet interoperability and credential portability. A small team could ship it in a year.",
   "sources": [
    "https://www.biometricupdate.com/202602/uk-digital-id-providers-fear-govt-plans-conflict-with-data-protection-act-aims",
    "https://www.sidley.com/en/insights/newsupdates/2026/01/uk-cryptoasset-regulation-action-points-for-2026-2027"
@@ -6697,7 +6697,7 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: Exit Friction Index v1; the fill itself calls it shippable by a small team within a year.",
-  "tagline": "Leaving a bank, a pension or a platform keeps getting harder. Nobody is measuring it.",
+  "tagline": "Exit friction rising everywhere; measured nowhere",
   "summary": "Exit is what keeps institutions honest: banks, platforms and governments all behave better when leaving is cheap. Across British life the cost of leaving is rising, and no one measures it. An annual index of switching costs, scored per institution, is a research product a small team could ship in a year.",
   "seeAlso": [
    {
@@ -6714,7 +6714,7 @@
    }
   ],
   "rank": 2,
-  "rankNote": "A small team could ship this index within a year and nobody measures lock-in today, but the value is diagnostic and no dated trigger forces it now."
+  "rankNote": "A small team could ship the index within a year and nobody measures lock-in today; the value is diagnostic and no dated trigger forces it."
  },
  {
   "number": 218,
@@ -6723,9 +6723,9 @@
   "domain": "education-ai",
   "type": "institutional",
   "horizon": "mid",
-  "description": "UK digital-skills provision teaches consumption (using apps, spotting scams) and the schools pipeline is getting AI literacy from 2028, but no institution teaches adults comprehension of the systems they are governed by: what end-to-end encryption actually guarantees, what a verifiable record is, how age verification and digital ID architectures differ in what they expose, what self-custody means. Result: public debates on the Online Safety Act, digital ID and CBDC proceed with citizens unable to evaluate claims, and communities cannot maintain infrastructure they do not understand. Digital-inclusion charities (Good Things Foundation) target basic access; nobody owns civic comprehension.",
-  "why": "'If people do not understand the technology, they cannot trust it', and if a community wishes to survive attack 'it will need members who understand its foundational technologies in addition to its foundational values.' Every other sovereignty gap on this map has adoption blocked by this one.",
-  "fill": "A civic technology literacy programme: open curriculum (encryption, verification, identity architectures, custody), train-the-trainer delivery through libraries, unions, faith groups and community organisations, and a UK network of community technologists, modelled on citizens-advice reach rather than university outreach.",
+  "description": "UK digital-skills provision teaches consumption, using apps and spotting scams, and the schools pipeline gets AI literacy from 2028. No institution teaches adults comprehension of the systems they are governed by: what end-to-end encryption actually guarantees, what a verifiable record is, how age verification and digital ID architectures differ in what they expose, what self-custody means. Public debates on the Online Safety Act, digital ID and CBDC proceed with citizens unable to evaluate claims, and communities cannot maintain infrastructure they do not understand. Digital-inclusion charities target basic access, and nobody owns civic comprehension.",
+  "why": "Technology people do not understand is technology they cannot meaningfully trust or challenge, and a community that wants to run its own infrastructure needs members who understand it. Adoption of every other sovereignty gap on this map is blocked by this one.",
+  "fill": "A civic technology literacy programme: an open curriculum covering encryption, verification, identity architectures and custody, train-the-trainer delivery through libraries, unions, faith groups and community organisations, and a UK network of community technologists, modelled on citizens-advice reach rather than university outreach.",
   "sources": [
    "https://www.goodthingsfoundation.org/",
    "https://www.bcs.org/articles-opinion-and-research/new-computing-curriculum-will-teach-ai-awareness-and-digital-literacy/"
@@ -6740,10 +6740,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: open civic-technology curriculum plus train-the-trainer pack; libraries, unions, community groups deliver voluntarily, no gatekeeper.",
-  "tagline": "We teach adults to spot scams, not to understand the systems that govern them.",
-  "summary": "Digital-skills courses teach adults to use apps and dodge scams, not to understand the systems that govern them: what encryption guarantees, what digital ID architectures reveal. Public debates proceed on claims citizens cannot evaluate. An open curriculum delivered through libraries, unions and community groups could build comprehension with citizens-advice reach.",
+  "tagline": "Adult digital skills teach app use; system comprehension untaught",
+  "summary": "Digital-skills courses teach adults to use apps and dodge scams, and never to understand the systems that govern them: what encryption guarantees, what digital ID architectures reveal. Public debates proceed on claims citizens cannot evaluate. An open curriculum delivered through libraries, unions and community groups could build comprehension with citizens-advice reach.",
   "rank": 2,
-  "rankNote": "Digital-ID, Online Safety Act and CBDC debates proceed with citizens unable to evaluate claims, yet nobody owns adult civic comprehension and no delivery instrument yet exists."
+  "rankNote": "Digital-ID, Online Safety Act and CBDC debates proceed with citizens unable to evaluate claims, and nobody owns adult civic comprehension or a delivery instrument."
  },
  {
   "number": 219,
@@ -6752,9 +6752,9 @@
   "domain": "ai-crisis",
   "type": "tooling",
   "horizon": "mid",
-  "description": "As synthetic media becomes free, the UK's mechanisms for establishing 'what actually happened' remain single-source: one returning officer's declaration page, one government emergency feed, one press release. Each is spoofable, none independently verifiable at scale. C2PA content-credentials adoption is voluntary and patchy; the Electoral Commission's deepfake-detection pilot is detection, not attestation. Nothing lets multiple independent witnesses (councils, broadcasters, observers) cryptographically co-sign critical facts (election results, emergency instructions, official statements) so that citizens and platforms can verify provenance rather than adjudicate plausibility.",
-  "why": "Coordination requires common knowledge: everyone knowing everyone has the same uncorrupted record. Demos found 30% of adults saw a candidate deepfake before the May 2026 locals; by the first votes-at-16 general election, verification-by-default may be the only alternative to epistemic collapse. Detection loses the arms race; attestation doesn't have to.",
-  "fill": "A multi-witness attestation pilot for one fact class (e.g. declared local election results co-signed by returning officers, the Electoral Commission and accredited observers, verifiable by anyone), with staked/multi-party design so no single institution is the arbiter, then extension to emergency communications.",
+  "description": "As synthetic media becomes free, the UK's mechanisms for establishing what actually happened remain single-source: one returning officer's declaration page, one government emergency feed, one press release. Each is spoofable and none is independently verifiable at scale. C2PA content-credentials adoption is voluntary and patchy, and the Electoral Commission's deepfake pilot is detection rather than attestation. Nothing lets multiple independent witnesses, councils, broadcasters and observers, cryptographically co-sign critical facts so that citizens and platforms can verify provenance rather than adjudicate plausibility.",
+  "why": "Coordination requires common knowledge, everyone knowing everyone has the same uncorrupted record. Demos found 30 per cent of adults saw a candidate deepfake before the May 2026 locals. Detection loses the arms race, and attestation does not have to.",
+  "fill": "A multi-witness attestation pilot for one fact class, such as declared local election results co-signed by returning officers, the Electoral Commission and accredited observers, verifiable by anyone, with a multi-party design so no single institution is the arbiter, then extension to emergency communications.",
   "sources": [
    "https://demos.co.uk/blogs/one-in-three-uk-adults-report-seeing-political-deepfakes-in-the-month-before-local-elections/",
    "https://www.electoralcommission.org.uk/media-centre/electoral-commission-launches-deepfake-detection-pilot-counter-ai-misinformation"
@@ -6769,8 +6769,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: returning officers and the Electoral Commission as co-signers; declared results data is already public.",
-  "tagline": "When anything can be faked, Britain still proves 'what happened' with a single web page.",
-  "summary": "Synthetic media is now free to make, yet election results and emergency alerts still rest on single sources with no independent way to verify them. Detection tools lose the arms race; provenance doesn't have to. A pilot letting returning officers, observers and the elections watchdog cryptographically co-sign results would make the record checkable by anyone.",
+  "tagline": "Critical public facts; one spoofable source each",
+  "summary": "Synthetic media is now free to make, yet election results and emergency alerts still rest on single sources with no independent way to verify them. Detection tools lose the arms race, and provenance does not have to. A pilot letting returning officers, observers and the elections watchdog cryptographically co-sign results would make the record checkable by anyone.",
   "dialogue": {
    "counterparty": "electoral-bodies",
    "ask": "Co-sign one election's declared results cryptographically: an added layer of proof on figures you already publish.",
@@ -6779,7 +6779,7 @@
    "firstStep": "At one council area's next scheduled elections, co-sign declared results in parallel with normal publication; the legal declaration is untouched, and we jointly review who used the verification and how."
   },
   "rank": 2,
-  "rankNote": "When anything can be faked, critical facts still rest on spoofable single sources; a multi-witness attestation pilot is buildable and unowned, needing proof before the next general election.",
+  "rankNote": "Critical facts still rest on spoofable single sources, and the multi-witness pilot is buildable, unowned, and needs proof before the next general election.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "Synthetic media at scale erodes shared facts within one or two generations of video models."
  },
@@ -6819,9 +6819,9 @@
   "domain": "civic-society",
   "type": "coordination",
   "horizon": "short",
-  "description": "UK civic organisations face legal attacks (SLAPPs beyond the economic-crime carve-out), financial attacks (debanking, funder withdrawal), and information attacks (cyber intrusion, harassment campaigns, AI-amplified smears), and they face these individually, on sub-£2m budgets, with no standing mutual-defence arrangement. There is no shared security baseline or pooled incident response for civil society (the NCSC's charity guidance is advisory), no coordinated vulnerability disclosure among organisations sharing infrastructure, no rapid solidarity fund for organisations under attack, and no pre-agreed collective-response protocol. Each attack is survived (or not) alone.",
-  "why": "'No community under unjust attack should stand alone.' Isolation is the attacker's force multiplier: one lawsuit, one account closure or one breach can end an organisation that a compact would have carried. The sector's accountability functions (the map's own oversight-outsourced-to-charities archetype) are only as resilient as their weakest, loneliest member.",
-  "fill": "A civil-society mutual-defence compact, convened by an existing network (NCVO/Bond-class) with foundation seed funding: shared security baseline and pooled incident response, a rapid-response defence fund (legal, financial, communications), coordinated disclosure among members, and a public solidarity protocol.",
+  "description": "UK civic organisations face legal attacks through SLAPPs beyond the economic-crime carve-out, financial attacks through debanking and funder withdrawal, and information attacks through cyber intrusion, harassment campaigns and AI-amplified smears, and they face them individually, on sub-£2m budgets, with no standing mutual-defence arrangement. No shared security baseline or pooled incident response exists for civil society, the NCSC's charity guidance being advisory, no coordinated vulnerability disclosure among organisations sharing infrastructure, no rapid solidarity fund, and no pre-agreed collective-response protocol.",
+  "why": "Isolation is the attacker's force multiplier: one lawsuit, one account closure or one breach can end an organisation that a compact would have carried. The sector's accountability functions, the map's own oversight-outsourced-to-charities archetype, are only as resilient as their weakest, loneliest member.",
+  "fill": "A civil-society mutual-defence compact, convened by an existing network of NCVO or Bond class with foundation seed funding: a shared security baseline and pooled incident response, a rapid-response defence fund covering legal, financial and communications help, coordinated disclosure among members, and a public solidarity protocol.",
   "sources": [
    "https://www.ncsc.gov.uk/section/information-for/charity-sector",
    "https://antislapp.uk/solutions/legislation/"
@@ -6836,10 +6836,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: signed compact with pooled rapid-response defence fund, convened by an NCVO/Bond-class network.",
-  "tagline": "A single lawsuit or a closed bank account can end a charity. Each faces the attack alone.",
-  "summary": "Civic organisations face lawsuits, debanking, cyber intrusion and smear campaigns on tiny budgets, and each attack is survived (or not) alone. Isolation is the attacker's force multiplier. A mutual-defence compact with a shared security baseline, pooled incident response and a rapid solidarity fund would mean nobody stands alone under unjust attack.",
+  "tagline": "Civic organisations under attack; each one stands alone",
+  "summary": "Civic organisations face lawsuits, debanking, cyber intrusion and smear campaigns on tiny budgets, and each attack is survived, or not, alone. Isolation is the attacker's force multiplier. A mutual-defence compact with a shared security baseline, pooled incident response and a rapid solidarity fund would mean nobody stands alone under unjust attack.",
   "rank": 2,
-  "rankNote": "Isolated civic organisations face rising legal, financial and cyber attacks with no standing mutual-defence arrangement, but a compact is a novel collective-action build with no single dated trigger."
+  "rankNote": "Isolated civic organisations face rising legal, financial and cyber attacks with no standing mutual-defence arrangement, and the compact is a novel collective-action build with no dated trigger."
  },
  {
   "number": 222,
@@ -6884,9 +6884,9 @@
   "domain": "portable-sovereignty",
   "type": "institutional",
   "horizon": "short",
-  "description": "The pressure point for decentralised infrastructure is not the protocol but the operator: the Tornado Cash precedent showed states reach the tractable number of humans running nodes. UK operators of relays, homeservers, mixnodes, archive nodes and community services face the OSA duties regime, IPA technical capability notices (secret, with gag provisions), and data-protection exposure. They have no operator-specific legal guidance, no defence fund, no counsel network experienced in notice regimes, and no structural playbook (jurisdictional distribution, entity structures, dead-man transparency canaries). The OSA compliance mutual entry (№ 33) covers community forums; infrastructure operators below the application layer have nothing.",
-  "why": "Every sovereignty-stack gap on this map assumes someone runs the infrastructure. If operating a relay from the UK is legally hazardous and unsupported, operators exit to other jurisdictions or quit, and UK communities inherit dependence on foreign infrastructure, which is the situation the stack exists to fix.",
-  "fill": "An operator resilience service: plain-English legal guidance per operator class, a retained counsel network and defence fund for notice recipients, structural templates (entity, hosting and jurisdiction options), and published transparency norms, all buildable by a digital-rights organisation with specialist-firm partnership.",
+  "description": "The pressure point for decentralised infrastructure is the operator rather than the protocol, and the Tornado Cash precedent showed states reach the tractable number of humans running nodes. UK operators of relays, homeservers, mixnodes, archive nodes and community services face the OSA duties regime, secret technical capability notices with gag provisions under the IPA, and data-protection exposure. They have no operator-specific legal guidance, no defence fund, no counsel network experienced in notice regimes, and no structural playbook covering jurisdictional distribution, entity structures or transparency canaries. The OSA compliance mutual entry covers community forums, and infrastructure operators below the application layer have nothing.",
+  "why": "Every sovereignty-stack gap on this map assumes someone runs the infrastructure. If operating a relay from the UK is legally hazardous and unsupported, operators exit to other jurisdictions or quit, and UK communities inherit dependence on foreign infrastructure, the situation the stack exists to fix.",
+  "fill": "An operator resilience service: plain-English legal guidance per operator class, a retained counsel network and defence fund for notice recipients, structural templates covering entity, hosting and jurisdiction options, and published transparency norms, buildable by a digital-rights organisation with a specialist-firm partnership.",
   "sources": [
    "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/consultation-technology-notices",
    "https://privacyinternational.org/news-analysis/5624/update-our-case-against-uk-governments-secret-surveillance-orders-be-heard-2026"
@@ -6901,8 +6901,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: plain-English resilience guidance per operator class; specialist-firm partnership is hired counsel, not permission.",
-  "tagline": "Whoever runs the servers carries the legal risk. In Britain, they carry it alone.",
-  "summary": "Decentralised networks fail at the human layer: the state can always reach the handful of people running the nodes. UK operators of relays and community servers face safety duties and secret surveillance notices with no tailored legal guidance, defence fund or experienced counsel. Without support, they quit or move abroad, and dependence returns.",
+  "tagline": "Infrastructure operators carry the legal risk; no support exists",
+  "summary": "Decentralised networks fail at the human layer, because the state can always reach the handful of people running the nodes. UK operators of relays and community servers face safety duties and secret surveillance notices with no tailored legal guidance, defence fund or experienced counsel. Without support they quit or move abroad, and dependence returns.",
   "seeAlso": [
    {
     "number": 108,
@@ -6959,7 +6959,7 @@
   "domain": "corruption-integrity",
   "type": "tooling",
   "horizon": "short",
-  "description": "Single-source and direct awards under defence, security and 'technical' exemptions are individually published on Find a Tender, but nobody keeps a running, searchable register of them, so the pattern stays invisible. The Ministry of Defence's £240.6m Palantir award in December 2025 was a direct award covering all security classifications; the Metropolitan Police's proposed Palantir deal was blocked in May 2026 partly over how it had been let. Each is on the record alone; together they are unread. Surfaced by The Synthetic State (syntheticstate.netlify.app), a pseudonymous self-published investigation; the underlying facts here are cited to primary sources, not to that synthesis.",
+  "description": "Single-source and direct awards under defence, security and 'technical' exemptions are individually published on Find a Tender, but nobody keeps a running, searchable register of them, so the pattern stays invisible. The Ministry of Defence's £240.6m Palantir award in December 2025 was a direct award covering all security classifications; the Metropolitan Police's proposed Palantir deal was blocked in May 2026 partly over how it had been let. Each sits on the record alone, and nobody reads them together. Surfaced by The Synthetic State (syntheticstate.netlify.app), a pseudonymous self-published investigation; the underlying facts here are cited to primary sources, not to that synthesis.",
   "why": "Competition is the main defence against waste and capture in public spending. When the exceptions are never counted, a habit of uncompeted awards to the same suppliers can grow with no one able to see it happening.",
   "fill": "An open register that scrapes Find a Tender for exemption-based awards, tracks value, supplier and justification, and flags repeat single-source awards: a civic-tech build from public data available today.",
   "sources": [
@@ -6977,8 +6977,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: an open register scraping Find a Tender for exemption-based awards; all source data is public.",
-  "tagline": "Government's no-competition contracts are all public. Nobody adds them up.",
-  "summary": "Direct awards under defence and 'technical' exemptions are each published, then forgotten, so a habit of handing the same suppliers uncompeted work stays invisible. A £240m Ministry of Defence deal went to Palantir without a tender. An open register built from public data would make the pattern legible.",
+  "tagline": "Uncompeted contracts; published one by one, counted by no one",
+  "summary": "Direct awards under defence and technical exemptions are each published, then forgotten, so a habit of handing the same suppliers uncompeted work stays invisible. A £240m Ministry of Defence deal went to Palantir without a tender. An open register built from public data would make the pattern legible.",
   "rank": 2,
   "rankNote": "Uncompeted awards are published individually but never aggregated, so repeat single-source patterns stay invisible; the register is buildable today from public data yet nobody is resourced to run it."
  },

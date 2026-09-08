@@ -67,8 +67,8 @@
   },
   {
    "number": 221,
-   "tagline": "A single lawsuit or a closed bank account can end a charity. Each faces the attack alone.",
-   "summary": "Civic organisations face lawsuits, debanking, cyber intrusion and smear campaigns on tiny budgets, and each attack is survived (or not) alone. Isolation is the attacker's force multiplier. A mutual-defence compact with a shared security baseline, pooled incident response and a rapid solidarity fund would mean nobody stands alone under unjust attack."
+   "tagline": "Civic organisations under attack; each one stands alone",
+   "summary": "Civic organisations face lawsuits, debanking, cyber intrusion and smear campaigns on tiny budgets, and each attack is survived, or not, alone. Isolation is the attacker's force multiplier. A mutual-defence compact with a shared security baseline, pooled incident response and a rapid solidarity fund would mean nobody stands alone under unjust attack."
   },
   {
    "number": 13,
@@ -367,8 +367,8 @@
   },
   {
    "number": 218,
-   "tagline": "We teach adults to spot scams, not to understand the systems that govern them.",
-   "summary": "Digital-skills courses teach adults to use apps and dodge scams, not to understand the systems that govern them: what encryption guarantees, what digital ID architectures reveal. Public debates proceed on claims citizens cannot evaluate. An open curriculum delivered through libraries, unions and community groups could build comprehension with citizens-advice reach."
+   "tagline": "Adult digital skills teach app use; system comprehension untaught",
+   "summary": "Digital-skills courses teach adults to use apps and dodge scams, and never to understand the systems that govern them: what encryption guarantees, what digital ID architectures reveal. Public debates proceed on claims citizens cannot evaluate. An open curriculum delivered through libraries, unions and community groups could build comprehension with citizens-advice reach."
   },
   {
    "number": 72,
@@ -622,13 +622,13 @@
   },
   {
    "number": 217,
-   "tagline": "Leaving a bank, a pension or a platform keeps getting harder. Nobody is measuring it.",
+   "tagline": "Exit friction rising everywhere; measured nowhere",
    "summary": "Exit is what keeps institutions honest: banks, platforms and governments all behave better when leaving is cheap. Across British life the cost of leaving is rising, and no one measures it. An annual index of switching costs, scored per institution, is a research product a small team could ship in a year."
   },
   {
    "number": 223,
-   "tagline": "Whoever runs the servers carries the legal risk. In Britain, they carry it alone.",
-   "summary": "Decentralised networks fail at the human layer: the state can always reach the handful of people running the nodes. UK operators of relays and community servers face safety duties and secret surveillance notices with no tailored legal guidance, defence fund or experienced counsel. Without support, they quit or move abroad, and dependence returns."
+   "tagline": "Infrastructure operators carry the legal risk; no support exists",
+   "summary": "Decentralised networks fail at the human layer, because the state can always reach the handful of people running the nodes. UK operators of relays and community servers face safety duties and secret surveillance notices with no tailored legal guidance, defence fund or experienced counsel. Without support they quit or move abroad, and dependence returns."
   },
   {
    "number": 119,
@@ -757,8 +757,8 @@
   },
   {
    "number": 219,
-   "tagline": "When anything can be faked, Britain still proves 'what happened' with a single web page.",
-   "summary": "Synthetic media is now free to make, yet election results and emergency alerts still rest on single sources with no independent way to verify them. Detection tools lose the arms race; provenance doesn't have to. A pilot letting returning officers, observers and the elections watchdog cryptographically co-sign results would make the record checkable by anyone."
+   "tagline": "Critical public facts; one spoofable source each",
+   "summary": "Synthetic media is now free to make, yet election results and emergency alerts still rest on single sources with no independent way to verify them. Detection tools lose the arms race, and provenance does not have to. A pilot letting returning officers, observers and the elections watchdog cryptographically co-sign results would make the record checkable by anyone."
   },
   {
    "number": 143,
@@ -992,7 +992,7 @@
   },
   {
    "number": 189,
-   "tagline": "Police, courts and prisons can't follow the same case. The backlog hides in the gaps.",
+   "tagline": "Criminal justice case data; no shared identifier across agencies",
    "summary": "Every criminal justice agency runs its own case system, with no shared identifier following a person from arrest to release. No one can see in real time where the 80,000-case backlog actually sits, and victims cannot be told what is happening to their case. A common data layer is the unglamorous fix most other reforms depend on."
   },
   {
@@ -1042,8 +1042,8 @@
   },
   {
    "number": 198,
-   "tagline": "Mayors control billions. The scrutiny? Part-time councillors reviewing their own mayor.",
-   "summary": "Devolution hands mayoral authorities flexible multi-billion-pound settlements, but no body follows the pound across everything spent in a place: council, mayor, NHS, police. The first mayoral spending scandal caught late could discredit the whole settlement. Local public accounts committees, piloted first in Greater Manchester and the West Midlands, are the ready answer."
+   "tagline": "Mayoral billions; scrutinised by the mayor's own councillors",
+   "summary": "Devolution hands mayoral authorities flexible multi-billion-pound settlements, and no body follows the pound across everything spent in a place: council, mayor, NHS, police. The first mayoral spending scandal caught late could discredit the whole settlement. Local public accounts committees, piloted first in Greater Manchester and the West Midlands, are the ready answer."
   },
   {
    "number": 199,
@@ -1052,8 +1052,8 @@
   },
   {
    "number": 213,
-   "tagline": "Council spending data is stale and unauditable. The technology to fix that is routine.",
-   "summary": "Over £100bn of annual local spending now has neither timely audit nor public verifiability, and the spending files councils publish are stale and unstandardised. Publishing payments as they happen, on tamper-evident rails, is technically routine, yet no British public body does it. One willing council could prove the model."
+   "tagline": "Council spending; stale files, unauditable, fixable with routine tech",
+   "summary": "Over £100bn of annual local spending now has neither timely audit nor public verifiability, and the spending files councils publish are stale and unstandardised. Publishing payments as they happen, on tamper-evident rails, is technically routine, and no British public body does it. One willing council could prove the model."
   },
   {
    "number": 200,
@@ -1067,12 +1067,12 @@
   },
   {
    "number": 202,
-   "tagline": "Germany has a trained civilian reserve for disasters. Britain has a crowdfunded charity.",
-   "summary": "The UK has no national volunteer reserve for emergencies: nothing like Germany's technical relief agency or the Nordic civil-defence corps. When crisis hits, surge help is improvised, as it was in 2020. A government-backed corps with training, insurance and employer time-off rights would make the willing useful."
+   "tagline": "Emergency volunteer reserve; Germany trains one, Britain improvises",
+   "summary": "The UK has no national volunteer reserve for emergencies, nothing like Germany's technical relief agency or the Nordic civil-defence corps. When crisis hits, surge help is improvised, as it was in 2020. A government-backed corps with training, insurance and employer time-off rights would make the willing useful."
   },
   {
    "number": 203,
-   "tagline": "Charities filled the state's gaps in 2020. There's still no plan to fund them next time.",
+   "tagline": "Emergency mobilisation of charities; still informal",
    "summary": "In the pandemic, community groups reached people the state could not, with no defined roles, no funding rails and no coordination. The arrangements remain informal today. A standing protocol with pre-agreed roles and a rapid surge-funding facility would let civil society mobilise fast and get paid for it."
   },
   {
@@ -1092,7 +1092,7 @@
   },
   {
    "number": 207,
-   "tagline": "Most heat deaths happen indoors. No one in government owns keeping homes cool.",
+   "tagline": "Indoor heat deaths rising; no department owns the problem",
    "summary": "Overheating rules cover only new homes and are weakly enforced, while three departments each hold a piece of the problem and none owns the outcome. Last year was the UK's hottest on record, and heat mortality is projected to rise sharply. Naming a lead department is the cheap, obvious first step."
   },
   {
@@ -1107,7 +1107,7 @@
   },
   {
    "number": 210,
-   "tagline": "A single failure can cascade from power to payments to transport. Nobody owns the whole.",
+   "tagline": "Thirteen infrastructure sectors; interdependencies unmanaged",
    "summary": "The UK secures each of its 13 critical infrastructure sectors separately, and no executive body manages how they depend on one another. A flood, cyber-attack or solar storm in one sector can ripple unchecked through energy, water and finance. An agency with power to set cross-sector standards is the missing piece."
   },
   {
@@ -1122,8 +1122,8 @@
   },
   {
    "number": 225,
-   "tagline": "Government's no-competition contracts are all public. Nobody adds them up.",
-   "summary": "Direct awards under defence and 'technical' exemptions are each published, then forgotten, so a habit of handing the same suppliers uncompeted work stays invisible. A £240m Ministry of Defence deal went to Palantir without a tender. An open register built from public data would make the pattern legible."
+   "tagline": "Uncompeted contracts; published one by one, counted by no one",
+   "summary": "Direct awards under defence and technical exemptions are each published, then forgotten, so a habit of handing the same suppliers uncompeted work stays invisible. A £240m Ministry of Defence deal went to Palantir without a tender. An open register built from public data would make the pattern legible."
   },
   {
    "number": 226,
