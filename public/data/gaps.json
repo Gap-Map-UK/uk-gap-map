@@ -253,9 +253,9 @@
   "domain": "civic-society",
   "type": "funding",
   "horizon": "mid",
-  "description": "The UK's democratic data and civic tech layer is maintained by a handful of fragile organisations: mySociety (TheyWorkForYou, WhatDoTheyKnow, FixMyStreet) cross-subsidises via consultancy and short grants; Democracy Club crowd-sources candidate and results data that the state does not publish, and the Electoral Commission is absorbing only the polling-station finder. mySociety's Shifting Landscapes report (January 2026) and Careful Industries both conclude there is no systematic support for public-interest technology in the UK, unlike Germany's Sovereign Tech Fund, which pays for maintenance of critical open infrastructure. Grant funders prefer novelty over maintenance, so load-bearing civic services live perpetually one funding cycle from shutdown.",
-  "why": "Parliament-monitoring, FOI and election-information services are used by millions and underpin journalism, research and voter participation. Their collapse would be invisible until an election. Maintenance-blind funding also wastes public value: the state repeatedly rebuilds what civic tech already runs, at higher cost.",
-  "fill": "A Democratic Digital Infrastructure Fund (£10–20m/year, DSIT/DCMS + foundations, modelled on Germany's Sovereign Tech Fund) paying for maintenance and security of critical civic codebases and datasets; plus statutory duties to publish open candidate, election-results and council-decision data, removing the volunteer burden Democracy Club currently carries.",
+  "description": "The UK's democratic data and civic tech layer is maintained by a handful of fragile organisations. mySociety, which runs TheyWorkForYou, WhatDoTheyKnow and FixMyStreet, cross-subsidises through consultancy and short grants, and Democracy Club crowd-sources candidate and results data the state does not publish, with the Electoral Commission absorbing only the polling-station finder. mySociety's Shifting Landscapes report from January 2026 and Careful Industries both conclude there is no systematic support for public-interest technology in the UK, unlike Germany's Sovereign Tech Fund, which pays for maintenance of critical open infrastructure. Grant funders prefer novelty over maintenance, so load-bearing civic services live perpetually one funding cycle from shutdown.",
+  "why": "Parliament-monitoring, FOI and election-information services are used by millions and underpin journalism, research and voter participation, and their collapse would be invisible until an election. Maintenance-blind funding also wastes public value, because the state repeatedly rebuilds what civic tech already runs, at higher cost.",
+  "fill": "A democratic digital infrastructure fund at £10-20m a year, from DSIT, DCMS and foundations on the Sovereign Tech Fund model, paying for maintenance and security of critical civic codebases and datasets. Statutory duties to publish open candidate, election-results and council-decision data would remove the volunteer burden Democracy Club currently carries.",
   "sources": [
    "https://www.mysociety.org/2026/01/29/new-report-shifting-landscapes/",
    "https://www.careful.industries/blog/2025-12-could-2026-be-the-year-of-public-interest-technology",
@@ -274,8 +274,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: philanthropic maintenance fund paying maintainers of Democracy Club-class codebases; statutory open-data duties are the later end-state.",
-  "tagline": "Millions use TheyWorkForYou. It lives one funding cycle from shutdown.",
-  "summary": "The services that let Britons track MPs, file freedom of information requests and find election information are maintained by a handful of small organisations on short grants. Funders pay for novelty, never upkeep. A dedicated maintenance fund (Germany already runs one for critical code) would secure the plumbing democracy quietly depends on.",
+  "tagline": "Civic tech used by millions; one grant from shutdown",
+  "summary": "The services that let Britons track MPs, file freedom of information requests and find election information are maintained by a handful of small organisations on short grants. Funders pay for novelty and rarely for upkeep. A dedicated maintenance fund, of the kind Germany already runs for critical code, would secure the plumbing democracy quietly depends on.",
   "facets": [
    "funding-gaps"
   ],
@@ -298,7 +298,7 @@
    }
   ],
   "rank": 1,
-  "rankNote": "Civic services used by millions run on organisations perpetually one grant from shutdown; the Sovereign Tech Fund model is proven and unfunded here, but no date forces action now."
+  "rankNote": "Civic services used by millions run on organisations perpetually one grant from shutdown; the Sovereign Tech Fund model is proven and unfunded here, and no date forces action."
  },
  {
   "number": 9,
@@ -557,9 +557,9 @@
   "domain": "open-source-public-goods",
   "type": "institutional",
   "horizon": "short",
-  "description": "France, Germany (ZenDiS) and the European Commission run public-sector OSPOs; the UK, which wrote the open-by-default playbook, has none. Ownership is fragmented between GDS (Service Standard point on open code), the Technology Code of Practice and individual departments; nobody audits whether departments actually publish code, curates cross-government reuse, or owns licensing and stewardship questions. The cost of this vacuum showed when NHS England's open source policies silently lapsed after the NHSX merger and the pages were deleted in December 2025. OpenUK's UKRI-commissioned guidance (2025-26) is advisory and GDS Local's work is nascent; neither is an accountable institution.",
+  "description": "France, Germany through ZenDiS, and the European Commission all run public-sector open source programme offices; the UK, which wrote the open-by-default playbook, has none. Ownership is fragmented between GDS, the Technology Code of Practice and individual departments. Nobody audits whether departments actually publish code, curates cross-government reuse, or owns licensing and stewardship questions. The cost of the vacuum showed when NHS England's open source policies silently lapsed after the NHSX merger and the pages were deleted in December 2025. OpenUK's UKRI-commissioned guidance is advisory and GDS Local's work is nascent; neither is an accountable institution.",
   "why": "A policy without an owner evaporates, as the NHS just demonstrated. An OSPO converts fourteen years of aspiration into measured compliance, reuse savings, and a single door for maintainers, vendors and international peers to knock on.",
-  "fill": "A cross-government OSPO in GDS/DSIT with a mandate to audit Service Standard compliance annually, publish a code-reuse catalogue, steward government-maintained projects, and represent the UK in international public-code networks; modelled on the EC OSPO and ZenDiS.",
+  "fill": "A cross-government OSPO in GDS or DSIT with a mandate to audit Service Standard compliance annually, publish a code-reuse catalogue, steward government-maintained projects, and represent the UK in international public-code networks, modelled on the European Commission's office and ZenDiS.",
   "sources": [
    "https://www.digitalhealth.net/2025/12/nhs-england-quietly-removes-open-source-policy-web-pages/",
    "https://interoperable-europe.ec.europa.eu/collection/ec-ospo",
@@ -574,10 +574,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: machinery-of-government decision creating a GDS/DSIT OSPO with audit mandate.",
-  "tagline": "Britain wrote the open-code playbook, then forgot to appoint anyone to run it.",
-  "summary": "Government code is meant to be open by default, but nobody audits whether departments publish it: the NHS's open source policy lapsed and its pages were quietly deleted. France and Germany run dedicated offices for this. A British equivalent could audit compliance, catalogue reusable code and give fourteen years of good intentions an owner.",
+  "tagline": "Open by default since 2012; no office owns it",
+  "summary": "Government code is meant to be open by default, and nobody audits whether departments publish it: the NHS's open source policy lapsed and its pages were quietly deleted. France and Germany run dedicated offices for this. A British equivalent could audit compliance, catalogue reusable code and give fourteen years of good intentions an owner.",
   "rank": 1,
-  "rankNote": "Policy without an accountable owner evaporates, as December 2025's silent NHS lapse showed; the EC/ZenDiS instrument is proven but nobody is mandated to run it here."
+  "rankNote": "Policy without an accountable owner evaporates, as the silent NHS lapse of December 2025 showed, and the proven instrument has nobody mandated to run it here."
  },
  {
   "number": 15,
@@ -1074,9 +1074,9 @@
   "domain": "youth-mobilisation",
   "type": "institutional",
   "horizon": "mid",
-  "description": "England lost ~4,500 qualified youth workers and 750 youth centres since 2010; NYA research finds the workforce cannot meet demand, with a fifth of youth work bodies running waiting lists of up to three months. Unlike teaching (bursaries, Now Teach), social work (Frontline, Step Up) or even planning, there is no funded fast-track, bursary scheme or protected-title register for youth work. The National Youth Strategy names workforce as a priority but the £60m Richer Lives Fund and Young Futures Hubs will compete for the same scarce qualified staff.",
-  "why": "Every commitment in the strategy (500,000 more young people with a trusted adult by 2035, 50 Young Futures Hubs) is bottlenecked on people, not buildings. Without a pipeline, capital funds inflate wages within a fixed pool rather than expanding provision.",
-  "fill": "A national youth work workforce programme: funded bursaries and degree apprenticeships, a Frontline-style graduate route, targeted recruitment of male youth workers, and a professional register, deliverable by NYA with DCMS/DfE funding as the strategy's workforce plank.",
+  "description": "England lost around 4,500 qualified youth workers and 750 youth centres since 2010, and NYA research finds the workforce cannot meet demand, with a fifth of youth work bodies running waiting lists of up to three months. Teaching has bursaries and Now Teach, social work has Frontline and Step Up, and even planning has a funded pathway; youth work has no funded fast-track, bursary scheme or protected-title register. The National Youth Strategy names workforce as a priority, and the £60m Richer Lives Fund and the Young Futures Hubs will compete for the same scarce qualified staff.",
+  "why": "Every commitment in the strategy, from half a million more young people with a trusted adult by 2035 to fifty Young Futures Hubs, is bottlenecked on people rather than buildings. Without a pipeline, capital funds inflate wages within a fixed pool instead of expanding provision.",
+  "fill": "A national youth work workforce programme: funded bursaries and degree apprenticeships, a Frontline-style graduate route, targeted recruitment of male youth workers, and a professional register, deliverable by NYA with DCMS and DfE funding as the strategy's workforce plank.",
   "sources": [
    "https://nya.org.uk/shortfall-of-qualified-youth-workers/",
    "https://www.gov.uk/government/publications/youth-matters-your-national-youth-strategy/youth-matters-your-national-youth-strategy"
@@ -1090,7 +1090,7 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: DCMS/DfE as funder-of-record with NYA delivering bursaries, apprenticeships and the professional register.",
-  "tagline": "England lost 4,500 youth workers. Teaching gets bursaries. Youth work gets nothing.",
+  "tagline": "4,500 youth workers lost; no pipeline replaces them",
   "summary": "Every promise in the new youth strategy, including a trusted adult for half a million more young people, depends on staff who no longer exist. Unlike teaching or social work, youth work has no funded fast-track, no bursaries and no professional register. A workforce programme is the strategy's missing plank.",
   "dialogue": {
    "counterparty": "government-bodies",
@@ -1100,7 +1100,7 @@
    "firstStep": "A twelve-month co-funded pilot: fifty bursaried trainees placed with existing youth work employers in two regions with waiting lists, retention and cost per qualification evaluated jointly against teaching bursary benchmarks."
   },
   "rank": 1,
-  "rankNote": "Every strategy target bottlenecks on scarce qualified staff, yet unlike teaching or social work there is no funded fast-track or register, though the pressure is drift not a dated trigger."
+  "rankNote": "Every strategy target bottlenecks on scarce qualified staff, and unlike teaching or social work there is no funded fast-track or register; the pressure is drift rather than a dated trigger."
  },
  {
   "number": 30,
@@ -1175,9 +1175,9 @@
   "domain": "youth-mobilisation",
   "type": "policy",
   "horizon": "mid",
-  "description": "English councils face no duty to maintain youth voice mechanisms, so youth council coverage is patchy and collapsed alongside youth service budgets; DCMS's Power of Youth Charter (2025) is voluntary; the UK Youth Parliament survives on annual contract. Wales has statutory child-participation duties and a Senedd Youth Parliament; Scotland incorporated the UNCRC into law in 2024; Germany's Jugend-Check institutionalises youth impact assessment of federal legislation. England has no equivalent at either tier.",
-  "why": "Consultation-by-goodwill evaporates under fiscal pressure: exactly what happened after 2010. With 16-year-olds about to vote, the absence of any legal requirement to involve young people in decisions affecting them is increasingly anomalous within the UK itself, let alone Europe.",
-  "fill": "A statutory youth engagement duty on English local authorities plus a Jugend-Check-style youth impact assessment unit for UK legislation, and a stable statutory footing (and multi-year funding) for the UK Youth Parliament.",
+  "description": "English councils face no duty to maintain youth voice mechanisms, so youth council coverage is patchy and collapsed alongside youth service budgets. DCMS's Power of Youth Charter from 2025 is voluntary, and the UK Youth Parliament survives on an annual contract. Wales has statutory child-participation duties and a Senedd Youth Parliament, Scotland incorporated the UNCRC into law in 2024, and Germany's Jugend-Check institutionalises youth impact assessment of federal legislation. England has no equivalent at either tier.",
+  "why": "Consultation by goodwill evaporates under fiscal pressure, which is what happened after 2010. With 16-year-olds about to vote, the absence of any legal requirement to involve young people in decisions affecting them is increasingly anomalous within the UK itself, let alone Europe.",
+  "fill": "A statutory youth engagement duty on English local authorities, a Jugend-Check-style youth impact assessment unit for UK legislation, and a stable statutory footing with multi-year funding for the UK Youth Parliament.",
   "sources": [
    "https://www.gov.uk/government/news/power-of-youth-charter-gives-young-people-a-voice-in-government",
    "https://commonslibrary.parliament.uk/research-briefings/cbp-10138/",
@@ -1192,8 +1192,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory engagement duty and UKYP footing; think-tank shadow Jugend-Check unit can prototype meanwhile.",
-  "tagline": "Wales gave youth voice legal force. Scotland did too. England relies on goodwill.",
-  "summary": "No English council is required to listen to young people, so youth councils collapsed alongside youth budgets, and the UK Youth Parliament survives on an annual contract. Goodwill-based consultation evaporates under fiscal pressure; it already did once after 2010. A statutory engagement duty and a youth impact check on new laws would make voice permanent.",
+  "tagline": "Youth voice statutory in Wales and Scotland; goodwill in England",
+  "summary": "No English council is required to listen to young people, so youth councils collapsed alongside youth budgets, and the UK Youth Parliament survives on an annual contract. Goodwill-based consultation evaporates under fiscal pressure, and it already did once after 2010. A statutory engagement duty and a youth impact check on new laws would make voice permanent.",
   "seeAlso": [
    {
     "number": 25,
@@ -1203,7 +1203,7 @@
    }
   ],
   "rank": 1,
-  "rankNote": "English councils face no participation duty and the Power of Youth Charter is voluntary, but this procedural gap has moderate stakes and no fixed date forcing action."
+  "rankNote": "English councils face no participation duty and the charter is voluntary; the procedural gap has moderate stakes and no fixed date."
  },
  {
   "number": 33,
@@ -1324,9 +1324,9 @@
   "domain": "youth-mobilisation",
   "type": "coordination",
   "horizon": "mid",
-  "description": "The Scouts' waiting list passed 100,000 in 2024 and Girlguiding faces similar volunteer constraints; the two movements' joint growth projects and past DCMS Uniformed Youth Fund rounds opened new units but have not cleared lists, because the binding constraint is adult volunteers, not youth demand, and overall volunteering has declined since the pandemic (NCVO). No national mechanism recruits, trains or gives employer time-off entitlements to adult volunteers for youth movements.",
-  "why": "This is the rare youth mobilisation problem where demand is proven and queued: over 100,000 young people are literally waiting to participate. Unlocking it is cheaper per head than building new provision and disproportionately serves character, service and cross-class mixing goals.",
-  "fill": "A national adult-volunteer pipeline for uniformed youth: employer volunteering time entitlements, a shared recruitment/vetting platform across movements, and a successor Uniformed Youth Fund tied to waiting-list reduction in deprived areas.",
+  "description": "The Scouts' waiting list passed 100,000 in 2024 and Girlguiding faces similar volunteer constraints. The two movements' joint growth projects and past DCMS Uniformed Youth Fund rounds opened new units without clearing lists, because the binding constraint is adult volunteers rather than youth demand, and overall volunteering has declined since the pandemic. No national mechanism recruits, trains or gives employer time-off entitlements to adult volunteers for youth movements.",
+  "why": "This is the rare youth mobilisation problem where demand is proven and queued: over 100,000 young people are literally waiting to participate. Unlocking it is cheaper per head than building new provision, and it disproportionately serves character, service and cross-class mixing goals.",
+  "fill": "A national adult-volunteer pipeline for uniformed youth: employer volunteering time entitlements, a shared recruitment and vetting platform across movements, and a successor Uniformed Youth Fund tied to waiting-list reduction in deprived areas.",
   "sources": [
    "https://www.girlguiding.org.uk/about-us/press-releases/girlguiding-and-the-scouts-join-forces/",
    "https://en.wikipedia.org/wiki/The_Scout_Association",
@@ -1341,10 +1341,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: shared cross-movement recruitment/vetting platform; employer time via voluntary compacts before any statutory entitlement.",
-  "tagline": "100,000 children are queuing to join the Scouts. The shortage is adults.",
-  "summary": "The Scouts' waiting list passed 100,000 and Girlguiding faces the same squeeze: proven demand, queued and waiting. The binding constraint is adult volunteers, not young people's appetite, and no national mechanism recruits or trains them. Employer time-off entitlements and shared vetting across movements would clear lists faster than building anything new.",
+  "tagline": "100,000 queuing for Scouts; the shortage is adult volunteers",
+  "summary": "The Scouts' waiting list passed 100,000 and Girlguiding faces the same squeeze: proven demand, queued and waiting. The binding constraint is adult volunteers rather than young people's appetite, and no national mechanism recruits or trains them. Employer time-off entitlements and shared vetting across movements would clear lists faster than building anything new.",
   "rank": 1,
-  "rankNote": "Over 100,000 young people are literally queued to participate and the fix is cheap per head, but the binding adult-volunteer constraint has no owner and no dated trigger."
+  "rankNote": "Over 100,000 young people are queued to participate and the fix is cheap per head, and the adult-volunteer constraint has no owner and no dated trigger."
  },
  {
   "number": 37,
@@ -1811,9 +1811,9 @@
   "domain": "growth-stagnation",
   "type": "policy",
   "horizon": "mid",
-  "description": "The July 2025 REMA update rejected zonal pricing for 'reformed national pricing', with locational efficiency now depending on TNUoS charging reform and NESO's Strategic Spatial Energy Plan, both incomplete. Meanwhile nothing steers large flexible demand (AI data centres, electrolysers) toward generation-rich, transmission-constrained zones such as Scotland, and constraint payments keep growing. NESO's Gate 2 reforms fix the generation queue but not demand siting.",
-  "why": "Having chosen not to price location through the market, the UK must deliver it administratively or pay billions annually in constraint costs while losing footloose AI/industrial investment to countries that can offer cheap, sited power quickly.",
-  "fill": "Completed TNUoS demand and generation reform plus a demand-siting package: discounted network charges, planning fast-track and grid-connection priority for large flexible loads locating in SSEP-designated constrained zones.",
+  "description": "The July 2025 REMA update rejected zonal pricing in favour of reformed national pricing, with locational efficiency now depending on TNUoS charging reform and NESO's Strategic Spatial Energy Plan, both incomplete. Nothing steers large flexible demand, AI data centres and electrolysers among it, towards generation-rich, transmission-constrained zones such as Scotland, and constraint payments keep growing. NESO's Gate 2 reforms fix the generation queue rather than demand siting.",
+  "why": "Having chosen not to price location through the market, the UK must deliver it administratively or pay billions a year in constraint costs while losing footloose AI and industrial investment to countries that can offer cheap, sited power quickly.",
+  "fill": "Completed TNUoS demand and generation reform plus a demand-siting package: discounted network charges, planning fast-track and grid-connection priority for large flexible loads locating in the spatial plan's designated constrained zones.",
   "sources": [
    "https://www.nortonrosefulbright.com/en/knowledge/publications/4399413b/rema-summer-update-no-to-zonal-pricing-yes-to-reformed-national-pricing",
    "https://www.neso.energy/industry-information/connections-reform"
@@ -1827,10 +1827,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Ofgem TNUoS charging decision plus government demand-siting package (fast-track planning, connection priority).",
-  "tagline": "Data centres want cheap power. Nothing points them at Scotland's wasted wind.",
-  "summary": "Ministers rejected regional electricity pricing, promising locational efficiency through network-charge reform and a spatial energy plan, both unfinished. Meanwhile nothing steers big flexible users like AI data centres towards areas where generation outruns the grid, and payments to switch wind farms off keep rising. Cheaper connections and fast-track planning for well-sited demand would do the job administratively.",
+  "tagline": "Zonal pricing rejected; nothing sites demand near wasted wind",
+  "summary": "Ministers rejected regional electricity pricing, promising locational efficiency through network-charge reform and a spatial energy plan, both unfinished. Nothing steers big flexible users like AI data centres towards areas where generation outruns the grid, and payments to switch wind farms off keep rising. Cheaper connections and fast-track planning for well-sited demand would do the job administratively.",
   "rank": 1,
-  "rankNote": "Constraint payments and lost AI investment mount, but the fix depends on incomplete TNUoS and spatial-plan reforms government already owns, so a new actor's marginal value stays moderate and undated."
+  "rankNote": "Constraint payments and lost AI investment mount, and the fix depends on incomplete reforms government already owns, keeping a new actor's marginal value moderate."
  },
  {
   "number": 53,
@@ -2150,9 +2150,9 @@
   "domain": "debt",
   "type": "tooling",
   "horizon": "mid",
-  "description": "As defined-benefit pension schemes run off, the DMO has lost its captive long-dated buyer; 30-year term premia hit 2.45% against a 1.06% long-run average. Yet UK households cannot buy gilts directly from the state: purchases route through brokers and platforms with friction, and NS&I sells its own savings products, not gilts. There is no UK equivalent of US TreasuryDirect or Italy's retail BTP programmes, which raised tens of billions from households and stabilised demand. The DMO's approved-group retail access is vestigial; wholesale digital-gilt experimentation does not touch citizens.",
-  "why": "A broader, stickier domestic investor base lowers term premia at the margin and reduces reliance on 'return-sensitive' leveraged foreign buyers, worth billions annually when debt interest is £126bn. It also gives savers direct access to the safe asset their taxes back.",
-  "fill": "A DMO/NS&I-operated retail gilt purchase-and-custody platform with low minimums, auction access and ISA eligibility, buildable as a fintech-style public product; a founder-shaped opportunity exists in the brokerage layer today.",
+  "description": "As defined-benefit pension schemes run off, the Debt Management Office has lost its captive long-dated buyer, and 30-year term premia hit 2.45 per cent against a long-run average of 1.06. UK households cannot buy gilts directly from the state: purchases route through brokers and platforms with friction, and NS&I sells its own savings products rather than gilts. No UK equivalent exists of US TreasuryDirect or Italy's retail BTP programmes, which raised tens of billions from households and stabilised demand. The DMO's approved-group retail access is vestigial, and wholesale digital-gilt experimentation does not touch citizens.",
+  "why": "A broader, stickier domestic investor base lowers term premia at the margin and reduces reliance on return-sensitive leveraged foreign buyers, worth billions a year when debt interest runs at £126bn. It also gives savers direct access to the safe asset their taxes back.",
+  "fill": "A retail gilt purchase-and-custody platform operated by the DMO and NS&I, with low minimums, auction access and ISA eligibility, buildable as a fintech-style public product. A founder-shaped opportunity exists in the brokerage layer today.",
   "sources": [
    "https://www.bankofengland.co.uk/bank-insights/2026/what-were-the-drivers-of-uk-long-term-interest-rates-in-2025",
    "https://niesr.ac.uk/blog/gilts-are-getting-shorter-does-it-matter",
@@ -2167,10 +2167,10 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: low-friction ISA-eligible retail gilt brokerage (founder-shaped today); DMO/NS&I platform is the state end-state.",
-  "tagline": "Americans can buy their government's debt directly. Britons must go through a broker.",
-  "summary": "As pension funds retreat from long-dated gilts, borrowing costs have climbed and hedge funds have become the marginal buyer. Households (a stickier, cheaper source of demand) have no direct route to the safe asset their own taxes stand behind. A state-run retail gilt platform, like America's or Italy's, is a buildable public product.",
+  "tagline": "Retail gilts; no direct route for British savers",
+  "summary": "As pension funds retreat from long-dated gilts, borrowing costs have climbed and hedge funds have become the marginal buyer. Households, a stickier and cheaper source of demand, have no direct route to the safe asset their own taxes stand behind. A state-run retail gilt platform, like America's or Italy's, is a buildable public product.",
   "rank": 1,
-  "rankNote": "Diversifying the investor base only trims term premia at the margin, the product is buildable but unbuilt, and no dated trigger forces action this year."
+  "rankNote": "Diversifying the investor base trims term premia at the margin, and the product is buildable, unbuilt, and undated."
  },
  {
   "number": 65,
@@ -3138,9 +3138,9 @@
   "domain": "corruption-integrity",
   "type": "funding",
   "horizon": "mid",
-  "description": "Journalism is not a recognised charitable purpose under the Charities Act, so public-interest newsrooms must shoehorn themselves into education or citizenship purposes; Full Fact was rejected twice before securing charitable status. The UK lost a net 265 local newspaper titles between 2005 and 2020. The Public Interest News Foundation is the only UK charity dedicated to regenerating local news; the Bureau of Investigative Journalism and Finance Uncovered depend on fragile, largely overseas philanthropy. The Charitable Journalism Project has documented the fix. Investigations that exposed the Clearing House, the VIP lane and SLAPP abuse all came from this under-capitalised sector.",
+  "description": "Journalism is not a recognised charitable purpose under the Charities Act, so public-interest newsrooms must shoehorn themselves into education or citizenship purposes, and Full Fact was rejected twice before securing charitable status. The UK lost a net 265 local newspaper titles between 2005 and 2020. The Public Interest News Foundation is the only UK charity dedicated to regenerating local news, and the Bureau of Investigative Journalism and Finance Uncovered depend on fragile, largely overseas philanthropy. The Charitable Journalism Project has documented the fix. The investigations that exposed the Clearing House, the VIP lane and SLAPP abuse all came from this under-capitalised sector.",
   "why": "Every enforcement and transparency mechanism in this domain relies on journalists to activate it: registers get searched, FOI gets used, debarment referrals get evidenced. Investigative capacity is the discovery layer of the integrity system, and it is shrinking while the threat surface grows.",
-  "fill": "A Charities Act amendment recognising public-interest journalism as a charitable purpose (with Charity Commission guidance), plus a match-funded national endowment for investigative and local accountability journalism, seeded by trusts like Joseph Rowntree and Luminate, administered at arm's length via PINF-style intermediaries.",
+  "fill": "A Charities Act amendment recognising public-interest journalism as a charitable purpose, with Charity Commission guidance, plus a match-funded national endowment for investigative and local accountability journalism, seeded by trusts and administered at arm's length through PINF-style intermediaries.",
   "sources": [
    "https://cjproject.org/",
    "https://www.publicinterestnews.org.uk/",
@@ -3155,7 +3155,7 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: match-funded endowment via PINF-style intermediaries seeded by existing trusts; Charities Act amendment is the end-state.",
-  "tagline": "265 local papers gone, and journalism still doesn't count as a charitable purpose.",
+  "tagline": "Investigative journalism; still not a charitable purpose",
   "summary": "Public-interest journalism is not a recognised charitable purpose, so investigative newsrooms squeeze through loopholes: the fact-checkers at Full Fact were rejected twice before winning charity status. Every register and disclosure regime relies on reporters to activate it. A change to charity law plus a national endowment would secure the discovery layer.",
   "seeAlso": [
    {
@@ -3166,7 +3166,7 @@
    }
   ],
   "rank": 1,
-  "rankNote": "Investigative journalism is the discovery layer every register and FOI request depends on, yet it lacks charitable status and endowment; the fix is slow, philanthropic, and undated."
+  "rankNote": "Investigative journalism is the discovery layer every register and FOI request depends on, and it lacks charitable status and endowment; the fix is slow, philanthropic and undated."
  },
  {
   "number": 96,
@@ -3175,9 +3175,9 @@
   "domain": "parallel-institutions",
   "type": "policy",
   "horizon": "short",
-  "description": "The Co-operatives, Mutuals and Friendly Societies Act 2023 (Royal Assent June 2023) empowers HM Treasury to make regulations letting societies adopt statutory asset locks against demutualisation. Nearly three years on, the statutory instrument has not been made, reportedly because of unresolved questions about mutuals' tax liability (Commons Library, 2025). Mutuo and the APPG for Mutuals champion the Act, and the December 2025 regulator growth package did not resolve it, so the flagship anti-demutualisation tool remains unusable.",
-  "why": "Without a lock, capital built by generations of members can be extracted in a demutualisation windfall, the mechanism that destroyed most UK building societies after 1986. Founders choosing a structure today cannot credibly commit assets to perpetual community purpose, deterring formation and patient capital.",
-  "fill": "HM Treasury/HMRC publishing the blocking tax analysis and laying the commencement regulations, with FCA registration guidance and model rule amendments, a named deliverable with a date in the government's mutuals strategy.",
+  "description": "The Co-operatives, Mutuals and Friendly Societies Act 2023 received Royal Assent in June 2023 and empowers HM Treasury to make regulations letting societies adopt statutory asset locks against demutualisation. Nearly three years on, the statutory instrument has not been made, reportedly because of unresolved questions about mutuals' tax liability, per the Commons Library in 2025. Mutuo and the APPG for Mutuals champion the Act, the December 2025 regulator growth package did not resolve it, and the flagship anti-demutualisation tool remains unusable.",
+  "why": "Without a lock, capital built by generations of members can be extracted in a demutualisation windfall, the mechanism that destroyed most UK building societies after 1986. Founders choosing a structure today cannot credibly commit assets to perpetual community purpose, which deters formation and patient capital.",
+  "fill": "HM Treasury and HMRC publishing the blocking tax analysis and laying the commencement regulations, with FCA registration guidance and model rule amendments: a named deliverable with a date in the government's mutuals strategy.",
   "sources": [
    "https://www.legislation.gov.uk/ukpga/2023/23/enacted",
    "https://commonslibrary.parliament.uk/research-briefings/cbp-9647/",
@@ -3192,8 +3192,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: HM Treasury/HMRC commencement regulations plus published tax analysis; nothing outsiders can ship.",
-  "tagline": "A law protecting mutuals from asset-stripping passed in 2023. It still does nothing.",
-  "summary": "Parliament gave mutual societies a way to lock their assets against demutualisation raids (the mechanism that hollowed out Britain's building societies), but the Treasury has never made the regulations that switch the law on, reportedly over an unresolved tax question. Publishing the analysis and laying the regulations is all it would take.",
+  "tagline": "Asset-lock law passed 2023; regulations never made",
+  "summary": "Parliament gave mutual societies a way to lock their assets against demutualisation raids, the mechanism that hollowed out Britain's building societies, and the Treasury has never made the regulations that switch the law on, reportedly over an unresolved tax question. Publishing the analysis and laying the regulations is all it would take.",
   "seeAlso": [
    {
     "number": 157,
@@ -3203,7 +3203,7 @@
    }
   ],
   "rank": 1,
-  "rankNote": "The enabling Act is already law, so laying the outstanding statutory instrument is a switch-on task, but Treasury owns it and no dated deadline forces movement."
+  "rankNote": "The enabling Act is already law, so laying the outstanding statutory instrument is a switch-on task; Treasury owns it and no deadline forces movement."
  },
  {
   "number": 97,
@@ -3212,9 +3212,9 @@
   "domain": "parallel-institutions",
   "type": "policy",
   "horizon": "mid",
-  "description": "Registration under the Friendly Societies Act 1974 closed in 1993; the 1992 Act route is built around insurance business requiring FSMA authorisation, disproportionate for a small mutual sick-pay or benefit club. The surviving societies (AFM's 26 friendly society members hold 4.9m members) are all legacy institutions; essentially none has formed in decades. The Law Commission review (consultation closed 11 June 2025) modernises existing societies, even proposing migrating non-regulated ones onto the 2014 Act, but creates no proportionate entry route for new mutual-aid societies.",
-  "why": "Payments, membership and actuarial software now make running a 500-member income-pooling club operationally trivial; UK law makes it practically impossible without becoming a regulated insurer. Millions of self-employed workers lack sick pay. The organisational form that built British welfare before the state is closed to new entrants.",
-  "fill": "A 'small benefit society' regime in the government response to the Law Commission report: registration-only status for discretionary-benefit societies below defined size/benefit thresholds, plus clear FCA perimeter guidance distinguishing discretionary mutual aid from contractual insurance.",
+  "description": "Registration under the Friendly Societies Act 1974 closed in 1993, and the 1992 Act route is built around insurance business requiring FSMA authorisation, disproportionate for a small mutual sick-pay or benefit club. The surviving societies are legacy institutions, with AFM's 26 friendly society members holding 4.9 million members between them, and essentially none has formed in decades. The Law Commission review, whose consultation closed on 11 June 2025, modernises existing societies, even proposing migrating non-regulated ones onto the 2014 Act, and creates no proportionate entry route for new mutual-aid societies.",
+  "why": "Payments, membership and actuarial software now make running a 500-member income-pooling club operationally trivial, and UK law makes it practically impossible without becoming a regulated insurer. Millions of self-employed workers lack sick pay. The organisational form that built British welfare before the state is closed to new entrants.",
+  "fill": "A small benefit society regime in the government response to the Law Commission report: registration-only status for discretionary-benefit societies below defined size and benefit thresholds, plus clear FCA perimeter guidance distinguishing discretionary mutual aid from contractual insurance.",
   "sources": [
    "https://lawcom.gov.uk/project/friendly-societies/",
    "https://cdn.websitebuilder.service.justice.gov.uk/uploads/sites/54/2025/03/Friendly-societies-Fact-sheet-for-members.pdf",
@@ -3229,8 +3229,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: small-benefit-society regime via government response to the Law Commission, plus FCA perimeter guidance.",
-  "tagline": "The door to founding a friendly society shut in 1993. Nobody ever reopened it.",
-  "summary": "Software makes running a 500-member sick-pay club operationally trivial, but UK law demands anyone starting one become a regulated insurer, so nobody has founded a friendly society in decades. Millions of self-employed workers lack sick pay. A slim registration route for small benefit societies would reopen the form that built British welfare.",
+  "tagline": "Friendly society registration; closed since 1993",
+  "summary": "Software makes running a 500-member sick-pay club operationally trivial, and UK law demands anyone starting one become a regulated insurer, so nobody has founded a friendly society in decades. Millions of self-employed workers lack sick pay. A slim registration route for small benefit societies would reopen the form that built British welfare.",
   "seeAlso": [
    {
     "number": 157,
@@ -3240,7 +3240,7 @@
    }
   ],
   "rank": 1,
-  "rankNote": "Millions of self-employed lack sick pay, but a workable small-society regime still needs inventing; the closed Law Commission consultation modernises legacy bodies without opening any entry route."
+  "rankNote": "Millions of self-employed workers lack sick pay, and a workable small-society regime still needs inventing; the closed consultation modernises legacy bodies without opening an entry route."
  },
  {
   "number": 98,
@@ -3315,9 +3315,9 @@
   "domain": "parallel-institutions",
   "type": "tooling",
   "horizon": "short",
-  "description": "Registering a society with the FCA costs £40–£950 depending on whether you adopt a sponsoring body's model rules (which themselves carry fees), versus ~£50 same-day online company incorporation. Registration takes 10 working days, cut from 15 only in December 2025. The Mutuals Public Register is largely scanned documents with no API, structured data or bulk download; the new FCA Mutual Societies Development Unit adds support staff, not infrastructure. There is no digital filing parity with Companies House.",
-  "why": "Formation friction compounds: every co-op, community energy society, community pub and land trust pays a time-and-fee toll companies don't. Machine-readable registry data is also the precondition for research, credit-scoring and funder due diligence on the mutual economy, none of which is currently possible at scale.",
-  "fill": "A rebuilt digital mutuals registry with open API and bulk data, free statutory model constitutions, and same-day filing, delivered by the FCA or by transferring the registration function to Companies House; a costed line in the mutuals strategy.",
+  "description": "Registering a society with the FCA costs £40 to £950 depending on whether you adopt a sponsoring body's model rules, which carry their own fees, against roughly £50 same-day online company incorporation. Registration takes ten working days, cut from fifteen only in December 2025. The Mutuals Public Register is largely scanned documents with no API, structured data or bulk download, and the new FCA Mutual Societies Development Unit adds support staff rather than infrastructure. No digital filing parity with Companies House exists.",
+  "why": "Formation friction compounds: every co-op, community energy society, community pub and land trust pays a time-and-fee toll companies never see. Machine-readable registry data is also the precondition for research, credit-scoring and funder due diligence on the mutual economy, none of which is currently possible at scale.",
+  "fill": "A rebuilt digital mutuals registry with an open API and bulk data, free statutory model constitutions, and same-day filing, delivered by the FCA or by transferring the registration function to Companies House: a costed line in the mutuals strategy.",
   "sources": [
    "https://www.fca.org.uk/firms/register-mutual-society",
    "https://mutuals.fca.org.uk/",
@@ -3335,7 +3335,7 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: FCA registry rebuild or statutory transfer of registration to Companies House, costed in the mutuals strategy.",
-  "tagline": "Starting a company takes a day online. Registering a co-op takes ten working days.",
+  "tagline": "Company formation same-day; co-op registration ten days and up to £950",
   "summary": "Forming a company online costs about £50 and happens the same day. A mutual society can pay up to £950, wait weeks, and join a register that is mostly scanned paper nobody can query. Moving registration to Companies House, or rebuilding the registry with open data, would end the toll.",
   "alsoDomains": [
    "portable-sovereignty"
@@ -3359,7 +3359,7 @@
    }
   ],
   "rank": 1,
-  "rankNote": "Registry modernisation is real infrastructure with a proven Companies House template, but the FCA half-owns it, stakes are sectoral, and no closing date makes now decisive."
+  "rankNote": "Registry modernisation has a proven Companies House template, and the FCA half-owns it with sectoral stakes and no closing date."
  },
  {
   "number": 101,
@@ -3368,9 +3368,9 @@
   "domain": "parallel-institutions",
   "type": "policy",
   "horizon": "mid",
-  "description": "The local currency era is over: the Bristol Pound wound down in 2020–21 and the Lewes Pound, the last town pound, ended in 2025. The technically superior successor, mutual credit and multilateral invoice netting (Mutual Credit Services' Local Loop Merseyside clearing club; the Open Credit Network), is nascent, privately funded and sits in regulatory grey space across e-money, credit and payments perimeters, with no FCA guidance and no participation from anchor institutions such as councils or NHS trusts.",
-  "why": "Multilateral netting can release SME cash flow without bank credit, valuable in downturns and credit deserts. Sardinia's Sardex proved regional scale is possible. Without perimeter clarity or a credible public pilot, UK schemes cannot sign risk-averse anchor institutions, so networks never reach clearing-critical mass.",
-  "fill": "FCA perimeter guidance or a dedicated sandbox cohort for mutual-credit/obligation-clearing schemes; one publicly evaluated city-region pilot with local-authority anchor participation; open interoperability standards between networks.",
+  "description": "The local currency era is over: the Bristol Pound wound down in 2020-21 and the Lewes Pound, the last town pound, ended in 2025. The technically superior successor, mutual credit and multilateral invoice netting, exists in Mutual Credit Services' Local Loop Merseyside clearing club and the Open Credit Network. It is nascent, privately funded, and sits in regulatory grey space across the e-money, credit and payments perimeters, with no FCA guidance and no participation from anchor institutions such as councils or NHS trusts.",
+  "why": "Multilateral netting can release SME cash flow without bank credit, which matters in downturns and credit deserts, and Sardinia's Sardex proved regional scale is possible. Without perimeter clarity or a credible public pilot, UK schemes cannot sign risk-averse anchor institutions, so networks never reach clearing-critical mass.",
+  "fill": "FCA perimeter guidance or a dedicated sandbox cohort for mutual-credit and obligation-clearing schemes, one publicly evaluated city-region pilot with local-authority anchor participation, and open interoperability standards between networks.",
   "sources": [
    "https://www.mutualcredit.services/projects",
    "https://localloop-merseyside.co.uk/blog/platform-design-2023/",
@@ -3390,7 +3390,7 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: FCA sandbox cohort plus one volunteer local authority anchoring a city-region obligation-clearing pilot.",
-  "tagline": "Town pounds died out. Their smarter successor is stuck in regulatory limbo.",
+  "tagline": "Mutual credit clearing; stuck in regulatory grey space",
   "summary": "Local currencies like the Bristol Pound are gone, and the better idea replacing them, businesses clearing debts against each other without cash, operates with no regulatory guidance and no public backer. Sardinia proved such networks work at regional scale. One well-designed city pilot with a council on board could do the same here.",
   "dialogue": {
    "counterparty": "councils",
@@ -3413,7 +3413,7 @@
   ],
   "curationNote": "the same proportionate FCA route plus shared public clearing infrastructure for mutual credit, both citing Sardex.",
   "rank": 1,
-  "rankNote": "Multilateral netting could free SME cash flow, but the model is nascent, sits in regulatory grey space, and lacks any anchor institution or dated trigger to force progress."
+  "rankNote": "Multilateral netting could free SME cash flow, and the model is nascent, in regulatory grey space, and without any anchor institution or dated trigger."
  },
  {
   "number": 102,
@@ -3487,9 +3487,9 @@
   "domain": "parallel-institutions",
   "type": "policy",
   "horizon": "long",
-  "description": "The UK's 22 Industrial Strategy Zones (freeports and investment zones, consolidated June 2025) offer tax, customs and planning incentives but confer no power to vary wider regulation or trial new governance arrangements. Meanwhile charter-city-scale ambition exists (Forest City 1, a late-2025 proposal for a new Suffolk city) but has no lawful UK vehicle, and network-state experimentation routes offshore to Próspera or Malaysia's Network School. Unlike the Netherlands or Germany, the UK has no general statutory framework of experimentation clauses allowing time-limited, evaluated regulatory variation in designated places.",
+  "description": "The UK's 22 Industrial Strategy Zones, the freeports and investment zones consolidated in June 2025, offer tax, customs and planning incentives and confer no power to vary wider regulation or trial new governance arrangements. Charter-city-scale ambition exists, with Forest City 1 proposed for Suffolk in late 2025, and has no lawful UK vehicle, while network-state experimentation routes offshore to Próspera or Malaysia's Network School. Unlike the Netherlands or Germany, the UK has no general statutory framework of experimentation clauses allowing time-limited, evaluated regulatory variation in designated places.",
   "why": "Every zone debate collapses into tax giveaways versus sovereignty fears because the middle instrument is missing. A lawful, consented, sunset-claused experimentation framework would let governance innovation happen onshore, under democratic control and independent evaluation, rather than offshore or not at all.",
-  "fill": "A statutory 'experimental zone' framework: time-limited regulatory variation in designated places, requiring local democratic consent, independent (NAO-grade) evaluation and automatic sunset, administered through the devolution framework rather than bespoke deals.",
+  "fill": "A statutory experimental zone framework: time-limited regulatory variation in designated places, requiring local democratic consent, NAO-grade independent evaluation and automatic sunset, administered through the devolution framework rather than bespoke deals.",
   "sources": [
    "https://www.uktaxpolicymap.com/encouraging-investment/industrial-strategy-zones-(previously-freeports-and-investment-zones).aspx",
    "https://tribunemag.co.uk/2026/05/free-zone-island",
@@ -3504,10 +3504,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory experimental-zone framework with local democratic consent, independent evaluation and automatic sunset.",
-  "tagline": "Britain has 22 special economic zones. Not one can try governing differently.",
-  "summary": "Freeports and investment zones hand out tax breaks but no power to test new rules, so ambitious governance experiments either move abroad or never happen. The Netherlands and Germany allow time-limited, evaluated regulatory trials in designated places. A framework with local consent and automatic expiry would let Britain experiment onshore.",
+  "tagline": "22 economic zones; none may govern differently",
+  "summary": "Freeports and investment zones hand out tax breaks and no power to test new rules, so ambitious governance experiments either move abroad or never happen. The Netherlands and Germany allow time-limited, evaluated regulatory trials in designated places. A framework with local consent and automatic expiry would let Britain experiment onshore.",
   "rank": 1,
-  "rankNote": "A lawful onshore experimentation vehicle is genuinely missing, but the long horizon, heavy legislative lift and absence of any dated trigger make this a slow-burn rather than pressing."
+  "rankNote": "A lawful onshore experimentation vehicle is genuinely missing, and the long horizon and heavy legislative lift make it a slow burn."
  },
  {
   "number": 106,

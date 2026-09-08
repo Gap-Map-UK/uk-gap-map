@@ -37,8 +37,8 @@
   },
   {
    "number": 8,
-   "tagline": "Millions use TheyWorkForYou. It lives one funding cycle from shutdown.",
-   "summary": "The services that let Britons track MPs, file freedom of information requests and find election information are maintained by a handful of small organisations on short grants. Funders pay for novelty, never upkeep. A dedicated maintenance fund (Germany already runs one for critical code) would secure the plumbing democracy quietly depends on."
+   "tagline": "Civic tech used by millions; one grant from shutdown",
+   "summary": "The services that let Britons track MPs, file freedom of information requests and find election information are maintained by a handful of small organisations on short grants. Funders pay for novelty and rarely for upkeep. A dedicated maintenance fund, of the kind Germany already runs for critical code, would secure the plumbing democracy quietly depends on."
   },
   {
    "number": 9,
@@ -77,8 +77,8 @@
   },
   {
    "number": 14,
-   "tagline": "Britain wrote the open-code playbook, then forgot to appoint anyone to run it.",
-   "summary": "Government code is meant to be open by default, but nobody audits whether departments publish it: the NHS's open source policy lapsed and its pages were quietly deleted. France and Germany run dedicated offices for this. A British equivalent could audit compliance, catalogue reusable code and give fourteen years of good intentions an owner."
+   "tagline": "Open by default since 2012; no office owns it",
+   "summary": "Government code is meant to be open by default, and nobody audits whether departments publish it: the NHS's open source policy lapsed and its pages were quietly deleted. France and Germany run dedicated offices for this. A British equivalent could audit compliance, catalogue reusable code and give fourteen years of good intentions an owner."
   },
   {
    "number": 15,
@@ -152,7 +152,7 @@
   },
   {
    "number": 29,
-   "tagline": "England lost 4,500 youth workers. Teaching gets bursaries. Youth work gets nothing.",
+   "tagline": "4,500 youth workers lost; no pipeline replaces them",
    "summary": "Every promise in the new youth strategy, including a trusted adult for half a million more young people, depends on staff who no longer exist. Unlike teaching or social work, youth work has no funded fast-track, no bursaries and no professional register. A workforce programme is the strategy's missing plank."
   },
   {
@@ -167,8 +167,8 @@
   },
   {
    "number": 32,
-   "tagline": "Wales gave youth voice legal force. Scotland did too. England relies on goodwill.",
-   "summary": "No English council is required to listen to young people, so youth councils collapsed alongside youth budgets, and the UK Youth Parliament survives on an annual contract. Goodwill-based consultation evaporates under fiscal pressure; it already did once after 2010. A statutory engagement duty and a youth impact check on new laws would make voice permanent."
+   "tagline": "Youth voice statutory in Wales and Scotland; goodwill in England",
+   "summary": "No English council is required to listen to young people, so youth councils collapsed alongside youth budgets, and the UK Youth Parliament survives on an annual contract. Goodwill-based consultation evaporates under fiscal pressure, and it already did once after 2010. A statutory engagement duty and a youth impact check on new laws would make voice permanent."
   },
   {
    "number": 33,
@@ -187,8 +187,8 @@
   },
   {
    "number": 36,
-   "tagline": "100,000 children are queuing to join the Scouts. The shortage is adults.",
-   "summary": "The Scouts' waiting list passed 100,000 and Girlguiding faces the same squeeze: proven demand, queued and waiting. The binding constraint is adult volunteers, not young people's appetite, and no national mechanism recruits or trains them. Employer time-off entitlements and shared vetting across movements would clear lists faster than building anything new."
+   "tagline": "100,000 queuing for Scouts; the shortage is adult volunteers",
+   "summary": "The Scouts' waiting list passed 100,000 and Girlguiding faces the same squeeze: proven demand, queued and waiting. The binding constraint is adult volunteers rather than young people's appetite, and no national mechanism recruits or trains them. Employer time-off entitlements and shared vetting across movements would clear lists faster than building anything new."
   },
   {
    "number": 37,
@@ -267,8 +267,8 @@
   },
   {
    "number": 52,
-   "tagline": "Data centres want cheap power. Nothing points them at Scotland's wasted wind.",
-   "summary": "Ministers rejected regional electricity pricing, promising locational efficiency through network-charge reform and a spatial energy plan, both unfinished. Meanwhile nothing steers big flexible users like AI data centres towards areas where generation outruns the grid, and payments to switch wind farms off keep rising. Cheaper connections and fast-track planning for well-sited demand would do the job administratively."
+   "tagline": "Zonal pricing rejected; nothing sites demand near wasted wind",
+   "summary": "Ministers rejected regional electricity pricing, promising locational efficiency through network-charge reform and a spatial energy plan, both unfinished. Nothing steers big flexible users like AI data centres towards areas where generation outruns the grid, and payments to switch wind farms off keep rising. Cheaper connections and fast-track planning for well-sited demand would do the job administratively."
   },
   {
    "number": 53,
@@ -327,8 +327,8 @@
   },
   {
    "number": 64,
-   "tagline": "Americans can buy their government's debt directly. Britons must go through a broker.",
-   "summary": "As pension funds retreat from long-dated gilts, borrowing costs have climbed and hedge funds have become the marginal buyer. Households (a stickier, cheaper source of demand) have no direct route to the safe asset their own taxes stand behind. A state-run retail gilt platform, like America's or Italy's, is a buildable public product."
+   "tagline": "Retail gilts; no direct route for British savers",
+   "summary": "As pension funds retreat from long-dated gilts, borrowing costs have climbed and hedge funds have become the marginal buyer. Households, a stickier and cheaper source of demand, have no direct route to the safe asset their own taxes stand behind. A state-run retail gilt platform, like America's or Italy's, is a buildable public product."
   },
   {
    "number": 65,
@@ -487,7 +487,7 @@
   },
   {
    "number": 95,
-   "tagline": "265 local papers gone, and journalism still doesn't count as a charitable purpose.",
+   "tagline": "Investigative journalism; still not a charitable purpose",
    "summary": "Public-interest journalism is not a recognised charitable purpose, so investigative newsrooms squeeze through loopholes: the fact-checkers at Full Fact were rejected twice before winning charity status. Every register and disclosure regime relies on reporters to activate it. A change to charity law plus a national endowment would secure the discovery layer."
   },
   {
@@ -497,13 +497,13 @@
   },
   {
    "number": 96,
-   "tagline": "A law protecting mutuals from asset-stripping passed in 2023. It still does nothing.",
-   "summary": "Parliament gave mutual societies a way to lock their assets against demutualisation raids (the mechanism that hollowed out Britain's building societies), but the Treasury has never made the regulations that switch the law on, reportedly over an unresolved tax question. Publishing the analysis and laying the regulations is all it would take."
+   "tagline": "Asset-lock law passed 2023; regulations never made",
+   "summary": "Parliament gave mutual societies a way to lock their assets against demutualisation raids, the mechanism that hollowed out Britain's building societies, and the Treasury has never made the regulations that switch the law on, reportedly over an unresolved tax question. Publishing the analysis and laying the regulations is all it would take."
   },
   {
    "number": 97,
-   "tagline": "The door to founding a friendly society shut in 1993. Nobody ever reopened it.",
-   "summary": "Software makes running a 500-member sick-pay club operationally trivial, but UK law demands anyone starting one become a regulated insurer, so nobody has founded a friendly society in decades. Millions of self-employed workers lack sick pay. A slim registration route for small benefit societies would reopen the form that built British welfare."
+   "tagline": "Friendly society registration; closed since 1993",
+   "summary": "Software makes running a 500-member sick-pay club operationally trivial, and UK law demands anyone starting one become a regulated insurer, so nobody has founded a friendly society in decades. Millions of self-employed workers lack sick pay. A slim registration route for small benefit societies would reopen the form that built British welfare."
   },
   {
    "number": 98,
@@ -517,12 +517,12 @@
   },
   {
    "number": 100,
-   "tagline": "Starting a company takes a day online. Registering a co-op takes ten working days.",
+   "tagline": "Company formation same-day; co-op registration ten days and up to £950",
    "summary": "Forming a company online costs about £50 and happens the same day. A mutual society can pay up to £950, wait weeks, and join a register that is mostly scanned paper nobody can query. Moving registration to Companies House, or rebuilding the registry with open data, would end the toll."
   },
   {
    "number": 101,
-   "tagline": "Town pounds died out. Their smarter successor is stuck in regulatory limbo.",
+   "tagline": "Mutual credit clearing; stuck in regulatory grey space",
    "summary": "Local currencies like the Bristol Pound are gone, and the better idea replacing them, businesses clearing debts against each other without cash, operates with no regulatory guidance and no public backer. Sardinia proved such networks work at regional scale. One well-designed city pilot with a council on board could do the same here."
   },
   {
@@ -542,8 +542,8 @@
   },
   {
    "number": 105,
-   "tagline": "Britain has 22 special economic zones. Not one can try governing differently.",
-   "summary": "Freeports and investment zones hand out tax breaks but no power to test new rules, so ambitious governance experiments either move abroad or never happen. The Netherlands and Germany allow time-limited, evaluated regulatory trials in designated places. A framework with local consent and automatic expiry would let Britain experiment onshore."
+   "tagline": "22 economic zones; none may govern differently",
+   "summary": "Freeports and investment zones hand out tax breaks and no power to test new rules, so ambitious governance experiments either move abroad or never happen. The Netherlands and Germany allow time-limited, evaluated regulatory trials in designated places. A framework with local consent and automatic expiry would let Britain experiment onshore."
   },
   {
    "number": 106,
