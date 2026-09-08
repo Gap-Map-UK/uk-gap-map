@@ -186,9 +186,9 @@
   "domain": "civic-society",
   "type": "knowledge",
   "horizon": "mid",
-  "description": "The UK has no official, regular, neighbourhood-level measure of social infrastructure stock or associational membership. The Community Life Survey is England-only and cannot resolve below regional level; NCVO's Almanac lags 3–4 years and its publication slipped to 2026; the Bible Society's 'Quiet Revival' withdrawal (March 2026, faulty YouGov data) showed how weak religious-participation data is. Onward's Social Fabric Index (last full update 2023) and OCSI/Local Trust's Community Needs Index are one-off or proprietary. The British Academy/Bennett Institute measurement project is foundational research, not an operational statistical product; the Community Wealth Fund had to commission bespoke analysis just to find 'doubly disadvantaged' areas.",
-  "why": "Billions in neighbourhood funding (Pride in Place, Community Wealth Fund) are now allocated using ad hoc, non-official indices that cannot be scrutinised or updated. Without baseline statistics, none of these ten-year programmes can credibly demonstrate whether Britain's civic fabric is recovering or fraying.",
-  "fill": "ONS-badged annual social infrastructure and civic health statistics at neighbourhood (LSOA/ward) level: a maintained open register of community spaces and associations plus participation measures, co-developed with the Bennett Institute/British Academy programme, OCSI and Onward, and mandated as the evaluation baseline for government neighbourhood programmes.",
+  "description": "The UK has no official, regular, neighbourhood-level measure of social infrastructure stock or associational membership. The Community Life Survey is England-only and cannot resolve below regional level, NCVO's Almanac lags three to four years with publication slipped to 2026, and the Bible Society's withdrawal of its Quiet Revival findings in March 2026 over faulty YouGov data showed how weak religious-participation data is. Onward's Social Fabric Index, last fully updated in 2023, and OCSI and Local Trust's Community Needs Index are one-off or proprietary. The British Academy and Bennett Institute measurement project is foundational research rather than an operational statistical product, and the Community Wealth Fund had to commission bespoke analysis just to find doubly disadvantaged areas.",
+  "why": "Billions in neighbourhood funding are now allocated using ad hoc, non-official indices that cannot be scrutinised or updated. Without baseline statistics, none of these ten-year programmes can credibly demonstrate whether Britain's civic fabric is recovering or fraying.",
+  "fill": "ONS-badged annual social infrastructure and civic health statistics at neighbourhood level: a maintained open register of community spaces and associations plus participation measures, co-developed with the Bennett Institute and British Academy programme, OCSI and Onward, and mandated as the evaluation baseline for government neighbourhood programmes.",
   "sources": [
    "https://www.bennettinstitute.cam.ac.uk/research/research-projects/measuring-social-and-cultural-infrastructure/",
    "https://ukonward.com/reports/2023-social-fabric-index/",
@@ -204,8 +204,8 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: ONS for badging and mandate; OCSI/Bennett-style open-data prototype can precede the official series.",
-  "tagline": "Nobody officially counts Britain's community spaces. Billions get allocated anyway.",
-  "summary": "There is no regular official measure of Britain's social infrastructure: the halls, clubs and associations civic life runs on. Ten-year neighbourhood programmes are being targeted using ad hoc, unofficial indices nobody can scrutinise or update. Annual neighbourhood-level statistics from the Office for National Statistics would give them a baseline.",
+  "tagline": "Social infrastructure; allocated billions, counted by no one",
+  "summary": "There is no regular official measure of Britain's social infrastructure, the halls, clubs and associations civic life runs on. Ten-year neighbourhood programmes are being targeted using ad hoc, unofficial indices nobody can scrutinise or update. Annual neighbourhood-level statistics from the Office for National Statistics would give them a baseline.",
   "dialogue": {
    "counterparty": "government-bodies",
    "ask": "Work with us to develop official annual statistics on community spaces and participation at neighbourhood level, starting from an open prototype rather than a blank page.",
@@ -214,7 +214,7 @@
    "firstStep": "A 90-day joint feasibility review of the prototype against official-statistics standards, published as a methodology note, with no commitment to badge anything beyond that."
   },
   "rank": 0,
-  "rankNote": "Billions in neighbourhood funding are allocated using ad hoc, non-official indices, but the fix is a standard statistical product with no dated trigger, so it can progress opportunistically."
+  "rankNote": "Billions in neighbourhood funding are allocated on ad hoc, non-official indices, and the fix is a standard statistical product with no dated trigger, progressable opportunistically."
  },
  {
   "number": 6,
@@ -388,9 +388,9 @@
   "domain": "civic-society",
   "type": "funding",
   "horizon": "long",
-  "description": "London receives more than a third of large-foundation funding and four times the Gift Aid value of the UK average; total giving (~£14bn, 2025) is heavily skewed by geography. The government's first place-based philanthropy strategy, Our Place to Give (April 2026), is directionally right but backed by just £1m over three years for a community of practice. The 47 community foundations are the natural vehicle but most hold modest endowments; the last national endowment-match programme (Community First) ended in 2015. The Better Futures Fund (£500m) buys outcomes rather than building permanent local capital; Big Local's £1m-per-area endowment-like model ends in 2026.",
-  "why": "Civic renewal in left-behind places needs patient, locally-controlled money that survives political cycles: exactly what endowment provides and grant programmes do not. The current strategy asks philanthropy to rebalance geographically without any fiscal instrument to make it happen, so the London skew will persist.",
-  "fill": "A ten-year national endowment match challenge (£200–300m Treasury/dormant-assets match for donations to community foundation endowments in low-giving areas, echoing the successful 2011–15 Community First match), plus Gift Aid reform options and legacy-giving incentives tied to place; delivered through UK Community Foundations with published local giving data.",
+  "description": "London receives more than a third of large-foundation funding and four times the Gift Aid value of the UK average, and total giving of around £14bn in 2025 is heavily skewed by geography. The government's first place-based philanthropy strategy, Our Place to Give from April 2026, is directionally right and backed by £1m over three years for a community of practice. The 47 community foundations are the natural vehicle and most hold modest endowments. The last national endowment-match programme, Community First, ended in 2015, the £500m Better Futures Fund buys outcomes rather than building permanent local capital, and Big Local's £1m-per-area endowment-like model ends in 2026.",
+  "why": "Civic renewal in left-behind places needs patient, locally controlled money that survives political cycles, which is what endowment provides and grant programmes do not. The current strategy asks philanthropy to rebalance geographically without any fiscal instrument to make it happen, so the London skew persists.",
+  "fill": "A ten-year national endowment match challenge, £200-300m of Treasury or dormant-assets match for donations to community foundation endowments in low-giving areas, echoing the 2011-15 Community First match, plus Gift Aid reform options and legacy-giving incentives tied to place, delivered through UK Community Foundations with published local giving data.",
   "sources": [
    "https://www.gov.uk/government/publications/our-place-to-give-a-plan-for-growing-place-based-philanthropy/our-place-to-give-a-plan-for-growing-place-based-philanthropy",
    "https://www.civilsociety.co.uk/news/government-publishes-1m-roadmap-to-boost-place-based-philanthropy.html",
@@ -408,8 +408,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Treasury/dormant-assets match funding at spending review plus Gift Aid reform.",
-  "tagline": "London takes a third of big-foundation money. The rest of Britain gets a £1m strategy.",
-  "summary": "Charitable money pools in London, which takes more than a third of large-foundation funding. The government's new strategy to spread giving has just £1m behind it. A national endowment match for community foundations in low-giving areas worked once before; it could give left-behind places money that outlasts political cycles.",
+  "tagline": "Philanthropy pools in London; the rebalancing strategy holds £1m",
+  "summary": "Charitable money pools in London, which takes more than a third of large-foundation funding, and the government's new strategy to spread giving has £1m behind it. A national endowment match for community foundations in low-giving areas worked once before. It could give left-behind places money that outlasts political cycles.",
   "facets": [
    "funding-gaps"
   ],
@@ -424,7 +424,7 @@
   ],
   "curationNote": "both fills are the same Treasury/dormant-assets national match into place-based endowments plus Gift Aid reform.",
   "rank": 0,
-  "rankNote": "The London funding skew needs patient endowed capital, but the fix is a long-horizon match challenge with no dated trigger, so it can be pursued opportunistically."
+  "rankNote": "The London funding skew needs patient endowed capital, and the fix is a long-horizon match challenge with no dated trigger, pursued opportunistically."
  },
  {
   "number": 12,
@@ -433,9 +433,9 @@
   "domain": "civic-society",
   "type": "coordination",
   "horizon": "mid",
-  "description": "The UK organising field remains subscale and precariously financed. Citizens UK (19 chapters, 100+ staff) relies on member dues plus project grants and one large Lottery Solidarity Fund award (~£5m over nine years); ACORN's dues-funded model sustains branches in only ~10 cities; Community Organisers Ltd trains but cannot fund organisers' salaries. The state's Community Organisers Programme (500 trained, 2011–15) and its expansion ended without succession. Foundations fund organising through short project grants that conflict with the model's need for patient, independent core money; organising wins (living wage, housing campaigns) take 5–10 years. No UK equivalent exists of the US's dedicated organising philanthropy intermediaries.",
-  "why": "Organising is the proven method for rebuilding associational power among people institutions have stopped reaching: the exact populations where volunteering, membership and trust have fallen furthest. Fifty organisers cost less than one regeneration scheme, yet the field cannot plan beyond eighteen months anywhere outside its strongest chapters.",
-  "fill": "A pooled ten-year Community Organising Fund (foundations + dormant assets, deliberately not government-controlled to protect independence) paying core salaries for organisers in 50+ places, with a common training standard via the National Academy of Community Organising and published measures of membership and leadership development.",
+  "description": "The UK organising field remains subscale and precariously financed. Citizens UK, with 19 chapters and over 100 staff, relies on member dues plus project grants and one large Lottery Solidarity Fund award of about £5m over nine years. ACORN's dues-funded model sustains branches in around ten cities, and Community Organisers Ltd trains without being able to fund organisers' salaries. The state's Community Organisers Programme, which trained 500 between 2011 and 2015, ended without succession. Foundations fund organising through short project grants that conflict with the model's need for patient, independent core money, and organising wins, the living wage and housing campaigns among them, take five to ten years. No UK equivalent exists of the dedicated organising philanthropy intermediaries of the US.",
+  "why": "Organising is the proven method for rebuilding associational power among people institutions have stopped reaching, the populations where volunteering, membership and trust have fallen furthest. Fifty organisers cost less than one regeneration scheme, and the field cannot plan beyond eighteen months anywhere outside its strongest chapters.",
+  "fill": "A pooled ten-year community organising fund from foundations and dormant assets, deliberately kept out of government control to protect independence, paying core salaries for organisers in fifty or more places, with a common training standard through the National Academy of Community Organising and published measures of membership and leadership development.",
   "sources": [
    "https://www.citizensuk.org/about-us/",
    "https://www.corganisers.org.uk/about-us/history-of-our-organisation/",
@@ -452,8 +452,8 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: pooled ten-year funder commitment paying organiser salaries in a first cohort of places; NACO training standard exists.",
-  "tagline": "Organising wins can take ten years. The grants run out after eighteen months.",
-  "summary": "Community organising won the living wage and works best among people institutions no longer reach. Yet the field runs on short project grants that fight its patient, long-game method. A pooled ten-year fund, kept independent of government, could pay organisers' salaries across the country.",
+  "tagline": "Organising wins take ten years; grants run for eighteen months",
+  "summary": "Community organising won the living wage and works best among people institutions no longer reach. The field runs on short project grants that fight its patient, long-game method. A pooled ten-year fund, kept independent of government, could pay organisers' salaries across the country.",
   "facets": [
    "funding-gaps"
   ],
@@ -468,7 +468,7 @@
   ],
   "curationNote": "the same pooled core-funding vehicle for community organising; the 0.3%-of-grantmaking statistic is its headline evidence.",
   "rank": 0,
-  "rankNote": "Organising rebuilds associational power among the least-reached, yet the field cannot plan past eighteen months; a pooled fund is achievable but faces no acute deadline forcing action now."
+  "rankNote": "Organising rebuilds associational power among the least-reached and the field cannot plan past eighteen months; a pooled fund is achievable with no acute deadline."
  },
  {
   "number": 13,
@@ -1947,9 +1947,9 @@
   "domain": "growth-stagnation",
   "type": "funding",
   "horizon": "mid",
-  "description": "The US SBIR programme mandates that federal agencies with extramural R&D budgets over $100m allocate 3.2% to small-business innovation contracts. The UK's SBRI (now Innovate UK Contracts for Innovation) has no mandatory target and a budget pegged at roughly 1% of 2015–16 reference levels; two decades of evaluations (Cambridge Industrial Innovation Policy, David Connell's reviews) recommend a set-aside, and departments still face no requirement. ARIA covers frontier R&D push, not procurement pull.",
-  "why": "Procurement is the demand-side innovation lever the UK persistently leaves unpulled. SBIR seeded Qualcomm, iRobot and much of US defence-tech; a statutory UK equivalent would give deep-tech startups first customers at zero net new spend, complementing ARIA and record R&D budgets.",
-  "fill": "A legislated SBIR-style set-aside (2–3% of extramural departmental R&D/procurement budgets in defence, health, energy and transport) run as phased challenge contracts with published uptake statistics.",
+  "description": "The US SBIR programme mandates that federal agencies with extramural R&D budgets over $100m allocate 3.2 per cent to small-business innovation contracts. The UK's SBRI, now Innovate UK Contracts for Innovation, has no mandatory target and a budget pegged at roughly 1 per cent of 2015-16 reference levels. Two decades of evaluations, from Cambridge Industrial Innovation Policy and David Connell's reviews, recommend a set-aside, and departments still face no requirement. ARIA covers frontier research push rather than procurement pull.",
+  "why": "Procurement is the demand-side innovation lever the UK persistently leaves unpulled. SBIR seeded Qualcomm, iRobot and much of US defence technology. A statutory UK equivalent would give deep-tech startups first customers at zero net new spend, complementing ARIA and record R&D budgets.",
+  "fill": "A legislated SBIR-style set-aside of 2 to 3 per cent of extramural departmental R&D and procurement budgets in defence, health, energy and transport, run as phased challenge contracts with published uptake statistics.",
   "sources": [
    "https://www.ciip.group.cam.ac.uk/reports-and-articles/two-decades-of-the-small-business-research-initiative-sbri/",
    "https://assets.publishing.service.gov.uk/media/5a81da1de5274a2e8ab562c1/Leveraging_Public_Procurement_David_Connell_report.pdf"
@@ -1963,10 +1963,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: legislation mandating 2-3% SBIR-style set-aside of departmental extramural R&D budgets.",
-  "tagline": "America makes agencies buy from startups. It seeded Qualcomm. Britain's copy is starved.",
-  "summary": "The American scheme obliges federal agencies to spend a fixed slice of research budgets with small firms; it seeded Qualcomm and iRobot. Britain's version has no mandate and a budget withered to about 1% of its former level. A legislated set-aside would hand deep-tech startups their first customer at no net new cost.",
+  "tagline": "US agencies must buy from startups; the UK copy has no mandate",
+  "summary": "The American scheme obliges federal agencies to spend a fixed slice of research budgets with small firms, and it seeded Qualcomm and iRobot. Britain's version has no mandate and a budget withered to about 1 per cent of its former level. A legislated set-aside would hand deep-tech startups their first customer at no net new cost.",
   "rank": 0,
-  "rankNote": "A statutory SBIR-style set-aside is well-evidenced and near-costless, but SBRI already exists in weak form, stakes are moderate, and nothing dates the reform."
+  "rankNote": "A statutory set-aside is well-evidenced and near-costless, and SBRI already exists in weak form with moderate stakes and nothing dating the reform."
  },
  {
   "number": 58,
@@ -2855,9 +2855,9 @@
   "domain": "corruption-integrity",
   "type": "policy",
   "horizon": "mid",
-  "description": "ACOBA closed on 13 October 2025; oversight of ex-ministers' jobs moved to the Independent Adviser on Ministerial Standards and of civil servants to the Civil Service Commission. New deterrents (loss or clawback of ministerial severance) apply only to ministers. For former civil servants and special advisers, the Business Appointment Rules remain unenforceable in law: breaches carry reputational risk only, rules lapse after two years, and officials below senior grades are patchily covered by departmental processes with no central publication. The reorganisation redistributed a toothless function rather than giving it teeth.",
-  "why": "The revolving door between government and the industries it regulates or buys from is a standing corruption risk, from defence procurement to consulting. Fifty years of voluntary compliance since 1975 has produced repeated scandals and no sanctions; splitting the function across bodies does not change the incentive structure.",
-  "fill": "A statutory business-appointments regime: enforceable terms in civil service and SpAd contracts (injunctions and clawback for breaches), coverage extended to influence-relevant grades, and a single searchable public register of all applications, advice and outcomes across the successor bodies.",
+  "description": "ACOBA closed on 13 October 2025, with oversight of ex-ministers' jobs moving to the Independent Adviser on Ministerial Standards and of civil servants to the Civil Service Commission. The new deterrents, loss or clawback of ministerial severance, apply only to ministers. For former civil servants and special advisers the Business Appointment Rules remain unenforceable in law: breaches carry reputational risk only, the rules lapse after two years, and officials below senior grades are patchily covered by departmental processes with no central publication. The reorganisation redistributed a toothless function.",
+  "why": "The revolving door between government and the industries it regulates or buys from is a standing corruption risk, from defence procurement to consulting. Fifty years of voluntary compliance since 1975 has produced repeated scandals and no sanctions, and splitting the function across bodies does not change the incentive structure.",
+  "fill": "A statutory business-appointments regime: enforceable terms in civil service and adviser contracts, with injunctions and clawback for breaches, coverage extended to influence-relevant grades, and a single searchable public register of all applications, advice and outcomes across the successor bodies.",
   "sources": [
    "https://www.gov.uk/government/news/closure-of-the-independent-advisory-committee-on-business-appointments-acoba",
    "https://commonslibrary.parliament.uk/research-briefings/sn03745/",
@@ -2873,10 +2873,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: statutory business-appointments regime with enforceable contract terms, injunctions and clawback.",
-  "tagline": "For most officials, breaking the revolving-door rules risks nothing but embarrassment.",
-  "summary": "Rules on officials taking jobs with the industries they regulated have carried no legal penalty for fifty years, and last October's reorganisation merely shuffled the toothless function between bodies. Enforceable contract terms with clawback for breaches, plus a single public register, would finally change the incentive.",
+  "tagline": "Revolving-door rules; fifty years without a legal sanction",
+  "summary": "Rules on officials taking jobs with the industries they regulated have carried no legal penalty for fifty years, and last October's reorganisation shuffled the toothless function between bodies. Enforceable contract terms with clawback for breaches, plus a single public register, would change the incentive.",
   "rank": 0,
-  "rankNote": "Post-ACOBA the revolving-door function was split across bodies but stayed unenforceable in law; the fix needs primary legislation with no dated trigger, so stakes are real but pressure diffuse."
+  "rankNote": "The revolving-door function was split across bodies and stayed unenforceable in law; the fix needs primary legislation with real stakes and diffuse pressure."
  },
  {
   "number": 87,
@@ -3657,9 +3657,9 @@
   "domain": "portable-sovereignty",
   "type": "policy",
   "horizon": "mid",
-  "description": "The Data (Use and Access) Act 2025's smart data provisions came into force in August 2025, but no scheme beyond open banking has been designated. Mydex CIC runs personal data stores under Scottish Government contracts; Solid/Inrupt has stalled internationally; the ODI researches data institutions. What is missing is the secondary legislation designating the first non-finance smart data scheme plus an interoperability standard letting certified PDS providers receive and share citizens' data with public services, without which the storage-and-memory layer cannot leave pilot purgatory.",
-  "why": "Portability rights without operating schemes are dead letters. One working scheme routed through user-held stores would flip the default from institutional data hoarding to citizen custody, and create a market for UK PDS providers that fifteen years of pilots have failed to create.",
-  "fill": "DSIT designating a first non-finance smart data scheme (e.g. energy or social-care records) implemented via certified personal data stores, with an open interoperability standard co-developed by ODI, Mydex-type providers and the ICO.",
+  "description": "The Data (Use and Access) Act 2025's smart data provisions came into force in August 2025, and no scheme beyond open banking has been designated. Mydex CIC runs personal data stores under Scottish Government contracts, Solid and Inrupt have stalled internationally, and the ODI researches data institutions. The missing piece is the secondary legislation designating the first non-finance smart data scheme, plus an interoperability standard letting certified personal data store providers receive and share citizens' data with public services. Without it, the storage layer cannot leave pilot purgatory.",
+  "why": "Portability rights without operating schemes stay unused. One working scheme routed through user-held stores would flip the default from institutional data hoarding to citizen custody, and it would create the market for UK providers that fifteen years of pilots have failed to create.",
+  "fill": "DSIT designating a first non-finance smart data scheme, energy or social-care records being the candidates, implemented through certified personal data stores, with an open interoperability standard co-developed by the ODI, Mydex-type providers and the ICO.",
   "sources": [
    "https://www.kennedyslaw.com/en/thought-leadership/article/2026/the-data-use-and-access-act-2025-commencement-dates-and-planned-guidance-for-2026/",
    "https://mydex.org/",
@@ -3676,8 +3676,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: DSIT smart-data scheme designation via secondary legislation under the DUAA powers.",
-  "tagline": "New data powers became law in 2025. Beyond banking, nobody has switched them on.",
-  "summary": "New smart-data powers could route your energy, care or telecoms records into a store you control, but ministers have designated no scheme beyond open banking. Fifteen years of personal data store pilots have worked and then stalled. One designated scheme with an open standard would finally flip the default from hoarding to citizen custody.",
+  "tagline": "Smart-data powers live since 2025; no scheme designated beyond banking",
+  "summary": "New smart-data powers could route your energy, care or telecoms records into a store you control, and ministers have designated no scheme beyond open banking. Fifteen years of personal data store pilots have worked and then stalled. One designated scheme with an open standard would flip the default from hoarding to citizen custody.",
   "alsoDomains": [
    "privacy"
   ],
@@ -3692,7 +3692,7 @@
   ],
   "curationNote": "one legislative package: smart-data scheme designation plus certification and rights-agency authorisation for intermediaries.",
   "rank": 0,
-  "rankNote": "The legal power now exists but scheme designation stays politically stuck after fifteen years of pilots, DSIT and researchers are partly active, and nothing forces movement soon."
+  "rankNote": "The legal power now exists and scheme designation stays politically stuck after fifteen years of pilots, with nothing forcing movement soon."
  },
  {
   "number": 112,
@@ -4709,9 +4709,9 @@
   "domain": "civic-society",
   "type": "policy",
   "horizon": "mid",
-  "description": "US private foundations must distribute roughly 5% of assets annually and file machine-readable returns; the UK has no minimum payout and no requirement to report payout ratios. ACF's Foundations in Focus 2025 shows record giving (£8.24bn) and some foundations spending 'above sustainable levels', but sector-wide payout behaviour is unknowable from unstructured accounts. ACF itself argues a mandatory floor could act as a ceiling: a live, unresolved, evidence-poor debate.",
-  "why": "Tens of billions sit in charitable endowments with no visibility into whether they are deployed or accumulated. Even a 0.5-point rise in average payout across the largest 300 foundations would release hundreds of millions annually for chronically unfunded fields.",
-  "fill": "A Charity Commission annual-return requirement for large grantmakers to report payout ratio; a sector-led voluntary 4-5% distribution commitment (ACF-convened); and an HMT/DCMS review of accumulation rules to settle the floor-vs-ceiling question with actual data.",
+  "description": "US private foundations must distribute roughly 5 per cent of assets annually and file machine-readable returns. The UK has no minimum payout and no requirement to report payout ratios. ACF's Foundations in Focus 2025 shows record giving of £8.24bn, with some foundations spending above sustainable levels, and sector-wide payout behaviour is unknowable from unstructured accounts. ACF itself argues a mandatory floor could act as a ceiling, a live, unresolved and evidence-poor debate.",
+  "why": "Tens of billions sit in charitable endowments with no visibility into whether they are deployed or accumulated. Even a half-point rise in average payout across the largest 300 foundations would release hundreds of millions a year for chronically unfunded fields.",
+  "fill": "A Charity Commission annual-return requirement for large grantmakers to report payout ratio, a sector-led voluntary distribution commitment convened by ACF, and a Treasury and DCMS review of accumulation rules to settle the floor-versus-ceiling question with actual data.",
   "sources": [
    "https://acf.org.uk/common/Uploaded%20files/Research%20and%20resources/Research/Foundations%20in%20Focus%202025.pdf",
    "https://acf.org.uk/acf/acf/Blog/2023/The-power-of-foundation-endowments.aspx"
@@ -4725,7 +4725,7 @@
   "permission": "build-together",
   "dataReady": true,
   "permissionNote": "Counterparty: ACF convening large grantmakers into a voluntary 4-5% payout commitment; the statutory floor is the state-led end-state.",
-  "tagline": "US foundations must pay out 5% a year. British ones needn't even disclose theirs.",
+  "tagline": "US foundations must pay out 5% a year; UK payout undisclosed",
   "summary": "Tens of billions of pounds sit in charitable endowments, and nobody can tell whether they are being spent or stockpiled: the UK requires no minimum payout and no reporting of payout rates. Even a small rise in average payout across the largest foundations could free hundreds of millions a year. An annual-return rule would start the argument with facts.",
   "dialogue": {
    "counterparty": "funders-and-foundations",
@@ -4744,7 +4744,7 @@
    }
   ],
   "rank": 0,
-  "rankNote": "Tens of billions sit in endowments with no payout visibility, but the reform is contested, evidence-poor and politically resisted, with no dated trigger, so it stays a slow opportunistic fight."
+  "rankNote": "Tens of billions sit in endowments with no payout visibility, and the reform is contested, evidence-poor and undated, a slow opportunistic fight."
  },
  {
   "number": 148,
@@ -4844,9 +4844,9 @@
   "domain": "civic-society",
   "type": "knowledge",
   "horizon": "mid",
-  "description": "London hosts world-class effective-giving infrastructure (Founders Pledge, Longview Philanthropy, Giving What We Can, an Open Philanthropy presence), but it channels UK tech wealth almost entirely to global health and catastrophic-risk causes. No organisation publishes rigorous, public cost-effectiveness rankings for UK domestic charities and civic interventions; NPC offers bespoke consultancy, and small efforts (e.g. SoGive) lack scale. Donors seeking evidence-ranked domestic options have nowhere authoritative to look.",
-  "why": "CAF shows wealthy Britons cite lack of confidence in impact as a barrier to giving. A trusted domestic evaluator would both raise giving volumes and steer them toward the systematically unfunded categories this map documents, at a cost trivial relative to funds influenced.",
-  "fill": "An independent UK-domestic evaluator (£2-3m/yr) publishing open cost-effectiveness assessments of UK charities and civic interventions, paired with a pooled 'UK effective giving fund': a natural first grant for Founders Pledge members or the Office for the Impact Economy to catalyse.",
+  "description": "London hosts world-class effective-giving infrastructure, Founders Pledge, Longview Philanthropy, Giving What We Can and an Open Philanthropy presence, and it channels UK tech wealth almost entirely to global health and catastrophic-risk causes. No organisation publishes rigorous, public cost-effectiveness rankings for UK domestic charities and civic interventions. NPC offers bespoke consultancy, small efforts like SoGive lack scale, and donors seeking evidence-ranked domestic options have nowhere authoritative to look.",
+  "why": "CAF shows wealthy Britons cite lack of confidence in impact as a barrier to giving. A trusted domestic evaluator would raise giving volumes and steer them towards the systematically unfunded categories this map documents, at a cost trivial relative to the funds influenced.",
+  "fill": "An independent UK-domestic evaluator at £2-3m a year publishing open cost-effectiveness assessments of UK charities and civic interventions, paired with a pooled UK effective giving fund: a natural first grant for Founders Pledge members or the Office for the Impact Economy to catalyse.",
   "sources": [
    "https://www.founderspledge.com/who-we-are",
    "https://www.longview.org/about/",
@@ -4861,11 +4861,11 @@
   "permission": "build-now",
   "dataReady": true,
   "permissionNote": "First artefact: open cost-effectiveness rankings of UK domestic charities from public accounts and evaluations, plus a pooled effective-giving fund.",
-  "tagline": "London hosts world-class charity evaluators. They point donors abroad, almost never here.",
+  "tagline": "Charity evaluation; world-class in London, aimed abroad",
   "summary": "No organisation publishes rigorous, public rankings of which UK charities and civic projects deliver the most per pound. Wealthy donors name doubt about impact as a reason they hold back. A domestic evaluator would cost £2-3m a year to run, trivial next to the giving it could redirect.",
   "facet": "funding-gaps",
   "rank": 0,
-  "rankNote": "A trusted domestic evaluator would raise giving and steer it to unfunded fields cheaply, but no dated trigger creates urgency, so it can be built opportunistically."
+  "rankNote": "A trusted domestic evaluator would raise giving and steer it to unfunded fields cheaply, and no dated trigger creates urgency, so it can be built opportunistically."
  },
  {
   "number": 153,
@@ -4903,8 +4903,8 @@
   "domain": "civic-society",
   "type": "knowledge",
   "horizon": "short",
-  "description": "US foundations' Form 990-PF makes all grants machine-readable by law. In the UK, publication to the 360Giving standard is voluntary: around 300 funders publish (covering £300bn of historic grants), out of thousands of active grantmakers, and ACF's research must scrape unstructured accounts of only the largest 300. Basic questions (who funds democracy work, what share of grants reaches deprived areas, which fields are systematically unfunded) cannot be answered authoritatively.",
-  "why": "You cannot fix misallocation you cannot see. Every other gap on this map is harder to prove, and every funder collaboration harder to broker, because the UK lacks comprehensive structured data on where philanthropic money actually goes.",
+  "description": "US foundations' Form 990-PF makes all grants machine-readable by law. In the UK, publication to the 360Giving standard is voluntary: around 300 funders publish, covering £300bn of historic grants, out of thousands of active grantmakers, and ACF's research must scrape the unstructured accounts of only the largest 300. Basic questions, who funds democracy work, what share of grants reaches deprived areas, which fields are systematically unfunded, cannot be answered authoritatively.",
+  "why": "Misallocation nobody can see goes unfixed. Every other gap on this map is harder to prove, and every funder collaboration harder to broker, because the UK lacks comprehensive structured data on where philanthropic money actually goes.",
   "fill": "A Charity Commission annual-return requirement for grantmakers above a spending threshold to file grants data in 360Giving-compatible structured format, plus long-term core funding for 360Giving itself as national data infrastructure rather than a perpetual grantee.",
   "sources": [
    "https://www.360giving.org/2025/03/31/300-billion-worth-of-grants-data/",
@@ -4919,8 +4919,8 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: Charity Commission annual-return mandate for structured grants data; voluntary 360Giving publication already exists and is the named-insufficient prototype.",
-  "tagline": "Who funds what in British philanthropy? Mostly, nobody can say.",
-  "summary": "American foundations must file every grant in machine-readable form, while British funders publish voluntarily; only around 300 of them do. That blind spot makes every other gap on this map harder to prove and every funder collaboration harder to broker. A reporting rule in the charity annual return would finally show where the money goes.",
+  "tagline": "UK grantmaking data; voluntary, and mostly missing",
+  "summary": "American foundations must file every grant in machine-readable form, while British funders publish voluntarily, and only around 300 do. That blind spot makes every other gap on this map harder to prove and every funder collaboration harder to broker. A reporting rule in the charity annual return would show where the money goes.",
   "facet": "funding-gaps",
   "seeAlso": [
    {
@@ -4931,7 +4931,7 @@
    }
   ],
   "rank": 0,
-  "rankNote": "Comprehensive structured grants data would expose misallocation underpinning every other gap, and the 360Giving standard is off-the-shelf needing only a mandate, though nothing dates the decision."
+  "rankNote": "Comprehensive structured grants data would expose the misallocation underpinning every other gap, and the 360Giving standard is off the shelf needing only a mandate."
  },
  {
   "number": 157,
@@ -5307,9 +5307,9 @@
   "domain": "health-social-care",
   "type": "policy",
   "horizon": "mid",
-  "description": "The December 2025 government response confirmed quality and payment reforms implemented from April and June 2026 (urgent-care sessions paid at £60 per course of treatment, child fluoride varnish, complex-care pathways, a £3,400 quality-improvement payment), all layered onto the Unit of Dental Activity model. The BDA confirms the UDA survives. No white paper, legislation or dated programme exists for wholesale contract replacement or patient registration.",
-  "why": "The UDA model is the acknowledged driver of dentists leaving NHS work and of access deserts; select committees have condemned it since 2008. Incremental patches risk relieving just enough pressure to defer fundamental reform indefinitely.",
-  "fill": "A formal dental contract reform programme with a dated milestone in this Parliament: piloted weighted-capitation-plus-registration contract, legislated successor to the 2006 framework, and an accompanying dental workforce plan. DHSC owns it; the BDA and ICBs (now dental commissioners) are the necessary partners.",
+  "description": "The December 2025 government response confirmed quality and payment reforms implemented from April and June 2026: urgent-care sessions paid at £60 per course of treatment, child fluoride varnish, complex-care pathways and a £3,400 quality-improvement payment, all layered onto the Unit of Dental Activity model. The BDA confirms the UDA survives. No white paper, legislation or dated programme exists for wholesale contract replacement or patient registration.",
+  "why": "The activity-unit model is the acknowledged driver of dentists leaving NHS work and of access deserts, condemned by select committees since 2008. Incremental patches risk relieving just enough pressure to defer fundamental reform indefinitely.",
+  "fill": "A formal dental contract reform programme with a dated milestone in this Parliament: a piloted weighted-capitation-plus-registration contract, a legislated successor to the 2006 framework, and an accompanying dental workforce plan. DHSC owns it, with the BDA and the integrated care boards as necessary partners.",
   "sources": [
    "https://www.gov.uk/government/consultations/nhs-dentistry-contract-quality-and-payment-reforms/outcome/government-response-to-consultation-on-nhs-dentistry-contract-quality-and-payment-reforms",
    "https://www.bda.org/representation/priorities/fair-pay-and-contracts/uda-contract-changes-information-and-advice/uda-contract-changes-explained/",
@@ -5324,10 +5324,10 @@
   "permission": "state-led",
   "dataReady": false,
   "permissionNote": "Instrument: legislated successor to the 2006 UDA contract with dated milestones; a DHSC-owned reform programme.",
-  "tagline": "NHS dentistry runs on a contract that drives dentists out. The new reforms just patch it.",
-  "summary": "The dental contract blamed for access deserts and dentists quitting NHS work dates from 2006, and this year's reforms modify it rather than replace it. Select committees have condemned the model since 2008. What's missing is a dated programme for a successor: piloted, legislated and paired with a workforce plan.",
+  "tagline": "The 2006 dental contract; patched again, replaced never",
+  "summary": "The dental contract blamed for access deserts and dentists quitting NHS work dates from 2006, and this year's reforms modify it rather than replace it. Select committees have condemned the model since 2008. What is missing is a dated programme for a successor: piloted, legislated and paired with a workforce plan.",
   "rank": 0,
-  "rankNote": "The discredited fee model drives dentists from the NHS, yet government is layering incremental patches with no dated wholesale-reform milestone, and replacement remains hard and repeatedly deferred."
+  "rankNote": "The discredited fee model drives dentists from the NHS, and government layers incremental patches with no dated wholesale-reform milestone."
  },
  {
   "number": 174,
@@ -6848,9 +6848,9 @@
   "domain": "justice-access",
   "type": "tooling",
   "horizon": "mid",
-  "description": "The Court of Protection makes life-controlling decisions (property, medical treatment, liberty) for ~200,000+ people under deputyship, largely in private; the DoLS backlog holds ~124,000 people awaiting authorisation of their confinement; and the OPG's supervision of deputies relies on annual self-reports. Records of who decided what, when, on what evidence are fragmented, non-standardised and effectively unauditable by families: the conditions in which abuse persists (the book's conservatorship analysis: transparent immutable decision-records deter abuse by making conservators' actions discoverable). Transparency pilots opened hearings to reporters but left the records layer untouched.",
-  "why": "People under guardianship are the least able to contest bad decisions; their protection depends entirely on records others keep. Tamper-evident decision-trails, auditable by families and inspectors without publishing private details, would deter the abuses the current opacity invites, in a system already years past its legal capacity.",
-  "fill": "An auditable decision-records standard for deputyship and DoLS/LPS cases: standardised, tamper-evident logs of decisions, evidence and authorisations, family-accessible with privacy-preserving disclosure (prove a decision was authorised without exposing the file), piloted with one region's OPG caseload alongside the post-Supreme-Court LPS redesign.",
+  "description": "The Court of Protection makes life-controlling decisions on property, medical treatment and liberty for more than 200,000 people under deputyship, largely in private. The deprivation-of-liberty backlog holds around 124,000 people awaiting authorisation of their confinement, and the OPG's supervision of deputies relies on annual self-reports. Records of who decided what, when, on what evidence are fragmented, non-standardised and effectively unauditable by families, the conditions in which abuse persists; transparent, tamper-evident decision records deter abuse by making a deputy's actions discoverable. Transparency pilots opened hearings to reporters and left the records layer untouched.",
+  "why": "People under guardianship are the least able to contest bad decisions, and their protection depends entirely on records others keep. Tamper-evident decision trails, auditable by families and inspectors without publishing private details, would deter the abuses the current opacity invites, in a system already years past its legal capacity.",
+  "fill": "An auditable decision-records standard for deputyship and deprivation-of-liberty cases: standardised, tamper-evident logs of decisions, evidence and authorisations, family-accessible with privacy-preserving disclosure that can prove a decision was authorised without exposing the file, piloted with one region's OPG caseload alongside the post-Supreme-Court redesign.",
   "sources": [
    "https://www.scie.org.uk/news/detail/mental-capacity-act-reform-stalled-urgent-action-needed-as-system-unravels/",
    "https://www.mentalcapacitylawandpolicy.org.uk/deprivation-of-liberty-update-the-supreme-court-dhsc-and-cqc/"
@@ -6865,7 +6865,7 @@
   "permission": "build-together",
   "dataReady": false,
   "permissionNote": "Counterparty: Office of the Public Guardian (one region's caseload) alongside the LPS redesign; records are privileged, not public.",
-  "tagline": "Courts control the lives of 200,000 people. Families can't audit a single decision.",
+  "tagline": "200,000 lives under court decisions; records unauditable",
   "summary": "More than 200,000 people live under court-appointed deputies, their biggest decisions recorded in fragmented files families cannot check. Another 124,000 wait for their confinement even to be authorised. Tamper-evident decision logs, auditable without exposing private details, would deter the abuse that opacity invites.",
   "dialogue": {
    "counterparty": "government-bodies",
@@ -6875,7 +6875,7 @@
    "firstStep": "A six-month pilot in one region: new deputyship decisions logged in the tamper-evident format alongside existing records, access limited to your staff and consenting families, jointly evaluated before any wider use."
   },
   "rank": 0,
-  "rankNote": "life-controlling decisions for a vast, least-able-to-contest population rest on unauditable records inviting abuse, but the fix is a novel build with no dated trigger forcing it."
+  "rankNote": "Life-controlling decisions for a population least able to contest them rest on unauditable records, and the fix is a novel build with no dated trigger."
  },
  {
   "number": 223,
