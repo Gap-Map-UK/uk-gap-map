@@ -1,0 +1,73 @@
+{
+ "note": "Per-claim evidence layer, v1 (September 2026). Each factual claim in a gap's dossier is listed with its sources, a status and a last-verified date. Statuses: verified (checked against the cited source), reported (attributed to a named organisation's publication), estimate (a modelled or approximate figure, labelled as such), source-to-confirm (stated in the dossier with primary attribution pending, queued for the next review pass). The prose dossier stays the reading layer; this is the audit layer. Coverage grows tier by tier, build-now entries first. Method kin: Discourse Graphs.",
+ "gaps": [
+  {
+   "number": 82,
+   "claims": [
+    {
+     "id": "82.1",
+     "claim": "The Public Authorities (Fraud, Error and Recovery) Act 2025 lets DWP require banks to scan benefit claimants' accounts through Eligibility Verification Notices.",
+     "sources": ["https://www.gov.uk/government/publications/public-authorities-fraud-error-and-recovery-bill-2025-factsheets/dwps-eligibility-verification-powers-in-the-public-authorities-fraud-error-and-recovery-bill-factsheet"],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "82.2",
+     "claim": "Rollout begins in 2026 on a test-and-learn basis.",
+     "sources": ["https://www.gov.uk/government/publications/public-authorities-fraud-error-and-recovery-bill-2025-factsheets/dwps-eligibility-verification-powers-in-the-public-authorities-fraud-error-and-recovery-bill-factsheet"],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "82.3",
+     "claim": "The codes of practice governing the powers were finalised in May 2026.",
+     "sources": ["https://www.gov.uk/government/consultations/public-authorities-fraud-error-and-recovery-act-dwp-codes-of-practice-verifying-eligibility-in-the-welfare-system-obtaining-information-and-recovering/outcome/government-response-to-the-public-authorities-fraud-error-and-recovery-act-dwp-codes-of-practice-consultation"],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "82.4",
+     "claim": "The Information Commissioner raised concerns about the eligibility verification measure during the Bill's passage.",
+     "sources": ["https://ico.org.uk/about-the-ico/what-we-do/ico-policy-views/eligibility-verification-measure-in-the-public-authorities-bill-information-commissioners-response/"],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "82.5",
+     "claim": "Neither the Act's review mechanisms nor the codes of practice require independent publication of error and false-positive rates.",
+     "sources": [
+      "https://www.gov.uk/government/consultations/public-authorities-fraud-error-and-recovery-act-dwp-codes-of-practice-verifying-eligibility-in-the-welfare-system-obtaining-information-and-recovering/outcome/government-response-to-the-public-authorities-fraud-error-and-recovery-act-dwp-codes-of-practice-consultation",
+      "https://www.gov.uk/government/publications/public-authorities-fraud-error-and-recovery-bill-2025-factsheets/dwps-eligibility-verification-powers-in-the-public-authorities-fraud-error-and-recovery-bill-factsheet"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "An absence claim: verified by reading the cited documents for such a requirement and finding none."
+    },
+    {
+     "id": "82.6",
+     "claim": "Roughly ten million accounts fall within the scope of the screening.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "A widely cited civil-society estimate of accounts in scope. Primary attribution is pending and queued for the October 2026 review pass."
+    },
+    {
+     "id": "82.7",
+     "claim": "DWP has documented bias problems in its fraud models.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "Refers to DWP's own machine-learning fairness disclosures as reported at the time. The primary disclosure document needs citing directly; queued for the October 2026 review pass."
+    },
+    {
+     "id": "82.8",
+     "claim": "No independent body or civil-society observatory monitors notice volumes or outcomes, and JUSTICE's published analysis covered the Bill rather than the rollout.",
+     "sources": ["https://www.justice.org.uk/briefings/public-authorities-fraud-error-and-recovery-bill-2025"],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "An absence claim, checked by search during the July 2026 research pass; the JUSTICE briefing is cited as the sector's closest published work."
+    }
+   ]
+  }
+ ]
+}

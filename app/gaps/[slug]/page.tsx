@@ -6,6 +6,7 @@ import StatusPipeline from "@/components/StatusPipeline";
 import ThreadPanel from "@/components/ThreadPanel";
 import { refOf } from "@/lib/attempts";
 import { gaps, gapBySlug, domainBySlug, permissionLabel } from "@/lib/data";
+import { claimsFor, STATUS_LABEL } from "@/lib/evidence";
 import { outcomesForGap } from "@/lib/outcomes";
 
 export function generateStaticParams() {
@@ -123,6 +124,42 @@ export default async function GapPage({ params }: { params: Promise<{ slug: stri
                 </span>
               ))}
             </div>
+          )}
+          {claimsFor(gap.number).length > 0 && (
+            <details className="evidence-fold">
+              <summary>
+                claims &amp; evidence · {claimsFor(gap.number).length}
+              </summary>
+              <p className="ev-intro">
+                // each factual claim in this entry, its source, and when it was last checked. Unresolved
+                attributions are flagged rather than hidden. Challenge any of them on the thread below.
+              </p>
+              <ul className="ev-list">
+                {claimsFor(gap.number).map((c) => (
+                  <li key={c.id} id={`claim-${c.id}`}>
+                    <div className="ev-head">
+                      <span className="ev-id">{c.id}</span>
+                      <span className={`ev-status ${c.status}`}>{STATUS_LABEL[c.status]}</span>
+                      <span className="ev-date">checked {c.lastVerified}</span>
+                    </div>
+                    <div className="ev-claim">{c.claim}</div>
+                    {c.sources.length > 0 && (
+                      <div className="ev-sources">
+                        {c.sources.map((s, i) => (
+                          <span key={s}>
+                            {i > 0 && " · "}
+                            <a href={s} rel="noopener noreferrer" target="_blank">
+                              {host(s)}
+                            </a>
+                          </span>
+                        ))}
+                      </div>
+                    )}
+                    {c.note && <div className="ev-note">{c.note}</div>}
+                  </li>
+                ))}
+              </ul>
+            </details>
           )}
         </div>
         <AttemptsRail slug={gap.slug} />

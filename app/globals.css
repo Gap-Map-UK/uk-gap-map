@@ -561,3 +561,25 @@ a.chip:hover { color: var(--ink); border-color: var(--faint); }
 .o-method a { color: var(--muted); }
 .outcome-line { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; }
 .outcome-line .lbl { font-size: 11px; color: var(--faint); }
+
+/* ————— Claims & evidence fold ————— */
+.evidence-fold { margin-top: 22px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel-deep); }
+.evidence-fold summary { cursor: pointer; padding: 10px 14px; font: 500 12px var(--font-mono), monospace; color: var(--muted); list-style: none; }
+.evidence-fold summary::before { content: "▸ "; color: var(--green); }
+.evidence-fold[open] summary::before { content: "▾ "; }
+.evidence-fold summary::-webkit-details-marker { display: none; }
+.ev-intro { margin: 0; padding: 0 14px 10px; font: 400 11.5px var(--font-mono), monospace; color: var(--faint); line-height: 1.6; }
+.ev-list { list-style: none; margin: 0; padding: 0 14px 12px; }
+.ev-list li { padding: 10px 0; border-top: 1px solid var(--line-thread); }
+.ev-head { display: flex; gap: 10px; align-items: baseline; margin-bottom: 4px; }
+.ev-id { font: 500 11px var(--font-mono), monospace; color: var(--faint); }
+.ev-status { font: 500 10.5px var(--font-mono), monospace; padding: 1px 7px; border-radius: 3px; }
+.ev-status.verified { color: var(--green); background: var(--tint-green); border: 1px solid var(--line-green); }
+.ev-status.reported { color: var(--muted); background: var(--panel); border: 1px solid var(--line-inner); }
+.ev-status.estimate { color: var(--amber); background: var(--tint-amber); border: 1px solid var(--line-amber); }
+.ev-status.source-to-confirm { color: var(--amber); background: transparent; border: 1px dashed var(--line-amber); }
+.ev-date { font: 400 10.5px var(--font-mono), monospace; color: var(--faint); margin-left: auto; }
+.ev-claim { font-size: 13.5px; color: var(--body-ink); line-height: 1.55; }
+.ev-sources { margin-top: 4px; font: 400 11px var(--font-mono), monospace; }
+.ev-sources a { color: var(--muted); }
+.ev-note { margin-top: 4px; font-size: 12px; color: var(--faint); line-height: 1.5; }
