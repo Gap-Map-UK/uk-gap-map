@@ -2,33 +2,621 @@
  "note": "Per-claim evidence layer, v1 (September 2026). Each factual claim in a gap's dossier is listed with its sources, a status and a last-verified date. Statuses: verified (checked against the cited source), reported (attributed to a named organisation's publication), estimate (a modelled or approximate figure, labelled as such), source-to-confirm (stated in the dossier with primary attribution pending, queued for the next review pass). The prose dossier stays the reading layer; this is the audit layer. Coverage grows tier by tier, build-now entries first. Method kin: Discourse Graphs.",
  "gaps": [
   {
+   "number": 6,
+   "claims": [
+    {
+     "id": "6.1",
+     "claim": "From April 2026, around 379 Pride in Place neighbourhood boards begin spending up to £20m each.",
+     "sources": [
+      "https://www.gov.uk/government/publications/pride-in-place-programme-prospectus/pride-in-place-programme-prospectus"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "6.2",
+     "claim": "The 2026 Act obliges councils to establish neighbourhood governance arrangements.",
+     "sources": [
+      "https://www.gov.uk/government/publications/pride-in-place-programme-prospectus/pride-in-place-programme-prospectus"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "6.3",
+     "claim": "Local Trust winds down in 2026; its Community Leadership Academy supported leaders across 150 Big Local areas and helped mobilise more than 6,000 first-time volunteers.",
+     "sources": [
+      "https://localtrust.org.uk/big-local-programme-closing-faqs/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "6.4",
+     "claim": "The government's community organiser training programmes ended years ago.",
+     "sources": [
+      "https://www.corganisers.org.uk/about-us/history-of-our-organisation/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "6.5",
+     "claim": "JRF has flagged capacity as the Pride in Place programme's key risk.",
+     "sources": [
+      "https://www.jrf.org.uk/neighbourhoods-and-communities/pride-in-place-funding-gaps-and-capacity-challenges"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "6.6",
+     "claim": "No body is charged with training, peer networks or governance support for the incoming resident decision-makers.",
+     "sources": [
+      "https://www.jrf.org.uk/neighbourhoods-and-communities/pride-in-place-funding-gaps-and-capacity-challenges"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "An absence claim, checked by search during the July 2026 research pass."
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "claims": [
+    {
+     "id": "8.1",
+     "claim": "mySociety runs TheyWorkForYou, WhatDoTheyKnow and FixMyStreet, cross-subsidised through consultancy and short grants.",
+     "sources": [
+      "https://www.mysociety.org/impact-report-2025/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "8.2",
+     "claim": "Democracy Club crowd-sources candidate and results data the state does not publish, and the Electoral Commission is absorbing only the polling-station finder.",
+     "sources": [
+      "https://democracyclub.org.uk/blog/2025/04/09/a-new-home-for-the-polling-station-finder/",
+      "https://www.electoralcommission.org.uk/about-us/our-plans-priorities-and-spending/corporate-plan-2025/6-2029/30/electoral-commission"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "8.3",
+     "claim": "mySociety's Shifting Landscapes report of January 2026 concludes there is no systematic support for public-interest technology in the UK.",
+     "sources": [
+      "https://www.mysociety.org/2026/01/29/new-report-shifting-landscapes/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "8.4",
+     "claim": "Careful Industries reaches the same conclusion about the absence of systematic support.",
+     "sources": [
+      "https://www.careful.industries/blog/2025-12-could-2026-be-the-year-of-public-interest-technology"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "8.5",
+     "claim": "Germany's Sovereign Tech Fund pays for maintenance of critical open infrastructure.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The fund's own publications are cited on gap 13; the cross-reference should be added here directly. Queued for the October 2026 review pass."
+    },
+    {
+     "id": "8.6",
+     "claim": "Grant funders prefer novelty over maintenance, leaving load-bearing civic services one funding cycle from shutdown.",
+     "sources": [
+      "https://www.mysociety.org/2026/01/29/new-report-shifting-landscapes/",
+      "https://www.careful.industries/blog/2025-12-could-2026-be-the-year-of-public-interest-technology"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "claims": [
+    {
+     "id": "12.1",
+     "claim": "Citizens UK has 19 chapters and over 100 staff, funded by member dues, project grants and a Lottery Solidarity Fund award of about £5m over nine years.",
+     "sources": [
+      "https://www.citizensuk.org/about-us/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "12.2",
+     "claim": "ACORN's dues-funded model sustains branches in around ten cities.",
+     "sources": [
+      "https://www.corganisers.org.uk/organising-organisations/acorn/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "12.3",
+     "claim": "The state's Community Organisers Programme trained 500 organisers between 2011 and 2015 and ended without succession.",
+     "sources": [
+      "https://www.corganisers.org.uk/about-us/history-of-our-organisation/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "12.4",
+     "claim": "Foundations fund organising mainly through short project grants that conflict with the model's need for patient core money.",
+     "sources": [
+      "https://www.civicpower.org.uk/our-strategy",
+      "https://www.funderscollaborativehub.org.uk/collaborations/civic-power-fund"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "12.5",
+     "claim": "No UK equivalent exists of the dedicated organising philanthropy intermediaries of the US.",
+     "sources": [
+      "https://www.civicpower.org.uk/our-strategy"
+     ],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The Civic Power Fund is the nascent UK exception; the claim holds at US scale and the wording needs sharpening at the October 2026 review."
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "claims": [
+    {
+     "id": "18.1",
+     "claim": "The EU's Next Generation Internet initiative distributed around €140m to more than 1,200 projects in small cascade grants, largely through NLnet.",
+     "sources": [
+      "https://fsfe.org/news/2024/news-20240719-01.en.html",
+      "https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "18.2",
+     "claim": "The Commission dropped NGI from the Horizon Europe 2025 work programme.",
+     "sources": [
+      "https://fsfe.org/news/2024/news-20240719-01.en.html",
+      "https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "18.3",
+     "claim": "UK civil-society funders treat technology as unfundable infrastructure, and the Nesta and National Lottery digital funds have closed.",
+     "sources": [
+      "https://www.careful.industries/blog/2025-12-could-2026-be-the-year-of-public-interest-technology"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "18.4",
+     "claim": "No domestic substitute exists at the €5k to €50k grant size where most independent maintainers live.",
+     "sources": [
+      "https://www.careful.industries/blog/2025-12-could-2026-be-the-year-of-public-interest-technology"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "An absence claim, checked by search during the July 2026 research pass."
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "claims": [
+    {
+     "id": "20.1",
+     "claim": "GOV.UK Notify serves more than 1,500 public services and explicitly excludes charities, community pharmacies, hospices, housing associations and universities.",
+     "sources": [
+      "https://www.notifications.service.gov.uk/features/who-can-use-notify"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "20.2",
+     "claim": "Notify's code is open source.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "True and easily shown; the alphagov repository should be cited directly. Queued for the October 2026 review pass."
+    },
+    {
+     "id": "20.3",
+     "claim": "Charities re-buy messaging, forms and payments at retail SaaS prices with donated funds.",
+     "sources": [
+      "https://superhighways.org.uk/latest/funding-your-tech-and-digital/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "20.4",
+     "claim": "No UK body provides equivalent shared digital infrastructure to civil society.",
+     "sources": [
+      "https://superhighways.org.uk/latest/funding-your-tech-and-digital/",
+      "https://www.mysociety.org/about/funding/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "An absence claim, checked by search during the July 2026 research pass."
+    }
+   ]
+  },
+  {
+   "number": 24,
+   "claims": [
+    {
+     "id": "24.1",
+     "claim": "The EU Cyber Resilience Act creates obligations for manufacturers and an open-source-software-steward category, phasing in through 2026-27.",
+     "sources": [
+      "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "24.2",
+     "claim": "UK-based foundations, SMEs and maintainers whose software reaches the EU market must comply regardless of Brexit.",
+     "sources": [
+      "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "24.3",
+     "claim": "The UK's Cyber Security and Resilience Bill, at report stage in June 2026, focuses on NIS-regulated sectors and makes no provision for open source stewardship.",
+     "sources": [
+      "https://bills.parliament.uk/bills/4035",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10442/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The stewardship point is an absence claim, verified by reading the bill documents for such provision and finding none."
+    },
+    {
+     "id": "24.4",
+     "claim": "No UK-facing CRA compliance help for maintainers exists.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "An absence claim, checked by search during the July 2026 research pass."
+    }
+   ]
+  },
+  {
+   "number": 25,
+   "claims": [
+    {
+     "id": "25.1",
+     "claim": "The British Youth Council, the UK's youth-led representative umbrella since 1948, went insolvent in March 2024 when its backer entered administration.",
+     "sources": [
+      "https://hansard.parliament.uk/commons/2024-05-21/debates/24052139000012/UKYouthParliamentBritishYouthCouncilClosure",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10138/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "25.2",
+     "claim": "DCMS moved Youth Parliament delivery to the National Youth Agency as a government-contracted arrangement.",
+     "sources": [
+      "https://www.gov.uk/government/news/government-secures-future-of-uk-youth-parliament"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "25.3",
+     "claim": "BYC's federating, Youth Select Committee and European Youth Forum representation functions have no successor.",
+     "sources": [
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10138/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "An absence claim, checked during the July 2026 research pass."
+    },
+    {
+     "id": "25.4",
+     "claim": "The UK is now one of very few European democracies without an independent national youth council.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "A comparative claim; the European Youth Forum's membership list is the checkable source to cite. Queued for the October 2026 review pass."
+    }
+   ]
+  },
+  {
+   "number": 30,
+   "claims": [
+    {
+     "id": "30.1",
+     "claim": "The National Citizen Service closed in March 2025 after over £1bn spent since 2011, cutting funding to around 250 delivery organisations.",
+     "sources": [
+      "https://www.civilsociety.co.uk/news/charity-funding-concerns-as-government-announces-national-citizen-service-closure.html"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "30.2",
+     "claim": "The replacement programmes are place-based provision for disadvantaged areas rather than a universal mixing-and-service experience.",
+     "sources": [
+      "https://www.gov.uk/government/news/new-national-youth-strategy-to-break-down-barriers-to-opportunity-for-young-people"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "30.3",
+     "claim": "NCVO's Time Well Spent research shows youth-relevant participation roughly halving since 2018.",
+     "sources": [
+      "https://www.civilsociety.co.uk/news/ncvo-reports-volunteering-downturn-in-the-uk.html"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "30.4",
+     "claim": "France runs the SNU and the US runs AmeriCorps, and the UK now has no national civic service pathway.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The comparative half needs direct citations to the SNU and AmeriCorps programmes; the UK absence was checked in July 2026. Queued for the October review pass."
+    }
+   ]
+  },
+  {
+   "number": 31,
+   "claims": [
+    {
+     "id": "31.1",
+     "claim": "The Centre for Social Justice's Lost Boys work documents male NEET numbers up 40 per cent since the pandemic, against 7 per cent for women.",
+     "sources": [
+      "https://www.centreforsocialjustice.org.uk/library/lost-boys"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "31.2",
+     "claim": "Suicide is the leading cause of death for young men aged 15 to 19.",
+     "sources": [
+      "https://www.centreforsocialjustice.org.uk/library/lost-boys"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "Cited via CSJ, which draws on official mortality statistics; the direct ONS citation should be added at the October 2026 review."
+    },
+    {
+     "id": "31.3",
+     "claim": "John Smith Centre polling finds young men markedly more right-leaning and distrustful than young women.",
+     "sources": [
+      "https://www.johnsmithcentre.com/uk-youth-poll-2026/",
+      "https://www.johnsmithcentre.com/wp-content/uploads/2025/03/2025-03-27_UK-Youth-Poll-2025_DIGITAL.pdf"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "31.4",
+     "claim": "No UK funder runs a dedicated programme for young men's civic participation, while Rosa and the Tampon Tax legacy funds exist for women and girls.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "An absence claim, checked by search during the July 2026 research pass."
+    }
+   ]
+  },
+  {
+   "number": 34,
+   "claims": [
+    {
+     "id": "34.1",
+     "claim": "61.5 per cent of young people get political information mainly from social media, and 73 per cent signed a petition or advocated online in the past year.",
+     "sources": [
+      "https://www.johnsmithcentre.com/uk-youth-poll-2026/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "34.2",
+     "claim": "The Electoral Commission's Welcome to Your Vote Week is a school-focused education programme.",
+     "sources": [
+      "https://www.electoralcommission.org.uk/resources/resources-educators/welcome-your-vote-week"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "34.3",
+     "claim": "Party youth wings are actively recruiting, with Reform launching a student wing and the Conservatives relaunching theirs.",
+     "sources": [
+      "https://www.spectator.co.uk/article/reform-launches-its-student-wing/",
+      "https://www.politicshome.com/news/article/conservatives-relaunch-youth-wing-in-a-bid-to-take-on-labour"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "34.4",
+     "claim": "No at-scale nonpartisan registration-and-turnout operation exists in the UK.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "An absence claim, checked by search during the July 2026 research pass."
+    }
+   ]
+  },
+  {
+   "number": 36,
+   "claims": [
+    {
+     "id": "36.1",
+     "claim": "The Scouts' waiting list passed 100,000 in 2024.",
+     "sources": [
+      "https://en.wikipedia.org/wiki/The_Scout_Association"
+     ],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "Currently cited to an encyclopedia entry; the Scout Association's own annual report is the primary source to substitute. Queued for the October 2026 review pass."
+    },
+    {
+     "id": "36.2",
+     "claim": "Girlguiding and the Scouts run joint growth projects, and both face adult-volunteer constraints.",
+     "sources": [
+      "https://www.girlguiding.org.uk/about-us/press-releases/girlguiding-and-the-scouts-join-forces/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "36.3",
+     "claim": "Overall volunteering has declined since the pandemic.",
+     "sources": [
+      "https://www.civilsociety.co.uk/news/ncvo-reports-volunteering-downturn-in-the-uk.html"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "36.4",
+     "claim": "No national mechanism recruits, trains or gives employer time-off entitlements to adult volunteers for youth movements.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "An absence claim, checked by search during the July 2026 research pass."
+    }
+   ]
+  },
+  {
+   "number": 48,
+   "claims": [
+    {
+     "id": "48.1",
+     "claim": "HS2 Phase 1 costs about £396m per mile against about £46m for comparable French high-speed lines, and Britain Remade's dataset of 138 transit and 104 road projects across 14 countries shows UK costs running two to eight times EU peers.",
+     "sources": [
+      "https://www.britainremade.co.uk/britain_paying_up_to_eight_times_more_than_eu_for_road_and_rail_projects_research_finds"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "48.2",
+     "claim": "The Lower Thames Crossing consent alone cost about £300m.",
+     "sources": [
+      "https://www.cityam.com/lower-thames-crossing-planning-application-becomes-uks-longest-ever-at-more-than-350000-pages-and-costing-almost-300m/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "48.3",
+     "claim": "NISTA's pipeline portal lists projects and values rather than standardised outturn unit costs, and the pipeline is worth £718bn.",
+     "sources": [
+      "https://pipeline.nista.grid.civilservice.gov.uk/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    }
+   ]
+  },
+  {
+   "number": 59,
+   "claims": [
+    {
+     "id": "59.1",
+     "claim": "Under the May 2025 Mansion House Accord, seventeen providers pledged 10 per cent of DC default funds to private markets by 2030, with 5 per cent in the UK.",
+     "sources": [
+      "https://cms.law/en/gbr/legal-updates/journey-s-end-the-pension-schemes-act-arrives"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "Recapped in the cited legal analysis; the Accord's own text is the primary source to add at the October 2026 review."
+    },
+    {
+     "id": "59.2",
+     "claim": "The Pension Schemes Act 2026 holds a backstop mandation power exercisable once between 2028 and 2032.",
+     "sources": [
+      "https://cms.law/en/gbr/legal-updates/journey-s-end-the-pension-schemes-act-arrives",
+      "https://www.hsfkramer.com/notes/pensions/2026-posts/pension-schemes-act-passed"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "59.3",
+     "claim": "The British Growth Partnership's first fund closed at £200m, with Aegon UK, NatWest Cushon and M&G participating.",
+     "sources": [
+      "https://www.british-business-bank.co.uk/news-and-events/news/british-business-banks-british-growth-partnership-announces-partners-targeted-ps200m-first-close"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "59.4",
+     "claim": "Few long-term asset funds offer UK venture or growth exposure at institutional scale.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "A market-scan assessment from the July 2026 research pass."
+    }
+   ]
+  },
+  {
    "number": 82,
    "claims": [
     {
      "id": "82.1",
      "claim": "The Public Authorities (Fraud, Error and Recovery) Act 2025 lets DWP require banks to scan benefit claimants' accounts through Eligibility Verification Notices.",
-     "sources": ["https://www.gov.uk/government/publications/public-authorities-fraud-error-and-recovery-bill-2025-factsheets/dwps-eligibility-verification-powers-in-the-public-authorities-fraud-error-and-recovery-bill-factsheet"],
+     "sources": [
+      "https://www.gov.uk/government/publications/public-authorities-fraud-error-and-recovery-bill-2025-factsheets/dwps-eligibility-verification-powers-in-the-public-authorities-fraud-error-and-recovery-bill-factsheet"
+     ],
      "status": "verified",
      "lastVerified": "2026-07-07"
     },
     {
      "id": "82.2",
      "claim": "Rollout begins in 2026 on a test-and-learn basis.",
-     "sources": ["https://www.gov.uk/government/publications/public-authorities-fraud-error-and-recovery-bill-2025-factsheets/dwps-eligibility-verification-powers-in-the-public-authorities-fraud-error-and-recovery-bill-factsheet"],
+     "sources": [
+      "https://www.gov.uk/government/publications/public-authorities-fraud-error-and-recovery-bill-2025-factsheets/dwps-eligibility-verification-powers-in-the-public-authorities-fraud-error-and-recovery-bill-factsheet"
+     ],
      "status": "verified",
      "lastVerified": "2026-07-07"
     },
     {
      "id": "82.3",
      "claim": "The codes of practice governing the powers were finalised in May 2026.",
-     "sources": ["https://www.gov.uk/government/consultations/public-authorities-fraud-error-and-recovery-act-dwp-codes-of-practice-verifying-eligibility-in-the-welfare-system-obtaining-information-and-recovering/outcome/government-response-to-the-public-authorities-fraud-error-and-recovery-act-dwp-codes-of-practice-consultation"],
+     "sources": [
+      "https://www.gov.uk/government/consultations/public-authorities-fraud-error-and-recovery-act-dwp-codes-of-practice-verifying-eligibility-in-the-welfare-system-obtaining-information-and-recovering/outcome/government-response-to-the-public-authorities-fraud-error-and-recovery-act-dwp-codes-of-practice-consultation"
+     ],
      "status": "verified",
      "lastVerified": "2026-07-07"
     },
     {
      "id": "82.4",
      "claim": "The Information Commissioner raised concerns about the eligibility verification measure during the Bill's passage.",
-     "sources": ["https://ico.org.uk/about-the-ico/what-we-do/ico-policy-views/eligibility-verification-measure-in-the-public-authorities-bill-information-commissioners-response/"],
+     "sources": [
+      "https://ico.org.uk/about-the-ico/what-we-do/ico-policy-views/eligibility-verification-measure-in-the-public-authorities-bill-information-commissioners-response/"
+     ],
      "status": "verified",
      "lastVerified": "2026-07-07"
     },
@@ -62,7 +650,9 @@
     {
      "id": "82.8",
      "claim": "No independent body or civil-society observatory monitors notice volumes or outcomes, and JUSTICE's published analysis covered the Bill rather than the rollout.",
-     "sources": ["https://www.justice.org.uk/briefings/public-authorities-fraud-error-and-recovery-bill-2025"],
+     "sources": [
+      "https://www.justice.org.uk/briefings/public-authorities-fraud-error-and-recovery-bill-2025"
+     ],
      "status": "verified",
      "lastVerified": "2026-07-07",
      "note": "An absence claim, checked by search during the July 2026 research pass; the JUSTICE briefing is cited as the sector's closest published work."
