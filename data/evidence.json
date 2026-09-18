@@ -582,6 +582,327 @@
    ]
   },
   {
+   "number": 63,
+   "claims": [
+    {
+     "id": "63.1",
+     "claim": "The OBR's 2025 Fiscal Risks and Sustainability report projects public debt at 274 per cent of GDP by the early 2070s on its baseline.",
+     "sources": [
+      "https://obr.uk/frs/fiscal-risks-and-sustainability-july-2025/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "63.2",
+     "claim": "The OBR is statutorily barred from recommending policy.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The bar sits in the Budget Responsibility and National Audit Act 2011, section 5. Add the legislation.gov.uk citation."
+    },
+    {
+     "id": "63.3",
+     "claim": "The UK borrows around £300bn gross a year, and roughly a quarter of the gilt stock is index-linked.",
+     "sources": [],
+     "status": "estimate",
+     "lastVerified": "2026-07-07",
+     "note": "Both figures track the DMO's published remit and portfolio statistics; add the DMO remit page as the primary source."
+    },
+    {
+     "id": "63.4",
+     "claim": "The 2022 LDI episode caught official contingency planning out and nearly broke the pension system, at a cost of billions.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "Exhaustively documented, but the entry cites no source for it. The Bank of England's LDI post-mortem in its Financial Stability Report is the primary source to add."
+    },
+    {
+     "id": "63.5",
+     "claim": "No public body or institute runs publicly war-gamed sovereign stress scenarios with pre-agreed response playbooks.",
+     "sources": [
+      "https://obr.uk/frs/fiscal-risks-and-sustainability-july-2025/",
+      "https://lordslibrary.parliament.uk/national-debt-its-time-for-tough-decisions-house-of-lords-economic-affairs-committee-report/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked against OBR publications (risk identification only, no playbooks), the Lords Economic Affairs Committee inquiry, and the public output of IFS, NIESR and the Resolution Foundation."
+    },
+    {
+     "id": "63.6",
+     "claim": "Term premia run at roughly double historic norms and the marginal gilt buyer is a leveraged hedge fund.",
+     "sources": [
+      "https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2024/CFMDP2024-08-Paper.pdf",
+      "https://www.goldmansachs.com/insights/articles/what-would-it-take-to-stabilize-uk-debt"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "Academic and sell-side analysis; the Goldman Sachs piece is a conflicted source the entry itself names as such."
+    }
+   ]
+  },
+  {
+   "number": 64,
+   "claims": [
+    {
+     "id": "64.1",
+     "claim": "30-year gilt term premia reached 2.45 per cent in 2025 against a long-run average of 1.06 per cent.",
+     "sources": [
+      "https://www.bankofengland.co.uk/bank-insights/2026/what-were-the-drivers-of-uk-long-term-interest-rates-in-2025"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "64.2",
+     "claim": "UK households cannot buy gilts directly from the state; purchases route through brokers and platforms, and the DMO's approved-group retail access is vestigial.",
+     "sources": [
+      "https://www.dmo.gov.uk/responsibilities/gilt-market/about-gilts/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked against the DMO's own description of gilt purchase routes and the NS&I product range, which sells its own savings products rather than gilts."
+    },
+    {
+     "id": "64.3",
+     "claim": "US TreasuryDirect and Italy's retail BTP programmes raised tens of billions from households and stabilised demand.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "Italy's BTP Valore issues each raised over €15bn; the Italian Treasury's own results announcements and TreasuryDirect holdings data are the primary sources to add."
+    },
+    {
+     "id": "64.4",
+     "claim": "UK debt interest runs at £126bn a year.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The OBR's Economic and Fiscal Outlook is the primary source to add; the figure moves with each forecast round."
+    },
+    {
+     "id": "64.5",
+     "claim": "Defined-benefit pension run-off has removed the DMO's captive long-dated buyer and shortened issuance.",
+     "sources": [
+      "https://niesr.ac.uk/blog/gilts-are-getting-shorter-does-it-matter"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    }
+   ]
+  },
+  {
+   "number": 66,
+   "claims": [
+    {
+     "id": "66.1",
+     "claim": "Oflog was abolished in December 2024.",
+     "sources": [
+      "https://en.wikipedia.org/wiki/Oflog",
+      "https://www.localgovernmentlawyer.co.uk/governance/396-governance-news/58474-government-announces-oflog-review-pauses-early-warning-conversations-pilot"
+     ],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "Currently resting on an encyclopedia entry plus trade press. MHCLG's own announcement of the abolition is the primary source to substitute."
+    },
+    {
+     "id": "66.2",
+     "claim": "The Local Audit Office created by the English Devolution and Community Empowerment Act carries no continuous financial-resilience monitoring mandate.",
+     "sources": [
+      "https://bills.parliament.uk/bills/4002"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Checked against the Act's functions clauses; the LAO's remit is audit-market oversight."
+    },
+    {
+     "id": "66.3",
+     "claim": "41 per cent of council accounts received disclaimed opinions in the latest backstop round, and 22 councils missed the March 2026 deadline.",
+     "sources": [
+      "https://www.gov.uk/government/publications/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions",
+      "https://www.lgcplus.com/finance/revealed-22-councils-miss-audit-backstop-deadline-27-03-2026/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The 41 per cent figure is government-published; the 22-council count is LGC reporting."
+    },
+    {
+     "id": "66.4",
+     "claim": "Local authority debt stands at a record £154.6bn.",
+     "sources": [
+      "https://taxpayersalliance.com/briefing-local-authority-debt/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "Currently cited to a campaign group's briefing. The underlying data is DLUHC/MHCLG borrowing and investment statistics; substitute the official series at review."
+    },
+    {
+     "id": "66.5",
+     "claim": "30 councils received Exceptional Financial Support in 2025-26, and fourteen have gone effectively bankrupt via section 114 notices.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "MHCLG publishes the EFS awards list; add it, plus a section 114 tracker for the cumulative count."
+    },
+    {
+     "id": "66.6",
+     "claim": "No timely, comparable public dataset of council financial resilience exists; CIPFA's resilience index is annual, lagged and voluntary.",
+     "sources": [
+      "https://www.gov.uk/government/publications/local-outcomes-framework/local-outcomes-framework-principles-for-use"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked against the CIPFA index's own methodology, the paused early-warning conversations pilot, and the new local outcomes framework, which measures service outcomes rather than balance-sheet risk."
+    }
+   ]
+  },
+  {
+   "number": 76,
+   "claims": [
+    {
+     "id": "76.1",
+     "claim": "The landmark UK surveillance cases, including Bridges v South Wales, the bulk-powers tribunal challenges and the Apple/Privacy International case, were brought by a handful of small organisations.",
+     "sources": [
+      "https://www.libertyhumanrights.org.uk/issue/liberty-and-privacy-international-complaint-against-governments-backdoor-access-to-apple-data-to-be-heard-by-tribunal/",
+      "https://privacyinternational.org/legal-action/pi-apple-tcn-challenge"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The organisations' own case pages establish who brought each action."
+    },
+    {
+     "id": "76.2",
+     "claim": "The Digital Freedom Fund makes litigation grants Europe-wide and cannot anchor a UK pipeline.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "DFF's own funding criteria page is the source to add; the UK-pipeline judgment is the entry's inference from its grant scope."
+    },
+    {
+     "id": "76.3",
+     "claim": "The EHRC joined the Met facial recognition judicial review in August 2025 and does not originate surveillance cases.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The EHRC's own press release on the intervention is the primary source to add."
+    },
+    {
+     "id": "76.4",
+     "claim": "No costs-capping protection comparable to the Aarhus environmental rules exists for public-interest data cases, and no legal aid covers them.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked against Civil Procedure Rules 46.24-46.28, which confine costs caps to Aarhus Convention environmental claims, and LASPO legal aid scope."
+    },
+    {
+     "id": "76.5",
+     "claim": "These cases run on crowdfunding and a few foundation grants, with the claimant organisations carrying adverse-costs risk.",
+     "sources": [
+      "https://www.libertyhumanrights.org.uk/issue/liberty-and-privacy-international-complaint-against-governments-backdoor-access-to-apple-data-to-be-heard-by-tribunal/",
+      "https://libertyinvestigates.org.uk/articles/hundreds-of-thousands-of-innocent-people-on-police-databases-as-forces-expand-use-of-facial-recognition-tech/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    }
+   ]
+  },
+  {
+   "number": 77,
+   "claims": [
+    {
+     "id": "77.1",
+     "claim": "The main UK digital rights organisations run on budgets of roughly £0.5m to £2m each.",
+     "sources": [
+      "https://en.wikipedia.org/wiki/Big_Brother_Watch",
+      "https://en.wikipedia.org/wiki/Open_Rights_Group"
+     ],
+     "status": "estimate",
+     "lastVerified": "2026-07-07",
+     "note": "Currently resting on encyclopedia entries. The organisations' filed accounts at the Charity Commission and Companies House are the primary sources to substitute."
+    },
+    {
+     "id": "77.2",
+     "claim": "The funder set is concentrated and largely non-domestic: JRRT, Luminate, Open Society Foundations and the Sigrid Rausing Trust dominate the sector's grant income.",
+     "sources": [
+      "https://www.openrightsgroup.org/trusts-and-foundations/",
+      "https://www.jrrt.org.uk/what-we-do/grants-awarded/",
+      "https://www.jrrt.org.uk/what-we-do/grants-awarded/open-rights-group/",
+      "https://luminategroup.com/investee/open-rights-group"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Established from the funders' and grantees' own published grant listings."
+    },
+    {
+     "id": "77.3",
+     "claim": "No UK pooled fund, endowment or community-foundation stream for digital rights exists on the Civitates or Ford/MacArthur model.",
+     "sources": [
+      "https://fundingjustice.civicpower.org.uk/report/funding-justice-3/annex/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked against the Funding Justice 3 landscape annex, which maps UK justice and rights funders and shows no pooled digital rights vehicle."
+    },
+    {
+     "id": "77.4",
+     "claim": "The sector's whole annual budget runs under £15m.",
+     "sources": [],
+     "status": "estimate",
+     "lastVerified": "2026-07-07",
+     "note": "Summed from the named organisations' accounts. A worked table belongs in the review pass so the total is reproducible."
+    },
+    {
+     "id": "77.5",
+     "claim": "A single funder exit can remove a quarter of an organisation's income.",
+     "sources": [
+      "https://www.openrightsgroup.org/trusts-and-foundations/"
+     ],
+     "status": "estimate",
+     "lastVerified": "2026-07-07",
+     "note": "Follows from the concentration visible in ORG's own funder list; the OSF restructuring is the live example."
+    }
+   ]
+  },
+  {
+   "number": 78,
+   "claims": [
+    {
+     "id": "78.1",
+     "claim": "No UK equivalent of the EFF's Atlas of Surveillance exists.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. The Atlas covers US agencies only; checked for a UK register across the ICO, Home Office, the Biometrics and Surveillance Camera Commissioner's legacy publications and academic projects. Nothing maintained and machine-readable exists."
+    },
+    {
+     "id": "78.2",
+     "claim": "The Algorithmic Transparency Recording Standard is mandatory for central departments, while police compliance stays patchy.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The gov.uk ATRS mandate announcement and the published record counts are the primary sources to add."
+    },
+    {
+     "id": "78.3",
+     "claim": "Live facial recognition deployment data is published inconsistently force by force.",
+     "sources": [
+      "https://libertyinvestigates.org.uk/articles/hundreds-of-thousands-of-innocent-people-on-police-databases-as-forces-expand-use-of-facial-recognition-tech/",
+      "https://www.statewatch.org/news/2026/february/submission-to-home-office-consultation-on-a-new-legal-framework-for-law-enforcement-use-of-biometrics-facial-recognition-and-similar-technologies/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "78.4",
+     "claim": "Procurement of tools like Facewatch and mobile recognition apps surfaces only through FOI investigations.",
+     "sources": [
+      "https://libertyinvestigates.org.uk/articles/police-expand-use-of-facial-recognition-apps/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    }
+   ]
+  },
+  {
    "number": 82,
    "claims": [
     {
@@ -656,6 +977,319 @@
      "status": "verified",
      "lastVerified": "2026-07-07",
      "note": "An absence claim, checked by search during the July 2026 research pass; the JUSTICE briefing is cited as the sector's closest published work."
+    }
+   ]
+  },
+  {
+   "number": 84,
+   "claims": [
+    {
+     "id": "84.1",
+     "claim": "The Procurement Act debarment regime went live on 24 February 2025 and the published list remains blank, by its own statement, until a minister decides to add a supplier.",
+     "sources": [
+      "https://assets.publishing.service.gov.uk/media/68595a94eaa6f6419fade63b/Debarment_List.pdf",
+      "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "84.2",
+     "claim": "The first debarment investigations, into cladding suppliers named in the Grenfell Inquiry report, were paused in July 2025 at the request of the CPS and the Metropolitan Police.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The Cabinet Office written ministerial statement announcing the pause is the primary source to add."
+    },
+    {
+     "id": "84.3",
+     "claim": "The Covid Counter-Fraud Commissioner put total Covid scheme fraud and error at £10.9bn, with £1.8bn recovered.",
+     "sources": [
+      "https://www.gov.uk/government/publications/final-report-of-the-covid-counter-fraud-commissioner"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "84.4",
+     "claim": "The debarment function acts only on referral from contracting authorities and ministerial discretion, with no statutory timelines and no third-party trigger; it was absorbed into the Government Commercial Agency in April 2026.",
+     "sources": [
+      "https://www.gov.uk/government/publications/procurement-act-2023-guidance-documents-procure-phase/guidance-debarment-html"
+     ],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The referral-and-discretion design is in the published guidance. The April 2026 absorption into the GCA lacks its own citation; add the machinery-of-government announcement."
+    },
+    {
+     "id": "84.5",
+     "claim": "Nobody runs systematic corruption red-flag monitoring across the Central Digital Platform's procurement data.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Tussell provides commercial analytics for sales intelligence; checked for an integrity-focused equivalent across Transparency International UK, Spotlight on Corruption and the Open Contracting Partnership's UK work."
+    }
+   ]
+  },
+  {
+   "number": 93,
+   "claims": [
+    {
+     "id": "93.1",
+     "claim": "The ECCTA anti-SLAPP provisions came into force on 18 June 2025 and apply only to claims relating to economic crime.",
+     "sources": [
+      "https://www.gov.uk/government/publications/economic-crime-and-corporate-transparency-act-2023-factsheets/economic-crime-and-corporate-transparency-act-strategic-lawsuits-against-public-participation-slapps"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "93.2",
+     "claim": "In March 2026 the High Court delivered the first statutory anti-SLAPP strike-out, dismissing an £8m libel claim in Kamal v Tax Policy Associates.",
+     "sources": [
+      "https://www.thebureauinvestigates.com/stories/2026-03-12/landmark-anti-slapp-victory-as-8m-libel-claim-is-thrown-out-of-court",
+      "https://www.lewissilkin.com/insights/2026/03/31/a-taxing-slapp-the-first-judicial-test-of-the-uks-anti-slapp-regime-102mogw"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "Two independent secondary accounts agree; the judgment's neutral citation on the National Archives case law service is the primary source to add."
+    },
+    {
+     "id": "93.3",
+     "claim": "The government has stated it has no current plans to extend anti-SLAPP protection beyond economic crime.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The statement exists in ministerial answers; the Hansard reference is the primary source to add."
+    },
+    {
+     "id": "93.4",
+     "claim": "The UK Anti-SLAPP Coalition has a drafted model law ready.",
+     "sources": [
+      "https://antislapp.uk/solutions/legislation/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    }
+   ]
+  },
+  {
+   "number": 95,
+   "claims": [
+    {
+     "id": "95.1",
+     "claim": "Journalism is not a recognised charitable purpose under the Charities Act, and Full Fact was rejected twice before securing charitable status.",
+     "sources": [
+      "https://cjproject.org/",
+      "https://www.stoneking.co.uk/news/general/official-recognition-charitable-journalism-enables-support-future-high-quality"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "The legal position is set out by the Charitable Journalism Project and charity-law practitioners; the Charity Commission's published decisions on Full Fact would make it primary."
+    },
+    {
+     "id": "95.2",
+     "claim": "The UK lost a net 265 local newspaper titles between 2005 and 2020.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The figure originates in Press Gazette's local news count; add that research directly."
+    },
+    {
+     "id": "95.3",
+     "claim": "The Public Interest News Foundation is the only UK charity dedicated to regenerating local news.",
+     "sources": [
+      "https://www.publicinterestnews.org.uk/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim resting on PINF's own positioning; checked the charity register for competitors with the same object and found none."
+    },
+    {
+     "id": "95.4",
+     "claim": "The Bureau of Investigative Journalism and Finance Uncovered depend on fragile, largely overseas philanthropy.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "Both publish funder lists; add them so the overseas weighting is checkable."
+    }
+   ]
+  },
+  {
+   "number": 102,
+   "claims": [
+    {
+     "id": "102.1",
+     "claim": "The cheapest FCA society registration at £40 is conditional on using a sponsoring body's model rules, which are charged for.",
+     "sources": [
+      "https://www.fca.org.uk/firms/register-mutual-society"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The FCA's own fee table ties the lowest registration fee to model rules from a sponsoring body."
+    },
+    {
+     "id": "102.2",
+     "claim": "Formation knowledge is scattered across sponsoring bodies, law-firm briefings and volunteer wikis, with model rules behind paywalls.",
+     "sources": [
+      "https://www.uk.coop/start-new-co-op/find-adviser/cwmpas"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "102.3",
+     "claim": "No openly licensed, maintained, versioned corpus of UK formation templates exists.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked Co-operatives UK, Cwmpas, the Plunkett Foundation, Community Shares Unit and law-clinic publication lists; each publishes fragments, none an open versioned library."
+    }
+   ]
+  },
+  {
+   "number": 106,
+   "claims": [
+    {
+     "id": "106.1",
+     "claim": "Withdrawable community shares are exempt from prospectus and financial-promotion regulation, and protection rests on the voluntary Standard Mark run by Co-operatives UK.",
+     "sources": [
+      "https://lawcom.gov.uk/project/co-operatives-and-community-benefit-societies/",
+      "https://www.wrigleys.co.uk/news/charity-social-economy/law-commission-review-of-the-co-operative-and-community-benefit-societies-act-2014-consultation-paper-no264-september-2024-/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "106.2",
+     "claim": "Law Commission consultation paper 264 proposed statutory share definitions, prescribed withdrawal conditions, write-down protections and interest caps, with the final report expected in 2026.",
+     "sources": [
+      "https://lawcom.gov.uk/project/co-operatives-and-community-benefit-societies/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "106.3",
+     "claim": "Community shares drew over £1m of match-crowded investment through the Booster Fund in 2025, a record year.",
+     "sources": [
+      "https://www.uk.coop/blog/record-year-community-shares-booster-fund-2025"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Programme-operator figures; the Booster Fund is Co-operatives UK's own scheme."
+    },
+    {
+     "id": "106.4",
+     "claim": "No secondary market or underwriting facility exists for community shares; withdrawal depends entirely on a society's cash position.",
+     "sources": [
+      "https://lawcom.gov.uk/project/co-operatives-and-community-benefit-societies/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. The Law Commission consultation paper documents the withdrawal mechanism and the lack of any transfer market."
+    }
+   ]
+  },
+  {
+   "number": 108,
+   "claims": [
+    {
+     "id": "108.1",
+     "claim": "Roughly 300 small volunteer-run forums exited or migrated when the OSA illegal-content duties began in March 2025, with at least 22 confirmed closures on Neil Brown's tracker.",
+     "sources": [
+      "https://decoded.legal/blog/2025/03/it-is-time-to-make-the-online-safety-act-2023-fit-for-purpose/"
+     ],
+     "status": "estimate",
+     "lastVerified": "2026-07-07",
+     "note": "The 22 confirmed closures come from the tracker's own author; the ~300 figure is his wider estimate of exits and migrations. Cite the tracker on onlinesafetyact.co.uk directly at review."
+    },
+    {
+     "id": "108.2",
+     "claim": "LFGSS and Microcosm announced shutdown over the Act's duties and only partially returned.",
+     "sources": [
+      "https://www.lfgss.com/conversations/401475/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The operator's own shutdown announcement."
+    },
+    {
+     "id": "108.3",
+     "claim": "Ofcom offers a small-services hub and compliance guide, but every volunteer admin must still individually produce risk assessments.",
+     "sources": [
+      "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/helping-small-services-navigate-the-online-safety-act"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "108.4",
+     "claim": "A December 2025 Westminster Hall debate aired the small-services burden without resolution.",
+     "sources": [
+      "https://www.parallelparliament.co.uk/debate/2025-12-15/commons/westminster-hall/online-safety-act-2023-repeal"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Cited to a Hansard mirror; swap to the hansard.parliament.uk record at review."
+    },
+    {
+     "id": "108.5",
+     "claim": "No compliance mutual, group insurance product or shared template compliance stack exists for community-run services.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked Ofcom's small-services resources, ORG's campaign output, and the specialist insurance market; nothing offers pooled legal defence or model risk assessments as a service."
+    }
+   ]
+  },
+  {
+   "number": 109,
+   "claims": [
+    {
+     "id": "109.1",
+     "claim": "Section 121 of the Online Safety Act lets Ofcom mandate accredited scanning technology for private messaging, and Ofcom finalised its Technology Notices guidance in May 2026.",
+     "sources": [
+      "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/consultation-technology-notices"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "109.2",
+     "claim": "Enforcement against end-to-end encrypted services is deferred only by a ministerial assurance on technical feasibility, which has no legal force.",
+     "sources": [
+      "https://proton.me/blog/online-safety-act"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "The assurance was given in the Lords in September 2023; the Hansard record is the primary source to add, and the Proton account is an interested party's."
+    },
+    {
+     "id": "109.3",
+     "claim": "Apple withdrew Advanced Data Protection from UK users in February 2025, and the tribunal litigation ended after the Home Office narrowed its order to UK users.",
+     "sources": [
+      "https://www.computerweekly.com/news/366632561/Apple-and-Home-Office-agree-to-drop-legal-claim-over-encryption-backdoor"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "109.4",
+     "claim": "Privacy International's challenge to the secrecy of technical capability notices was heard in 2026.",
+     "sources": [
+      "https://privacyinternational.org/news-analysis/5624/update-our-case-against-uk-governments-secret-surveillance-orders-be-heard-2026"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The claimant's own case page."
+    },
+    {
+     "id": "109.5",
+     "claim": "No statutory transparency reporting on IPA technical capability notices exists, not even aggregate counts, and no dedicated UK encryption defence fund backs small providers.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the Investigatory Powers Act 2016 reporting provisions and IPCO annual reports, which disclose nothing on TCNs; ORG, PI and Big Brother Watch fund encryption work from general budgets."
     }
    ]
   }
