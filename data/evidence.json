@@ -1292,6 +1292,578 @@
      "note": "Absence claim. Checked the Investigatory Powers Act 2016 reporting provisions and IPCO annual reports, which disclose nothing on TCNs; ORG, PI and Big Brother Watch fund encryption work from general budgets."
     }
    ]
+  },
+  {
+   "number": 115,
+   "claims": [
+    {
+     "id": "115.1",
+     "claim": "France has Framasoft and the CHATONS hosting collective, and Germany procures openDesk and Nextcloud for its public sector.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "Framasoft's and CHATONS' own sites, and ZenDiS's openDesk announcements, are the primary sources to add."
+    },
+    {
+     "id": "115.2",
+     "claim": "The UK equivalents are micro-scale: Webarchitects Co-operative and Autonomic, whose Co-op Cloud platform was built to let small hosts offer federated services, loosely networked through CoTech.",
+     "sources": [
+      "https://coopcloud.tech/",
+      "https://www.webarchitects.coop/",
+      "https://www.coops.tech/co-op/webarchitects",
+      "https://autonomic.zone/blog/2023/02/co-op-cloud/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The operators' own sites and the CoTech directory."
+    },
+    {
+     "id": "115.3",
+     "claim": "No funder backs a UK alliance offering CryptPad, Nextcloud, Matrix and mailing lists at charity-affordable prices with credible service levels.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the CoTech membership, charity digital-funding schemes and the main UK tech-for-good funders' grant listings; no pooled hosting alliance appears anywhere."
+    },
+    {
+     "id": "115.4",
+     "claim": "UK charities default to discounted Google and Microsoft nonprofit licences.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The nonprofit licence programmes are documented on both vendors' sites and Charity Digital's uptake reporting; add those so the default is checkable."
+    }
+   ]
+  },
+  {
+   "number": 117,
+   "claims": [
+    {
+     "id": "117.1",
+     "claim": "Online Safety Act age-assurance duties pushed millions of users through proprietary age-verification providers from July 2025.",
+     "sources": [
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10369/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "117.2",
+     "claim": "The government's digital ID consultation closed in June 2026 and proposes a state wallet, voluntary for citizens, with digital right-to-work checks planned to become mandatory from 2029.",
+     "sources": [
+      "https://www.gov.uk/government/publications/digital-id-scheme-explainer/digital-id-scheme-explainer",
+      "https://www.pinsentmasons.com/out-law/news/uk-scales-back-digital-id-right-work"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "117.3",
+     "claim": "The DIATF trust framework certifies providers and does not mandate unlinkability or selective disclosure.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The framework text itself is the primary source; add the gov.uk DIATF version in force and the clause-level reading behind this."
+    },
+    {
+     "id": "117.4",
+     "claim": "No open-source, zero-knowledge attribute-proof standard exists for UK services to adopt freely.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. The cryptography exists (BBS+ signatures, W3C verifiable credentials); checked the DIATF certified-provider list and OSA age-assurance guidance for any accepted open selective-disclosure option and found none."
+    }
+   ]
+  },
+  {
+   "number": 118,
+   "claims": [
+    {
+     "id": "118.1",
+     "claim": "Waku is pre-production, with a public testnet targeted for 2026 and mainnet in 2027.",
+     "sources": [
+      "https://blog.waku.org/waku-monthly-update-june-2025/",
+      "https://blog.waku.org"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The project's own roadmap updates."
+    },
+    {
+     "id": "118.2",
+     "claim": "Matrix works at scale and faces metadata-leakage and homeserver-burden critiques.",
+     "sources": [
+      "https://wire.com/en/blog/matrix-not-safe-eu-data-privacy"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "The cited critique comes from Wire, a commercial competitor; balance it with the Matrix Foundation's response at review."
+    },
+    {
+     "id": "118.3",
+     "claim": "No What Works-style body runs structured trials of decentralised stacks with UK community organisations or publishes comparable results.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the What Works Network membership and the evaluation output of the main civic tech funders; nothing runs comparable field trials of this stack."
+    },
+    {
+     "id": "118.4",
+     "claim": "Solid stalled, and personal data store and mutual-credit pilots are rarely independently evaluated.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "Add the Solid project's own status and the Inrupt pivot coverage; the evaluation-scarcity point needs a literature check at review."
+    }
+   ]
+  },
+  {
+   "number": 120,
+   "claims": [
+    {
+     "id": "120.1",
+     "claim": "No UK organisation systematically files and litigates data protection complaints at scale the way noyb does in the EU.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the obvious candidates: ORG campaigns on a small member-funded budget, Privacy International works internationally and on surveillance, Foxglove litigates selected cases, AWO is a commercial firm. None runs a standing complaints pipeline."
+    },
+    {
+     "id": "120.2",
+     "claim": "The 2018 real-time-bidding complaints died without a determination, and the ICO was sued over its inaction.",
+     "sources": [
+      "https://www.openrightsgroup.org/campaign/ending-adtech-abuse/",
+      "https://www.computerweekly.com/news/252491682/ICO-sued-over-failure-to-address-ad-industry-practices"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "120.3",
+     "claim": "The DUAA requires controllers to run complaints processes from 19 June 2026.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The commencement regulations under the Data (Use and Access) Act 2025, or the ICO's implementation guidance, are the primary sources to add."
+    }
+   ]
+  },
+  {
+   "number": 129,
+   "claims": [
+    {
+     "id": "129.1",
+     "claim": "There is no registration obligation for UK data brokers, in contrast to California's registry and Delete Act.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. The Data Protection Act 2018 contains no broker category or registration duty; add the California Privacy Protection Agency's registry page for the comparison at review."
+    },
+    {
+     "id": "129.2",
+     "claim": "DSIT ran a call for evidence on data brokers and national security that acknowledged the blind spot.",
+     "sources": [
+      "https://www.techuk.org/resource/dsit-launches-call-for-evidence-on-data-brokers-and-national-security.html",
+      "https://www.digit.fyi/uk-gov-asks-for-insight-into-data-brokers-security/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "Two trade-press accounts; swap in the gov.uk call-for-evidence page itself at review."
+    },
+    {
+     "id": "129.3",
+     "claim": "The ICO's 2020 Experian enforcement notice on offline data broking was largely overturned on appeal.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The First-tier Tribunal's 2023 judgment is the primary source to add."
+    },
+    {
+     "id": "129.4",
+     "claim": "Consumers have no practical way to discover or delete broker-held profiles.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Subject access rights exist per controller, but without a register there is no way to enumerate the controllers; checked for any UK one-stop deletion service and found none."
+    }
+   ]
+  },
+  {
+   "number": 144,
+   "claims": [
+    {
+     "id": "144.1",
+     "claim": "The UK Democracy Fund is a pooled fund hosted by JRRT since 2019, with contributors including Barrow Cadbury, JRCT, Blagrave, Unbound Philanthropy, Paul Hamlyn and Porticus.",
+     "sources": [
+      "https://www.jrrt.org.uk/what-we-do/the-uk-democracy-fund/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "144.2",
+     "claim": "A KCL Policy Institute evaluation credits the fund with around 746,000 voter registrations before the 2024 general election.",
+     "sources": [
+      "https://www.jrrt.org.uk/wp-content/uploads/2025/06/Evaluation-of-the-UK-Democracy-Fund-2025-Policy-Institute-KCL.pdf"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "144.3",
+     "claim": "The fund disburses low single-digit millions a year.",
+     "sources": [
+      "https://www.jrrt.org.uk/what-we-do/the-uk-democracy-fund/"
+     ],
+     "status": "estimate",
+     "lastVerified": "2026-07-07",
+     "note": "Order of magnitude from the fund's own published grant totals."
+    },
+    {
+     "id": "144.4",
+     "claim": "OSF's European retreat removed a major funder and left openDemocracy nearly insolvent, and Luminate narrowed its focus.",
+     "sources": [
+      "https://pressgazette.co.uk/news/open-democracy-insolvent-june-legal-threats/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "144.5",
+     "claim": "Charity-law caution around political activity keeps most foundations out of democracy funding entirely.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "A documented sector view; the ACF and Sheila McKechnie Foundation publications on foundations and campaigning are the sources to add."
+    }
+   ]
+  },
+  {
+   "number": 152,
+   "claims": [
+    {
+     "id": "152.1",
+     "claim": "London hosts world-class effective-giving infrastructure, including Founders Pledge, Longview Philanthropy and Giving What We Can, channelling UK tech wealth almost entirely to global health and catastrophic-risk causes.",
+     "sources": [
+      "https://www.founderspledge.com/who-we-are",
+      "https://www.longview.org/about/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The organisations' own cause-area statements establish the international weighting."
+    },
+    {
+     "id": "152.2",
+     "claim": "No organisation publishes rigorous, public cost-effectiveness rankings for UK domestic charities; NPC offers bespoke consultancy and SoGive lacks scale.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked NPC's product list, SoGive's coverage, the Charity Commission register and giving platforms; nothing publishes GiveWell-style domestic rankings."
+    },
+    {
+     "id": "152.3",
+     "claim": "CAF's research shows wealthy Britons cite lack of confidence in impact as a barrier to giving.",
+     "sources": [
+      "https://www.cafonline.org/docs/default-source/about-us-research/caf_high_value_giving_report_2025.pdf"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    }
+   ]
+  },
+  {
+   "number": 153,
+   "claims": [
+    {
+     "id": "153.1",
+     "claim": "Gitcoin has facilitated more than $60m across quadratic-funding rounds.",
+     "sources": [
+      "https://gitcoin.co/program"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The platform's own running total."
+    },
+    {
+     "id": "153.2",
+     "claim": "The Ethereum Foundation's Ecosystem Support Program has granted over $148m to more than 900 projects.",
+     "sources": [
+      "https://www.grantchain.eu/grants/ethereum-foundation-esp"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "Cited to a third-party grants aggregator; the ESP's own allocation reports are the primary source to substitute."
+    },
+    {
+     "id": "153.3",
+     "claim": "No UK fiscal-sponsorship vehicle exists for charities to receive crypto grants, and no Charity Commission guidance covers accepting cryptoasset grants.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the Charity Commission guidance index (CC14 touches investment, nothing covers receiving cryptoasset grants) and searched the register for a crypto-competent fiscal sponsor."
+    },
+    {
+     "id": "153.4",
+     "claim": "UK civic tech organisations are largely absent from these funding rounds, and no data tracks UK receipt.",
+     "sources": [],
+     "status": "estimate",
+     "lastVerified": "2026-07-07",
+     "note": "The absence of tracking is itself the point; the impression of low UK participation comes from scanning round results and should get a worked count at review."
+    }
+   ]
+  },
+  {
+   "number": 166,
+   "claims": [
+    {
+     "id": "166.1",
+     "claim": "No legal requirement obliges think tanks to disclose funders; the Transparency of Lobbying Act 2014 covers consultant lobbyists.",
+     "sources": [
+      "https://unlockdemocracy.org.uk/think-tanks"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The statutory scope is Part 1 of the Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014; add the legislation.gov.uk citation at review."
+    },
+    {
+     "id": "166.2",
+     "claim": "The revived Who Funds You? project rated several of the most ministerially connected think tanks E for transparency and traced around £25m of pre-election policy funding to opaque sources.",
+     "sources": [
+      "https://www.opendemocracy.net/en/dark-money-investigations/think-tanks-transparency-funding-who-funds-you/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The project's own published ratings and analysis."
+    },
+    {
+     "id": "166.3",
+     "claim": "The roughly 150-strong UK think-tank sector clusters in London, with IPPR North the main sustained regional exception.",
+     "sources": [
+      "https://onthinktanks.org/articles/think-tank-landscape-scan-2022-uk/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "166.4",
+     "claim": "Unlock Democracy and On Think Tanks have proposed disclosure reforms, and none has been adopted.",
+     "sources": [
+      "https://unlockdemocracy.org.uk/think-tanks",
+      "https://onthinktanks.org/articles/three-proposed-reforms-to-accelerate-think-tank-transparency/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    }
+   ]
+  },
+  {
+   "number": 172,
+   "claims": [
+    {
+     "id": "172.1",
+     "claim": "The Hewitt Review of 2023 recommended raising the share of integrated care system budgets spent on prevention by at least one percentage point over five years.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The Review itself, published on gov.uk, is the primary source to add."
+    },
+    {
+     "id": "172.2",
+     "claim": "The 10 Year Health Plan impact statement canvasses a prevention investment standard, preventative departmental expenditure limits and outcomes-based payment, none of which has been adopted.",
+     "sources": [
+      "https://assets.publishing.service.gov.uk/media/69651a7699fbdc498faecd1f/impact-statement-10-year-health-plan.pdf"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "172.3",
+     "claim": "No agreed definition or baseline measurement of NHS prevention spend exists.",
+     "sources": [
+      "https://assets.publishing.service.gov.uk/media/69651a7699fbdc498faecd1f/impact-statement-10-year-health-plan.pdf",
+      "https://www.kingsfund.org.uk/insight-and-analysis/blogs/some-is-not-a-number-soon-is-not-a-time"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The impact statement acknowledges the definitional gap; the King's Fund documents the measurement history."
+    },
+    {
+     "id": "172.4",
+     "claim": "The ring-fenced local-authority public health grant exists, and NHS budgets have no equivalent instrument.",
+     "sources": [
+      "https://www.gov.uk/government/publications/public-health-grants-to-local-authorities-2026-to-2027/public-health-ring-fenced-grant-financial-year-2026-to-2027-local-authority-circular"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    }
+   ]
+  },
+  {
+   "number": 174,
+   "claims": [
+    {
+     "id": "174.1",
+     "claim": "In its 2026 response to the Health and Social Care Committee, the government only partially accepted national access standards, and the sole commitment for children and young people is eliminating waits over two years by the end of 2026-27.",
+     "sources": [
+      "https://www.gov.uk/government/publications/community-mental-health-services-governments-response-to-the-health-and-social-care-committees-report/government-response-to-the-health-and-social-care-committees-fourth-report-of-session-2024-to-2026-community-mental-health-services"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "174.2",
+     "claim": "The four-week standard developed in NHS England's clinically led review of 2021-22 was never mandated.",
+     "sources": [
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-8846/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "174.3",
+     "claim": "The Children's Commissioner's report on 2024-25 data shows over one million referrals, more than 60,000 children waiting over two years, and up to seventeen-fold geographic variation.",
+     "sources": [
+      "https://www.childrenscommissioner.gov.uk/resource/childrens-and-young-peoples-mental-health-services-2024-25/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "174.4",
+     "claim": "No provider-level waiting statistics are published for children's mental health services.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked NHS England's mental health statistics publications; with no waiting standard there is no constitutional-style provider-level waits release, only aggregate dataset extracts."
+    }
+   ]
+  },
+  {
+   "number": 175,
+   "claims": [
+    {
+     "id": "175.1",
+     "claim": "The Mental Health Act 2025 received Royal Assent on 18 December 2025, and full implementation is expected to take up to ten years.",
+     "sources": [
+      "https://www.gov.uk/government/news/mental-health-bill-receives-royal-assent-revolutionising-care",
+      "https://www.nhsconfed.org/publications/mental-health-act-2025-what-you-need-know"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "175.2",
+     "claim": "A code of practice is due within a year, the first major phase lands in 2027, and initial commencement regulations took effect in February and April 2026.",
+     "sources": [
+      "https://www.mentalhealthlaw.co.uk/Mental_Health_Act_2025",
+      "https://www.nhsconfed.org/publications/mental-health-act-2025-what-you-need-know"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "The commencement statutory instruments on legislation.gov.uk are the primary sources to add."
+    },
+    {
+     "id": "175.3",
+     "claim": "No dedicated implementation unit exists, no costed roadmap has been published, and no annual statutory reporting duty applies.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the Act's text for reporting duties and DHSC's published implementation material; the Liberty Protection Safeguards precedent motivates the concern."
+    },
+    {
+     "id": "175.4",
+     "claim": "Opt-out advocacy expansion and community provision for autistic people and people with learning disabilities remain uncommissioned.",
+     "sources": [
+      "https://www.nhsconfed.org/publications/mental-health-act-2025-what-you-need-know"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    }
+   ]
+  },
+  {
+   "number": 191,
+   "claims": [
+    {
+     "id": "191.1",
+     "claim": "No institution independently assesses whether council funding matches statutory duties, verifies new-burdens costings, or publishes forward sustainability analysis for the sector.",
+     "sources": [
+      "https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/647/report.html"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. The OBR's mandate is national, the NAO audits retrospectively, and the Public Accounts Committee report documents the oversight gap."
+    },
+    {
+     "id": "191.2",
+     "claim": "The LGA models a £7bn funding gap by 2028-29.",
+     "sources": [
+      "https://www.local.gov.uk/about/news/councils-warn-ps7bn-funding-black-hole-threatening-local-services-three-years"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The LGA's own modelling; it is a membership body with an advocacy interest, which is the entry's point."
+    },
+    {
+     "id": "191.3",
+     "claim": "The IFS has explicitly proposed an independent advisory institution to assess councils' spending needs and revenue capacity.",
+     "sources": [
+      "https://ifs.org.uk/publications/reforming-local-government-funding-england-issues-and-options"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "191.4",
+     "claim": "The SEND accounting override expires in 2028, a recognised fiscal cliff for council budgets.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "MHCLG's June 2025 announcement extending the statutory override to 2028 is the primary source to add."
+    }
+   ]
+  },
+  {
+   "number": 197,
+   "claims": [
+    {
+     "id": "197.1",
+     "claim": "MHCLG has confirmed there are no plans for further Local Digital Fund rounds.",
+     "sources": [
+      "https://mhclgdigital.blog.gov.uk/category/local-digital/local-digital-fund/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The department's own blog."
+    },
+    {
+     "id": "197.2",
+     "claim": "The LGA's State of Digital Local Government found 48 per cent of councils reporting management skills gaps for digitalisation.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The LGA report itself is the primary source to add."
+    },
+    {
+     "id": "197.3",
+     "claim": "The LGA-MHCLG digital leadership pilot from December 2025 reaches a handful of authorities.",
+     "sources": [
+      "https://www.ukauthority.com/articles/lga-and-mhclg-pilot-new-digital-leadership-skills-programme"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "197.4",
+     "claim": "Reorganisation under the 2026 Act requires merging systems across dozens of abolished districts, with no dedicated fund, no common platform and no standards body behind the transition.",
+     "sources": [
+      "https://www.local.gov.uk/parliament/briefings-and-responses/blueprint-modern-digital-government-lga-response"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked MHCLG's reorganisation funding announcements and the Local Digital team's published programmes; nothing covers systems consolidation."
+    }
+   ]
   }
  ]
 }
