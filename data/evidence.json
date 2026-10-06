@@ -1864,6 +1864,489 @@
      "note": "Absence claim. Checked MHCLG's reorganisation funding announcements and the Local Digital team's published programmes; nothing covers systems consolidation."
     }
    ]
+  },
+  {
+   "number": 201,
+   "claims": [
+    {
+     "id": "201.1",
+     "claim": "SAGE convenes only during emergencies and is assembled ad hoc, a failing the Covid Inquiry criticised in Modules 1 and 2.",
+     "sources": [
+      "https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-1-report/uk-government-response-to-the-covid-19-inquiry-module-1-report-html",
+      "https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-2-report/uk-government-response-to-the-covid-19-inquiry-module-2-report-html"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "201.2",
+     "claim": "The government committed to eight standing expert advisory groups and to refreshing GO-Science's expert register in 2026, with open recruitment merely explored, subject to resources.",
+     "sources": [
+      "https://www.gov.uk/government/publications/uk-government-response-to-the-covid-19-inquiry-module-2-report/uk-government-response-to-the-covid-19-inquiry-module-2-report-html"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The government's own Inquiry responses; the hedged wording is theirs."
+    },
+    {
+     "id": "201.3",
+     "claim": "No permanently funded standing scientific body maintains biothreat readiness, horizon-scanning and rehearsed advice between crises; NERVTAG and the expert register are narrow and under-resourced.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked GO-Science's published advisory structures and NERVTAG's terms of reference, which cover respiratory virus threats only."
+    }
+   ]
+  },
+  {
+   "number": 212,
+   "claims": [
+    {
+     "id": "212.1",
+     "claim": "In the Horizon scandal, corrupted evidence convicted hundreds of postmasters.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The Horizon IT Inquiry's report and the Court of Appeal judgment in Hamilton v Post Office are the primary sources to add."
+    },
+    {
+     "id": "212.2",
+     "claim": "In the Windrush scandal, destroyed landing cards stripped citizens of status.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The Williams Lessons Learned Review is the primary source to add."
+    },
+    {
+     "id": "212.3",
+     "claim": "Roughly 45 per cent of council accounts carry disclaimed opinions.",
+     "sources": [
+      "https://www.gov.uk/government/publications/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions"
+     ],
+     "status": "estimate",
+     "lastVerified": "2026-07-07",
+     "note": "Claim 66.3 states 41 per cent from the same source. Reconcile the two figures against the publication at review; they may describe different rounds or bases."
+    },
+    {
+     "id": "212.4",
+     "claim": "The National Archives preserves records without making them independently verifiable, case law sits behind licensing friction, and no UK public institution keeps evidence-grade records in tamper-evident, publicly verifiable form.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked TNA's digital preservation documentation, which covers integrity internally rather than public verifiability, and the Find Case Law licence, whose terms restrict computational re-use."
+    }
+   ]
+  },
+  {
+   "number": 215,
+   "claims": [
+    {
+     "id": "215.1",
+     "claim": "Councils under section 114 stress cut discretionary services like libraries, youth services and parks maintenance to legal minimums.",
+     "sources": [
+      "https://www.instituteforgovernment.org.uk/explainer/local-authority-section-114-notices"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "215.2",
+     "claim": "The Community Right to Buy now in force covers assets rather than services.",
+     "sources": [
+      "https://www.legislation.gov.uk/ukpga/2026/23/contents/enacted"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The Act's own text defines the right's scope."
+    },
+    {
+     "id": "215.3",
+     "claim": "No prepared, legally templated pathway exists for a community to assume a withdrawn service, covering asset transfer, insurance, TUPE obligations and auditable finances; Locality and Plunkett support asset transfer only.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked Locality's and the Plunkett Foundation's published support offers, which centre on buildings and land, and found no service-continuity equivalent anywhere in the community-power field."
+    }
+   ]
+  },
+  {
+   "number": 216,
+   "claims": [
+    {
+     "id": "216.1",
+     "claim": "Debanking of individuals, charities and small businesses proceeds under de-risking logic, documented by the FCA's own account access and closures work.",
+     "sources": [
+      "https://www.fca.org.uk/publications/corporate-documents/account-access-closures"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "216.2",
+     "claim": "No institution provides composite restoration for the excluded: emergency payment rails, identity re-establishment, communications continuity and casework together.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Advice agencies handle fragments; checked Citizens Advice service lines, FOS jurisdiction and credit-union offerings. Platform removals additionally have no appeal route outside the platform itself."
+    },
+    {
+     "id": "216.3",
+     "claim": "Digital-ID exclusion errors will scale with One Login.",
+     "sources": [
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10369/"
+     ],
+     "status": "estimate",
+     "lastVerified": "2026-07-07",
+     "note": "A projection, marked as such. GDS's published inclusion and error-rate reporting is the evidence base to attach as it emerges."
+    }
+   ]
+  },
+  {
+   "number": 217,
+   "claims": [
+    {
+     "id": "217.1",
+     "claim": "Government credentials are planned to be locked to the GOV.UK Wallet, with certified private wallets excluded.",
+     "sources": [
+      "https://www.biometricupdate.com/202602/uk-digital-id-providers-fear-govt-plans-conflict-with-data-protection-act-aims"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "Trade-press account of industry objections; DSIT's wallet policy statement is the primary source to add."
+    },
+    {
+     "id": "217.2",
+     "claim": "Proposed self-custody and stablecoin rules constrain cryptoasset exit options.",
+     "sources": [
+      "https://www.sidley.com/en/insights/newsupdates/2026/01/uk-cryptoasset-regulation-action-points-for-2026-2027"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "Law-firm briefing; the FCA consultation papers themselves are the primary sources to add."
+    },
+    {
+     "id": "217.3",
+     "claim": "Pension transfers take months and shed value in the process.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "Industry transfer-time data, such as the Origo transfer index, is the source to add."
+    },
+    {
+     "id": "217.4",
+     "claim": "Nothing aggregates exit friction as a civic metric across domains; switching data exists only for utilities through CMA remedies.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked CMA and Ofgem switching statistics, consumer-group reporting and academic literature; no cross-domain index exists."
+    }
+   ]
+  },
+  {
+   "number": 218,
+   "claims": [
+    {
+     "id": "218.1",
+     "claim": "The schools computing curriculum adds AI literacy from 2028.",
+     "sources": [
+      "https://www.bcs.org/articles-opinion-and-research/new-computing-curriculum-will-teach-ai-awareness-and-digital-literacy/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07",
+     "note": "BCS's account; the DfE curriculum documents are the primary source to add."
+    },
+    {
+     "id": "218.2",
+     "claim": "UK adult digital-skills provision teaches consumption: using apps, basic access and spotting scams.",
+     "sources": [
+      "https://www.goodthingsfoundation.org/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The leading provider's own programme scope establishes the orientation."
+    },
+    {
+     "id": "218.3",
+     "claim": "No institution teaches adults comprehension of the systems they are governed by: what encryption guarantees, what a verifiable record is, how identity architectures differ, what self-custody means.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked Good Things Foundation, library digital offers, WEA and union-education curricula; civic comprehension of this kind appears in none of them."
+    }
+   ]
+  },
+  {
+   "number": 220,
+   "claims": [
+    {
+     "id": "220.1",
+     "claim": "No new friendly societies have been registered since 1993.",
+     "sources": [
+      "https://lawcom.gov.uk/project/friendly-societies/",
+      "https://financialmutuals.org/resource/afm-welcomes-the-law-commission-consultation-on-the-long-overdue-reform-of-friendly-societies-legislation/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "220.2",
+     "claim": "The Law Commission is consulting on friendly societies reform, welcomed by the Association of Financial Mutuals.",
+     "sources": [
+      "https://lawcom.gov.uk/project/friendly-societies/",
+      "https://financialmutuals.org/resource/afm-welcomes-the-law-commission-consultation-on-the-long-overdue-reform-of-friendly-societies-legislation/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "220.3",
+     "claim": "No UK community has demonstrated a modern full-stack mutual; surviving friendly societies are legacy insurers, new mutual aid is informal and dissolves, and platform co-ops are single-service.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the AFM membership, Co-operatives UK's directory and the platform co-op landscape for any member organisation combining income-smoothing, bargaining, legal defence and advocacy under one treasury."
+    },
+    {
+     "id": "220.4",
+     "claim": "The UK has 4.4 million self-employed workers.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The ONS labour market statistics are the primary source to add; the figure moves quarterly."
+    }
+   ]
+  },
+  {
+   "number": 221,
+   "claims": [
+    {
+     "id": "221.1",
+     "claim": "The NCSC's charity-sector security guidance is advisory, with no shared baseline or pooled incident response behind it.",
+     "sources": [
+      "https://www.ncsc.gov.uk/section/information-for/charity-sector"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "221.2",
+     "claim": "SLAPP protection stops at economic-crime reporting, leaving civic organisations exposed on everything else.",
+     "sources": [
+      "https://antislapp.uk/solutions/legislation/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The statutory scope is established at claim 93.1."
+    },
+    {
+     "id": "221.3",
+     "claim": "No mutual-defence arrangement exists for UK civil society: no rapid solidarity fund, no coordinated vulnerability disclosure, no pre-agreed collective-response protocol.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked NCVO's and Bond's member services, CAST's programmes and the charity insurance market; nothing offers pooled defence across legal, financial and security attack surfaces."
+    }
+   ]
+  },
+  {
+   "number": 223,
+   "claims": [
+    {
+     "id": "223.1",
+     "claim": "The Tornado Cash precedent showed states reach the tractable number of humans running infrastructure rather than the protocol itself.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The OFAC sanctions action and the Dutch court's conviction of the developer are the primary sources to add."
+    },
+    {
+     "id": "223.2",
+     "claim": "UK infrastructure operators face the OSA duties regime and secret technical capability notices with gag provisions under the IPA.",
+     "sources": [
+      "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/consultation-technology-notices",
+      "https://privacyinternational.org/news-analysis/5624/update-our-case-against-uk-governments-secret-surveillance-orders-be-heard-2026"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "223.3",
+     "claim": "No operator-specific legal guidance, defence fund, experienced counsel network or structural playbook exists for UK operators below the application layer.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked ORG's and PI's published resources and Ofcom's small-services hub, which addresses forums and user-facing services, not relays, homeservers or nodes."
+    }
+   ]
+  },
+  {
+   "number": 224,
+   "claims": [
+    {
+     "id": "224.1",
+     "claim": "Palantir holds the £330m NHS Federated Data Platform contract.",
+     "sources": [
+      "https://www.england.nhs.uk/digitaltechnology/nhs-federated-data-platform/security-privacy/contract-explainer/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "224.2",
+     "claim": "The Ministry of Defence awarded Palantir a £240.6m agreement in December 2025 without competition.",
+     "sources": [
+      "https://www.find-tender.service.gov.uk/Notice/083874-2025"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The Find a Tender notice is the award's own public record."
+    },
+    {
+     "id": "224.3",
+     "claim": "US law can compel an American company to hand over data it controls, wherever that data sits.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The CLOUD Act's statutory text (18 U.S.C. 2713) is the primary source to add."
+    },
+    {
+     "id": "224.4",
+     "claim": "No UK contract-approval process requires a published assessment of foreign-compulsion exposure before signing.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the Procurement Act's award requirements and the Cabinet Office's commercial and security standards; data-residency clauses exist, published compulsion assessments do not. Entry provenance: surfaced by a pseudonymous investigation, with facts cited to primary sources, as the entry itself discloses."
+    }
+   ]
+  },
+  {
+   "number": 225,
+   "claims": [
+    {
+     "id": "225.1",
+     "claim": "The MoD's £240.6m Palantir award of December 2025 was a direct award covering all security classifications.",
+     "sources": [
+      "https://www.find-tender.service.gov.uk/Notice/083874-2025"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "225.2",
+     "claim": "The Metropolitan Police's proposed Palantir deal was blocked in May 2026 partly over how it had been let.",
+     "sources": [
+      "https://www.thenerve.news/p/palantir-technologies-uk-government-contracts-size-nuclear-deterrent-atomic-peter-thiel-louis-mosley"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "225.3",
+     "claim": "Exemption-based awards are individually published on Find a Tender, and nobody keeps a running, searchable register of them.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked Tussell's commercial products, Spend Network and the NAO's one-off procurement studies; none maintains a public running count of uncompeted awards. Entry provenance disclosed on the entry itself."
+    }
+   ]
+  },
+  {
+   "number": 226,
+   "claims": [
+    {
+     "id": "226.1",
+     "claim": "In October 2024 Multiverse submitted written evidence recommending how the Growth and Skills Levy should work.",
+     "sources": [
+      "https://committees.parliament.uk/writtenevidence/130765/html/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The submission itself, on the parliamentary record."
+    },
+    {
+     "id": "226.2",
+     "claim": "Multiverse now trains apprentices funded through that levy.",
+     "sources": [],
+     "status": "source-to-confirm",
+     "lastVerified": "2026-07-07",
+     "note": "The register of apprenticeship training providers and DfE provider funding data are the primary sources to add."
+    },
+    {
+     "id": "226.3",
+     "claim": "Nothing connects a body's policy submissions to the public money it later receives; both records are public and live apart.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the registers of interests, parliamentary evidence databases and contract datasets; no tool joins them. Entry provenance disclosed on the entry itself."
+    }
+   ]
+  },
+  {
+   "number": 231,
+   "claims": [
+    {
+     "id": "231.1",
+     "claim": "The ONS publishes the public sector finances monthly, the OBR forecasts debt and the interest bill twice a year, and the Commons Library briefs MPs on both.",
+     "sources": [
+      "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance",
+      "https://obr.uk/",
+      "https://commonslibrary.parliament.uk/research-briefings/sn05745/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "231.2",
+     "claim": "Debt interest costs over one hundred billion pounds a year, more than the entire defence budget.",
+     "sources": [
+      "https://obr.uk/",
+      "https://commonslibrary.parliament.uk/research-briefings/sn05745/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The interest figure is OBR and Commons Library ground; add the MoD budget citation so the defence comparison is checkable on its own."
+    },
+    {
+     "id": "231.3",
+     "claim": "Before June 2026 no public-facing, evergreen resource translated these figures for a general reader.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the official publishers (statistical releases, not explainers), fact-checkers (episodic) and think-tank output (report-shaped, not maintained). The fill recorded on the entry came from the circle that maintains this map, as the entry itself discloses."
+    }
+   ]
+  },
+  {
+   "number": 232,
+   "claims": [
+    {
+     "id": "232.1",
+     "claim": "The British Social Attitudes survey has tracked attitudes annually since 1983 on an academic release cycle.",
+     "sources": [
+      "https://natcen.ac.uk/british-social-attitudes"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07"
+    },
+    {
+     "id": "232.2",
+     "claim": "Demos and the Open Rights Group piloted the Polis method in the UK in 2020, found supermajority agreement on items national debate treats as contested, including 90 per cent agreement on verifying facts used in political campaigns, and the work did not continue.",
+     "sources": [
+      "https://www.openrightsgroup.org/publications/democratic-innovations-polis-and-the-political-process/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "The pilot's own published report."
+    },
+    {
+     "id": "232.3",
+     "claim": "No standing institution publishes an open, continuously updated dataset of where the UK public agrees, disagrees and is uncertain.",
+     "sources": [],
+     "status": "verified",
+     "lastVerified": "2026-07-07",
+     "note": "Absence claim. Checked the BSA's annual cadence, commercial polling output and the What UK Thinks aggregator; none provides a continuous open consensus dataset. Outside submission: these audit records were added by the curator beneath the submitter's text, which is unchanged."
+    }
+   ]
   }
  ]
 }
