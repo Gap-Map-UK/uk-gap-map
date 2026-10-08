@@ -34,9 +34,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               uk-gap-map<span className="cursor">_</span>
             </Link>
             <NavLinks />
-            <Link href="/gaps/?filter=urgent#gaps" className="btn-green" style={{ whiteSpace: "nowrap" }}>
-              take action
-            </Link>
+            <a
+              href="https://logos.co/activist-leader-steward"
+              className="btn-green"
+              style={{ whiteSpace: "nowrap" }}
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Run a Circle
+            </a>
           </header>
           <main id="main">{children}</main>
           <footer className="site-footer">
