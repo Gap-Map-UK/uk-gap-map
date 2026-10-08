@@ -104,10 +104,12 @@
     {
      "id": "8.5",
      "claim": "Germany's Sovereign Tech Fund pays for maintenance of critical open infrastructure.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The fund's own publications are cited on gap 13; the cross-reference should be added here directly. Queued for the October 2026 review pass."
+     "sources": [
+      "https://www.sovereign.tech/programs/fund"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Cross-reference completed from gap 13's source set at the October 2026 review."
     },
     {
      "id": "8.6",
@@ -163,13 +165,13 @@
     },
     {
      "id": "12.5",
-     "claim": "No UK equivalent exists of the dedicated organising philanthropy intermediaries of the US.",
+     "claim": "No UK equivalent exists at US scale of the dedicated organising-philanthropy intermediaries; the nascent Civic Power Fund is the exception that proves the scale gap.",
      "sources": [
-      "https://www.civicpower.org.uk/our-strategy"
+      "https://www.civicpower.org.uk/"
      ],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The Civic Power Fund is the nascent UK exception; the claim holds at US scale and the wording needs sharpening at the October 2026 review."
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Wording sharpened at the October 2026 review to name the Civic Power Fund as the nascent exception."
     }
    ]
   },
@@ -232,10 +234,12 @@
     {
      "id": "20.2",
      "claim": "Notify's code is open source.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "True and easily shown; the alphagov repository should be cited directly. Queued for the October 2026 review pass."
+     "sources": [
+      "https://github.com/alphagov/notifications-api"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "MIT-licensed, maintained by GDS under alphagov."
     },
     {
      "id": "20.3",
@@ -336,10 +340,13 @@
     {
      "id": "25.4",
      "claim": "The UK is now one of very few European democracies without an independent national youth council.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "A comparative claim; the European Youth Forum's membership list is the checkable source to cite. Queued for the October 2026 review pass."
+     "sources": [
+      "https://www.cypnow.co.uk/news/article/british-youth-council-to-close",
+      "https://rm.coe.int/26-03-2024-ac-statement-permanent-closure-byc-fin/1680af07cd"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-10-08",
+     "note": "The British Youth Council closed insolvent in March 2024; the Council of Europe Advisory Council's statement frames the European comparison. The European Youth Forum membership list remains the per-country comparator to pin."
     }
    ]
   },
@@ -375,11 +382,14 @@
     },
     {
      "id": "30.4",
-     "claim": "France runs the SNU and the US runs AmeriCorps, and the UK now has no national civic service pathway.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The comparative half needs direct citations to the SNU and AmeriCorps programmes; the UK absence was checked in July 2026. Queued for the October review pass."
+     "claim": "France is winding down the SNU from January 2026 in favour of a voluntary military service, the US runs AmeriCorps, and the UK has no national civic service at all.",
+     "sources": [
+      "https://maire-info.com/sebastien-lecornu-annonce-la-fin-du-service-national-universel-article2-30003",
+      "https://americorps.gov/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-10-08",
+     "note": "Updated at the October 2026 review: France announced the SNU's phase-out in September 2025, so the entry's France-runs-the-SNU comparison is stale. Entry copy correction queued."
     }
    ]
   },
@@ -473,11 +483,11 @@
      "id": "36.1",
      "claim": "The Scouts' waiting list passed 100,000 in 2024.",
      "sources": [
-      "https://en.wikipedia.org/wiki/The_Scout_Association"
+      "https://www.scouts.org.uk/news/2024/may/we-re-growing-and-what-does-that-mean-for-you/"
      ],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "Currently cited to an encyclopedia entry; the Scout Association's own annual report is the primary source to substitute. Queued for the October 2026 review pass."
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "The Association's own 2024 growth update puts the waiting list at 107,000; encyclopedia citation replaced."
     },
     {
      "id": "36.2",
@@ -596,10 +606,12 @@
     {
      "id": "63.2",
      "claim": "The OBR is statutorily barred from recommending policy.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The bar sits in the Budget Responsibility and National Audit Act 2011, section 5. Add the legislation.gov.uk citation."
+     "sources": [
+      "https://www.legislation.gov.uk/ukpga/2011/4/section/5"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Section 5(3)(b): the OBR may not consider what the effect of any alternative policies would be."
     },
     {
      "id": "63.3",
@@ -612,10 +624,12 @@
     {
      "id": "63.4",
      "claim": "The 2022 LDI episode caught official contingency planning out and nearly broke the pension system, at a cost of billions.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "Exhaustively documented, but the entry cites no source for it. The Bank of England's LDI post-mortem in its Financial Stability Report is the primary source to add."
+     "sources": [
+      "https://www.bankofengland.co.uk/quarterly-bulletin/2023/2023/financial-stability-buy-sell-tools-a-gilt-market-case-study"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "The Bank's own case study of the 2022 intervention; the IMF's LDI lessons papers corroborate."
     },
     {
      "id": "63.5",
@@ -666,18 +680,23 @@
     {
      "id": "64.3",
      "claim": "US TreasuryDirect and Italy's retail BTP programmes raised tens of billions from households and stabilised demand.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "Italy's BTP Valore issues each raised over €15bn; the Italian Treasury's own results announcements and TreasuryDirect holdings data are the primary sources to add."
+     "sources": [
+      "https://www.lapresse.it/economia/2023/06/09/mef-btp-valore-raccolti-oltre-18-mld-risultato-piu-alto-di-sempre/",
+      "https://www.money.it/btp-valore-cedole-piu-ghiotte-il-mef-rivede-al-rialzo-i-tassi-e-comunica-i-risultati-della-settima-emissione"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-10-08",
+     "note": "BTP Valore issues raised 18.2bn euros (2023) and 16.2bn euros (2026) per MEF results; TreasuryDirect retail holdings data still to pin."
     },
     {
      "id": "64.4",
      "claim": "UK debt interest runs at £126bn a year.",
-     "sources": [],
+     "sources": [
+      "https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/debt-interest-central-government-net/"
+     ],
      "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The OBR's Economic and Fiscal Outlook is the primary source to add; the figure moves with each forecast round."
+     "lastVerified": "2026-10-08",
+     "note": "The OBR's March 2026 forecast puts 2025-26 debt interest at £111.2bn. The entry's £126bn does not match the current central estimate; correction of the entry figure is queued."
     },
     {
      "id": "64.5",
@@ -697,12 +716,11 @@
      "id": "66.1",
      "claim": "Oflog was abolished in December 2024.",
      "sources": [
-      "https://en.wikipedia.org/wiki/Oflog",
-      "https://www.localgovernmentlawyer.co.uk/governance/396-governance-news/58474-government-announces-oflog-review-pauses-early-warning-conversations-pilot"
+      "https://www.gov.uk/government/publications/closure-of-the-office-for-local-government-oflog/closure-of-the-office-for-local-government-oflog"
      ],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "Currently resting on an encyclopedia entry plus trade press. MHCLG's own announcement of the abolition is the primary source to substitute."
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "MHCLG's own closure publication; announced 16 December 2024 alongside the English Devolution White Paper. Encyclopedia citation replaced."
     },
     {
      "id": "66.2",
@@ -718,12 +736,12 @@
      "id": "66.3",
      "claim": "41 per cent of council accounts received disclaimed opinions in the latest backstop round, and 22 councils missed the March 2026 deadline.",
      "sources": [
-      "https://www.gov.uk/government/publications/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions",
+      "https://www.psaa.co.uk/2026/03/press-release-local-government-audit-opinion-data-3/",
       "https://www.lgcplus.com/finance/revealed-22-councils-miss-audit-backstop-deadline-27-03-2026/"
      ],
      "status": "verified",
-     "lastVerified": "2026-07-07",
-     "note": "The 41 per cent figure is government-published; the 22-council count is LGC reporting."
+     "lastVerified": "2026-10-08",
+     "note": "PSAA's March 2026 data: 41.5 per cent of the 457 opinions reported for 2024/25 at the 27 February 2026 backstop were disclaimed; the 22-council count is LGC reporting. The previously cited gov.uk page does not carry the figure and is replaced."
     },
     {
      "id": "66.4",
@@ -738,10 +756,12 @@
     {
      "id": "66.5",
      "claim": "30 councils received Exceptional Financial Support in 2025-26, and fourteen have gone effectively bankrupt via section 114 notices.",
-     "sources": [],
+     "sources": [
+      "https://www.gov.uk/guidance/exceptional-financial-support-for-local-authorities-for-2025-26"
+     ],
      "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "MHCLG publishes the EFS awards list; add it, plus a section 114 tracker for the cumulative count."
+     "lastVerified": "2026-10-08",
+     "note": "The 30-council list is MHCLG's own 2025-26 guidance page, now cited. The fourteen-bankrupt count still needs a section 114 tracker pinned, with its counting basis (notices versus authorities)."
     },
     {
      "id": "66.6",
@@ -772,18 +792,22 @@
     {
      "id": "76.2",
      "claim": "The Digital Freedom Fund makes litigation grants Europe-wide and cannot anchor a UK pipeline.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "DFF's own funding criteria page is the source to add; the UK-pipeline judgment is the entry's inference from its grant scope."
+     "sources": [
+      "https://digitalfreedomfund.org/grants/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "DFF's own criteria: litigation in Council of Europe member states. The cannot-anchor-a-UK-pipeline reading is the entry's inference from that scope."
     },
     {
      "id": "76.3",
      "claim": "The EHRC joined the Met facial recognition judicial review in August 2025 and does not originate surveillance cases.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The EHRC's own press release on the intervention is the primary source to add."
+     "sources": [
+      "https://www.equalityhumanrights.com/met-polices-use-facial-recognition-tech-must-comply-human-rights-law-says-regulator"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "EHRC's own announcement of its intervention in R (Thompson and Carlo) v Commissioner, August 2025. The does-not-originate half remains the entry's observation of its casework."
     },
     {
      "id": "76.4",
@@ -876,10 +900,13 @@
     {
      "id": "78.2",
      "claim": "The Algorithmic Transparency Recording Standard is mandatory for central departments, while police compliance stays patchy.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The gov.uk ATRS mandate announcement and the published record counts are the primary sources to add."
+     "sources": [
+      "https://dataingovernment.blog.gov.uk/2025/05/08/making-the-algorithmic-transparency-recording-standard-atrs-mandatory-across-government/",
+      "https://www.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transparency-recording-standard-guidance-for-public-sector-bodies"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "The mandate covers departments and public-facing arm's-length bodies; policing sits outside it, which is the patchiness the entry describes."
     },
     {
      "id": "78.3",
@@ -955,18 +982,22 @@
     {
      "id": "82.6",
      "claim": "Roughly ten million accounts fall within the scope of the screening.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "A widely cited civil-society estimate of accounts in scope. Primary attribution is pending and queued for the October 2026 review pass."
+     "sources": [
+      "https://benefitsandwork.co.uk/news/almost-9-million-claimant-bank-accounts-to-be-put-under-continuous-surveillance"
+     ],
+     "status": "estimate",
+     "lastVerified": "2026-10-08",
+     "note": "Published estimates run from almost nine million claimants (5.8m universal credit, 1.6m ESA, 1.4m pension credit) to around ten million accounts. DWP's impact assessment is the primary source to pin at next pass."
     },
     {
      "id": "82.7",
      "claim": "DWP has documented bias problems in its fraud models.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "Refers to DWP's own machine-learning fairness disclosures as reported at the time. The primary disclosure document needs citing directly; queued for the October 2026 review pass."
+     "sources": [
+      "https://www.gov.uk/government/publications/fairness-assessment-including-statistical-analysis-of-the-universal-credit-advances-machine-learning-model-1-april-2024-to-31-march-2025"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "DWP's own published fairness assessment; the December 2024 FOI releases documented statistically significant outcome disparity by age, disability, marital status and nationality."
     },
     {
      "id": "82.8",
@@ -996,10 +1027,12 @@
     {
      "id": "84.2",
      "claim": "The first debarment investigations, into cladding suppliers named in the Grenfell Inquiry report, were paused in July 2025 at the request of the CPS and the Metropolitan Police.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The Cabinet Office written ministerial statement announcing the pause is the primary source to add."
+     "sources": [
+      "https://www.gov.uk/government/news/debarment-investigations-into-grenfell-suppliers-paused-to-safeguard-integrity-of-criminal-proceedings"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Announced 10 July 2025; seven suppliers had been under investigation since February 2025."
     },
     {
      "id": "84.3",
@@ -1056,10 +1089,13 @@
     {
      "id": "93.3",
      "claim": "The government has stated it has no current plans to extend anti-SLAPP protection beyond economic crime.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The statement exists in ministerial answers; the Hansard reference is the primary source to add."
+     "sources": [
+      "https://www.legalfutures.co.uk/latest-news/urgent-action-on-slapps-needed-says-minister-but-no-legislation-yet",
+      "https://www.dacbeachcroft.com/en/what-we-think/slapps-new-reforms-come-into-effect"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-10-08",
+     "note": "Ministerial position documented in the legal press: monitor the ECCTA regime first, no further legislation this session. The Hansard reference would complete it."
     },
     {
      "id": "93.4",
@@ -1089,10 +1125,12 @@
     {
      "id": "95.2",
      "claim": "The UK lost a net 265 local newspaper titles between 2005 and 2020.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The figure originates in Press Gazette's local news count; add that research directly."
+     "sources": [
+      "https://pressgazette.co.uk/news/uk-local-newspaper-closures-at-least-265-local-newspaper-titles-gone-since-2005-but-pace-of-decline-has-slowed/"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Press Gazette's own count, 2005 to August 2020."
     },
     {
      "id": "95.3",
@@ -1107,10 +1145,12 @@
     {
      "id": "95.4",
      "claim": "The Bureau of Investigative Journalism and Finance Uncovered depend on fragile, largely overseas philanthropy.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "Both publish funder lists; add them so the overseas weighting is checkable."
+     "sources": [
+      "https://thebureauinvestigates.com/about-us/our-funding"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-10-08",
+     "note": "TBIJ's own funder list shows the overseas weighting (Humanity United, Pulitzer Center, Sigrid Rausing Trust). Finance Uncovered's funder disclosure still to pin."
     }
    ]
   },
@@ -1299,10 +1339,14 @@
     {
      "id": "115.1",
      "claim": "France has Framasoft and the CHATONS hosting collective, and Germany procures openDesk and Nextcloud for its public sector.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "Framasoft's and CHATONS' own sites, and ZenDiS's openDesk announcements, are the primary sources to add."
+     "sources": [
+      "https://framasoft.org/en/",
+      "https://www.chatons.org/",
+      "https://www.opendesk.eu/en/about"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "openDesk is built by ZenDiS, Germany's federal centre for digital sovereignty, on behalf of the interior ministry; CHATONS is the Framasoft-initiated hosting collective."
     },
     {
      "id": "115.2",
@@ -1328,10 +1372,13 @@
     {
      "id": "115.4",
      "claim": "UK charities default to discounted Google and Microsoft nonprofit licences.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The nonprofit licence programmes are documented on both vendors' sites and Charity Digital's uptake reporting; add those so the default is checkable."
+     "sources": [
+      "https://nonprofit.microsoft.com/",
+      "https://www.google.com/nonprofits/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-10-08",
+     "note": "The discount programmes are the vendors' own; sector uptake reporting would complete the default-behaviour half."
     }
    ]
   },
@@ -1360,10 +1407,12 @@
     {
      "id": "117.3",
      "claim": "The DIATF trust framework certifies providers and does not mandate unlinkability or selective disclosure.",
-     "sources": [],
+     "sources": [
+      "https://www.gov.uk/government/publications/uk-digital-identity-and-attributes-trust-framework-04"
+     ],
      "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The framework text itself is the primary source; add the gov.uk DIATF version in force and the clause-level reading behind this."
+     "lastVerified": "2026-10-08",
+     "note": "The gamma 0.4 framework, statutory under DUAA section 28 and in force from 1 December 2025, is now cited. The clause-level check that it mandates neither unlinkability nor selective disclosure is still to do."
     },
     {
      "id": "117.4",
@@ -1412,8 +1461,8 @@
      "claim": "Solid stalled, and personal data store and mutual-credit pilots are rarely independently evaluated.",
      "sources": [],
      "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "Add the Solid project's own status and the Inrupt pivot coverage; the evaluation-scarcity point needs a literature check at review."
+     "lastVerified": "2026-10-08",
+     "note": "On checking, the stalled description is contestable: Solid community activity continues, with Flanders planning a large pod rollout, while mainstream adoption remains thin. Entry wording may need softening; queued."
     }
    ]
   },
@@ -1441,10 +1490,12 @@
     {
      "id": "120.3",
      "claim": "The DUAA requires controllers to run complaints processes from 19 June 2026.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The commencement regulations under the Data (Use and Access) Act 2025, or the ICO's implementation guidance, are the primary sources to add."
+     "sources": [
+      "https://cms.law/en/gbr/legal-updates/data-use-and-access-act-2025-new-statutory-rules-on-handling-data-protection-complaints-from-19th-june-2026"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-10-08",
+     "note": "Confirmed in force 19 June 2026; the ICO published complaints-handling guidance on 12 February 2026, which is the primary source to swap in."
     }
    ]
   },
@@ -1473,10 +1524,12 @@
     {
      "id": "129.3",
      "claim": "The ICO's 2020 Experian enforcement notice on offline data broking was largely overturned on appeal.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The First-tier Tribunal's 2023 judgment is the primary source to add."
+     "sources": [
+      "https://caselaw.nationalarchives.gov.uk/ukftt/grc/2023/132"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Experian v Information Commissioner [2023] UKFTT 132 (GRC): appeal allowed in large part, enforcement notice substituted and scaled down. The Commissioner's further appeal was dismissed by the Upper Tribunal in April 2024."
     },
     {
      "id": "129.4",
@@ -1531,10 +1584,13 @@
     {
      "id": "144.5",
      "claim": "Charity-law caution around political activity keeps most foundations out of democracy funding entirely.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "A documented sector view; the ACF and Sheila McKechnie Foundation publications on foundations and campaigning are the sources to add."
+     "sources": [
+      "https://www.civilsociety.co.uk/news/government-actions-constraining-and-threatening-charity-campaigning-says-report-lobbing-act.html",
+      "https://www.bond.org.uk/press-releases/2018/06/new-research-reveals-the-extent-to-which-the-lobbying-act-is-silencing-charities/"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-10-08",
+     "note": "The Sheila McKechnie Foundation's Chilling Reality research documents the sector-wide effect: 51 per cent said the Lobbying Act affected their ability to deliver their mission. A foundation-specific source would complete the claim."
     }
    ]
   },
@@ -1662,10 +1718,12 @@
     {
      "id": "172.1",
      "claim": "The Hewitt Review of 2023 recommended raising the share of integrated care system budgets spent on prevention by at least one percentage point over five years.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The Review itself, published on gov.uk, is the primary source to add."
+     "sources": [
+      "https://www.gov.uk/government/publications/the-hewitt-review-an-independent-review-of-integrated-care-systems"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "The Review's own recommendation: increase the share of total NHS budgets at ICS level going towards prevention by at least 1 per cent over the next five years."
     },
     {
      "id": "172.2",
@@ -1816,10 +1874,12 @@
     {
      "id": "191.4",
      "claim": "The SEND accounting override expires in 2028, a recognised fiscal cliff for council budgets.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "MHCLG's June 2025 announcement extending the statutory override to 2028 is the primary source to add."
+     "sources": [
+      "https://www.cypnow.co.uk/content/news/council-leaders-welcome-temporary-fix-on-send-budget-blackhole"
+     ],
+     "status": "reported",
+     "lastVerified": "2026-10-08",
+     "note": "Extension to end 2027/28 announced by the local government minister; the OBR expects cumulative deficits around £14bn by the lapse. The written statement reference would complete it."
     }
    ]
   },
@@ -1841,8 +1901,8 @@
      "claim": "The LGA's State of Digital Local Government found 48 per cent of councils reporting management skills gaps for digitalisation.",
      "sources": [],
      "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The LGA report itself is the primary source to add."
+     "lastVerified": "2026-10-08",
+     "note": "Not yet located: the LGA's published survey work gives different figures (83 per cent of councils reporting a capacity skills gap in at least one area). The 48 per cent figure needs the State of Digital report itself, or the entry needs correcting."
     },
     {
      "id": "197.3",
@@ -1904,28 +1964,32 @@
     {
      "id": "212.1",
      "claim": "In the Horizon scandal, corrupted evidence convicted hundreds of postmasters.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The Horizon IT Inquiry's report and the Court of Appeal judgment in Hamilton v Post Office are the primary sources to add."
+     "sources": [
+      "https://caselaw.nationalarchives.gov.uk/ewca/crim/2021/577"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Hamilton v Post Office [2021] EWCA Crim 577 quashed 39 convictions and called the prosecutions an affront to justice; the Horizon IT Inquiry's 2025 first volume documents the human impact."
     },
     {
      "id": "212.2",
      "claim": "In the Windrush scandal, destroyed landing cards stripped citizens of status.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The Williams Lessons Learned Review is the primary source to add."
+     "sources": [
+      "https://www.gov.uk/government/publications/windrush-lessons-learned-review"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Wendy Williams's review, the canonical account of the destroyed registry slips and their consequences."
     },
     {
      "id": "212.3",
      "claim": "Roughly 45 per cent of council accounts carry disclaimed opinions.",
      "sources": [
-      "https://www.gov.uk/government/publications/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions"
+      "https://www.psaa.co.uk/2026/03/press-release-local-government-audit-opinion-data-3/"
      ],
-     "status": "estimate",
-     "lastVerified": "2026-07-07",
-     "note": "Claim 66.3 states 41 per cent from the same source. Reconcile the two figures against the publication at review; they may describe different rounds or bases."
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Reconciled with claim 66.3: the 2023/24 final backstop produced 47.1 per cent disclaimed, the 2024/25 round 41.5 per cent. The entry's roughly 45 per cent sits between the two rounds and stands."
     },
     {
      "id": "212.4",
@@ -2108,11 +2172,13 @@
     },
     {
      "id": "220.4",
-     "claim": "The UK has 4.4 million self-employed workers.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The ONS labour market statistics are the primary source to add; the figure moves quarterly."
+     "claim": "The UK has around 4.5 million self-employed workers.",
+     "sources": [
+      "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/timeseries/mgrq/lms"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "ONS series MGRQ: 4.52 million at 2026 Q2. The entry's 4.4 million figure predates this reading; copy update queued."
     }
    ]
   },
@@ -2154,10 +2220,13 @@
     {
      "id": "223.1",
      "claim": "The Tornado Cash precedent showed states reach the tractable number of humans running infrastructure rather than the protocol itself.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The OFAC sanctions action and the Dutch court's conviction of the developer are the primary sources to add."
+     "sources": [
+      "https://home.treasury.gov/news/press-releases/jy1702",
+      "https://www.blockworks.com/news/alexey-pertsev-tornado-cash-guilty"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "OFAC's designations and the Dutch court's 64-month sentence of the developer in May 2024 establish the operator-level reach; the US delisted Tornado Cash itself in March 2025, which does not undo it."
     },
     {
      "id": "223.2",
@@ -2204,10 +2273,12 @@
     {
      "id": "224.3",
      "claim": "US law can compel an American company to hand over data it controls, wherever that data sits.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The CLOUD Act's statutory text (18 U.S.C. 2713) is the primary source to add."
+     "sources": [
+      "https://www.law.cornell.edu/uscode/text/18/2713"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Statutory text confirmed: the obligation applies regardless of whether the information is located within or outside the United States."
     },
     {
      "id": "224.4",
@@ -2266,10 +2337,13 @@
     {
      "id": "226.2",
      "claim": "Multiverse now trains apprentices funded through that levy.",
-     "sources": [],
-     "status": "source-to-confirm",
-     "lastVerified": "2026-07-07",
-     "note": "The register of apprenticeship training providers and DfE provider funding data are the primary sources to add."
+     "sources": [
+      "https://support.multiverse.io/en/articles/314721-getting-started-with-the-apprenticeship-service-for-levy-funded-apprenticeships",
+      "https://files.ofsted.gov.uk/v1/file/50169749"
+     ],
+     "status": "verified",
+     "lastVerified": "2026-10-08",
+     "note": "Multiverse's own levy-funding documentation and its Ofsted report, which records 3,003 levy-funded apprentices at inspection."
     },
     {
      "id": "226.3",
