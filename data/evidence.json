@@ -690,13 +690,13 @@
     },
     {
      "id": "64.4",
-     "claim": "UK debt interest runs at £126bn a year.",
+     "claim": "UK debt interest runs at over £110bn a year.",
      "sources": [
       "https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/debt-interest-central-government-net/"
      ],
-     "status": "source-to-confirm",
+     "status": "verified",
      "lastVerified": "2026-10-08",
-     "note": "The OBR's March 2026 forecast puts 2025-26 debt interest at £111.2bn. The entry's £126bn does not match the current central estimate; correction of the entry figure is queued."
+     "note": "OBR March 2026 forecast: £111.2bn for 2025-26, net of APF. The entry's previous £126bn did not match any current official series and was corrected at the October 2026 review."
     },
     {
      "id": "64.5",
@@ -1458,11 +1458,11 @@
     },
     {
      "id": "118.4",
-     "claim": "Solid stalled, and personal data store and mutual-credit pilots are rarely independently evaluated.",
+     "claim": "Solid's mainstream adoption stays thin, and personal data store and mutual-credit pilots are rarely independently evaluated.",
      "sources": [],
      "status": "source-to-confirm",
      "lastVerified": "2026-10-08",
-     "note": "On checking, the stalled description is contestable: Solid community activity continues, with Flanders planning a large pod rollout, while mainstream adoption remains thin. Entry wording may need softening; queued."
+     "note": "Wording aligned with the corrected entry at the October 2026 review; the pilots-rarely-evaluated half still needs a literature check."
     }
    ]
   },
@@ -1899,10 +1899,12 @@
     {
      "id": "197.2",
      "claim": "The LGA's State of Digital Local Government found 48 per cent of councils reporting management skills gaps for digitalisation.",
-     "sources": [],
-     "status": "source-to-confirm",
+     "sources": [
+      "https://www.local.gov.uk/publications/state-digital-local-government"
+     ],
+     "status": "verified",
      "lastVerified": "2026-10-08",
-     "note": "Not yet located: the LGA's published survey work gives different figures (83 per cent of councils reporting a capacity skills gap in at least one area). The 48 per cent figure needs the State of Digital report itself, or the entry needs correcting."
+     "note": "The report's own finding: 48 per cent of councils reported management skills gaps for supporting digitalisation, with 15 per cent treating it as a priority to address within twelve months."
     },
     {
      "id": "197.3",
