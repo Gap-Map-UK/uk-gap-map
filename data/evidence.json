@@ -6,12 +6,13 @@
    "claims": [
     {
      "id": "6.1",
-     "claim": "From April 2026, around 379 Pride in Place neighbourhood boards begin spending up to £20m each.",
+     "claim": "From April 2026, 284 Pride in Place neighbourhood boards begin spending up to £20m each, in a programme worth up to £5.8bn over ten years.",
      "sources": [
-      "https://www.gov.uk/government/publications/pride-in-place-programme-prospectus/pride-in-place-programme-prospectus"
+      "https://www.gov.uk/government/publications/pride-in-place-programme-prospectus/pride-in-place-programme-funding-profiles-and-timelines"
      ],
      "status": "verified",
-     "lastVerified": "2026-07-07"
+     "lastVerified": "2026-10-20",
+     "note": "Corrected at the October 2026 review: MHCLG's prospectus counts 284 communities and up to £5.8bn after the February 2026 expansion; the entry's earlier 379 and £5bn predated it."
     },
     {
      "id": "6.2",
@@ -190,13 +191,13 @@
     },
     {
      "id": "18.2",
-     "claim": "The Commission dropped NGI from the Horizon Europe 2025 work programme.",
+     "claim": "The Commission dropped NGI from the Horizon Europe 2025 work programme; its successor, Open Internet Stack, began NLnet-run calls in late 2026.",
      "sources": [
-      "https://fsfe.org/news/2024/news-20240719-01.en.html",
-      "https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/"
+      "https://nlnet.nl/news/2026/20260903-call.html"
      ],
      "status": "verified",
-     "lastVerified": "2026-07-07"
+     "lastVerified": "2026-10-20",
+     "note": "Updated at the October 2026 review. The UK-domestic gap stands; what UK developers can draw from the EU successor remains to be seen."
     },
     {
      "id": "18.3",
@@ -339,14 +340,14 @@
     },
     {
      "id": "25.4",
-     "claim": "The UK is now one of very few European democracies without an independent national youth council.",
+     "claim": "The UK remains one of very few European democracies without an independent, youth-governed national youth council; Youth Council UK launched in 2026 under NYA stewardship and is not yet independent.",
      "sources": [
-      "https://www.cypnow.co.uk/news/article/british-youth-council-to-close",
+      "https://www.civilsociety.co.uk/news/national-youth-leadership-and-representation-body-launches-following-charity-closure.html",
       "https://rm.coe.int/26-03-2024-ac-statement-permanent-closure-byc-fin/1680af07cd"
      ],
      "status": "reported",
-     "lastVerified": "2026-10-08",
-     "note": "The British Youth Council closed insolvent in March 2024; the Council of Europe Advisory Council's statement frames the European comparison. The European Youth Forum membership list remains the per-country comparator to pin."
+     "lastVerified": "2026-10-20",
+     "note": "Updated at the October 2026 review: YCUK's first elections were January 2026, full membership from April 2026, with charitable independence an intention rather than a fact. The European Youth Forum membership list remains the per-country comparator to pin."
     }
    ]
   },

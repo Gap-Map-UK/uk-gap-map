@@ -286,6 +286,23 @@ if (curation) {
   }
 }
 
+// Per-entry review overlay: quarterly re-verification results (data/reviews.json,
+// [{number, lastVerified, reviewBy, note?}]). Overrides the generated provenance
+// for entries actually re-checked; everything else keeps the tier default and
+// shows as stale once its review-by date passes.
+let reviews = [];
+try {
+  reviews = JSON.parse(readFileSync(path.join(here, "../data/reviews.json"), "utf8"));
+} catch {
+  /* no reviews file yet */
+}
+for (const r of reviews) {
+  const g = gaps.find((x) => x.number === r.number);
+  if (!g) throw new Error(`reviews.json: unknown gap ${r.number}`);
+  g.provenance.lastVerified = r.lastVerified;
+  g.provenance.reviewBy = r.reviewBy;
+}
+
 const badSlug = gaps.find((g) => !/^[a-z0-9][a-z0-9-]*$/.test(g.slug));
 if (badSlug) throw new Error(`Malformed slug for gap ${badSlug.number}: "${badSlug.slug}"`);
 if (new Set(gaps.map((g) => g.slug)).size !== gaps.length) throw new Error("Duplicate slugs in output");

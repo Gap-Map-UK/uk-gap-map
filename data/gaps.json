@@ -6,7 +6,7 @@
   "domain": "civic-society",
   "type": "funding",
   "horizon": "short",
-  "description": "The English Devolution and Community Empowerment Act 2026 gives communities first refusal on registered assets of community value. The fund that used to pay for such purchases, the Community Ownership Fund, closed in December 2024 after granting £135m to 409 projects with £15m unspent, and the government declined to replace it. Some partial cover exists. The £175m Community Wealth Fund reaches only the most disadvantaged neighbourhoods and does not focus on asset purchase. Community share raises rarely get near market value for a building. The Architectural Heritage Fund lends, but against heritage properties only, and Plunkett and Locality offer advice rather than capital. None of it provides ready money inside the statutory moratorium window.",
+  "description": "The English Devolution and Community Empowerment Act 2026 gives communities first refusal on registered assets of community value. The fund that used to pay for such purchases, the Community Ownership Fund, closed in December 2024 after granting £135m to 409 projects with £15m unspent. The £61m Pride in Place Community Right to Buy Fund announced in June 2026 restores a dedicated pot at well under half the old fund's size. Some partial cover exists. The £175m Community Wealth Fund reaches only the most disadvantaged neighbourhoods and does not focus on asset purchase. Community share raises rarely get near market value for a building. The Architectural Heritage Fund lends, but against heritage properties only, and Plunkett and Locality offer advice rather than capital. None of it provides ready money inside the statutory moratorium window.",
   "why": "The moratorium clock is fixed in the Act, and a group has to raise full market value before it runs out. Plunkett reports that the funding vacuum is already stopping groups from saving local businesses. Deprived areas raise money slowest, so they lose their assets first.",
   "fill": "A permanent Community Asset Acquisition Fund. It would make grants and patient loans, and it would match community share raises. Underwriting would let a group commit within the moratorium period and settle once the raise completes. Capital of £50–100m a year could come from dormant assets, with Pride in Place allocations or a National Lottery partnership as alternatives. Community foundations could deliver it, with Plunkett and Locality supporting each purchase.",
   "sources": [
@@ -20,8 +20,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -102,8 +102,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -153,8 +153,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -223,8 +223,8 @@
   "domain": "civic-society",
   "type": "institutional",
   "horizon": "short",
-  "description": "From April 2026, around 379 Pride in Place neighbourhood boards begin spending up to £20m each, and the 2026 Act obliges councils to establish neighbourhood governance arrangements. The infrastructure that trained resident leaders is disappearing at the same moment. Local Trust, whose Community Leadership Academy supported leaders across 150 Big Local areas and helped mobilise more than 6,000 first-time volunteers, winds down in 2026. The government's community organiser training programmes ended years ago. Community Organisers Ltd runs a small academy, and Locality supports organisations rather than resident boards. JRF has flagged capacity as the programme's key risk, and no body is charged with training, peer networks or governance support for thousands of new resident decision-makers.",
-  "why": "Big Local's core lesson is that resident-led funding works when long-term capacity support and conflict-resolution help sit behind it. Pride in Place boards in the most deprived neighbourhoods often have no governance experience at all. They are the likeliest point of failure for a £5bn, ten-year programme.",
+  "description": "From April 2026, 284 Pride in Place neighbourhood boards begin spending up to £20m each, and the 2026 Act obliges councils to establish neighbourhood governance arrangements. The infrastructure that trained resident leaders is disappearing at the same moment. Local Trust, whose Community Leadership Academy supported leaders across 150 Big Local areas and helped mobilise more than 6,000 first-time volunteers, winds down in 2026. The government's community organiser training programmes ended years ago. Community Organisers Ltd runs a small academy, and Locality supports organisations rather than resident boards. JRF has flagged capacity as the programme's key risk, and no body is charged with training, peer networks or governance support for thousands of new resident decision-makers.",
+  "why": "Big Local's core lesson is that resident-led funding works when long-term capacity support and conflict-resolution help sit behind it. Pride in Place boards in the most deprived neighbourhoods often have no governance experience at all. They are the likeliest point of failure for a £5.8bn, ten-year programme.",
   "fill": "A National Neighbourhood Academy, funded for ten years by MHCLG with the National Lottery and foundations. It would provide training, accreditation, peer networks and troubleshooting for resident board members and neighbourhood committees, inheriting Local Trust's Community Leadership Academy methods and the Big Local evidence base.",
   "sources": [
    "https://localtrust.org.uk/big-local-programme-closing-faqs/",
@@ -235,8 +235,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-now",
   "dataReady": true,
@@ -319,8 +319,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -494,8 +494,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -568,8 +568,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -596,8 +596,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -679,7 +679,7 @@
   "domain": "open-source-public-goods",
   "type": "funding",
   "horizon": "short",
-  "description": "The EU's Next Generation Internet initiative distributed around €140m to more than 1,200 projects in small, low-bureaucracy cascade grants, largely through NLnet, for privacy tech, open protocols and digital commons. The Commission then dropped NGI from the Horizon Europe 2025 work programme. UK developers had already lost easy access after Brexit, and no domestic substitute exists at the €5k to €50k grant size where most independent maintainers and public-interest tools live. UK civil-society funders explicitly treat technology as unfundable infrastructure, per Careful Industries in December 2025, and the Nesta and National Lottery digital funds have closed. Careful Industries has floated a Civic Technology Fund concept, and nobody has built it.",
+  "description": "The EU's Next Generation Internet initiative distributed around €140m to more than 1,200 projects in small, low-bureaucracy cascade grants, largely through NLnet, for privacy tech, open protocols and digital commons. The Commission then dropped NGI from the Horizon Europe 2025 work programme; its successor, Open Internet Stack, began NLnet-run calls in late 2026. UK developers had already lost easy access after Brexit, and no domestic substitute exists at the €5k to €50k grant size where most independent maintainers and public-interest tools live. UK civil-society funders explicitly treat technology as unfundable infrastructure, per Careful Industries in December 2025, and the Nesta and National Lottery digital funds have closed. Careful Industries has floated a Civic Technology Fund concept, and nobody has built it.",
   "why": "Small fast grants are the proven mechanism behind much of Europe's privacy and protocol innovation. With the EU spigot and UK philanthropy both closed, an entire tier of public-interest tooling now has no funder in the UK at all.",
   "fill": "A pooled DSIT and philanthropy fund making £10k to £75k grants with NLnet-style lightweight process, aimed at privacy-enhancing tech, open protocols, accessibility and digital commons, hosted by an existing intermediary such as ODI or Nesta to avoid new-institution overhead.",
   "sources": [
@@ -690,8 +690,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-now",
   "dataReady": true,
@@ -716,7 +716,7 @@
   "domain": "open-source-public-goods",
   "type": "funding",
   "horizon": "short",
-  "description": "The Software Sustainability Institute's Research Software Maintenance Fund, £4.8m from UKRI's Digital Research Infrastructure programme with a first round in 2025, is the UK's first dedicated maintenance fund and proves demand: thirteen projects funded, four at up to £500k over two years and nine at up to £150k over one, with round two capped at £150k for twelve months. It is a fixed-term pilot set against a research software estate of thousands of packages underpinning UK science. When the DRI spending period ends there is no recurring UKRI line for keeping software alive, EPSRC fellowships for research software engineers have been sporadic, and grant incentives still reward novelty over stewardship, pushing the RSE workforce onto short contracts.",
+  "description": "The Software Sustainability Institute's Research Software Maintenance Fund, £4.8m from UKRI's Digital Research Infrastructure programme with a first round in 2025, is the UK's first dedicated maintenance fund and proves demand: thirteen projects funded, four at up to £500k over two years and nine at up to £150k over one, with round two funding nineteen more projects at about £2.6m in July 2026. It is a fixed-term pilot set against a research software estate of thousands of packages underpinning UK science. When the DRI spending period ends there is no recurring UKRI line for keeping software alive, EPSRC fellowships for research software engineers have been sporadic, and grant incentives still reward novelty over stewardship, pushing the RSE workforce onto short contracts.",
   "why": "The UK invented the research software engineer profession, and the software multiplying every UKRI research pound decays on volunteer time. Maintenance funding at roughly one per cent of what is spent producing software would protect the reproducibility and reuse of the rest.",
   "fill": "A permanent maintenance stream within UKRI's Digital Research Infrastructure programme, on the model of the US NSF's POSE programme or Germany's DFG research-software line, plus block funding for institutional RSE teams, converting the pilot into standing infrastructure.",
   "sources": [
@@ -727,8 +727,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -756,8 +756,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-now",
   "dataReady": true,
@@ -821,8 +821,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": false,
@@ -871,8 +871,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -918,7 +918,7 @@
   "domain": "youth-mobilisation",
   "type": "institutional",
   "horizon": "short",
-  "description": "The British Youth Council, the UK's youth-led representative umbrella since 1948 and deliverer of the UK Youth Parliament, went insolvent overnight in March 2024 when its backer, The Body Shop, entered administration. DCMS moved Youth Parliament delivery to the National Youth Agency, which is a government-contracted delivery arrangement rather than an independent, youth-governed voice. BYC's wider functions, federating local youth councils, housing the Youth Select Committees, and representing the UK in the European Youth Forum, have no successor. The UK is now one of very few European democracies without an independent national youth council.",
+  "description": "The British Youth Council, the UK's youth-led representative umbrella since 1948 and deliverer of the UK Youth Parliament, went insolvent overnight in March 2024 when its backer, The Body Shop, entered administration. DCMS moved Youth Parliament delivery to the National Youth Agency, which is a government-contracted delivery arrangement rather than an independent, youth-governed voice. BYC's wider functions, federating local youth councils, housing the Youth Select Committees, and representing the UK in the European Youth Forum, passed in 2026 to Youth Council UK, a new body launched under NYA stewardship with its first elections in January 2026. Until it stands alone as the charity it intends to become, the UK remains one of very few European democracies without an independent, youth-governed national youth council.",
   "why": "Enfranchising 16-year-olds while the UK lacks any independent youth representative body is a legitimacy gap: youth voice now exists at government's discretion and contract cycle. The collapse also showed the ecosystem's fragility, since one corporate administration deleted a 76-year-old institution in a week.",
   "fill": "A refounded, youth-governed UK youth council with diversified five-to-ten-year core funding from a foundation consortium and a small endowment, holding the local federation, Youth Select Committee and international representation functions, with Youth Parliament delivery contractually insulated from any single funder or department.",
   "sources": [
@@ -929,8 +929,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-now",
   "dataReady": true,
