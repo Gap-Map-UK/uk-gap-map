@@ -223,6 +223,13 @@ main { display: block; }
 /* ————— Home: act trio + domain browse ————— */
 .act-trio { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; padding: 14px var(--pad) 8px; }
 @media (max-width: 1000px) { .act-trio { grid-template-columns: 1fr; } }
+.act-quad { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; padding: 14px var(--pad) 8px; }
+@media (max-width: 1200px) { .act-quad { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 640px) { .act-quad { grid-template-columns: 1fr; } }
+.home-intro { padding: 10px var(--pad) 0; max-width: 78ch; }
+.home-intro p { font-size: 14px; line-height: 1.65; color: var(--body-ink); margin: 0 0 12px; }
+.hero-ctas { display: flex; align-items: center; gap: 18px; margin-top: 18px; flex-wrap: wrap; }
+.hero-more { font-size: 13px; }
 .act-card {
   border: 1px solid var(--line); border-radius: 6px; padding: 16px 18px;
   background: var(--panel); color: var(--ink);
