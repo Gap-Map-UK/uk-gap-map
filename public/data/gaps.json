@@ -6,7 +6,7 @@
   "domain": "civic-society",
   "type": "funding",
   "horizon": "short",
-  "description": "The English Devolution and Community Empowerment Act 2026 gives communities first refusal on registered assets of community value. The fund that used to pay for such purchases, the Community Ownership Fund, closed in December 2024 after granting £135m to 409 projects with £15m unspent, and the government declined to replace it. Some partial cover exists. The £175m Community Wealth Fund reaches only the most disadvantaged neighbourhoods and does not focus on asset purchase. Community share raises rarely get near market value for a building. The Architectural Heritage Fund lends, but against heritage properties only, and Plunkett and Locality offer advice rather than capital. None of it provides ready money inside the statutory moratorium window.",
+  "description": "The English Devolution and Community Empowerment Act 2026 gives communities first refusal on registered assets of community value. The fund that used to pay for such purchases, the Community Ownership Fund, closed in December 2024 after granting £135m to 409 projects with £15m unspent. The £61m Pride in Place Community Right to Buy Fund announced in June 2026 restores a dedicated pot at well under half the old fund's size. Some partial cover exists. The £175m Community Wealth Fund reaches only the most disadvantaged neighbourhoods and does not focus on asset purchase. Community share raises rarely get near market value for a building. The Architectural Heritage Fund lends, but against heritage properties only, and Plunkett and Locality offer advice rather than capital. None of it provides ready money inside the statutory moratorium window.",
   "why": "The moratorium clock is fixed in the Act, and a group has to raise full market value before it runs out. Plunkett reports that the funding vacuum is already stopping groups from saving local businesses. Deprived areas raise money slowest, so they lose their assets first.",
   "fill": "A permanent Community Asset Acquisition Fund. It would make grants and patient loans, and it would match community share raises. Underwriting would let a group commit within the moratorium period and settle once the raise completes. Capital of £50–100m a year could come from dormant assets, with Pride in Place allocations or a National Lottery partnership as alternatives. Community foundations could deliver it, with Plunkett and Locality supporting each purchase.",
   "sources": [
@@ -20,8 +20,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -102,8 +102,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -153,8 +153,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -223,8 +223,8 @@
   "domain": "civic-society",
   "type": "institutional",
   "horizon": "short",
-  "description": "From April 2026, around 379 Pride in Place neighbourhood boards begin spending up to £20m each, and the 2026 Act obliges councils to establish neighbourhood governance arrangements. The infrastructure that trained resident leaders is disappearing at the same moment. Local Trust, whose Community Leadership Academy supported leaders across 150 Big Local areas and helped mobilise more than 6,000 first-time volunteers, winds down in 2026. The government's community organiser training programmes ended years ago. Community Organisers Ltd runs a small academy, and Locality supports organisations rather than resident boards. JRF has flagged capacity as the programme's key risk, and no body is charged with training, peer networks or governance support for thousands of new resident decision-makers.",
-  "why": "Big Local's core lesson is that resident-led funding works when long-term capacity support and conflict-resolution help sit behind it. Pride in Place boards in the most deprived neighbourhoods often have no governance experience at all. They are the likeliest point of failure for a £5bn, ten-year programme.",
+  "description": "From April 2026, 284 Pride in Place neighbourhood boards begin spending up to £20m each, and the 2026 Act obliges councils to establish neighbourhood governance arrangements. The infrastructure that trained resident leaders is disappearing at the same moment. Local Trust, whose Community Leadership Academy supported leaders across 150 Big Local areas and helped mobilise more than 6,000 first-time volunteers, winds down in 2026. The government's community organiser training programmes ended years ago. Community Organisers Ltd runs a small academy, and Locality supports organisations rather than resident boards. JRF has flagged capacity as the programme's key risk, and no body is charged with training, peer networks or governance support for thousands of new resident decision-makers.",
+  "why": "Big Local's core lesson is that resident-led funding works when long-term capacity support and conflict-resolution help sit behind it. Pride in Place boards in the most deprived neighbourhoods often have no governance experience at all. They are the likeliest point of failure for a £5.8bn, ten-year programme.",
   "fill": "A National Neighbourhood Academy, funded for ten years by MHCLG with the National Lottery and foundations. It would provide training, accreditation, peer networks and troubleshooting for resident board members and neighbourhood committees, inheriting Local Trust's Community Leadership Academy methods and the Big Local evidence base.",
   "sources": [
    "https://localtrust.org.uk/big-local-programme-closing-faqs/",
@@ -235,8 +235,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-now",
   "dataReady": true,
@@ -319,8 +319,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -494,8 +494,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -568,8 +568,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -596,8 +596,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -679,7 +679,7 @@
   "domain": "open-source-public-goods",
   "type": "funding",
   "horizon": "short",
-  "description": "The EU's Next Generation Internet initiative distributed around €140m to more than 1,200 projects in small, low-bureaucracy cascade grants, largely through NLnet, for privacy tech, open protocols and digital commons. The Commission then dropped NGI from the Horizon Europe 2025 work programme. UK developers had already lost easy access after Brexit, and no domestic substitute exists at the €5k to €50k grant size where most independent maintainers and public-interest tools live. UK civil-society funders explicitly treat technology as unfundable infrastructure, per Careful Industries in December 2025, and the Nesta and National Lottery digital funds have closed. Careful Industries has floated a Civic Technology Fund concept, and nobody has built it.",
+  "description": "The EU's Next Generation Internet initiative distributed around €140m to more than 1,200 projects in small, low-bureaucracy cascade grants, largely through NLnet, for privacy tech, open protocols and digital commons. The Commission then dropped NGI from the Horizon Europe 2025 work programme; its successor, Open Internet Stack, began NLnet-run calls in late 2026. UK developers had already lost easy access after Brexit, and no domestic substitute exists at the €5k to €50k grant size where most independent maintainers and public-interest tools live. UK civil-society funders explicitly treat technology as unfundable infrastructure, per Careful Industries in December 2025, and the Nesta and National Lottery digital funds have closed. Careful Industries has floated a Civic Technology Fund concept, and nobody has built it.",
   "why": "Small fast grants are the proven mechanism behind much of Europe's privacy and protocol innovation. With the EU spigot and UK philanthropy both closed, an entire tier of public-interest tooling now has no funder in the UK at all.",
   "fill": "A pooled DSIT and philanthropy fund making £10k to £75k grants with NLnet-style lightweight process, aimed at privacy-enhancing tech, open protocols, accessibility and digital commons, hosted by an existing intermediary such as ODI or Nesta to avoid new-institution overhead.",
   "sources": [
@@ -690,8 +690,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-now",
   "dataReady": true,
@@ -716,7 +716,7 @@
   "domain": "open-source-public-goods",
   "type": "funding",
   "horizon": "short",
-  "description": "The Software Sustainability Institute's Research Software Maintenance Fund, £4.8m from UKRI's Digital Research Infrastructure programme with a first round in 2025, is the UK's first dedicated maintenance fund and proves demand: thirteen projects funded, four at up to £500k over two years and nine at up to £150k over one, with round two capped at £150k for twelve months. It is a fixed-term pilot set against a research software estate of thousands of packages underpinning UK science. When the DRI spending period ends there is no recurring UKRI line for keeping software alive, EPSRC fellowships for research software engineers have been sporadic, and grant incentives still reward novelty over stewardship, pushing the RSE workforce onto short contracts.",
+  "description": "The Software Sustainability Institute's Research Software Maintenance Fund, £4.8m from UKRI's Digital Research Infrastructure programme with a first round in 2025, is the UK's first dedicated maintenance fund and proves demand: thirteen projects funded, four at up to £500k over two years and nine at up to £150k over one, with round two funding nineteen more projects at about £2.6m in July 2026. It is a fixed-term pilot set against a research software estate of thousands of packages underpinning UK science. When the DRI spending period ends there is no recurring UKRI line for keeping software alive, EPSRC fellowships for research software engineers have been sporadic, and grant incentives still reward novelty over stewardship, pushing the RSE workforce onto short contracts.",
   "why": "The UK invented the research software engineer profession, and the software multiplying every UKRI research pound decays on volunteer time. Maintenance funding at roughly one per cent of what is spent producing software would protect the reproducibility and reuse of the rest.",
   "fill": "A permanent maintenance stream within UKRI's Digital Research Infrastructure programme, on the model of the US NSF's POSE programme or Germany's DFG research-software line, plus block funding for institutional RSE teams, converting the pilot into standing infrastructure.",
   "sources": [
@@ -727,8 +727,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -756,8 +756,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-now",
   "dataReady": true,
@@ -821,8 +821,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": false,
@@ -871,8 +871,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -918,7 +918,7 @@
   "domain": "youth-mobilisation",
   "type": "institutional",
   "horizon": "short",
-  "description": "The British Youth Council, the UK's youth-led representative umbrella since 1948 and deliverer of the UK Youth Parliament, went insolvent overnight in March 2024 when its backer, The Body Shop, entered administration. DCMS moved Youth Parliament delivery to the National Youth Agency, which is a government-contracted delivery arrangement rather than an independent, youth-governed voice. BYC's wider functions, federating local youth councils, housing the Youth Select Committees, and representing the UK in the European Youth Forum, have no successor. The UK is now one of very few European democracies without an independent national youth council.",
+  "description": "The British Youth Council, the UK's youth-led representative umbrella since 1948 and deliverer of the UK Youth Parliament, went insolvent overnight in March 2024 when its backer, The Body Shop, entered administration. DCMS moved Youth Parliament delivery to the National Youth Agency, which is a government-contracted delivery arrangement rather than an independent, youth-governed voice. BYC's wider functions, federating local youth councils, housing the Youth Select Committees, and representing the UK in the European Youth Forum, passed in 2026 to Youth Council UK, a new body launched under NYA stewardship with its first elections in January 2026. Until it stands alone as the charity it intends to become, the UK remains one of very few European democracies without an independent, youth-governed national youth council.",
   "why": "Enfranchising 16-year-olds while the UK lacks any independent youth representative body is a legitimacy gap: youth voice now exists at government's discretion and contract cycle. The collapse also showed the ecosystem's fragility, since one corporate administration deleted a 76-year-old institution in a week.",
   "fill": "A refounded, youth-governed UK youth council with diversified five-to-ten-year core funding from a foundation consortium and a small endowment, holding the local federation, Youth Select Committee and international representation functions, with Youth Parliament delivery contractually insulated from any single funder or department.",
   "sources": [
@@ -929,8 +929,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-20",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-now",
   "dataReady": true,
@@ -967,8 +967,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -1011,8 +1011,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -1043,8 +1043,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -1109,7 +1109,7 @@
   "domain": "youth-mobilisation",
   "type": "institutional",
   "horizon": "mid",
-  "description": "The National Citizen Service, the UK's only attempt at a shared civic experience for all 16 and 17-year-olds, with over £1bn spent since 2011, closed in March 2025, cutting funding to around 250 delivery organisations. Its replacements, Better Youth Spaces, Young Futures Hubs and dormant-assets funding, are place-based provision for disadvantaged areas rather than a universal mixing-and-service experience. Youth volunteering is declining, with NCVO's Time Well Spent showing youth-relevant participation roughly halving since 2018. France runs the SNU and the US runs AmeriCorps, and the UK now has no national civic service pathway; the 2024 mandatory national service proposal died with the government that made it.",
+  "description": "The National Citizen Service, the UK's only attempt at a shared civic experience for all 16 and 17-year-olds, with over £1bn spent since 2011, closed in March 2025, cutting funding to around 250 delivery organisations. Its replacements, Better Youth Spaces, Young Futures Hubs and dormant-assets funding, are place-based provision for disadvantaged areas rather than a universal mixing-and-service experience. Youth volunteering is declining, with NCVO's Time Well Spent showing youth-relevant participation roughly halving since 2018. France is winding down the SNU in favour of a voluntary military service, the US runs AmeriCorps, and the UK now has no national civic service pathway; the 2024 mandatory national service proposal died with the government that made it.",
   "why": "Social mixing across class and place, the strength NCS evidenced, has no delivery vehicle left, at the moment polarisation between young men and women and between graduate and non-graduate youth is widening. A civic-experience vacuum gets filled by algorithmic and partisan alternatives.",
   "fill": "A voluntary, paid civic service year, or a funded term-length service entitlement, for 16 to 24-year-olds, built on #iwill and uniformed-youth infrastructure rather than a new quango. It is a fundable design-and-pilot project for a foundation consortium ahead of a spending review bid.",
   "sources": [
@@ -1212,7 +1212,7 @@
   "domain": "youth-mobilisation",
   "type": "knowledge",
   "horizon": "short",
-  "description": "No regular official measure of youth civic participation exists; the Community Life Survey covers adults 16 and over in England with small youth samples, and no national register of youth provision exists either. The sector relies on YMCA's reconstruction of council section 251 returns, ad hoc NYA audits, and the one-off State of the Nation report that accompanied the National Youth Strategy. Government could not say, when planning Young Futures Hubs, where existing provision actually was. Academic evidence rests on charity-funded polls with no guaranteed continuation.",
+  "description": "No regular official measure of youth civic participation exists; the Community and Engagement Survey, which replaced the Community Life Survey in October 2025, covers people 16 and over in England with small youth samples, and no national register of youth provision exists either. The sector relies on YMCA's reconstruction of council section 251 returns, ad hoc NYA audits, and the one-off State of the Nation report that accompanied the National Youth Strategy. Government could not say, when planning Young Futures Hubs, where existing provision actually was. DCMS has piloted a dedicated Youth Survey and the NYA ran a National Youth Sector Census in 2026, and neither is yet a committed regular series. Academic evidence rests on charity-funded polls with no guaranteed continuation.",
   "why": "The strategy's 2035 targets, half a million more young people with a trusted adult and a halved participation gap, currently have no official baseline instrument. Every funding debate re-litigates contested numbers instead.",
   "fill": "An ONS and DCMS annual youth participation and provision statistical series including 11 to 15-year-olds, and an open, machine-readable national youth-provision dataset maintained as part of strategy delivery. The commission is cheap and high-leverage.",
   "sources": [
@@ -1223,8 +1223,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -1260,8 +1260,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-now",
   "dataReady": true,
@@ -1353,7 +1353,7 @@
   "domain": "education-ai",
   "type": "institutional",
   "horizon": "short",
-  "description": "DfE's generative AI product safety expectations, published 2025 and updated 2026, are voluntary self-assessment, with no public register of compliant products and no audit or enforcement behind them. The EdTech Evidence Board pilot at the Chartered College of Teaching, a roughly £800k DfE contract, ended in April 2026 and reviewed supplier-submitted evidence on a voluntary basis. BESA's LendED lists supplier self-declared claims. EEF trials are rigorous and take two to three years per product; Aila's NFER evaluation reports in autumn 2026, two years after launch. Nothing tells a school at market speed whether an AI product used with children is safe and effective.",
+  "description": "DfE's generative AI product safety expectations, published 2025 and updated 2026, are voluntary self-assessment, with no public register of compliant products and no audit or enforcement behind them. The EdTech Evidence Board pilot at the Chartered College of Teaching, a roughly £800k DfE contract, ended in April 2026 and reviewed supplier-submitted evidence on a voluntary basis. BESA's LendED lists supplier self-declared claims. EEF trials are rigorous and take two to three years per product; Aila's NFER evaluation reports in autumn 2026, two years after launch. Nothing tells a school at market speed whether an AI product used with children is safe and effective. DfE began tendering a standing evidence-board project in 2026, worth £1m to £5m and at an early stage.",
   "why": "Schools are buying AI tools now, one procurement at a time, with no trustworthy signal to buy against. Product cycles run in months and the evidence system runs in years. Public money flows to unvalidated products used directly with children.",
   "fill": "Make the EdTech Evidence Board permanent and statutory: an assurance body certifying against the DfE safety expectations, with independent audit and a public register, and publishing rapid-cycle efficacy ratings. DfE-funded procurement would be conditional on certification.",
   "sources": [
@@ -1365,8 +1365,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -1395,8 +1395,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -1420,7 +1420,7 @@
   "domain": "education-ai",
   "type": "coordination",
   "horizon": "short",
-  "description": "HEPI's 2026 survey found 94 per cent of students using generative AI in assessed work, 12 per cent submitting AI-generated text directly, up from 3 per cent in 2024, and 22 per cent admitting AI-assisted cheating. QAA publishes guidance and is membership-funded in England with no regulatory force. Jisc's National Centre for AI runs a one-year assessment pilot through 2025-26, and the OfS has no funding stream for redesign. More than 140 financially distressed providers each reinvent assessment alone, mid-redundancy. There is no shared assessment bank, pooled viva capacity has not been built, and degrees have no common verification standard.",
+  "description": "HEPI's 2026 survey found 94 per cent of students using generative AI in assessed work, 12 per cent submitting AI-generated text directly, up from 3 per cent in 2024, and 22 per cent admitting AI-assisted cheating. QAA publishes guidance and is membership-funded in England with no regulatory force. Jisc's National Centre for AI ran a one-year assessment pilot whose findings landed in May 2026, and the OfS has no funding stream for redesign. More than 140 financially distressed providers each reinvent assessment alone, mid-redundancy. There is no shared assessment bank, pooled viva capacity has not been built, and degrees have no common verification standard.",
   "why": "Degree credibility is a national export and the signal underpinning the graduate labour market. Improvisation institution by institution, under financial distress, produces divergent standards and quiet grade-integrity erosion the sector cannot afford.",
   "fill": "An OfS and DfE-funded assessment transformation programme: institutional redesign grants, shared toolkits and assessment banks, and pooled capacity for vivas and interactive assessment, scaling Jisc's pilot and QAA guidance into funded delivery.",
   "sources": [
@@ -1431,8 +1431,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -1456,7 +1456,7 @@
   "domain": "education-ai",
   "type": "funding",
   "horizon": "short",
-  "description": "The reformed curriculum teaches AI awareness from key stage 2 with a new computing GCSE drafted by BCS, consultation this summer, and first teaching in September 2028. Interim support is thin. DfE's materials with the Chiltern Learning Trust and the Chartered College are optional online modules. TechYouth, £24m inside DSIT's £187m TechFirst, funds pupil-facing resources rather than teacher training. NCCE's funded CPD covers computing specialists only, and Raspberry Pi Foundation's Experience AI is free, voluntary and patchy. No funded entitlement, cover funding or bursary exists for a workforce of around 460,000 to learn to teach with and about AI.",
+  "description": "The reformed curriculum teaches AI awareness from key stage 2 with a new computing GCSE drafted by BCS, consultation this summer, and first teaching in September 2028. Interim support is thin. DfE's materials with the Chiltern Learning Trust and the Chartered College are optional online modules. TechYouth, £24m inside DSIT's £187m TechFirst, funds pupil-facing resources rather than teacher training. NCCE's funded CPD covers computing specialists only, and Raspberry Pi Foundation's Experience AI is free, voluntary and patchy. A DfE training package worth up to £5m, tendered in 2026, would add optional online modules rather than an entitlement. No funded entitlement, cover funding or bursary exists for a workforce of around 460,000 to learn to teach with and about AI.",
   "why": "Curriculum reform fails at the workforce layer, and 2028 content taught by untrained teachers reruns the 2014 computing problem. In the three interim years, pupils' AI use is shaped by whatever schools improvise, and the gap between well-resourced trusts and the rest widens.",
   "fill": "Extend the NCCE model into a National Centre for AI in Teaching: a funded CPD entitlement covering cover costs and subject-specific pathways for all teachers, sequenced to 2028 implementation and written into initial teacher training core content.",
   "sources": [
@@ -1467,8 +1467,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -1594,7 +1594,7 @@
   "domain": "education-ai",
   "type": "policy",
   "horizon": "short",
-  "description": "The Office for Students reports around 45 per cent of English providers in deficit in 2025-26, with two dozen institutions at risk of ceasing degree-awarding activity within twelve months. More than 12,000 jobs went in 2025. Further education colleges have had a statutory insolvency regime since 2019. Higher education has no special administration regime protecting students if a provider fails, a hole the Commons Education Committee pressed in its report on the threat of insolvency. The October 2025 post-16 white paper adds intervention powers for the regulator without any transition finance. AI is eroding the graduate premium at the same time, and a distressed institution has no funded route to pivot towards modular, lifelong provision.",
+  "description": "The Office for Students reports around 45 per cent of English providers in deficit in 2025-26, with two dozen institutions at risk of ceasing degree-awarding activity within twelve months. More than 12,000 jobs went in 2025. Further education colleges have had a statutory insolvency regime since 2019. Higher education has no special administration regime protecting students if a provider fails, a hole the Commons Education Committee pressed in its report on the threat of insolvency, and in July 2026 the government said it was not currently persuaded a regime was needed. The October 2025 post-16 white paper adds intervention powers for the regulator without any transition finance. AI is eroding the graduate premium at the same time, and a distressed institution has no funded route to pivot towards modular, lifelong provision.",
   "why": "A disorderly university failure would strand tens of thousands of students and knock a hole in a regional economy, and the bailout would be written in a weekend. Managed transformation costs less than crisis response. The AI skills transition needs universities that can change shape, and shrinking is the only move a broke institution can make today.",
   "fill": "A special administration regime for higher education, legislated with student protection as the first priority. Alongside it, a conditional transformation fund that finances mergers and specialisation, and pays for conversion to modular provision aligned with the lifelong learning entitlement.",
   "sources": [
@@ -1605,8 +1605,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -1700,8 +1700,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-now",
   "dataReady": true,
@@ -1718,7 +1718,7 @@
   "domain": "growth-stagnation",
   "type": "institutional",
   "horizon": "short",
-  "description": "The Home Builders Federation estimates a shortage of more than 2,200 planners in England and Wales, and MHCLG's 2025 capacity survey found about 48 per cent of planning authorities carrying one to three vacancies and 17 per cent more than six. Government's response, 300 graduate and apprentice planners through the LGA's Pathways to Planning and Public Practice with a £46m capacity package, is an order of magnitude short. The Planning and Infrastructure Act 2025 allows locally set fees, and fee income alone cannot conjure labour supply.",
+  "description": "The Home Builders Federation estimates a shortage of more than 2,200 planners in England and Wales, and MHCLG's 2025 capacity survey found about 48 per cent of planning authorities carrying one to three vacancies and 17 per cent more than six. Government's response, 300 graduate and apprentice planners through the LGA's Pathways to Planning and Public Practice with a £46m capacity package, then £48m at the 2025 Autumn Budget towards 1,400 recruits by the end of the Parliament, still falls short of the sector's own shortage estimates. The Planning and Infrastructure Act 2025 allows locally set fees, and fee income alone cannot conjure labour supply.",
   "why": "Every reform in the Planning and Infrastructure Act 2025, spatial development strategies, delegation schemes, new towns and 150 infrastructure decisions, lands on understaffed planning departments. Workforce is the rate-limiter on converting legislative wins into consented homes and infrastructure within this Parliament.",
   "fill": "A national planning workforce programme: ringfenced full-cost-recovery fees, bursaries and apprenticeships scaled to about 2,000 additional planners, and shared specialist pools in ecology, heritage and viability that small districts can draw on.",
   "sources": [
@@ -1729,8 +1729,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "build-together",
   "dataReady": true,
@@ -1765,8 +1765,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -1783,7 +1783,7 @@
   "domain": "growth-stagnation",
   "type": "policy",
   "horizon": "short",
-  "description": "UK industrial electricity prices sit among the highest in the developed world, roughly 50 per cent above France and Germany and up to four times US levels. From April 2027 the British Industrial Competitiveness Scheme exempts roughly 7,000 to 10,000 manufacturers from Renewables Obligation, Feed-in Tariff and Capacity Market levies, cutting bills up to 25 per cent. SMEs, commercial users, data centres and households keep carrying the legacy levy costs, which penalises exactly the electrification growth depends on. No statute schedules rebalancing these costs to general taxation or to gas.",
+  "description": "UK industrial electricity prices sit among the highest in the developed world, roughly 50 per cent above France and Germany and up to four times US levels. From April 2027 the British Industrial Competitiveness Scheme exempts roughly 7,000 to 10,000 manufacturers from Renewables Obligation, Feed-in Tariff and Capacity Market levies, cutting bills up to 25 per cent. SMEs, commercial users, data centres and households keep carrying the legacy levy costs, which penalises exactly the electrification growth depends on. No statute schedules rebalancing these costs to general taxation or to gas. A six-month VAT cut on household electricity from October 2026 trims bills without touching the levy structure.",
   "why": "Energy cost is the top stated business concern and a first-order cause of industrial decline and datacentre offshoring. BICS is a carve-out that entrenches a two-tier price, and the electrification penalty for the rest of the economy stays untouched.",
   "fill": "A statutory levy-rebalancing schedule moving legacy renewables costs to the Exchequer or onto gas over a fixed timetable, extending BICS-scale relief economy-wide. It is a fundable Treasury and DESNZ legislative project with published fiscal costings.",
   "sources": [
@@ -1793,8 +1793,8 @@
   "status": "candidate",
   "provenance": {
    "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2026-10-07"
+   "lastVerified": "2026-10-22",
+   "reviewBy": "2027-01-07"
   },
   "permission": "state-led",
   "dataReady": false,
@@ -2151,7 +2151,7 @@
   "type": "tooling",
   "horizon": "mid",
   "description": "As defined-benefit pension schemes run off, the Debt Management Office has lost its captive long-dated buyer, and 30-year term premia hit 2.45 per cent against a long-run average of 1.06. UK households cannot buy gilts directly from the state: purchases route through brokers and platforms with friction, and NS&I sells its own savings products rather than gilts. No UK equivalent exists of US TreasuryDirect or Italy's retail BTP programmes, which raised tens of billions from households and stabilised demand. The DMO's approved-group retail access is vestigial, and wholesale digital-gilt experimentation does not touch citizens.",
-  "why": "A broader, stickier domestic investor base lowers term premia at the margin and reduces reliance on return-sensitive leveraged foreign buyers, worth billions a year when debt interest runs at £126bn. It also gives savers direct access to the safe asset their taxes back.",
+  "why": "A broader, stickier domestic investor base lowers term premia at the margin and reduces reliance on return-sensitive leveraged foreign buyers, worth billions a year when debt interest runs at over £110bn. It also gives savers direct access to the safe asset their taxes back.",
   "fill": "A retail gilt purchase-and-custody platform operated by the DMO and NS&I, with low minimums, auction access and ISA eligibility, buildable as a fintech-style public product. A founder-shaped opportunity exists in the brokerage layer today.",
   "sources": [
    "https://www.bankofengland.co.uk/bank-insights/2026/what-were-the-drivers-of-uk-long-term-interest-rates-in-2025",
@@ -3832,7 +3832,7 @@
   "domain": "portable-sovereignty",
   "type": "knowledge",
   "horizon": "short",
-  "description": "Claims about the usability of sovereignty-stack tools are almost entirely vendor-made. The honest status: Waku is pre-production, with a public testnet targeted for 2026 and mainnet in 2027, and unproven for ordinary community use; Matrix works and faces metadata-leakage and homeserver-burden critiques; Solid stalled; personal data store and mutual-credit pilots are rarely independently evaluated. No What Works-style body runs structured trials of these stacks with actual UK community organisations and publishes comparable results, so funders and councils cannot distinguish production-ready from aspirational, and money chases whitepapers.",
+  "description": "Claims about the usability of sovereignty-stack tools are almost entirely vendor-made. The honest status: Waku is pre-production, with a public testnet targeted for 2026 and mainnet in 2027, and unproven for ordinary community use; Matrix works and faces metadata-leakage and homeserver-burden critiques; Solid's mainstream adoption stays thin; personal data store and mutual-credit pilots are rarely independently evaluated. No What Works-style body runs structured trials of these stacks with actual UK community organisations and publishes comparable results, so funders and councils cannot distinguish production-ready from aspirational, and money chases whitepapers.",
   "why": "Misallocated trust cuts both ways: communities adopt immature tools and get burned, or dismiss mature ones as crypto-adjacent hype. Sixty years of What Works methodology exists. Applying it here would discipline vendors, including the decentralised-web ecosystem itself, and de-risk adoption.",
   "fill": "A funded civic stack test lab running structured field trials of sovereignty-stack tools with UK community organisations, publishing comparable evaluations, reference architectures and total-cost-of-ownership data.",
   "sources": [
@@ -6791,7 +6791,7 @@
   "type": "institutional",
   "horizon": "mid",
   "description": "The map's legal entries explain why parallel institutions are hard to form: no new friendly societies since 1993, no DAO wrapper, community shares unprotected. No UK community has demonstrated the operating model either: a modern mutual providing the service stack members actually need, income-smoothing and sick pay for the self-employed, collective bargaining for care and insurance, legal defence, housing deposits and member advocacy, with member-verifiable treasuries and genuinely portable exit. The surviving friendly societies are legacy insurers, new mutual aid is informal and dissolves, and platform co-ops are single-service. The gap is a working existence proof rather than another report.",
-  "why": "Legal reform follows demonstration more often than it precedes it. One visible, well-governed full-stack mutual, services without territory made British, would give the Law Commission workstreams a live client, funders a template, and 4.4 million self-employed workers an alternative to falling through the welfare state's gaps.",
+  "why": "Legal reform follows demonstration more often than it precedes it. One visible, well-governed full-stack mutual, services without territory made British, would give the Law Commission workstreams a live client, funders a template, and 4.5 million self-employed workers an alternative to falling through the welfare state's gaps.",
   "fill": "A flagship mutual pilot: a thousand or more members drawn from an existing community, whether a union branch, a professional network or a large mutual-aid group, offering two or three services at launch with a transparent treasury and published governance, structured within existing law as a community benefit society with contractual layers, while documenting exactly where the law binds, which is the evidence the reform entries need.",
   "sources": [
    "https://lawcom.gov.uk/project/friendly-societies/",
