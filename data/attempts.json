@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T17:38:37.112Z",
+ "generatedAt": "2026-10-22T11:05:00.036Z",
  "attempts": [
   {
    "gap": 231,
@@ -23,7 +23,12 @@
    "milestone": "It's live",
    "claimed": "2026-07-31",
    "updates": [],
-   "state": "active"
+   "state": "active",
+   "shipped": {
+    "date": "2026-10-22",
+    "verifiedBy": "curators",
+    "url": "https://societyspeaks.io/"
+   }
   }
  ]
 }
