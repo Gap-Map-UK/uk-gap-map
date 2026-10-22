@@ -91,7 +91,8 @@ main { display: block; }
   -webkit-backdrop-filter: blur(6px);
   backdrop-filter: blur(6px);
 }
-.brand { font: 500 14px var(--font-mono), monospace; color: var(--ink); cursor: pointer; white-space: nowrap; }
+.brand { font: 500 14px var(--font-mono), monospace; color: var(--ink); cursor: pointer; white-space: nowrap; display: inline-flex; align-items: center; gap: 8px; }
+.brand svg { display: block; flex-shrink: 0; }
 .brand:hover { color: var(--ink); }
 .brand .cursor { color: var(--green); }
 .site-nav { display: flex; gap: 20px; font-size: 13px; color: var(--muted); margin-left: auto; align-items: center; flex-wrap: wrap; }

@@ -31,6 +31,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </a>
           <header className="site-header">
             <Link href="/" className="brand">
+              <svg viewBox="0 0 32 32" width="20" height="20" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+                <rect width="32" height="32" rx="6" fill="#0e1310" />
+                <rect x="0.5" y="0.5" width="31" height="31" rx="6" fill="none" stroke="#2b4636" />
+                <path d="M7 9 L13 16 L7 23" fill="none" stroke="#2b4636" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
+                <rect x="16" y="18" width="10" height="5" rx="1" fill="#4cba74" />
+              </svg>
               uk-gap-map<span className="cursor">_</span>
             </Link>
             <NavLinks />
