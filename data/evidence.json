@@ -1397,13 +1397,14 @@
     },
     {
      "id": "117.2",
-     "claim": "The government's digital ID consultation closed in June 2026 and proposes a state wallet, voluntary for citizens, with digital right-to-work checks planned to become mandatory from 2029.",
+     "claim": "The government's digital ID consultation closed in June 2026, proposing a state wallet with right-to-work checks planned to become mandatory from 2029; the incoming government scrapped the scheme in July 2026.",
      "sources": [
       "https://www.gov.uk/government/publications/digital-id-scheme-explainer/digital-id-scheme-explainer",
-      "https://www.pinsentmasons.com/out-law/news/uk-scales-back-digital-id-right-work"
+      "https://www.politicshome.com/news/article/government-spent-15m-digital-id-before-policy-scrapped"
      ],
      "status": "verified",
-     "lastVerified": "2026-07-07"
+     "lastVerified": "2026-10-22",
+     "note": "Updated at the October 2026 review: the scheme was shelved on the change of government, with the mandatory element already dropped in January 2026. Right-to-work checks continue and can be digital."
     },
     {
      "id": "117.3",
